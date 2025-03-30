@@ -1,6 +1,7 @@
 import json
 from collections import defaultdict
 import acb
+import os
 
 
 handled = set()
@@ -40,12 +41,15 @@ def find_single_possibilities():
 
     for k, v in data.items():
         if len(v) == 1:
-            print(f"Extracting {k}")
-            acb.extract_acb(  # type: ignore
-                k,
-                f'{"\\".join(k.split("\\")[:-1])}\\{v[0][:-4]}_HCAs',
-                f'{"\\".join(k.split("\\")[:-1])}\\{v[0]}',
-            )
+            folder = f'{"\\".join(k.split("\\")[:-1])}\\{v[0][:-4]}_HCAs'
+            if not os.path.isdir(folder):
+                print(f"Extracting {k}")
+                os.makedirs(folder, 0o755, exist_ok=True)
+                acb.extract_acb(  # type: ignore
+                    k,
+                    folder,
+                    f'{"\\".join(k.split("\\")[:-1])}\\{v[0]}',
+                )
 
     with open("filtered_awbs.json", "w") as f:
-        json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4, sort_keys=True)

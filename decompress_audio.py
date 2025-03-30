@@ -23,26 +23,29 @@ def convert_acb(src_dir):
                     try:
                         acb.extract_acb(f"{abs_path}.acb", folder)  # type: ignore This isn't actually supposed to be able to be used from code, only cli, but might makes right
                     except ValueError as e:
-                        for (
-                            i
-                        ) in (
-                            awb_files
-                        ):  # Check what awb files could possibly work as input for the acb, testing aid to complemeting_awb_matcher.py
-                            try:
-                                acb.extract_acb(f"{abs_path}.acb", folder, os.path.join(root, i))  # type: ignore
-                                mapping_overview[abs_path].add(
-                                    i
-                                )  # If it actually worked, write it down
-                            except ValueError:
-                                pass
-                        if "but there's no external AWB attached." not in str(
-                            e
-                        ):  # This is just for those which expect an external awb, just noise for now
+                        if "but there's no external AWB attached." in str(e):
+                            # Check what awb files could possibly work as input for the acb, testing aid to complemeting_awb_matcher.py
+                            if abs_path not in mapping_overview:
+                                print("Trying to find match for new file", abs_path)
+                                for i in set(awb_files):
+                                    try:
+                                        acb.extract_acb(f"{abs_path}.acb", folder, os.path.join(root, i))  # type: ignore
+                                        mapping_overview[abs_path].add(i)
+                                        # If it actually would have worked, write it down. Doesn't mean this is the correct awb, but it means it could be
+                                    except ValueError:
+                                        pass
+                        else:
                             print(f"Error when converting {abs_path} to {folder}: {e}")
                         shutil.rmtree(folder)
+                        # Delete the folder, it doesn't contain any useful data, couldn't parse so this is just a trash folder
 
     with open("complementing_awbs.json", "w") as f:
-        json.dump({k: list(v) for k, v in mapping_overview.items()}, f)
+        json.dump(
+            {k: list(v) for k, v in mapping_overview.items()},
+            f,
+            indent=4,
+            sort_keys=True,
+        )
 
 
 def convert_hca(src_dir, dst_dir):
