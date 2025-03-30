@@ -41,7 +41,7 @@ def convert_acb(src_dir):
 
     with open("complementing_awbs.json", "w") as f:
         json.dump(
-            {k: list(v) for k, v in mapping_overview.items()},
+            {k: sorted(v) for k, v in mapping_overview.items()},
             f,
             indent=4,
             sort_keys=True,

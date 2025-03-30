@@ -29,7 +29,7 @@ def find_and_remove_unique_values(data):
                 for k, v in data.items():
                     if x in v:
                         k = {x}
-    return {k: list(v) for k, v in data.items()}
+    return {k: sorted(v) for k, v in data.items()}
 
 
 def find_single_possibilities():
