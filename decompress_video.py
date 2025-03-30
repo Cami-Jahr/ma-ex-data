@@ -31,4 +31,4 @@ def convert(src_dir):
 
 
 if __name__ == "__main_:":
-    convert("D:/madoka exedra/processed/media/assets/video")
+    convert(r"D:\madoka-exedra\processed\media\assets\audio")
