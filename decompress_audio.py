@@ -16,7 +16,10 @@ def convert_acb(src_dir):
                     try:
                         acb.extract_acb(f"{abs_path}.acb", folder)  # type: ignore This isn't actually supposed to be able to be used from code, only cli, but might makes right
                     except ValueError as e:
-                        print(f"Error when converting {abs_path} to {folder}: {e}")
+                        if "but there's no external AWB attached." not in str(
+                            e
+                        ):  # This is just for those which expect an external awb, just noise for now
+                            print(f"Error when converting {abs_path} to {folder}: {e}")
                         shutil.rmtree(folder)
 
 
@@ -112,8 +115,8 @@ def minimize(src_dir, dst_dir):
 
 
 def convert(src_dir, dst_dir):
-    convert_acb(src_dir)
     convert_awb(src_dir, dst_dir)
+    convert_acb(src_dir)
     convert_hca(src_dir, dst_dir)
 
 
