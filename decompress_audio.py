@@ -2,10 +2,17 @@ from subprocess import PIPE, Popen, DEVNULL
 import shutil
 import os
 import acb
+from collections import defaultdict
+import json
 
 
 def convert_acb(src_dir):
+    with open("complementing_awbs.json", "r") as f:
+        data = json.load(f)
+    mapping_overview = defaultdict(set, {k: set(v) for k, v in data.items()})
+
     for root, _, files in os.walk(src_dir):
+        awb_files = [f for f in files if ".awb" in f]
         for file in files:
             abs_path = os.path.join(root, file)
             if "." not in file and open(abs_path, "rb").read()[:4] == b"@UTF":
@@ -16,11 +23,26 @@ def convert_acb(src_dir):
                     try:
                         acb.extract_acb(f"{abs_path}.acb", folder)  # type: ignore This isn't actually supposed to be able to be used from code, only cli, but might makes right
                     except ValueError as e:
+                        for (
+                            i
+                        ) in (
+                            awb_files
+                        ):  # Check what awb files could possibly work as input for the acb, testing aid to complemeting_awb_matcher.py
+                            try:
+                                acb.extract_acb(f"{abs_path}.acb", folder, os.path.join(root, i))  # type: ignore
+                                mapping_overview[abs_path].add(
+                                    i
+                                )  # If it actually worked, write it down
+                            except ValueError:
+                                pass
                         if "but there's no external AWB attached." not in str(
                             e
                         ):  # This is just for those which expect an external awb, just noise for now
                             print(f"Error when converting {abs_path} to {folder}: {e}")
                         shutil.rmtree(folder)
+
+    with open("complementing_awbs.json", "w") as f:
+        json.dump({k: list(v) for k, v in mapping_overview.items()}, f)
 
 
 def convert_hca(src_dir, dst_dir):
