@@ -1,10 +1,9 @@
 __pycache__
 .venv
-*lab
-# So one can have different "labs" for exploration without having to untrack
+*_lab
+# So one can have different "labs" for exploration without having to untrack them manually
 processed 
-# Lot of data, can be created from main.py
-vgm*
-VGM*
-com.aniplex.magia.exedra.en
 full
+com.aniplex.magia.exedra.en
+# processed and full are for complete uncompressed data and temp data, can be created from main.py based off of com.aniplex.magia.exedra.en
+

@@ -16,3 +16,4 @@ input("Press any key when VGMTOOLBOX is done...")
 decompress_video.convert(
     "processed/media/assets/video", "mini/media/assets/video", "full/media/assets/video"
 )
+print("DONE")
