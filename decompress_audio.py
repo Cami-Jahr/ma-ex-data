@@ -16,22 +16,16 @@ def convert_acb(src_dir):
                     try:
                         acb.extract_acb(f"{abs_path}.acb", folder)  # type: ignore This isn't actually supposed to be able to be used from code, only cli, but might makes right
                     except ValueError as e:
-                        with open(f"{folder}/error.txt", "w", encoding="utf-8") as f:
-                            f.write(str(e))
                         print(f"Error when converting {abs_path} to {folder}: {e}")
+                        shutil.rmtree(folder)
 
 
-def convert_hca(src_dir):
-    # print(src_dir)
+def convert_hca(src_dir, dst_dir):
     for root, _, files in os.walk(src_dir):
-        # print(root, files)
         for file in files:
-            if "error.txt" in files:
-                break
             abs_path = os.path.join(root, file)
-            dest_root = root.replace("_HCAs", "_WAVs")
+            dest_root = root.replace(src_dir, dst_dir).replace("_HCAs", "_WAVs")
             dest_path = os.path.join(dest_root, file.replace(".hca", ".wav"))
-            # print(abs_path)
             if ".hca" == file[-4:]:
                 os.makedirs(dest_root, 0o755, exist_ok=True)
                 if not os.path.isfile(dest_path):
@@ -55,15 +49,29 @@ def convert_hca(src_dir):
                                 f'"{abs_path}"',
                             ])} ] failed because of {e}"
                         )
+    for root, _, files in os.walk(
+        dst_dir
+    ):  # Put non-obfuscated name found in acb as folder names
+        if "_WAVs" in root:
+            new_root = root.replace(
+                os.path.basename(root), os.path.commonprefix(files).rstrip("_ ")
+            )
+            try:
+                shutil.rmtree(new_root)
+            except FileNotFoundError:
+                pass
+            os.rename(root, new_root)
 
 
-def convert_awb(src_dir):
+def convert_awb(src_dir, dst_dir):
     for root, _, files in os.walk(src_dir):
         for file in files:
             abs_path = os.path.join(root, file)
-            dest_file = f"{abs_path}.wav"
-            if open(abs_path, "rb").read()[:4] == b"AFS2":
+            dst_root = root.replace(src_dir, dst_dir)
+            dest_file = f"{os.path.join(dst_root, file)}.wav"
+            if "." not in file and open(abs_path, "rb").read()[:4] == b"AFS2":
                 shutil.copy2(abs_path, f"{abs_path}.awb")
+                os.makedirs(dst_root, 0o755, exist_ok=True)
                 if not os.path.isfile(dest_file):
                     print("Running:", dest_file)
                     if (
@@ -81,11 +89,40 @@ def convert_awb(src_dir):
                         print(f"Creating {dest_file} failed because of {e}")
 
 
-def convert(dir):
-    convert_acb(dir)
-    convert_awb(dir)
-    convert_hca(dir)
+def minimize(src_dir, dst_dir):
+    for root, _, files in os.walk(src_dir):
+        dst_root = root.replace(src_dir, dst_dir)
+        for file in files:
+            if file[-4:] == ".wav" and not os.path.isfile(
+                os.path.join(dst_root, f"{file[:-4]}.ogg")
+            ):
+                print(root, file)
+                os.makedirs(dst_root, 0o755, exist_ok=True)
+                print(
+                    Popen(
+                        [
+                            "VGM/opusenc.exe",
+                            os.path.join(root, file),
+                            os.path.join(dst_root, f"{file[:-4]}.ogg"),
+                        ],
+                        stderr=PIPE,
+                        stdout=DEVNULL,
+                    ).stderr.read()  # type: ignore
+                )
+
+
+def convert(src_dir, dst_dir):
+    convert_acb(src_dir)
+    convert_awb(src_dir, dst_dir)
+    convert_hca(src_dir, dst_dir)
 
 
 if __name__ == "__main__":
-    convert(r"D:\madoka-exedra\processed\media\assets\audio")
+    convert(
+        r"D:\madoka-exedra\processed\media\assets\audio",
+        r"D:\madoka-exedra\full\media\assets\audio",
+    )
+    minimize(
+        r"D:\madoka-exedra\full\media\assets\audio",
+        r"D:\madoka-exedra\mini\media\assets\audio",
+    )
