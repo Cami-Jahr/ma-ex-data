@@ -1,4 +1,4 @@
-# Madoka Exedra tools
+# Tools
 Lots of mess. I'll figure something out eventually.
 If you want something in particular just @ me. I understand if u don't want to download everything
 
