@@ -1,0 +1,192 @@
+{
+    "url": "/api/mst/getCollectionRewardMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "collectionRewardMstId": 1,
+                "rewardGroupId": 62320011,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "collectionRewardMstId": 100101,
+                "rewardGroupId": 1001,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 4
+            },
+            {
+                "collectionRewardMstId": 100201,
+                "rewardGroupId": 1002,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 5
+            },
+            {
+                "collectionRewardMstId": 100301,
+                "rewardGroupId": 1003,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 10
+            },
+            {
+                "collectionRewardMstId": 100401,
+                "rewardGroupId": 1004,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 15
+            },
+            {
+                "collectionRewardMstId": 100501,
+                "rewardGroupId": 1005,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 20
+            },
+            {
+                "collectionRewardMstId": 100601,
+                "rewardGroupId": 1006,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 25
+            },
+            {
+                "collectionRewardMstId": 100701,
+                "rewardGroupId": 1007,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 35
+            },
+            {
+                "collectionRewardMstId": 100801,
+                "rewardGroupId": 1008,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 40
+            },
+            {
+                "collectionRewardMstId": 100901,
+                "rewardGroupId": 1009,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 50
+            },
+            {
+                "collectionRewardMstId": 101001,
+                "rewardGroupId": 1010,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 60
+            },
+            {
+                "collectionRewardMstId": 101101,
+                "rewardGroupId": 1011,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 70
+            },
+            {
+                "collectionRewardMstId": 101201,
+                "rewardGroupId": 1012,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 80
+            },
+            {
+                "collectionRewardMstId": 101301,
+                "rewardGroupId": 1013,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 95
+            },
+            {
+                "collectionRewardMstId": 101401,
+                "rewardGroupId": 1014,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113001,
+                "num": 105
+            },
+            {
+                "collectionRewardMstId": 200101,
+                "rewardGroupId": 2001,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 1
+            },
+            {
+                "collectionRewardMstId": 200201,
+                "rewardGroupId": 2002,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 2
+            },
+            {
+                "collectionRewardMstId": 200301,
+                "rewardGroupId": 2003,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 3
+            },
+            {
+                "collectionRewardMstId": 200401,
+                "rewardGroupId": 2004,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 4
+            },
+            {
+                "collectionRewardMstId": 200501,
+                "rewardGroupId": 2005,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 5
+            },
+            {
+                "collectionRewardMstId": 200601,
+                "rewardGroupId": 2006,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 6
+            },
+            {
+                "collectionRewardMstId": 200701,
+                "rewardGroupId": 2007,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 7
+            },
+            {
+                "collectionRewardMstId": 200801,
+                "rewardGroupId": 2008,
+                "sortOrder": 1,
+                "objectReceiveType": 6,
+                "objectId": 113002,
+                "num": 8
+            }
+        ]
+    }
+}

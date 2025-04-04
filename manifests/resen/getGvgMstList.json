@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getGvgMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

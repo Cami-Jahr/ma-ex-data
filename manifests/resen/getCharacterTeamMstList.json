@@ -1,0 +1,38 @@
+{
+    "url": "/api/mst/getCharacterTeamMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "characterTeamMstId": 1,
+                "name": "みかづき荘",
+                "sortOrder": 1
+            },
+            {
+                "characterTeamMstId": 2,
+                "name": "神浜大東団地",
+                "sortOrder": 2
+            },
+            {
+                "characterTeamMstId": 3,
+                "name": "つつじの家",
+                "sortOrder": 3
+            },
+            {
+                "characterTeamMstId": 4,
+                "name": "チームななか",
+                "sortOrder": 4
+            },
+            {
+                "characterTeamMstId": 7,
+                "name": "ブロッサム",
+                "sortOrder": 7
+            },
+            {
+                "characterTeamMstId": 900,
+                "name": "無所属",
+                "sortOrder": 900
+            }
+        ]
+    }
+}

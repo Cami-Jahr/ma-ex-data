@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getTipsMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

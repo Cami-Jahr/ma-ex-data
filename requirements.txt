@@ -1,2 +1,4 @@
 acb-py
 msgpack
+requests
+pycryptodome

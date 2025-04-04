@@ -1,0 +1,83 @@
+{
+    "url": "/api/mst/getBannerLabelMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "bannerLabelMstId": 1,
+                "labelContent": "ガチャ",
+                "labelBgColor": "#b15076"
+            },
+            {
+                "bannerLabelMstId": 2,
+                "labelContent": "イベント",
+                "labelBgColor": "#4f8b97"
+            },
+            {
+                "bannerLabelMstId": 3,
+                "labelContent": "キャンペーン",
+                "labelBgColor": "#8c5588"
+            },
+            {
+                "bannerLabelMstId": 4,
+                "labelContent": "アップデート",
+                "labelBgColor": "#d77856"
+            },
+            {
+                "bannerLabelMstId": 5,
+                "labelContent": "セール",
+                "labelBgColor": "#686b9f"
+            },
+            {
+                "bannerLabelMstId": 6,
+                "labelContent": "重要",
+                "labelBgColor": "#c95f6a"
+            },
+            {
+                "bannerLabelMstId": 8,
+                "labelContent": "ピックアップ",
+                "labelBgColor": "#bc758c"
+            },
+            {
+                "bannerLabelMstId": 9,
+                "labelContent": "ステップアップ",
+                "labelBgColor": "#5f758c"
+            },
+            {
+                "bannerLabelMstId": 10,
+                "labelContent": "マギアキー",
+                "labelBgColor": "#be8379"
+            },
+            {
+                "bannerLabelMstId": 11,
+                "labelContent": "★5確定",
+                "labelBgColor": "#5f8f7f"
+            },
+            {
+                "bannerLabelMstId": 12,
+                "labelContent": "かけらガチャ",
+                "labelBgColor": "#be8379"
+            },
+            {
+                "bannerLabelMstId": 13,
+                "labelContent": "カムバック",
+                "labelBgColor": "#b15076"
+            },
+            {
+                "bannerLabelMstId": 14,
+                "labelContent": "無料ガチャ",
+                "labelBgColor": "#b15076"
+            },
+            {
+                "bannerLabelMstId": 15,
+                "labelContent": "エクセドラパス",
+                "labelBgColor": "#b15076"
+            },
+            {
+                "bannerLabelMstId": 16,
+                "labelContent": "メンテナンス",
+                "labelBgColor": "#4f8a64"
+            }
+        ]
+    }
+}

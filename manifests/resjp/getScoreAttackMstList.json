@@ -1,0 +1,19 @@
+{
+    "url": "/api/mst/getScoreAttackMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "scoreAttackMstId": 1,
+                "name": "",
+                "startTime": "2025-04-04T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "comment": "定期的にMP減少スキルを使用するためブレイク時に必殺技が使用できない状態にならないよう意識してMPを回復しておくと良いでしょう。<br>また、防御力上昇効果が付与された状態でブレイクするとダメージを抑えられてしまうため注意しましょう。",
+                "reprintNum": 0,
+                "highScoreRewardGroupId": 1,
+                "totalScoreRewardGroupId": 1,
+                "dioramaBackgroundMstId": 110319
+            }
+        ]
+    }
+}

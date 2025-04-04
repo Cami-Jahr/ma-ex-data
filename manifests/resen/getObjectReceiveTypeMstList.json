@@ -1,0 +1,83 @@
+{
+    "url": "/api/mst/getObjectReceiveTypeMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "objectReceiveType": 1,
+                "objectType": 11,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 2,
+                "objectType": 1,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 4,
+                "objectType": 2,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 5,
+                "objectType": 3,
+                "expireDate": 90
+            },
+            {
+                "objectReceiveType": 6,
+                "objectType": 3,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 7,
+                "objectType": 4,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 8,
+                "objectType": 5,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 9,
+                "objectType": 6,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 10,
+                "objectType": 7,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 11,
+                "objectType": 7,
+                "expireDate": 90
+            },
+            {
+                "objectReceiveType": 14,
+                "objectType": 10,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 15,
+                "objectType": 12,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 16,
+                "objectType": 13,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 17,
+                "objectType": 9,
+                "expireDate": 0
+            },
+            {
+                "objectReceiveType": 18,
+                "objectType": 14,
+                "expireDate": 0
+            }
+        ]
+    }
+}

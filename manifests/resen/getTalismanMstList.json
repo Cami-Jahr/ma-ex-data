@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getTalismanMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

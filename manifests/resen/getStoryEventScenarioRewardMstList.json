@@ -1,0 +1,155 @@
+{
+    "url": "/api/mst/getStoryEventScenarioRewardMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "storyEventScenarioRewardMstId": 100101,
+                "storyEventScenarioMstId": 100101,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100102,
+                "storyEventScenarioMstId": 100102,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100103,
+                "storyEventScenarioMstId": 100103,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100104,
+                "storyEventScenarioMstId": 100104,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100105,
+                "storyEventScenarioMstId": 100105,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100106,
+                "storyEventScenarioMstId": 100106,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100107,
+                "storyEventScenarioMstId": 100107,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100108,
+                "storyEventScenarioMstId": 100108,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100201,
+                "storyEventScenarioMstId": 100201,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100301,
+                "storyEventScenarioMstId": 100301,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100302,
+                "storyEventScenarioMstId": 100302,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100303,
+                "storyEventScenarioMstId": 100303,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100304,
+                "storyEventScenarioMstId": 100304,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100305,
+                "storyEventScenarioMstId": 100305,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100306,
+                "storyEventScenarioMstId": 100306,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100307,
+                "storyEventScenarioMstId": 100307,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 100308,
+                "storyEventScenarioMstId": 100308,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 1100001,
+                "storyEventScenarioMstId": 1100001,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 1100002,
+                "storyEventScenarioMstId": 1100002,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 1100003,
+                "storyEventScenarioMstId": 1100003,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            },
+            {
+                "storyEventScenarioRewardMstId": 1100004,
+                "storyEventScenarioMstId": 1100004,
+                "objectReceiveType": 2,
+                "objectId": 0,
+                "num": 10
+            }
+        ]
+    }
+}

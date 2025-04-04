@@ -1,0 +1,1436 @@
+{
+    "url": "/api/mst/getFieldStratumMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "fieldStratumMstId": 6000011,
+                "fieldStageMstId": 600001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000012,
+                "fieldStageMstId": 600001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000013,
+                "fieldStageMstId": 600001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000014,
+                "fieldStageMstId": 600001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000021,
+                "fieldStageMstId": 600002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000022,
+                "fieldStageMstId": 600002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000023,
+                "fieldStageMstId": 600002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000024,
+                "fieldStageMstId": 600002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000031,
+                "fieldStageMstId": 600003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000032,
+                "fieldStageMstId": 600003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000054
+            },
+            {
+                "fieldStratumMstId": 6000033,
+                "fieldStageMstId": 600003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000034,
+                "fieldStageMstId": 600003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000087
+            },
+            {
+                "fieldStratumMstId": 6000111,
+                "fieldStageMstId": 600011,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000112,
+                "fieldStageMstId": 600011,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000113,
+                "fieldStageMstId": 600011,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000114,
+                "fieldStageMstId": 600011,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000121,
+                "fieldStageMstId": 600012,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000122,
+                "fieldStageMstId": 600012,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000123,
+                "fieldStageMstId": 600012,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000124,
+                "fieldStageMstId": 600012,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000131,
+                "fieldStageMstId": 600013,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000132,
+                "fieldStageMstId": 600013,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000133,
+                "fieldStageMstId": 600013,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6000134,
+                "fieldStageMstId": 600013,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000061
+            },
+            {
+                "fieldStratumMstId": 6010011,
+                "fieldStageMstId": 601001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000020
+            },
+            {
+                "fieldStratumMstId": 6010012,
+                "fieldStageMstId": 601001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000021
+            },
+            {
+                "fieldStratumMstId": 6010013,
+                "fieldStageMstId": 601001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6010014,
+                "fieldStageMstId": 601001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6010021,
+                "fieldStageMstId": 601002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000020
+            },
+            {
+                "fieldStratumMstId": 6010022,
+                "fieldStageMstId": 601002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000021
+            },
+            {
+                "fieldStratumMstId": 6010023,
+                "fieldStageMstId": 601002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6010024,
+                "fieldStageMstId": 601002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6010031,
+                "fieldStageMstId": 601003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000020
+            },
+            {
+                "fieldStratumMstId": 6010032,
+                "fieldStageMstId": 601003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000021
+            },
+            {
+                "fieldStratumMstId": 6010033,
+                "fieldStageMstId": 601003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6010034,
+                "fieldStageMstId": 601003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000022
+            },
+            {
+                "fieldStratumMstId": 6020011,
+                "fieldStageMstId": 602001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020012,
+                "fieldStageMstId": 602001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020013,
+                "fieldStageMstId": 602001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000070
+            },
+            {
+                "fieldStratumMstId": 6020014,
+                "fieldStageMstId": 602001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000093
+            },
+            {
+                "fieldStratumMstId": 6020021,
+                "fieldStageMstId": 602002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020022,
+                "fieldStageMstId": 602002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020023,
+                "fieldStageMstId": 602002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000070
+            },
+            {
+                "fieldStratumMstId": 6020024,
+                "fieldStageMstId": 602002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000093
+            },
+            {
+                "fieldStratumMstId": 6020031,
+                "fieldStageMstId": 602003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020032,
+                "fieldStageMstId": 602003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000091
+            },
+            {
+                "fieldStratumMstId": 6020033,
+                "fieldStageMstId": 602003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000070
+            },
+            {
+                "fieldStratumMstId": 6020034,
+                "fieldStageMstId": 602003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000093
+            },
+            {
+                "fieldStratumMstId": 6030011,
+                "fieldStageMstId": 603001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030012,
+                "fieldStageMstId": 603001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030013,
+                "fieldStageMstId": 603001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6030014,
+                "fieldStageMstId": 603001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6030021,
+                "fieldStageMstId": 603002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030022,
+                "fieldStageMstId": 603002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030023,
+                "fieldStageMstId": 603002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6030024,
+                "fieldStageMstId": 603002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6030031,
+                "fieldStageMstId": 603003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030032,
+                "fieldStageMstId": 603003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000062
+            },
+            {
+                "fieldStratumMstId": 6030033,
+                "fieldStageMstId": 603003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6030034,
+                "fieldStageMstId": 603003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000098
+            },
+            {
+                "fieldStratumMstId": 6040011,
+                "fieldStageMstId": 604001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040012,
+                "fieldStageMstId": 604001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040013,
+                "fieldStageMstId": 604001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040014,
+                "fieldStageMstId": 604001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040021,
+                "fieldStageMstId": 604002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040022,
+                "fieldStageMstId": 604002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040023,
+                "fieldStageMstId": 604002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040024,
+                "fieldStageMstId": 604002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040031,
+                "fieldStageMstId": 604003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040032,
+                "fieldStageMstId": 604003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040033,
+                "fieldStageMstId": 604003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6040034,
+                "fieldStageMstId": 604003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000099
+            },
+            {
+                "fieldStratumMstId": 6050011,
+                "fieldStageMstId": 605001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000024
+            },
+            {
+                "fieldStratumMstId": 6050012,
+                "fieldStageMstId": 605001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000025
+            },
+            {
+                "fieldStratumMstId": 6050013,
+                "fieldStageMstId": 605001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6050014,
+                "fieldStageMstId": 605001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6050021,
+                "fieldStageMstId": 605002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000024
+            },
+            {
+                "fieldStratumMstId": 6050022,
+                "fieldStageMstId": 605002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000025
+            },
+            {
+                "fieldStratumMstId": 6050023,
+                "fieldStageMstId": 605002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6050024,
+                "fieldStageMstId": 605002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6050031,
+                "fieldStageMstId": 605003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000024
+            },
+            {
+                "fieldStratumMstId": 6050032,
+                "fieldStageMstId": 605003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000025
+            },
+            {
+                "fieldStratumMstId": 6050033,
+                "fieldStageMstId": 605003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6050034,
+                "fieldStageMstId": 605003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000026
+            },
+            {
+                "fieldStratumMstId": 6060011,
+                "fieldStageMstId": 606001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060012,
+                "fieldStageMstId": 606001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000067
+            },
+            {
+                "fieldStratumMstId": 6060013,
+                "fieldStageMstId": 606001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060014,
+                "fieldStageMstId": 606001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060021,
+                "fieldStageMstId": 606002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060022,
+                "fieldStageMstId": 606002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000067
+            },
+            {
+                "fieldStratumMstId": 6060023,
+                "fieldStageMstId": 606002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060024,
+                "fieldStageMstId": 606002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060031,
+                "fieldStageMstId": 606003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060032,
+                "fieldStageMstId": 606003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000067
+            },
+            {
+                "fieldStratumMstId": 6060033,
+                "fieldStageMstId": 606003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6060034,
+                "fieldStageMstId": 606003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000109
+            },
+            {
+                "fieldStratumMstId": 6070011,
+                "fieldStageMstId": 607001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000050
+            },
+            {
+                "fieldStratumMstId": 6070012,
+                "fieldStageMstId": 607001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070013,
+                "fieldStageMstId": 607001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070014,
+                "fieldStageMstId": 607001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070021,
+                "fieldStageMstId": 607002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000050
+            },
+            {
+                "fieldStratumMstId": 6070022,
+                "fieldStageMstId": 607002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070023,
+                "fieldStageMstId": 607002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070024,
+                "fieldStageMstId": 607002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070031,
+                "fieldStageMstId": 607003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000050
+            },
+            {
+                "fieldStratumMstId": 6070032,
+                "fieldStageMstId": 607003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070033,
+                "fieldStageMstId": 607003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6070034,
+                "fieldStageMstId": 607003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000110
+            },
+            {
+                "fieldStratumMstId": 6080011,
+                "fieldStageMstId": 608001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080012,
+                "fieldStageMstId": 608001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080013,
+                "fieldStageMstId": 608001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080014,
+                "fieldStageMstId": 608001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080021,
+                "fieldStageMstId": 608002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080022,
+                "fieldStageMstId": 608002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080023,
+                "fieldStageMstId": 608002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080024,
+                "fieldStageMstId": 608002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080031,
+                "fieldStageMstId": 608003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080032,
+                "fieldStageMstId": 608003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080033,
+                "fieldStageMstId": 608003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6080034,
+                "fieldStageMstId": 608003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000077
+            },
+            {
+                "fieldStratumMstId": 6090011,
+                "fieldStageMstId": 609001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000028
+            },
+            {
+                "fieldStratumMstId": 6090012,
+                "fieldStageMstId": 609001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000029
+            },
+            {
+                "fieldStratumMstId": 6090013,
+                "fieldStageMstId": 609001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6090014,
+                "fieldStageMstId": 609001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6090021,
+                "fieldStageMstId": 609002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000028
+            },
+            {
+                "fieldStratumMstId": 6090022,
+                "fieldStageMstId": 609002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000029
+            },
+            {
+                "fieldStratumMstId": 6090023,
+                "fieldStageMstId": 609002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6090024,
+                "fieldStageMstId": 609002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6090031,
+                "fieldStageMstId": 609003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000028
+            },
+            {
+                "fieldStratumMstId": 6090032,
+                "fieldStageMstId": 609003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000029
+            },
+            {
+                "fieldStratumMstId": 6090033,
+                "fieldStageMstId": 609003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6090034,
+                "fieldStageMstId": 609003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": false,
+                "soundMstId": 3000030
+            },
+            {
+                "fieldStratumMstId": 6100011,
+                "fieldStageMstId": 610001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000032
+            },
+            {
+                "fieldStratumMstId": 6100012,
+                "fieldStageMstId": 610001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000033
+            },
+            {
+                "fieldStratumMstId": 6100013,
+                "fieldStageMstId": 610001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6100014,
+                "fieldStageMstId": 610001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6100021,
+                "fieldStageMstId": 610002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000032
+            },
+            {
+                "fieldStratumMstId": 6100022,
+                "fieldStageMstId": 610002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000033
+            },
+            {
+                "fieldStratumMstId": 6100023,
+                "fieldStageMstId": 610002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6100024,
+                "fieldStageMstId": 610002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6100031,
+                "fieldStageMstId": 610003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000032
+            },
+            {
+                "fieldStratumMstId": 6100032,
+                "fieldStageMstId": 610003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000033
+            },
+            {
+                "fieldStratumMstId": 6100033,
+                "fieldStageMstId": 610003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6100034,
+                "fieldStageMstId": 610003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000034
+            },
+            {
+                "fieldStratumMstId": 6110011,
+                "fieldStageMstId": 611001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110012,
+                "fieldStageMstId": 611001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110013,
+                "fieldStageMstId": 611001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110014,
+                "fieldStageMstId": 611001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110021,
+                "fieldStageMstId": 611002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110022,
+                "fieldStageMstId": 611002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110023,
+                "fieldStageMstId": 611002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110024,
+                "fieldStageMstId": 611002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110031,
+                "fieldStageMstId": 611003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110032,
+                "fieldStageMstId": 611003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110033,
+                "fieldStageMstId": 611003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6110034,
+                "fieldStageMstId": 611003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000078
+            },
+            {
+                "fieldStratumMstId": 6120011,
+                "fieldStageMstId": 612001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120012,
+                "fieldStageMstId": 612001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120013,
+                "fieldStageMstId": 612001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120014,
+                "fieldStageMstId": 612001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120021,
+                "fieldStageMstId": 612002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120022,
+                "fieldStageMstId": 612002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120023,
+                "fieldStageMstId": 612002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120024,
+                "fieldStageMstId": 612002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120031,
+                "fieldStageMstId": 612003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120032,
+                "fieldStageMstId": 612003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120033,
+                "fieldStageMstId": 612003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6120034,
+                "fieldStageMstId": 612003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000080
+            },
+            {
+                "fieldStratumMstId": 6150011,
+                "fieldStageMstId": 615001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000036
+            },
+            {
+                "fieldStratumMstId": 6150012,
+                "fieldStageMstId": 615001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000037
+            },
+            {
+                "fieldStratumMstId": 6150013,
+                "fieldStageMstId": 615001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6150014,
+                "fieldStageMstId": 615001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6150021,
+                "fieldStageMstId": 615002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000036
+            },
+            {
+                "fieldStratumMstId": 6150022,
+                "fieldStageMstId": 615002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000037
+            },
+            {
+                "fieldStratumMstId": 6150023,
+                "fieldStageMstId": 615002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6150024,
+                "fieldStageMstId": 615002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6150031,
+                "fieldStageMstId": 615003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000036
+            },
+            {
+                "fieldStratumMstId": 6150032,
+                "fieldStageMstId": 615003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000037
+            },
+            {
+                "fieldStratumMstId": 6150033,
+                "fieldStageMstId": 615003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6150034,
+                "fieldStageMstId": 615003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000038
+            },
+            {
+                "fieldStratumMstId": 6170011,
+                "fieldStageMstId": 617001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170012,
+                "fieldStageMstId": 617001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170013,
+                "fieldStageMstId": 617001,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170014,
+                "fieldStageMstId": 617001,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170021,
+                "fieldStageMstId": 617002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170022,
+                "fieldStageMstId": 617002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170023,
+                "fieldStageMstId": 617002,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170024,
+                "fieldStageMstId": 617002,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170031,
+                "fieldStageMstId": 617003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170032,
+                "fieldStageMstId": 617003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170033,
+                "fieldStageMstId": 617003,
+                "stratumNum": 3,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6170034,
+                "fieldStageMstId": 617003,
+                "stratumNum": 4,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000147
+            },
+            {
+                "fieldStratumMstId": 6180011,
+                "fieldStageMstId": 618001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6180012,
+                "fieldStageMstId": 618001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6180021,
+                "fieldStageMstId": 618002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6180022,
+                "fieldStageMstId": 618002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6180031,
+                "fieldStageMstId": 618003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6180032,
+                "fieldStageMstId": 618003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190011,
+                "fieldStageMstId": 619001,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190012,
+                "fieldStageMstId": 619001,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190021,
+                "fieldStageMstId": 619002,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190022,
+                "fieldStageMstId": 619002,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190031,
+                "fieldStageMstId": 619003,
+                "stratumNum": 1,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            },
+            {
+                "fieldStratumMstId": 6190032,
+                "fieldStageMstId": 619003,
+                "stratumNum": 2,
+                "isWholeFieldVisible": true,
+                "soundMstId": 3000167
+            }
+        ]
+    }
+}

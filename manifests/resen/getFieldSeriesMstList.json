@@ -1,0 +1,206 @@
+{
+    "url": "/api/mst/getFieldSeriesMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "fieldSeriesMstId": 60000,
+                "name": "薔薇園の魔女 前編\n鹿目まどかの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60000,
+                "styleMstId": 0,
+                "assetbundleName": "60000_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60001,
+                "name": "薔薇園の魔女 後編\n巴マミの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60001,
+                "styleMstId": 0,
+                "assetbundleName": "60001_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60100,
+                "name": "暗闇の魔女\n巴マミの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60100,
+                "styleMstId": 0,
+                "assetbundleName": "60100_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60200,
+                "name": "お菓子の魔女\n巴マミの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60200,
+                "styleMstId": 0,
+                "assetbundleName": "60200_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60300,
+                "name": "ハコの魔女\n美樹さやかの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60300,
+                "styleMstId": 0,
+                "assetbundleName": "60300_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60400,
+                "name": "落書きの魔女\n美樹さやかの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60400,
+                "styleMstId": 0,
+                "assetbundleName": "60400_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60500,
+                "name": "銀の魔女\n佐倉杏子の記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60500,
+                "styleMstId": 0,
+                "assetbundleName": "60500_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60600,
+                "name": "影の魔女\n美樹さやかの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60600,
+                "styleMstId": 0,
+                "assetbundleName": "60600_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60700,
+                "name": "犬の魔女\n美樹さやかの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60700,
+                "styleMstId": 0,
+                "assetbundleName": "60700_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60800,
+                "name": "人魚の魔女\n佐倉杏子の記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60800,
+                "styleMstId": 0,
+                "assetbundleName": "60800_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 60900,
+                "name": "芸術家の魔女\n暁美ほむらの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 60900,
+                "styleMstId": 0,
+                "assetbundleName": "60900_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61000,
+                "name": "委員長の魔女\n暁美ほむらの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 61000,
+                "styleMstId": 0,
+                "assetbundleName": "61000_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61100,
+                "name": "鳥かごの魔女\n暁美ほむらの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 61100,
+                "styleMstId": 0,
+                "assetbundleName": "61100_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61200,
+                "name": "舞台装置の魔女\n暁美ほむらの記憶",
+                "questMapMstId": 1,
+                "questGroupMstId": 61200,
+                "styleMstId": 0,
+                "assetbundleName": "61200_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61500,
+                "name": "針の魔女",
+                "questMapMstId": 3,
+                "questGroupMstId": 61500,
+                "styleMstId": 0,
+                "assetbundleName": "61500_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61700,
+                "name": "砂場の魔女",
+                "questMapMstId": 2,
+                "questGroupMstId": 61700,
+                "styleMstId": 0,
+                "assetbundleName": "61700_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61800,
+                "name": "マチビト馬のウワサ",
+                "questMapMstId": 2,
+                "questGroupMstId": 61800,
+                "styleMstId": 0,
+                "assetbundleName": "61800_01",
+                "startTime": "2020-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            },
+            {
+                "fieldSeriesMstId": 61900,
+                "name": "名無し人工知能のウワサ",
+                "questMapMstId": 2,
+                "questGroupMstId": 61900,
+                "styleMstId": 0,
+                "assetbundleName": "61900_01",
+                "startTime": "2033-01-02T10:00:00+09:00",
+                "endTime": "2050-01-02T10:00:00+09:00",
+                "sortOrder": 1
+            }
+        ]
+    }
+}

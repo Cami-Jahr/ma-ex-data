@@ -1,0 +1,716 @@
+{
+    "url": "/api/mst/getUserTitleMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "userTitleMstId": 10010101,
+                "title": "ルクス☆マギカ",
+                "titleType": 1,
+                "value1": 10010101
+            },
+            {
+                "userTitleMstId": 10010701,
+                "title": "プルウィア☆マギカ",
+                "titleType": 1,
+                "value1": 10010701
+            },
+            {
+                "userTitleMstId": 10020201,
+                "title": "ミサイルによる集中砲火",
+                "titleType": 1,
+                "value1": 10020201
+            },
+            {
+                "userTitleMstId": 10030101,
+                "title": "ティロ・フィナーレ",
+                "titleType": 1,
+                "value1": 10030101
+            },
+            {
+                "userTitleMstId": 10050101,
+                "title": "盟神抉槍",
+                "titleType": 1,
+                "value1": 10050101
+            },
+            {
+                "userTitleMstId": 10080101,
+                "title": "ストラーダ・フトゥーロ",
+                "titleType": 1,
+                "value1": 10080101
+            },
+            {
+                "userTitleMstId": 10090101,
+                "title": "アブソリュート・レイン",
+                "titleType": 1,
+                "value1": 10090101
+            },
+            {
+                "userTitleMstId": 10100101,
+                "title": "炎扇斬舞",
+                "titleType": 1,
+                "value1": 10100101
+            },
+            {
+                "userTitleMstId": 10110101,
+                "title": "フォルターゲフェングニス",
+                "titleType": 1,
+                "value1": 10110101
+            },
+            {
+                "userTitleMstId": 10120101,
+                "title": "ウルトラグレートビッグハンマー",
+                "titleType": 1,
+                "value1": 10120101
+            },
+            {
+                "userTitleMstId": 10800101,
+                "title": "ソウル・サルベーション",
+                "titleType": 1,
+                "value1": 10800101
+            },
+            {
+                "userTitleMstId": 11240101,
+                "title": "オラクルレイ",
+                "titleType": 1,
+                "value1": 11240101
+            },
+            {
+                "userTitleMstId": 11250101,
+                "title": "ヴァンパイアファング",
+                "titleType": 1,
+                "value1": 11250101
+            },
+            {
+                "userTitleMstId": 20000000,
+                "title": "名前のない少女",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101001,
+                "title": "薔薇園の魔女 前編 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101002,
+                "title": "薔薇園の魔女 後編 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101003,
+                "title": "暗闇の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101004,
+                "title": "お菓子の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101005,
+                "title": "ハコの魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101006,
+                "title": "落書きの魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101007,
+                "title": "銀の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101008,
+                "title": "影の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101009,
+                "title": "犬の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101010,
+                "title": "人魚の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101011,
+                "title": "芸術家の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101012,
+                "title": "委員長の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101013,
+                "title": "鳥かごの魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20101014,
+                "title": "舞台装置の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102001,
+                "title": "薔薇園の魔女 前編 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102002,
+                "title": "薔薇園の魔女 後編 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102003,
+                "title": "暗闇の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102004,
+                "title": "お菓子の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102005,
+                "title": "ハコの魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102006,
+                "title": "落書きの魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102007,
+                "title": "銀の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102008,
+                "title": "影の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102009,
+                "title": "犬の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102010,
+                "title": "人魚の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102011,
+                "title": "芸術家の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102012,
+                "title": "委員長の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102013,
+                "title": "鳥かごの魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20102014,
+                "title": "舞台装置の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103001,
+                "title": "薔薇園の魔女 前編 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103002,
+                "title": "薔薇園の魔女 後編 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103003,
+                "title": "暗闇の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103004,
+                "title": "お菓子の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103005,
+                "title": "ハコの魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103006,
+                "title": "落書きの魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103007,
+                "title": "銀の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103008,
+                "title": "影の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103009,
+                "title": "犬の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103010,
+                "title": "人魚の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103011,
+                "title": "芸術家の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103012,
+                "title": "委員長の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103013,
+                "title": "鳥かごの魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20103014,
+                "title": "舞台装置の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20201001,
+                "title": "砂場の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20201002,
+                "title": "マチビト馬のウワサ Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20202001,
+                "title": "砂場の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20202002,
+                "title": "マチビト馬のウワサ Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20203001,
+                "title": "砂場の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20203002,
+                "title": "マチビト馬のウワサ Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20301001,
+                "title": "針の魔女 Mainクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20302001,
+                "title": "針の魔女 Battleクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 20303001,
+                "title": "針の魔女 Nightmareクリア",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010001,
+                "title": "プレイヤーマッチNo.1",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010002,
+                "title": "プレイヤーマッチNo.2",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010003,
+                "title": "プレイヤーマッチNo.3",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010004,
+                "title": "プレイヤーマッチNo.4",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010005,
+                "title": "プレイヤーマッチNo.5",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010006,
+                "title": "プレイヤーマッチNo.6",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010007,
+                "title": "プレイヤーマッチNo.7",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010008,
+                "title": "プレイヤーマッチNo.8",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010009,
+                "title": "プレイヤーマッチNo.9",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010010,
+                "title": "プレイヤーマッチNo.10",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010011,
+                "title": "プレイヤーマッチTop50",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010012,
+                "title": "プレイヤーマッチTop100",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010013,
+                "title": "プレイヤーマッチTop500",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010014,
+                "title": "プレイヤーマッチTop1000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010015,
+                "title": "プレイヤーマッチTop2000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010016,
+                "title": "プレイヤーマッチTop5000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010017,
+                "title": "プレイヤーマッチTop10000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010018,
+                "title": "プレイヤーマッチTop20000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 30010019,
+                "title": "プレイヤーマッチTop50000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 60000001,
+                "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～クリア",
+                "titleType": 2,
+                "value1": 4200019
+            },
+            {
+                "userTitleMstId": 60000002,
+                "title": "フェアウェル・ストーリー 前編クリア",
+                "titleType": 2,
+                "value1": 4200001
+            },
+            {
+                "userTitleMstId": 60000003,
+                "title": "フェアウェル・ストーリー 後編クリア",
+                "titleType": 2,
+                "value1": 4200003
+            },
+            {
+                "userTitleMstId": 70000001,
+                "title": "ミラーズランキングS☆☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000002,
+                "title": "ミラーズランキングS☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000003,
+                "title": "ミラーズランキングS☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000004,
+                "title": "ミラーズランキングA☆☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000005,
+                "title": "ミラーズランキングA☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000006,
+                "title": "ミラーズランキングA☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000007,
+                "title": "ミラーズランキングB☆☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000008,
+                "title": "ミラーズランキングB☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000009,
+                "title": "ミラーズランキングB☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000010,
+                "title": "ミラーズランキングC☆☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000011,
+                "title": "ミラーズランキングC☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000012,
+                "title": "ミラーズランキングC☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000013,
+                "title": "ミラーズランキングD☆☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000014,
+                "title": "ミラーズランキングD☆☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000015,
+                "title": "ミラーズランキングD☆",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000016,
+                "title": "マギアレコード総合戦力値No.1",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000017,
+                "title": "マギアレコード総合戦力値No.2",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000018,
+                "title": "マギアレコード総合戦力値No.3",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000019,
+                "title": "マギアレコード総合戦力値No.4",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000020,
+                "title": "マギアレコード総合戦力値No.5",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000021,
+                "title": "マギアレコード総合戦力値No.6",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000022,
+                "title": "マギアレコード総合戦力値No.7",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000023,
+                "title": "マギアレコード総合戦力値No.8",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000024,
+                "title": "マギアレコード総合戦力値No.9",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000025,
+                "title": "マギアレコード総合戦力値No.10",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000026,
+                "title": "マギアレコード総合戦力値Top50",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000027,
+                "title": "マギアレコード総合戦力値Top100",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000028,
+                "title": "マギアレコード総合戦力値Top500",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000029,
+                "title": "マギアレコード総合戦力値Top1000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000030,
+                "title": "マギアレコード総合戦力値Top5000",
+                "titleType": 0,
+                "value1": 0
+            },
+            {
+                "userTitleMstId": 70000031,
+                "title": "マギアレコード総合戦力値Top10000",
+                "titleType": 0,
+                "value1": 0
+            }
+        ]
+    }
+}

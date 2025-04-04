@@ -1,0 +1,368 @@
+{
+    "url": "/api/mst/getAdvTitleMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "advTitleMstId": 1,
+                "title": "夢の中で逢った、ような……",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 2,
+                "title": "それはとっても嬉しいなって",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 3,
+                "title": "もう何も恐くない",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 4,
+                "title": "奇跡も、魔法も、あるんだよ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 5,
+                "title": "後悔なんて、あるわけない",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 6,
+                "title": "こんなの絶対おかしいよ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 7,
+                "title": "本当の気持ちと向き合えますか？",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 8,
+                "title": "あたしって、ほんとバカ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 9,
+                "title": "そんなの、あたしが許さない",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 10,
+                "title": "もう誰にも頼らない",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 11,
+                "title": "最後に残った道しるべ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 12,
+                "title": "わたしの、最高の友達",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 15,
+                "title": "第1章 はじまりのいろは",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 16,
+                "title": "新約 魔法少女おりこ☆マギカ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 17,
+                "title": "気になるあの子に託して",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 18,
+                "title": "少しの関わりが繋ぐ先",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 19,
+                "title": "忘れても消えないあの子の面影",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 20,
+                "title": "遺書が紡ぐ悲喜交々",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 21,
+                "title": "いつもニコニコ、わたしの役割",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 22,
+                "title": "色のない世界に彩りを",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 23,
+                "title": "ただの少女だった頃、そして…",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 24,
+                "title": "とっても甘い追憶",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 25,
+                "title": "大監獄から大脱出なのっ!!",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 26,
+                "title": "竜真流・鋼メンタル",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 27,
+                "title": "権謀術数はしたたかに",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 28,
+                "title": "どんぐりで繋がる絆",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 29,
+                "title": "繋がる明日と青い鳥",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 30,
+                "title": "心を繋ぐ四つ葉のクローバー",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 31,
+                "title": "私が生まれない世界",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 32,
+                "title": "世界の終わりは君と",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 33,
+                "title": "眞尾家の福を取り戻せ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 34,
+                "title": "わからないあの人との距離",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 35,
+                "title": "逃避行のような大冒険！",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 36,
+                "title": "空漠に火が灯るとき",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 37,
+                "title": "消せぬ恋は消せぬ間違い",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 38,
+                "title": "「ワン！」とお悩み解決!?",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 39,
+                "title": "大好きと一緒に私らしく",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 40,
+                "title": "不可逆の暗号",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 41,
+                "title": "ゆまだって一人前だもんっ！",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 42,
+                "title": "白球と笑顔",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 43,
+                "title": "Ｎの告白",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 44,
+                "title": "緊急！　違法銃を処分せよ！",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 45,
+                "title": "トリュフパニック",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 46,
+                "title": "ヒロインが戦い続ける方法",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 47,
+                "title": "これが、あたしの生き方",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 52,
+                "title": "フェアウェル・ストーリー 前編",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 53,
+                "title": "フェアウェル・ストーリー 後編",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 56,
+                "title": "持つべきものは親友",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 57,
+                "title": "お手柄ハイタッチ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 58,
+                "title": "わたしたちの守るべき町",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 59,
+                "title": "手作りケーキに挑戦中",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 60,
+                "title": "アルバムを通して想う未来",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 61,
+                "title": "彼女は知らない",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 62,
+                "title": "似たもの同士？",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 63,
+                "title": "臨時共同戦線！",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 64,
+                "title": "なりゆきダンスコーチ",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 65,
+                "title": "人魚姫の夢",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 66,
+                "title": "ステージでは別人",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 67,
+                "title": "たまにはいつもと違うメガネで",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 68,
+                "title": "夢の中の出会い",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 69,
+                "title": "あの子に託されたもの",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 70,
+                "title": "いつか上がる雨",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 71,
+                "title": "仲直りの証",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 72,
+                "title": "たまには給仕を",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 73,
+                "title": "第2章 うわさの絶交ルール",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 74,
+                "title": "第3章 神浜うわさファイル",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 75,
+                "title": "灯台のおもいで",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 84,
+                "title": "父ちゃんと母ちゃんが殺された日",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 85,
+                "title": "私の新しいお家",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 91,
+                "title": "魔法少女おりこ☆マギカ[別編]",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 92,
+                "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
+                "isViewCollection": true
+            },
+            {
+                "advTitleMstId": 93,
+                "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+                "isViewCollection": true
+            }
+        ]
+    }
+}

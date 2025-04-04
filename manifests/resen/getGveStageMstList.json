@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getGveStageMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

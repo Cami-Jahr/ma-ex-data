@@ -1,0 +1,12 @@
+{
+    "url": "/api/mst/getCollectionParamUpMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "collectionParamUpMstId": 1,
+                "category": 1
+            }
+        ]
+    }
+}

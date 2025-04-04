@@ -1,0 +1,106 @@
+{
+    "url": "/api/mst/getMissionTitleMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "missionTitleMstId": 1,
+                "prevMissionTitleMstId": 0,
+                "title": "チャレンジミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 2,
+                "prevMissionTitleMstId": 0,
+                "title": "デイリーミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 3,
+                "prevMissionTitleMstId": 0,
+                "title": "ウィークリーミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 4,
+                "prevMissionTitleMstId": 0,
+                "title": "初心者ミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5,
+                "prevMissionTitleMstId": 0,
+                "title": "カムバックミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 10,
+                "prevMissionTitleMstId": 0,
+                "title": "エクセドラパスミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 15,
+                "prevMissionTitleMstId": 0,
+                "title": "ユニオンミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5000,
+                "prevMissionTitleMstId": 0,
+                "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～イベントミッション",
+                "priority": 1,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5001,
+                "prevMissionTitleMstId": 0,
+                "title": "フェアウェル・ストーリー 前編イベントミッション",
+                "priority": 10,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5002,
+                "prevMissionTitleMstId": 0,
+                "title": "フェアウェル・ストーリー 後編イベントミッション",
+                "priority": 12,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5004,
+                "prevMissionTitleMstId": 0,
+                "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベントミッション",
+                "priority": 11,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5006,
+                "prevMissionTitleMstId": 0,
+                "title": "育成応援ミッション",
+                "priority": 3,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5007,
+                "prevMissionTitleMstId": 0,
+                "title": "育成応援ミッション 第2弾",
+                "priority": 3,
+                "featuredRewardResourceName": ""
+            },
+            {
+                "missionTitleMstId": 5008,
+                "prevMissionTitleMstId": 0,
+                "title": "スコアアタック攻略応援ミッション",
+                "priority": 4,
+                "featuredRewardResourceName": ""
+            }
+        ]
+    }
+}

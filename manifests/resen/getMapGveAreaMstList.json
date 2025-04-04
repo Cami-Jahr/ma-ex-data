@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getMapGveAreaMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

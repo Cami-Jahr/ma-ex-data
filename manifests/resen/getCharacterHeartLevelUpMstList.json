@@ -1,0 +1,258 @@
+{
+    "url": "/api/mst/getCharacterHeartLevelUpMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "characterHeartLevelUpMstId": 1,
+                "heartLevel": 1,
+                "heartLevelUpExp": 50
+            },
+            {
+                "characterHeartLevelUpMstId": 2,
+                "heartLevel": 2,
+                "heartLevelUpExp": 200
+            },
+            {
+                "characterHeartLevelUpMstId": 3,
+                "heartLevel": 3,
+                "heartLevelUpExp": 450
+            },
+            {
+                "characterHeartLevelUpMstId": 4,
+                "heartLevel": 4,
+                "heartLevelUpExp": 800
+            },
+            {
+                "characterHeartLevelUpMstId": 5,
+                "heartLevel": 5,
+                "heartLevelUpExp": 1250
+            },
+            {
+                "characterHeartLevelUpMstId": 6,
+                "heartLevel": 6,
+                "heartLevelUpExp": 1800
+            },
+            {
+                "characterHeartLevelUpMstId": 7,
+                "heartLevel": 7,
+                "heartLevelUpExp": 2450
+            },
+            {
+                "characterHeartLevelUpMstId": 8,
+                "heartLevel": 8,
+                "heartLevelUpExp": 3200
+            },
+            {
+                "characterHeartLevelUpMstId": 9,
+                "heartLevel": 9,
+                "heartLevelUpExp": 4050
+            },
+            {
+                "characterHeartLevelUpMstId": 10,
+                "heartLevel": 10,
+                "heartLevelUpExp": 5000
+            },
+            {
+                "characterHeartLevelUpMstId": 11,
+                "heartLevel": 11,
+                "heartLevelUpExp": 6050
+            },
+            {
+                "characterHeartLevelUpMstId": 12,
+                "heartLevel": 12,
+                "heartLevelUpExp": 7200
+            },
+            {
+                "characterHeartLevelUpMstId": 13,
+                "heartLevel": 13,
+                "heartLevelUpExp": 8450
+            },
+            {
+                "characterHeartLevelUpMstId": 14,
+                "heartLevel": 14,
+                "heartLevelUpExp": 9800
+            },
+            {
+                "characterHeartLevelUpMstId": 15,
+                "heartLevel": 15,
+                "heartLevelUpExp": 11250
+            },
+            {
+                "characterHeartLevelUpMstId": 16,
+                "heartLevel": 16,
+                "heartLevelUpExp": 12800
+            },
+            {
+                "characterHeartLevelUpMstId": 17,
+                "heartLevel": 17,
+                "heartLevelUpExp": 14450
+            },
+            {
+                "characterHeartLevelUpMstId": 18,
+                "heartLevel": 18,
+                "heartLevelUpExp": 16200
+            },
+            {
+                "characterHeartLevelUpMstId": 19,
+                "heartLevel": 19,
+                "heartLevelUpExp": 18050
+            },
+            {
+                "characterHeartLevelUpMstId": 20,
+                "heartLevel": 20,
+                "heartLevelUpExp": 20000
+            },
+            {
+                "characterHeartLevelUpMstId": 21,
+                "heartLevel": 21,
+                "heartLevelUpExp": 22050
+            },
+            {
+                "characterHeartLevelUpMstId": 22,
+                "heartLevel": 22,
+                "heartLevelUpExp": 24200
+            },
+            {
+                "characterHeartLevelUpMstId": 23,
+                "heartLevel": 23,
+                "heartLevelUpExp": 26450
+            },
+            {
+                "characterHeartLevelUpMstId": 24,
+                "heartLevel": 24,
+                "heartLevelUpExp": 28800
+            },
+            {
+                "characterHeartLevelUpMstId": 25,
+                "heartLevel": 25,
+                "heartLevelUpExp": 31250
+            },
+            {
+                "characterHeartLevelUpMstId": 26,
+                "heartLevel": 26,
+                "heartLevelUpExp": 33800
+            },
+            {
+                "characterHeartLevelUpMstId": 27,
+                "heartLevel": 27,
+                "heartLevelUpExp": 36450
+            },
+            {
+                "characterHeartLevelUpMstId": 28,
+                "heartLevel": 28,
+                "heartLevelUpExp": 39200
+            },
+            {
+                "characterHeartLevelUpMstId": 29,
+                "heartLevel": 29,
+                "heartLevelUpExp": 42050
+            },
+            {
+                "characterHeartLevelUpMstId": 30,
+                "heartLevel": 30,
+                "heartLevelUpExp": 45000
+            },
+            {
+                "characterHeartLevelUpMstId": 31,
+                "heartLevel": 31,
+                "heartLevelUpExp": 48050
+            },
+            {
+                "characterHeartLevelUpMstId": 32,
+                "heartLevel": 32,
+                "heartLevelUpExp": 51200
+            },
+            {
+                "characterHeartLevelUpMstId": 33,
+                "heartLevel": 33,
+                "heartLevelUpExp": 54450
+            },
+            {
+                "characterHeartLevelUpMstId": 34,
+                "heartLevel": 34,
+                "heartLevelUpExp": 57800
+            },
+            {
+                "characterHeartLevelUpMstId": 35,
+                "heartLevel": 35,
+                "heartLevelUpExp": 61250
+            },
+            {
+                "characterHeartLevelUpMstId": 36,
+                "heartLevel": 36,
+                "heartLevelUpExp": 64800
+            },
+            {
+                "characterHeartLevelUpMstId": 37,
+                "heartLevel": 37,
+                "heartLevelUpExp": 68450
+            },
+            {
+                "characterHeartLevelUpMstId": 38,
+                "heartLevel": 38,
+                "heartLevelUpExp": 72200
+            },
+            {
+                "characterHeartLevelUpMstId": 39,
+                "heartLevel": 39,
+                "heartLevelUpExp": 76050
+            },
+            {
+                "characterHeartLevelUpMstId": 40,
+                "heartLevel": 40,
+                "heartLevelUpExp": 80000
+            },
+            {
+                "characterHeartLevelUpMstId": 41,
+                "heartLevel": 41,
+                "heartLevelUpExp": 84050
+            },
+            {
+                "characterHeartLevelUpMstId": 42,
+                "heartLevel": 42,
+                "heartLevelUpExp": 88200
+            },
+            {
+                "characterHeartLevelUpMstId": 43,
+                "heartLevel": 43,
+                "heartLevelUpExp": 92450
+            },
+            {
+                "characterHeartLevelUpMstId": 44,
+                "heartLevel": 44,
+                "heartLevelUpExp": 96800
+            },
+            {
+                "characterHeartLevelUpMstId": 45,
+                "heartLevel": 45,
+                "heartLevelUpExp": 101250
+            },
+            {
+                "characterHeartLevelUpMstId": 46,
+                "heartLevel": 46,
+                "heartLevelUpExp": 105800
+            },
+            {
+                "characterHeartLevelUpMstId": 47,
+                "heartLevel": 47,
+                "heartLevelUpExp": 110450
+            },
+            {
+                "characterHeartLevelUpMstId": 48,
+                "heartLevel": 48,
+                "heartLevelUpExp": 115200
+            },
+            {
+                "characterHeartLevelUpMstId": 49,
+                "heartLevel": 49,
+                "heartLevelUpExp": 120050
+            },
+            {
+                "characterHeartLevelUpMstId": 50,
+                "heartLevel": 50,
+                "heartLevelUpExp": 0
+            }
+        ]
+    }
+}

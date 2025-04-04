@@ -1,0 +1,68 @@
+{
+    "url": "/api/mst/getScoreAttackStageMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "scoreAttackStageMstId": 101,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902101,
+                "difficulty": 1
+            },
+            {
+                "scoreAttackStageMstId": 102,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902102,
+                "difficulty": 2
+            },
+            {
+                "scoreAttackStageMstId": 103,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902103,
+                "difficulty": 3
+            },
+            {
+                "scoreAttackStageMstId": 104,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902104,
+                "difficulty": 4
+            },
+            {
+                "scoreAttackStageMstId": 105,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902105,
+                "difficulty": 5
+            },
+            {
+                "scoreAttackStageMstId": 106,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902106,
+                "difficulty": 6
+            },
+            {
+                "scoreAttackStageMstId": 107,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902107,
+                "difficulty": 7
+            },
+            {
+                "scoreAttackStageMstId": 108,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902108,
+                "difficulty": 8
+            },
+            {
+                "scoreAttackStageMstId": 109,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902109,
+                "difficulty": 9
+            },
+            {
+                "scoreAttackStageMstId": 110,
+                "scoreAttackMstId": 1,
+                "questStageMstId": 902110,
+                "difficulty": 10
+            }
+        ]
+    }
+}

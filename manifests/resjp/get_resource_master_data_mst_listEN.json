@@ -1,0 +1,728 @@
+{
+    "url": "/api/mst/get_resource_master_data_mst_list",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "language": "en-Latn",
+                "name": "getCollectionParamUpMstList",
+                "size": 36,
+                "revision": "F5uYzj0sJt7T8ZxS_3Yxqg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTalismanParamMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getSubscriptionMissionRewardMstList",
+                "size": 7326,
+                "revision": "XXFBayphQ9FuCq2clmYgHw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getDungeonTypeMstList",
+                "size": 1082,
+                "revision": "_llxT2jJ4sekV_wbaHi1EQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getSkillLevelUpConditionMstList",
+                "size": 5142,
+                "revision": "heZIlGGwNZoZju341NzrnQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestConditionMstList",
+                "size": 4159,
+                "revision": "2mYHwtZbrX9tYgnSGWBTrg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMissionTitleMstList",
+                "size": 1606,
+                "revision": "zpL4pRfFGjgvkTSJ9XiYyw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionParamUpLevelMstList",
+                "size": 14887,
+                "revision": "uNP7de4bsaUt63q8Z9w60Q"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGvgMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestCategoryMstList",
+                "size": 375,
+                "revision": "VhLenKcAXn7i1CwI3C72uw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getEnemyProfileMstList",
+                "size": 21191,
+                "revision": "fab8i4Gnx303b5QBsSGjcw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getShopDetailMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getDungeonEventMstList",
+                "size": 332636,
+                "revision": "m3GOGHBDoeiETOwyqX60NQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getDioramaBackgroundMstList",
+                "size": 16419,
+                "revision": "NuwzLw7Hhcq9Mpif0Oahyg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGatheringRewardMstList",
+                "size": 51884,
+                "revision": "8hZ8X9d28eU3ZPFVX6-5WA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getFieldPointMstList",
+                "size": 269807,
+                "revision": "KvSUtxJ9-EXfZF3AaBFE7Q"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestRewardMstList",
+                "size": 58228,
+                "revision": "nQfxgBsi60kDbwd2qRPIpw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionConditionMstList",
+                "size": 188288,
+                "revision": "_w6Jt1ObM-OQm2vUk8t20A"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionIllustPieceMstList",
+                "size": 7311,
+                "revision": "isobT9Y5DqcyaF3Q6Iglrg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCardLimitBreakMstList",
+                "size": 43869,
+                "revision": "SdgztfBy5TwklLW_jMoa-Q"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getShopMstList",
+                "size": 21847,
+                "revision": "5kIUfOIV4Jofkl9mQooA2g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleFigureStoryMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getPvpPointRewardMstList",
+                "size": 1682,
+                "revision": "FQ2_ewGGraWvLRv2_WcgGw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleLimitBreakMstList",
+                "size": 31113,
+                "revision": "F4XCz_qeukD3qeQWgFgf1w"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTalismanSeriesMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCalculationPointPolicyMstList",
+                "size": 22709,
+                "revision": "59_DGXQ9RIoLXUdBeCyWnA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterAwakeMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGuildMissionMstList",
+                "size": 1748,
+                "revision": "9Q6hG7kfBq_zCpt6xmjk8g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGveMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGveStageMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGvgPointRewardMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStoryEventBonusRateMstList",
+                "size": 2560,
+                "revision": "EstRvRgTcztGbJXe6A3kNA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getPvpRankingRewardMstList",
+                "size": 4017,
+                "revision": "ECtOrMTg9OoT7mmjMLkWJg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getPassiveSkillMstList",
+                "size": 402423,
+                "revision": "R97ximF6UMGUzyPNXvoukA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getSkillMstList",
+                "size": 893904,
+                "revision": "m3CurWrG1hg6DTdJaFz_tA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getAbilityEffectTypeMstList",
+                "size": 35417,
+                "revision": "5W9dBIXyGY4ItuwGfdVXFQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getFieldStageMstList",
+                "size": 11960,
+                "revision": "b_UXD9Z8C7h_eJJwMpsXLA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getDungeonMstList",
+                "size": 99751,
+                "revision": "7V32A6HelONHW2RTCn8x9g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMissionMstList",
+                "size": 240637,
+                "revision": "cawZNgQ6FCIRUwGNKEVD0Q"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterProfileMstList",
+                "size": 14555,
+                "revision": "3GNOOYBuXiZBZt5Eb5PwYQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionIllustMstList",
+                "size": 2638,
+                "revision": "fhhBIQlyQ6_DJ35qYTCkqw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBossDirectionMstList",
+                "size": 12859,
+                "revision": "oavKzFflmB2cZtMHaaStPQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLeaderSkillDetailMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getItemMstList",
+                "size": 19058,
+                "revision": "cnXsmp2zSlNybwWl3nllog"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMapGveMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleLevelUpMstList",
+                "size": 9454,
+                "revision": "YYpRs89vDSnsD1GYnDCbGA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getAdvTitleMstList",
+                "size": 4832,
+                "revision": "dquh5hl6-_jv1xLenEMMHw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getObjectReceiveTypeMstList",
+                "size": 1929,
+                "revision": "-9vBBHl-aqixB4wGhFzmDw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLive2DParamMstList",
+                "size": 92039,
+                "revision": "1iKttD-s0kA3jRJ-7GAkAA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleFigureMstList",
+                "size": 4343,
+                "revision": "0J4eK3Rq6UEVEmTflD2EXQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGveStageRewardMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getScoreAttackTotalScoreRewardMstList",
+                "size": 3295,
+                "revision": "q4wj9uVAdP-Yqm8AEK2oBw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getFieldStratumMstList",
+                "size": 19179,
+                "revision": "jA_DxXEpOIhBf_YuUMWPZg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionConditionGroupMstList",
+                "size": 10199,
+                "revision": "R6_VoYTtvp3OP1oH2ZqH7g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStoryEventMstList",
+                "size": 2048,
+                "revision": "2s5U1S6KhynkAdr6Wj7A6g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMiniTutorialMstList",
+                "size": 29545,
+                "revision": "5E7rdbCytkiibLPSJ4QkgA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBannerLabelMstList",
+                "size": 955,
+                "revision": "n0MKqFoTopaLtExsFf0ObQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGuildTitleMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getShopSeriesMstList",
+                "size": 2258,
+                "revision": "8hQrKLY7LiR8Lc5qt-_-aA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getUserTitleMstList",
+                "size": 8632,
+                "revision": "irvBD-_Wy2Ia7JKX2aceBQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLoginBonusRewardMstList",
+                "size": 3878,
+                "revision": "h12hWogynTU0VQGJCbMRTw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTowerMstList",
+                "size": 99,
+                "revision": "9G-9gzNdBblSIbLbM-uFww"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterHeartMstList",
+                "size": 2757,
+                "revision": "6QolkGVAJLYAUdr0Gs5Dgg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStoryEventScenarioRewardMstList",
+                "size": 2082,
+                "revision": "xMDeZ2iypGnsWX50zgZEXw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getUserLevelUpMstList",
+                "size": 8214,
+                "revision": "8feU9FdL0br8-8o549w7lA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMissionTransitionMstList",
+                "size": 15014,
+                "revision": "v8ISvADD_-Q1YoXylcal4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBannerMstList",
+                "size": 3442,
+                "revision": "BkIA2ZKRB8RtgF_vwchoxw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBattleConditionMstList",
+                "size": 95882,
+                "revision": "X_5S_olQFcrJrYtwpoYO_g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestStageMstList",
+                "size": 703330,
+                "revision": "pun1FS-XOcxugK10unNjaA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBreakMstList",
+                "size": 51132,
+                "revision": "yMxZZ4B33KfcBe-VlEAIZQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterHeartParamUpGroupMstList",
+                "size": 4453,
+                "revision": "1mPVsx9bSyU9mWCd34-cvA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getScoreAttackMstList",
+                "size": 393,
+                "revision": "jFJb2qiQnj7P-S7i_yIGuQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStoryEventQuestStageMstList",
+                "size": 1716,
+                "revision": "HFs8-B3Qo7gScMe6e8EFRw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGatheringLevelMstList",
+                "size": 2803,
+                "revision": "9iYIShSBTYLy1qGVa7q_RA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMapGveAreaMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleParamUpCostMstList",
+                "size": 155895,
+                "revision": "ZUhhxSFpKu6CnNWNAYXWvw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterTeamMstList",
+                "size": 314,
+                "revision": "v6k15xeKS0iarXcVze0wCA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGuildMissionTransitionMstList",
+                "size": 313,
+                "revision": "cK8fn8xxWpDfOmTmMeICIw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleParamUpMstList",
+                "size": 1527936,
+                "revision": "Fl-kkx1iM1cSnKgtj2hxHQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleParamUpTreeMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getScoreAttackStageMstList",
+                "size": 751,
+                "revision": "ypzQkJ7jJ-iiOX8t4v17gg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionParamUpEffectMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestGroupMstList",
+                "size": 8854,
+                "revision": "0nu0lk8aAIMun9Paup_3_w"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getAdvMstList",
+                "size": 148469,
+                "revision": "pH_Z0Qwn2IkmJv9wYkE9SA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterMstList",
+                "size": 3148,
+                "revision": "hsLF9na4KxA78gFwIzjkEg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestMapMstList",
+                "size": 872,
+                "revision": "l8ba3ylTkI75imwHnxcHKg"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getHomeAppealMstList",
+                "size": 25848,
+                "revision": "AF9627c4enc1QwhskaxWng"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestEnemySkillSetMstList",
+                "size": 99478,
+                "revision": "Kca4s5meA-ZVoDRTao2-mQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterHeartLevelUpMstList",
+                "size": 3024,
+                "revision": "u38N5dhGvv4YjAcg3JZ85g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getSoundMstList",
+                "size": 132047,
+                "revision": "p_7uZXLMNijp5Q9Hbe5pDQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLocalizeTextMstListDefaultAndClientDefined",
+                "size": 335819,
+                "revision": "5QaqQAGxAKOQbyskf9xo_g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getDungeonRoomMstList",
+                "size": 148955,
+                "revision": "WkI1K4UJiPpaNOX9kHJc3A"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getEnemyMstList",
+                "size": 92775,
+                "revision": "0SfC95kT9HXNRu0iimsyJw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getMapGvePointMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCardMstList",
+                "size": 24432,
+                "revision": "55L_2qTit-0oL2BmjdCzgQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLeaderSkillMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLocalizeTextMstListDefaultAndServerDefined",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTalismanParamEffectMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getQuestEnemyAppearanceMstList",
+                "size": 3168174,
+                "revision": "ejnowool0f7rPuSIbalmVw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getEnemyConditionSetsAndActionMstList",
+                "size": 136427,
+                "revision": "JJVA9bPuYL5gVLVTkaQPOw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCharacterHeartObjectRewardMstList",
+                "size": 96251,
+                "revision": "eqt9kcWMSsiOMYT-9wDxpw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getPassiveSkillDetailMstList",
+                "size": 956424,
+                "revision": "fCgSJ6tiiueidEc5-s5U7w"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getChatStampMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getScoreAttackHighScoreRewardMstList",
+                "size": 4644,
+                "revision": "oL0IUsI7Q2Zrm50xH2-nEQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getPayTypeMstList",
+                "size": 240,
+                "revision": "-yORY7hvYJ_TDVzB1xuzYA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getFieldSeriesMstList",
+                "size": 3603,
+                "revision": "ST-o8F-jYV8RITh9r5ugOA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getSkillDetailMstList",
+                "size": 930945,
+                "revision": "RIF7tFHHzZdgXvXLqetrUQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleMstList",
+                "size": 38492,
+                "revision": "HuuWD781hG1IB_lp8vfrfA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleLimitBreakEffectMstList",
+                "size": 8707,
+                "revision": "HW8sJ1YP1ef9eePQv4TnvQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLocalizeTextMstListNonDefault",
+                "size": 1601,
+                "revision": "Xc01XCBMIb8FLVoh4GRsMQ"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getHomeBannerMstList",
+                "size": 1189,
+                "revision": "tZAaLFzgkPtvPcddl6Ehlw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getGvgRankingRewardMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTipsMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getCollectionRewardMstList",
+                "size": 2163,
+                "revision": "UrUZKcU-jK46qnDoHmyTJw"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleVoiceMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getBattleConditionSetMstList",
+                "size": 118666,
+                "revision": "bZV9E1Dzt-YA-aCdP5CvFA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStoryEventScenarioMstList",
+                "size": 2153,
+                "revision": "vZbOo7nfknTb1RyvdGqxeA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getLoginBonusMstList",
+                "size": 646,
+                "revision": "PeZdXRXKGUbOPmM_T_AWcA"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getTalismanMstList",
+                "size": 1,
+                "revision": "vJq_G-Wf_OGAJR1MznVf4g"
+            },
+            {
+                "language": "en-Latn",
+                "name": "getStyleParamUpEffectMstList",
+                "size": 1828,
+                "revision": "NFof-_3cTVxc5ktrrz7oog"
+            }
+        ]
+    }
+}

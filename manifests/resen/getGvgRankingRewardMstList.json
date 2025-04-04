@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getGvgRankingRewardMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

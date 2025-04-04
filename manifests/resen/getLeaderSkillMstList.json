@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getLeaderSkillMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

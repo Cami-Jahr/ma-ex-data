@@ -1,0 +1,192 @@
+{
+    "url": "/api/mst/getStoryEventQuestStageMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "questStageMstId": 901101,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 901102,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 901103,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 901104,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 901105,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 901106,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 901107,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 901108,
+                "eventItemNum": 300
+            },
+            {
+                "questStageMstId": 901109,
+                "eventItemNum": 400
+            },
+            {
+                "questStageMstId": 901110,
+                "eventItemNum": 500
+            },
+            {
+                "questStageMstId": 901111,
+                "eventItemNum": 600
+            },
+            {
+                "questStageMstId": 901112,
+                "eventItemNum": 700
+            },
+            {
+                "questStageMstId": 901113,
+                "eventItemNum": 800
+            },
+            {
+                "questStageMstId": 901114,
+                "eventItemNum": 900
+            },
+            {
+                "questStageMstId": 901115,
+                "eventItemNum": 1000
+            },
+            {
+                "questStageMstId": 903101,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 903102,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 903103,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 903104,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 903105,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 903106,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 903107,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 903108,
+                "eventItemNum": 300
+            },
+            {
+                "questStageMstId": 903109,
+                "eventItemNum": 400
+            },
+            {
+                "questStageMstId": 903110,
+                "eventItemNum": 500
+            },
+            {
+                "questStageMstId": 903111,
+                "eventItemNum": 600
+            },
+            {
+                "questStageMstId": 903112,
+                "eventItemNum": 700
+            },
+            {
+                "questStageMstId": 903113,
+                "eventItemNum": 800
+            },
+            {
+                "questStageMstId": 903114,
+                "eventItemNum": 900
+            },
+            {
+                "questStageMstId": 903115,
+                "eventItemNum": 1000
+            },
+            {
+                "questStageMstId": 904101,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 904102,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 904103,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 904104,
+                "eventItemNum": 100
+            },
+            {
+                "questStageMstId": 904105,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 904106,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 904107,
+                "eventItemNum": 200
+            },
+            {
+                "questStageMstId": 904108,
+                "eventItemNum": 300
+            },
+            {
+                "questStageMstId": 904109,
+                "eventItemNum": 400
+            },
+            {
+                "questStageMstId": 904110,
+                "eventItemNum": 500
+            },
+            {
+                "questStageMstId": 904111,
+                "eventItemNum": 600
+            },
+            {
+                "questStageMstId": 904112,
+                "eventItemNum": 700
+            },
+            {
+                "questStageMstId": 904113,
+                "eventItemNum": 800
+            },
+            {
+                "questStageMstId": 904114,
+                "eventItemNum": 900
+            },
+            {
+                "questStageMstId": 904115,
+                "eventItemNum": 1000
+            },
+            {
+                "questStageMstId": 905101,
+                "eventItemNum": 100
+            }
+        ]
+    }
+}

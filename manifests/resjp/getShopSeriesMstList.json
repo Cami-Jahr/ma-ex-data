@@ -1,0 +1,151 @@
+{
+    "url": "/api/mst/getShopSeriesMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "shopSeriesMstId": 1002,
+                "title": "対戦メダル交換所",
+                "description": "",
+                "category": 1,
+                "startTime": "2025-03-27T05:00:00+09:00",
+                "endTime": "2050-12-31T23:59:59+09:00",
+                "shopGroupId1": 1002,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 201009,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 1003,
+                "title": "リメインメダル交換所",
+                "description": "",
+                "category": 1,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2050-12-31T23:59:59+09:00",
+                "shopGroupId1": 1003,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 201011,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 2995,
+                "title": "佐倉杏子ガチャ交換所",
+                "description": "",
+                "category": 2,
+                "startTime": "2025-04-04T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "shopGroupId1": 2995,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 231005,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 2996,
+                "title": "巴マミガチャ交換所",
+                "description": "",
+                "category": 2,
+                "startTime": "2025-03-30T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "shopGroupId1": 2996,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 231003,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 2997,
+                "title": "鹿目まどか＆暁美ほむらガチャ交換所",
+                "description": "",
+                "category": 2,
+                "startTime": "2025-03-26T17:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "shopGroupId1": 2997,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 231001,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 2998,
+                "title": "環いろは＆七海やちよ＆由比鶴乃ガチャ交換所",
+                "description": "",
+                "category": 2,
+                "startTime": "2025-03-26T17:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "shopGroupId1": 2998,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 231002,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 2999,
+                "title": "マギアガチャ交換所",
+                "description": "",
+                "category": 2,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2050-12-31T23:59:59+09:00",
+                "shopGroupId1": 2999,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 231004,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 3996,
+                "title": "フェアウェル・ストーリー 後編イベント交換所",
+                "description": "",
+                "category": 3,
+                "startTime": "2025-04-04T12:00:00+09:00",
+                "endTime": "2025-04-15T11:59:59+09:00",
+                "shopGroupId1": 3996,
+                "shopGroupId2": 3000,
+                "payType": 3,
+                "payId": 201004,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 3997,
+                "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベント交換所",
+                "description": "",
+                "category": 3,
+                "startTime": "2025-04-01T00:00:00+09:00",
+                "endTime": "2025-04-09T11:59:59+09:00",
+                "shopGroupId1": 3997,
+                "shopGroupId2": 0,
+                "payType": 3,
+                "payId": 201005,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 3998,
+                "title": "フェアウェル・ストーリー 前編イベント交換所",
+                "description": "",
+                "category": 3,
+                "startTime": "2025-03-30T12:00:00+09:00",
+                "endTime": "2025-04-15T11:59:59+09:00",
+                "shopGroupId1": 3998,
+                "shopGroupId2": 3000,
+                "payType": 3,
+                "payId": 201007,
+                "resourceName": ""
+            },
+            {
+                "shopSeriesMstId": 3999,
+                "title": "焦らずゆっくり未来へイベント交換所",
+                "description": "",
+                "category": 3,
+                "startTime": "2025-03-27T05:00:00+09:00",
+                "endTime": "2050-12-31T23:59:59+09:00",
+                "shopGroupId1": 3999,
+                "shopGroupId2": 3000,
+                "payType": 3,
+                "payId": 201008,
+                "resourceName": ""
+            }
+        ]
+    }
+}

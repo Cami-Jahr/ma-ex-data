@@ -1,0 +1,38 @@
+{
+    "url": "/api/mst/getQuestCategoryMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "questCategoryMstId": 1,
+                "name": "メインストーリー",
+                "resourceName": ""
+            },
+            {
+                "questCategoryMstId": 4,
+                "name": "強化クエスト",
+                "resourceName": ""
+            },
+            {
+                "questCategoryMstId": 9,
+                "name": "ストーリーイベント",
+                "resourceName": ""
+            },
+            {
+                "questCategoryMstId": 10,
+                "name": "こころの器",
+                "resourceName": ""
+            },
+            {
+                "questCategoryMstId": 11,
+                "name": "スコアアタック",
+                "resourceName": ""
+            },
+            {
+                "questCategoryMstId": 999,
+                "name": "チュートリアル",
+                "resourceName": ""
+            }
+        ]
+    }
+}

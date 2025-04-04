@@ -1,0 +1,1456 @@
+{
+    "url": "/api/mst/getCalculationPointPolicyMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "calculationPointPolicyMstId": 1,
+                "policyType": 1,
+                "coefficientName": "maxRoundBonus",
+                "conditionValue": 0,
+                "value": 5000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 2,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 0,
+                "value": 1000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 3,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 1,
+                "value": 10000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 4,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 2,
+                "value": 11000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 5,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 3,
+                "value": 12000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 6,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 4,
+                "value": 13000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 7,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 5,
+                "value": 15000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 8,
+                "policyType": 1,
+                "coefficientName": "divideDamageBonus",
+                "conditionValue": 0,
+                "value": 9500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 9,
+                "policyType": 1,
+                "coefficientName": "baseAliveBonus",
+                "conditionValue": 0,
+                "value": 1000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 10,
+                "policyType": 3,
+                "coefficientName": "baseBreakGaugeValue",
+                "conditionValue": 0,
+                "value": 100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 11,
+                "policyType": 3,
+                "coefficientName": "rarityBreakGaugeUpRatio",
+                "conditionValue": 3,
+                "value": 0,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 12,
+                "policyType": 3,
+                "coefficientName": "rarityBreakGaugeUpRatio",
+                "conditionValue": 4,
+                "value": 250,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 13,
+                "policyType": 3,
+                "coefficientName": "rarityBreakGaugeUpRatio",
+                "conditionValue": 5,
+                "value": 500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 14,
+                "policyType": 3,
+                "coefficientName": "attackerBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 0,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 15,
+                "policyType": 3,
+                "coefficientName": "breakerBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 0,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 16,
+                "policyType": 3,
+                "coefficientName": "healerBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 200,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 17,
+                "policyType": 3,
+                "coefficientName": "bufferBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 18,
+                "policyType": 3,
+                "coefficientName": "debufferBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 19,
+                "policyType": 3,
+                "coefficientName": "defenderBreakGaugeUpRatio",
+                "conditionValue": 0,
+                "value": 300,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 20,
+                "policyType": 3,
+                "coefficientName": "breakTurnGaugeSlowRatio",
+                "conditionValue": 0,
+                "value": 250,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 21,
+                "policyType": 3,
+                "coefficientName": "initialBreakDamageReceiveRate",
+                "conditionValue": 0,
+                "value": 1000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 22,
+                "policyType": 3,
+                "coefficientName": "maxBreakDamageReceiveRate",
+                "conditionValue": 0,
+                "value": 2000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 23,
+                "policyType": 3,
+                "coefficientName": "damageSuppresionRatio",
+                "conditionValue": 0,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 24,
+                "policyType": 3,
+                "coefficientName": "healValueSuppresionRatio",
+                "conditionValue": 0,
+                "value": 500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 25,
+                "policyType": 3,
+                "coefficientName": "barrierEnduranceSuppresionRatio",
+                "conditionValue": 0,
+                "value": 500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 26,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 1,
+                "value": 900,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 27,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 2,
+                "value": 800,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 28,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 3,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 29,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 4,
+                "value": 700,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 30,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 5,
+                "value": 650,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 31,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 6,
+                "value": 600,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 32,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 7,
+                "value": 550,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 33,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 8,
+                "value": 500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 34,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 9,
+                "value": 450,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 35,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 10,
+                "value": 400,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 36,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 11,
+                "value": 350,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 37,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 12,
+                "value": 300,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 38,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 13,
+                "value": 250,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 39,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 14,
+                "value": 200,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 40,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 15,
+                "value": 150,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 41,
+                "policyType": 1,
+                "coefficientName": "penaltyPerRound",
+                "conditionValue": 16,
+                "value": 100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 42,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 1,
+                "value": 1000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 43,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 2,
+                "value": 1100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 44,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 3,
+                "value": 1200,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 45,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 4,
+                "value": 1300,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 46,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 5,
+                "value": 1400,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 47,
+                "policyType": 1,
+                "coefficientName": "baseHpBonus",
+                "conditionValue": 0,
+                "value": 15000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 48,
+                "policyType": 5,
+                "coefficientName": "basePoint",
+                "conditionValue": 0,
+                "value": 30,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 49,
+                "policyType": 5,
+                "coefficientName": "basePoint",
+                "conditionValue": 1,
+                "value": 60,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 50,
+                "policyType": 5,
+                "coefficientName": "relativelyBonus",
+                "conditionValue": 1,
+                "value": 2250,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 51,
+                "policyType": 5,
+                "coefficientName": "relativelyBonus",
+                "conditionValue": 2,
+                "value": 1500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 52,
+                "policyType": 5,
+                "coefficientName": "relativelyBonus",
+                "conditionValue": 3,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 53,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 1,
+                "value": 1200,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 54,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 2,
+                "value": 1150,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 55,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 3,
+                "value": 1100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 56,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 4,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 57,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 5,
+                "value": 1000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 58,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 6,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 59,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 7,
+                "value": 900,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 60,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 8,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 61,
+                "policyType": 5,
+                "coefficientName": "roundBonus",
+                "conditionValue": 9,
+                "value": 800,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 62,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 0,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 63,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 1,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 64,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 2,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 65,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 3,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 66,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 4,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 67,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 5,
+                "value": 750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 68,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 6,
+                "value": 770,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 69,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 7,
+                "value": 770,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 70,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 8,
+                "value": 770,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 71,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 9,
+                "value": 770,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 72,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 10,
+                "value": 770,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 73,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 11,
+                "value": 790,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 74,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 12,
+                "value": 790,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 75,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 13,
+                "value": 790,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 76,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 14,
+                "value": 790,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 77,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 15,
+                "value": 790,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 78,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 16,
+                "value": 810,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 79,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 17,
+                "value": 810,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 80,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 18,
+                "value": 810,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 81,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 19,
+                "value": 810,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 82,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 20,
+                "value": 810,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 83,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 21,
+                "value": 830,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 84,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 22,
+                "value": 830,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 85,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 23,
+                "value": 830,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 86,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 24,
+                "value": 830,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 87,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 25,
+                "value": 830,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 88,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 26,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 89,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 27,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 90,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 28,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 91,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 29,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 92,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 30,
+                "value": 850,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 93,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 31,
+                "value": 870,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 94,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 32,
+                "value": 870,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 95,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 33,
+                "value": 870,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 96,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 34,
+                "value": 870,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 97,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 35,
+                "value": 870,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 98,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 36,
+                "value": 890,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 99,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 37,
+                "value": 890,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 100,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 38,
+                "value": 890,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 101,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 39,
+                "value": 890,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 102,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 40,
+                "value": 890,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 103,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 41,
+                "value": 910,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 104,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 42,
+                "value": 910,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 105,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 43,
+                "value": 910,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 106,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 44,
+                "value": 910,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 107,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 45,
+                "value": 910,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 108,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 46,
+                "value": 930,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 109,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 47,
+                "value": 930,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 110,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 48,
+                "value": 930,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 111,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 49,
+                "value": 930,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 112,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 50,
+                "value": 930,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 113,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 51,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 114,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 52,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 115,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 53,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 116,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 54,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 117,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 55,
+                "value": 950,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 118,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 56,
+                "value": 970,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 119,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 57,
+                "value": 970,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 120,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 58,
+                "value": 970,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 121,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 59,
+                "value": 970,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 122,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 60,
+                "value": 970,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 123,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 61,
+                "value": 990,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 124,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 62,
+                "value": 990,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 125,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 63,
+                "value": 990,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 126,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 64,
+                "value": 990,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 127,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 65,
+                "value": 990,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 128,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 66,
+                "value": 1010,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 129,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 67,
+                "value": 1010,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 130,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 68,
+                "value": 1010,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 131,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 69,
+                "value": 1010,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 132,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 70,
+                "value": 1010,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 133,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 71,
+                "value": 1030,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 134,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 72,
+                "value": 1030,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 135,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 73,
+                "value": 1030,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 136,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 74,
+                "value": 1030,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 137,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 75,
+                "value": 1030,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 138,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 76,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 139,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 77,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 140,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 78,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 141,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 79,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 142,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 80,
+                "value": 1050,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 143,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 81,
+                "value": 1070,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 144,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 82,
+                "value": 1070,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 145,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 83,
+                "value": 1070,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 146,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 84,
+                "value": 1070,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 147,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 85,
+                "value": 1070,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 148,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 86,
+                "value": 1090,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 149,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 87,
+                "value": 1090,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 150,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 88,
+                "value": 1090,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 151,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 89,
+                "value": 1090,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 152,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 90,
+                "value": 1090,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 153,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 91,
+                "value": 1110,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 154,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 92,
+                "value": 1110,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 155,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 93,
+                "value": 1110,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 156,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 94,
+                "value": 1110,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 157,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 95,
+                "value": 1110,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 158,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 96,
+                "value": 1130,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 159,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 97,
+                "value": 1130,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 160,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 98,
+                "value": 1130,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 161,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 99,
+                "value": 1130,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 162,
+                "policyType": 5,
+                "coefficientName": "hpBonus",
+                "conditionValue": 100,
+                "value": 1130,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 163,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 2,
+                "value": 1040,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 164,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 3,
+                "value": 1060,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 165,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 4,
+                "value": 1080,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 166,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 5,
+                "value": 1100,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 167,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 6,
+                "value": 1120,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 168,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 7,
+                "value": 1140,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 169,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 8,
+                "value": 1160,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 170,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 9,
+                "value": 1180,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 171,
+                "policyType": 5,
+                "coefficientName": "winStreakBonus",
+                "conditionValue": 10,
+                "value": 1200,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 172,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 6,
+                "value": 20000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 173,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 7,
+                "value": 25000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 174,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 8,
+                "value": 30000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 175,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 9,
+                "value": 45000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 176,
+                "policyType": 1,
+                "coefficientName": "difficultyBonus",
+                "conditionValue": 10,
+                "value": 60000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 177,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 6,
+                "value": 1500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 178,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 7,
+                "value": 1600,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 179,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 8,
+                "value": 1750,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 180,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 9,
+                "value": 2000,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            },
+            {
+                "calculationPointPolicyMstId": 181,
+                "policyType": 1,
+                "coefficientName": "difficultyCoefficient",
+                "conditionValue": 10,
+                "value": 2500,
+                "startTime": "2020-01-01T00:00:00+09:00"
+            }
+        ]
+    }
+}

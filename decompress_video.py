@@ -23,9 +23,9 @@ def create(dst_root, file_name_root, run_config, is_mini):
         run_config += [
             dst_file,
         ]
-        print("Running:", " ".join(run_config))
+        print(run_config)
         if (e := Popen(run_config, stdout=DEVNULL, stderr=PIPE).stderr.read()) != b"":  # type: ignore
-            print(f"Creating {dst_file} failed because of {e}")
+            print(f"ERROR: Creating {dst_file} failed because of {e}")
 
 
 def convert(src_dir, mini_dst_dir, full_dst_dir):
@@ -37,31 +37,33 @@ def convert(src_dir, mini_dst_dir, full_dst_dir):
     for root, _, files in os.walk(src_dir):
         di = defaultdict(list)
         for f in files:
-            di[f.split("_")[0]].append(f)
-        for file_hash in di.values():
+            if "adx" in f or "m2v" in f:
+                di[f.rsplit("_", 1)[0]].append(f)
+        print(di)
+        for file_name, composite_files in di.items():
+            print(file_name, composite_files)
             run_config = ["ffmpeg", "-y"]
-            for file in [x for x in file_hash if "." in x]:
+            for file in composite_files:
                 abs_path = os.path.join(root, file)
                 run_config += ["-i", abs_path]
-            file_name_root = next(x for x in file_hash if "." not in x)
 
             create(
                 root.replace(src_dir, mini_dst_dir),
-                file_name_root,
+                file_name,
                 run_config.copy(),
                 True,
             )
             create(
                 root.replace(src_dir, full_dst_dir),
-                file_name_root,
+                file_name,
                 run_config.copy(),
                 False,
             )
 
 
-if __name__ == "__main_:":
+if __name__ == "__main__":
     convert(
-        r"D:\madoka-exedra\processed\media\assets\video",
-        r"D:\madoka-exedra\full\media\assets\video",
-        r"D:\madoka-exedra\mini\media\assets\video",
+        r"D:\madoka-exedra\processed\gallery\kfOi\CriMovie",
+        r"D:\madoka-exedra\mini\gallery\kfOi\CriMovie",
+        r"D:\madoka-exedra\full\gallery\kfOi\CriMovie",
     )

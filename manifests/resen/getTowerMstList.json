@@ -1,0 +1,15 @@
+{
+    "url": "/api/mst/getTowerMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "towerMstId": 1,
+                "eventType": 1,
+                "startTime": "2025-04-10T12:00:00+09:00",
+                "endTime": "2025-04-24T11:59:59+09:00",
+                "reprintNum": 20250410
+            }
+        ]
+    }
+}

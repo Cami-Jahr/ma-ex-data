@@ -6,4 +6,7 @@ processed
 full
 com.aniplex.magia.exedra.en
 # processed and full are for complete uncompressed data and temp data, can be created from main.py based off of com.aniplex.magia.exedra.en
-
+vgm*
+VGM*
+AssetStudio*
+CubismViewer*

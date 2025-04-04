@@ -1,0 +1,96 @@
+{
+    "url": "/api/mst/getHomeBannerMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "homeBannerMstId": 6,
+                "bannerMstId": 6,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "sortOrder": 4,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 12,
+                "bannerMstId": 12,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "sortOrder": 3,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 21,
+                "bannerMstId": 21,
+                "startTime": "2025-03-30T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "sortOrder": 13,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 22,
+                "bannerMstId": 22,
+                "startTime": "2025-04-04T13:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "sortOrder": 23,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 25,
+                "bannerMstId": 25,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "sortOrder": 5,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 26,
+                "bannerMstId": 26,
+                "startTime": "2025-03-30T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "sortOrder": 12,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 27,
+                "bannerMstId": 27,
+                "startTime": "2025-04-01T00:00:00+09:00",
+                "endTime": "2025-04-08T11:59:59+09:00",
+                "sortOrder": 21,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 28,
+                "bannerMstId": 28,
+                "startTime": "2025-04-04T12:00:00+09:00",
+                "endTime": "2025-04-14T11:59:59+09:00",
+                "sortOrder": 22,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 29,
+                "bannerMstId": 29,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "sortOrder": 2,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 30,
+                "bannerMstId": 30,
+                "startTime": "2025-01-30T12:00:00+09:00",
+                "endTime": "2025-04-10T11:59:59+09:00",
+                "sortOrder": 1,
+                "osType": 0
+            },
+            {
+                "homeBannerMstId": 53,
+                "bannerMstId": 53,
+                "startTime": "2025-03-30T12:00:00+09:00",
+                "endTime": "2025-04-01T11:59:59+09:00",
+                "sortOrder": 11,
+                "osType": 0
+            }
+        ]
+    }
+}

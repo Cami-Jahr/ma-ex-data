@@ -1,0 +1,386 @@
+{
+    "url": "/api/mst/getPvpRankingRewardMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "pvpRankingRewardMstId": 10101,
+                "ranking": 1,
+                "objectReceiveType": 15,
+                "objectId": 30010001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10102,
+                "ranking": 1,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 30000
+            },
+            {
+                "pvpRankingRewardMstId": 10103,
+                "ranking": 1,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 5
+            },
+            {
+                "pvpRankingRewardMstId": 10104,
+                "ranking": 2,
+                "objectReceiveType": 15,
+                "objectId": 30010002,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10105,
+                "ranking": 2,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 30000
+            },
+            {
+                "pvpRankingRewardMstId": 10106,
+                "ranking": 2,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 5
+            },
+            {
+                "pvpRankingRewardMstId": 10107,
+                "ranking": 3,
+                "objectReceiveType": 15,
+                "objectId": 30010003,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10108,
+                "ranking": 3,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 30000
+            },
+            {
+                "pvpRankingRewardMstId": 10109,
+                "ranking": 3,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 5
+            },
+            {
+                "pvpRankingRewardMstId": 10110,
+                "ranking": 4,
+                "objectReceiveType": 15,
+                "objectId": 30010004,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10111,
+                "ranking": 4,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 18000
+            },
+            {
+                "pvpRankingRewardMstId": 10112,
+                "ranking": 4,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 3
+            },
+            {
+                "pvpRankingRewardMstId": 10113,
+                "ranking": 5,
+                "objectReceiveType": 15,
+                "objectId": 30010005,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10114,
+                "ranking": 5,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 18000
+            },
+            {
+                "pvpRankingRewardMstId": 10115,
+                "ranking": 5,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 3
+            },
+            {
+                "pvpRankingRewardMstId": 10116,
+                "ranking": 6,
+                "objectReceiveType": 15,
+                "objectId": 30010006,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10117,
+                "ranking": 6,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 12000
+            },
+            {
+                "pvpRankingRewardMstId": 10118,
+                "ranking": 6,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 2
+            },
+            {
+                "pvpRankingRewardMstId": 10119,
+                "ranking": 7,
+                "objectReceiveType": 15,
+                "objectId": 30010007,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10120,
+                "ranking": 7,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 12000
+            },
+            {
+                "pvpRankingRewardMstId": 10121,
+                "ranking": 7,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 2
+            },
+            {
+                "pvpRankingRewardMstId": 10122,
+                "ranking": 8,
+                "objectReceiveType": 15,
+                "objectId": 30010008,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10123,
+                "ranking": 8,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 12000
+            },
+            {
+                "pvpRankingRewardMstId": 10124,
+                "ranking": 8,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 2
+            },
+            {
+                "pvpRankingRewardMstId": 10125,
+                "ranking": 9,
+                "objectReceiveType": 15,
+                "objectId": 30010009,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10126,
+                "ranking": 9,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 12000
+            },
+            {
+                "pvpRankingRewardMstId": 10127,
+                "ranking": 9,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 2
+            },
+            {
+                "pvpRankingRewardMstId": 10128,
+                "ranking": 10,
+                "objectReceiveType": 15,
+                "objectId": 30010010,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10129,
+                "ranking": 10,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 12000
+            },
+            {
+                "pvpRankingRewardMstId": 10130,
+                "ranking": 10,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 2
+            },
+            {
+                "pvpRankingRewardMstId": 10131,
+                "ranking": 50,
+                "objectReceiveType": 15,
+                "objectId": 30010011,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10132,
+                "ranking": 50,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 6000
+            },
+            {
+                "pvpRankingRewardMstId": 10133,
+                "ranking": 50,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10134,
+                "ranking": 100,
+                "objectReceiveType": 15,
+                "objectId": 30010012,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10135,
+                "ranking": 100,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 6000
+            },
+            {
+                "pvpRankingRewardMstId": 10136,
+                "ranking": 100,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10137,
+                "ranking": 500,
+                "objectReceiveType": 15,
+                "objectId": 30010013,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10138,
+                "ranking": 500,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 6000
+            },
+            {
+                "pvpRankingRewardMstId": 10139,
+                "ranking": 500,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10140,
+                "ranking": 1000,
+                "objectReceiveType": 15,
+                "objectId": 30010014,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10141,
+                "ranking": 1000,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 3000
+            },
+            {
+                "pvpRankingRewardMstId": 10142,
+                "ranking": 1000,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10143,
+                "ranking": 2000,
+                "objectReceiveType": 15,
+                "objectId": 30010015,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10144,
+                "ranking": 2000,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 3000
+            },
+            {
+                "pvpRankingRewardMstId": 10145,
+                "ranking": 2000,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10146,
+                "ranking": 5000,
+                "objectReceiveType": 15,
+                "objectId": 30010016,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10147,
+                "ranking": 5000,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 3000
+            },
+            {
+                "pvpRankingRewardMstId": 10148,
+                "ranking": 5000,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10149,
+                "ranking": 10000,
+                "objectReceiveType": 15,
+                "objectId": 30010017,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10150,
+                "ranking": 10000,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 3000
+            },
+            {
+                "pvpRankingRewardMstId": 10151,
+                "ranking": 10000,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10152,
+                "ranking": 20000,
+                "objectReceiveType": 15,
+                "objectId": 30010018,
+                "num": 1
+            },
+            {
+                "pvpRankingRewardMstId": 10153,
+                "ranking": 20000,
+                "objectReceiveType": 5,
+                "objectId": 201009,
+                "num": 3000
+            },
+            {
+                "pvpRankingRewardMstId": 10154,
+                "ranking": 20000,
+                "objectReceiveType": 5,
+                "objectId": 232001,
+                "num": 1
+            }
+        ]
+    }
+}

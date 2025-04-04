@@ -1,0 +1,212 @@
+{
+    "url": "/api/mst/getCharacterHeartMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "characterHeartMstId": 1000,
+                "characterMstId": 1000,
+                "paramUpGroupId": 0,
+                "objectRewardGroupId": 1000
+            },
+            {
+                "characterHeartMstId": 1001,
+                "characterMstId": 1001,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1001
+            },
+            {
+                "characterHeartMstId": 1002,
+                "characterMstId": 1002,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1002
+            },
+            {
+                "characterHeartMstId": 1003,
+                "characterMstId": 1003,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1003
+            },
+            {
+                "characterHeartMstId": 1005,
+                "characterMstId": 1005,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1005
+            },
+            {
+                "characterHeartMstId": 1008,
+                "characterMstId": 1008,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1008
+            },
+            {
+                "characterHeartMstId": 1009,
+                "characterMstId": 1009,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1009
+            },
+            {
+                "characterHeartMstId": 1010,
+                "characterMstId": 1010,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1010
+            },
+            {
+                "characterHeartMstId": 1011,
+                "characterMstId": 1011,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1011
+            },
+            {
+                "characterHeartMstId": 1012,
+                "characterMstId": 1012,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1012
+            },
+            {
+                "characterHeartMstId": 1017,
+                "characterMstId": 1017,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1017
+            },
+            {
+                "characterHeartMstId": 1018,
+                "characterMstId": 1018,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1018
+            },
+            {
+                "characterHeartMstId": 1058,
+                "characterMstId": 1058,
+                "paramUpGroupId": 2,
+                "objectRewardGroupId": 1058
+            },
+            {
+                "characterHeartMstId": 1061,
+                "characterMstId": 1061,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1061
+            },
+            {
+                "characterHeartMstId": 1067,
+                "characterMstId": 1067,
+                "paramUpGroupId": 2,
+                "objectRewardGroupId": 1067
+            },
+            {
+                "characterHeartMstId": 1068,
+                "characterMstId": 1068,
+                "paramUpGroupId": 2,
+                "objectRewardGroupId": 1068
+            },
+            {
+                "characterHeartMstId": 1069,
+                "characterMstId": 1069,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1069
+            },
+            {
+                "characterHeartMstId": 1070,
+                "characterMstId": 1070,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1070
+            },
+            {
+                "characterHeartMstId": 1071,
+                "characterMstId": 1071,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1071
+            },
+            {
+                "characterHeartMstId": 1072,
+                "characterMstId": 1072,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1072
+            },
+            {
+                "characterHeartMstId": 1074,
+                "characterMstId": 1074,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1074
+            },
+            {
+                "characterHeartMstId": 1076,
+                "characterMstId": 1076,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1076
+            },
+            {
+                "characterHeartMstId": 1080,
+                "characterMstId": 1080,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1080
+            },
+            {
+                "characterHeartMstId": 1081,
+                "characterMstId": 1081,
+                "paramUpGroupId": 2,
+                "objectRewardGroupId": 1081
+            },
+            {
+                "characterHeartMstId": 1082,
+                "characterMstId": 1082,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1082
+            },
+            {
+                "characterHeartMstId": 1083,
+                "characterMstId": 1083,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1083
+            },
+            {
+                "characterHeartMstId": 1084,
+                "characterMstId": 1084,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1084
+            },
+            {
+                "characterHeartMstId": 1086,
+                "characterMstId": 1086,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1086
+            },
+            {
+                "characterHeartMstId": 1090,
+                "characterMstId": 1090,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1090
+            },
+            {
+                "characterHeartMstId": 1107,
+                "characterMstId": 1107,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1107
+            },
+            {
+                "characterHeartMstId": 1114,
+                "characterMstId": 1114,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1114
+            },
+            {
+                "characterHeartMstId": 1124,
+                "characterMstId": 1124,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1124
+            },
+            {
+                "characterHeartMstId": 1125,
+                "characterMstId": 1125,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1125
+            },
+            {
+                "characterHeartMstId": 1126,
+                "characterMstId": 1126,
+                "paramUpGroupId": 1,
+                "objectRewardGroupId": 1126
+            }
+        ]
+    }
+}

@@ -1,0 +1,680 @@
+{
+    "url": "/api/mst/getCollectionConditionGroupMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "collectionConditionGroupMstId": 10,
+                "fieldSeriesMstId": 60000,
+                "conditionGroupId1": 1006,
+                "conditionGroupId2": 1001,
+                "advMstId1": 70000060,
+                "advMstId2": 70000191
+            },
+            {
+                "collectionConditionGroupMstId": 11,
+                "fieldSeriesMstId": 60001,
+                "conditionGroupId1": 1008,
+                "conditionGroupId2": 1005,
+                "advMstId1": 70000061,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 12,
+                "fieldSeriesMstId": 60100,
+                "conditionGroupId1": 1003,
+                "conditionGroupId2": 1004,
+                "advMstId1": 70000062,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 13,
+                "fieldSeriesMstId": 60200,
+                "conditionGroupId1": 1002,
+                "conditionGroupId2": 1007,
+                "advMstId1": 70000063,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 14,
+                "fieldSeriesMstId": 60300,
+                "conditionGroupId1": 10008,
+                "conditionGroupId2": 10006,
+                "advMstId1": 70000064,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 15,
+                "fieldSeriesMstId": 60400,
+                "conditionGroupId1": 10012,
+                "conditionGroupId2": 10007,
+                "advMstId1": 70000065,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 16,
+                "fieldSeriesMstId": 60500,
+                "conditionGroupId1": 10011,
+                "conditionGroupId2": 10005,
+                "advMstId1": 70000066,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 17,
+                "fieldSeriesMstId": 60600,
+                "conditionGroupId1": 10009,
+                "conditionGroupId2": 10001,
+                "advMstId1": 70000067,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 18,
+                "fieldSeriesMstId": 60700,
+                "conditionGroupId1": 10004,
+                "conditionGroupId2": 10010,
+                "advMstId1": 70000068,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 19,
+                "fieldSeriesMstId": 60800,
+                "conditionGroupId1": 10002,
+                "conditionGroupId2": 10003,
+                "advMstId1": 70000069,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 20,
+                "fieldSeriesMstId": 60900,
+                "conditionGroupId1": 11001,
+                "conditionGroupId2": 11007,
+                "advMstId1": 70000070,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 21,
+                "fieldSeriesMstId": 61000,
+                "conditionGroupId1": 11008,
+                "conditionGroupId2": 11005,
+                "advMstId1": 70000071,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 22,
+                "fieldSeriesMstId": 61100,
+                "conditionGroupId1": 11004,
+                "conditionGroupId2": 11006,
+                "advMstId1": 70000072,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 23,
+                "fieldSeriesMstId": 61200,
+                "conditionGroupId1": 11002,
+                "conditionGroupId2": 11003,
+                "advMstId1": 70000073,
+                "advMstId2": 70000088
+            },
+            {
+                "collectionConditionGroupMstId": 24,
+                "fieldSeriesMstId": 60000,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1110,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 25,
+                "fieldSeriesMstId": 60001,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1103,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 26,
+                "fieldSeriesMstId": 60100,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1113,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 27,
+                "fieldSeriesMstId": 60200,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1107,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 28,
+                "fieldSeriesMstId": 60300,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1101,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 29,
+                "fieldSeriesMstId": 60400,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1108,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 30,
+                "fieldSeriesMstId": 60500,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1111,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 31,
+                "fieldSeriesMstId": 60600,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1105,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 32,
+                "fieldSeriesMstId": 60700,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1109,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 33,
+                "fieldSeriesMstId": 60800,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1114,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 34,
+                "fieldSeriesMstId": 60900,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1112,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 35,
+                "fieldSeriesMstId": 61000,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1102,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 36,
+                "fieldSeriesMstId": 61100,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1104,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 37,
+                "fieldSeriesMstId": 61200,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 1106,
+                "advMstId1": 0,
+                "advMstId2": 70000089
+            },
+            {
+                "collectionConditionGroupMstId": 38,
+                "fieldSeriesMstId": 60000,
+                "conditionGroupId1": 1223,
+                "conditionGroupId2": 1215,
+                "advMstId1": 70000203,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 39,
+                "fieldSeriesMstId": 60001,
+                "conditionGroupId1": 1201,
+                "conditionGroupId2": 1222,
+                "advMstId1": 70000204,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 40,
+                "fieldSeriesMstId": 60100,
+                "conditionGroupId1": 1227,
+                "conditionGroupId2": 1225,
+                "advMstId1": 70000205,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 41,
+                "fieldSeriesMstId": 60200,
+                "conditionGroupId1": 1205,
+                "conditionGroupId2": 1221,
+                "advMstId1": 70000206,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 42,
+                "fieldSeriesMstId": 60300,
+                "conditionGroupId1": 1212,
+                "conditionGroupId2": 1214,
+                "advMstId1": 70000207,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 43,
+                "fieldSeriesMstId": 60400,
+                "conditionGroupId1": 1213,
+                "conditionGroupId2": 1226,
+                "advMstId1": 70000208,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 44,
+                "fieldSeriesMstId": 60500,
+                "conditionGroupId1": 1211,
+                "conditionGroupId2": 1217,
+                "advMstId1": 70000209,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 45,
+                "fieldSeriesMstId": 60600,
+                "conditionGroupId1": 1203,
+                "conditionGroupId2": 1210,
+                "advMstId1": 70000210,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 46,
+                "fieldSeriesMstId": 60700,
+                "conditionGroupId1": 1228,
+                "conditionGroupId2": 1224,
+                "advMstId1": 70000211,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 47,
+                "fieldSeriesMstId": 60800,
+                "conditionGroupId1": 1202,
+                "conditionGroupId2": 1209,
+                "advMstId1": 70000212,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 48,
+                "fieldSeriesMstId": 60900,
+                "conditionGroupId1": 1207,
+                "conditionGroupId2": 1220,
+                "advMstId1": 70000213,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 49,
+                "fieldSeriesMstId": 61000,
+                "conditionGroupId1": 1216,
+                "conditionGroupId2": 1219,
+                "advMstId1": 70000214,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 50,
+                "fieldSeriesMstId": 61100,
+                "conditionGroupId1": 1204,
+                "conditionGroupId2": 1218,
+                "advMstId1": 70000215,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 51,
+                "fieldSeriesMstId": 61200,
+                "conditionGroupId1": 1208,
+                "conditionGroupId2": 1206,
+                "advMstId1": 70000216,
+                "advMstId2": 70000090
+            },
+            {
+                "collectionConditionGroupMstId": 52,
+                "fieldSeriesMstId": 61700,
+                "conditionGroupId1": 2007,
+                "conditionGroupId2": 2015,
+                "advMstId1": 70000074,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 53,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 2006,
+                "conditionGroupId2": 2018,
+                "advMstId1": 70000075,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 54,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 2014,
+                "conditionGroupId2": 2003,
+                "advMstId1": 70000076,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 55,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2012,
+                "conditionGroupId2": 2017,
+                "advMstId1": 70000077,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 56,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2001,
+                "conditionGroupId2": 2005,
+                "advMstId1": 70000078,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 57,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2004,
+                "conditionGroupId2": 2019,
+                "advMstId1": 70000079,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 58,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2020,
+                "conditionGroupId2": 2013,
+                "advMstId1": 70000080,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 59,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2009,
+                "conditionGroupId2": 2011,
+                "advMstId1": 70000081,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 60,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2002,
+                "conditionGroupId2": 2010,
+                "advMstId1": 70000082,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 61,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2008,
+                "conditionGroupId2": 2016,
+                "advMstId1": 70000083,
+                "advMstId2": 70000091
+            },
+            {
+                "collectionConditionGroupMstId": 62,
+                "fieldSeriesMstId": 61700,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2107,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 63,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2103,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 64,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2109,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 65,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2101,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 66,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2102,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 67,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2104,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 68,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2108,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 69,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2105,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 70,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2110,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 71,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 2106,
+                "advMstId1": 0,
+                "advMstId2": 70000092
+            },
+            {
+                "collectionConditionGroupMstId": 72,
+                "fieldSeriesMstId": 61700,
+                "conditionGroupId1": 2201,
+                "conditionGroupId2": 2216,
+                "advMstId1": 70000217,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 73,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 2220,
+                "conditionGroupId2": 2214,
+                "advMstId1": 70000218,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 74,
+                "fieldSeriesMstId": 61800,
+                "conditionGroupId1": 2211,
+                "conditionGroupId2": 2218,
+                "advMstId1": 70000219,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 75,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2205,
+                "conditionGroupId2": 2203,
+                "advMstId1": 70000220,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 76,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2202,
+                "conditionGroupId2": 2217,
+                "advMstId1": 70000221,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 77,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2219,
+                "conditionGroupId2": 2213,
+                "advMstId1": 70000222,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 78,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2207,
+                "conditionGroupId2": 2204,
+                "advMstId1": 70000223,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 79,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2206,
+                "conditionGroupId2": 2210,
+                "advMstId1": 70000224,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 80,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2212,
+                "conditionGroupId2": 2209,
+                "advMstId1": 70000225,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 81,
+                "fieldSeriesMstId": 0,
+                "conditionGroupId1": 2215,
+                "conditionGroupId2": 2208,
+                "advMstId1": 70000226,
+                "advMstId2": 70000093
+            },
+            {
+                "collectionConditionGroupMstId": 82,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3011,
+                "conditionGroupId2": 3012,
+                "advMstId1": 70000084,
+                "advMstId2": 70000094
+            },
+            {
+                "collectionConditionGroupMstId": 83,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3005,
+                "conditionGroupId2": 3004,
+                "advMstId1": 70000085,
+                "advMstId2": 70000094
+            },
+            {
+                "collectionConditionGroupMstId": 84,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3003,
+                "conditionGroupId2": 3014,
+                "advMstId1": 70000086,
+                "advMstId2": 70000094
+            },
+            {
+                "collectionConditionGroupMstId": 85,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3001,
+                "conditionGroupId2": 0,
+                "advMstId1": 70000087,
+                "advMstId2": 70000094
+            },
+            {
+                "collectionConditionGroupMstId": 86,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3013,
+                "conditionGroupId2": 3006,
+                "advMstId1": 0,
+                "advMstId2": 70000095
+            },
+            {
+                "collectionConditionGroupMstId": 87,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3010,
+                "conditionGroupId2": 3016,
+                "advMstId1": 0,
+                "advMstId2": 70000095
+            },
+            {
+                "collectionConditionGroupMstId": 88,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3018,
+                "conditionGroupId2": 3002,
+                "advMstId1": 0,
+                "advMstId2": 70000095
+            },
+            {
+                "collectionConditionGroupMstId": 89,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3007,
+                "conditionGroupId2": 0,
+                "advMstId1": 0,
+                "advMstId2": 70000095
+            },
+            {
+                "collectionConditionGroupMstId": 90,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 3019,
+                "advMstId1": 0,
+                "advMstId2": 70000096
+            },
+            {
+                "collectionConditionGroupMstId": 91,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3017,
+                "conditionGroupId2": 3015,
+                "advMstId1": 70000227,
+                "advMstId2": 70000096
+            },
+            {
+                "collectionConditionGroupMstId": 92,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 0,
+                "conditionGroupId2": 3008,
+                "advMstId1": 0,
+                "advMstId2": 70000096
+            },
+            {
+                "collectionConditionGroupMstId": 93,
+                "fieldSeriesMstId": 61500,
+                "conditionGroupId1": 3009,
+                "conditionGroupId2": 0,
+                "advMstId1": 70000228,
+                "advMstId2": 70000096
+            }
+        ]
+    }
+}
