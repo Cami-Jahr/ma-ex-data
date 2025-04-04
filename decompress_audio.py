@@ -70,7 +70,7 @@ def minimize(src_dir, dst_dir):
             dst_file = os.path.join(dst_root, f"{file[:-4]}.ogg")
             if file[-4:] == ".wav" and not os.path.isfile(dst_file):
                 os.makedirs(dst_root, 0o755, exist_ok=True)
-                if (
+                if b"Encoding complete" not in (
                     e := Popen(
                         [
                             "VGM/opusenc.exe",
@@ -80,7 +80,7 @@ def minimize(src_dir, dst_dir):
                         stderr=PIPE,
                         stdout=DEVNULL,
                     ).stderr.read()  # type: ignore
-                ) != b"":
+                ):
                     print(
                         f"ERROR: [ {" ".join([
                                 "VGM/opusenc.exe",

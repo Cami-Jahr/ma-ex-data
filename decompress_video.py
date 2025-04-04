@@ -23,7 +23,6 @@ def create(dst_root, file_name_root, run_config, is_mini):
         run_config += [
             dst_file,
         ]
-        print(run_config)
         if (e := Popen(run_config, stdout=DEVNULL, stderr=PIPE).stderr.read()) != b"":  # type: ignore
             print(f"ERROR: Creating {dst_file} failed because of {e}")
 
@@ -39,9 +38,8 @@ def convert(src_dir, mini_dst_dir, full_dst_dir):
         for f in files:
             if "adx" in f or "m2v" in f:
                 di[f.rsplit("_", 1)[0]].append(f)
-        print(di)
+
         for file_name, composite_files in di.items():
-            print(file_name, composite_files)
             run_config = ["ffmpeg", "-y"]
             for file in composite_files:
                 abs_path = os.path.join(root, file)
