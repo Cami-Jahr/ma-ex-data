@@ -11,7 +11,7 @@
 |role                = Breaker
 |date                = 2024-03-26
 }}
-'''Seika's Kioku''' is a [[Kioku]] for [[Seika Kumi] obtained from [[Fate Weaves]].
+'''Seika's Kioku''' is a [[Kioku]] for [[Seika Kumi]] obtained from [[Fate Weaves]].
 
 ==Kioku Details==
 The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.

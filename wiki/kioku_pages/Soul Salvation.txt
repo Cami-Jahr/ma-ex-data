@@ -11,7 +11,7 @@
 |role                = Debuffer
 |date                = 2024-03-26
 }}
-'''Soul Salvation''' is a [[Kioku]] for [[Ren Isuzu] obtained from [[Fate Weaves]].
+'''Soul Salvation''' is a [[Kioku]] for [[Ren Isuzu]] obtained from [[Fate Weaves]].
 
 ==Kioku Details==
 The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.

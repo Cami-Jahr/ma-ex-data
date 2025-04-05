@@ -11,7 +11,7 @@
 |role                = Healer
 |date                = 2024-03-26
 }}
-'''Konoha's Kioku''' is a [[Kioku]] for [[Konoha Shizumi] obtained from [[Fate Weaves]].
+'''Konoha's Kioku''' is a [[Kioku]] for [[Konoha Shizumi]] obtained from [[Fate Weaves]].
 
 ==Kioku Details==
 The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.

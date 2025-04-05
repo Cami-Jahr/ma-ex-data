@@ -11,7 +11,7 @@
 |role                = Buffer
 |date                = 2025-03-30
 }}
-'''Tiro Finale''' is a [[Kioku]] for [[Mami Tomoe] obtained from [[Fate Weaves]].
+'''Tiro Finale''' is a [[Kioku]] for [[Mami Tomoe]] obtained from [[Fate Weaves]].
 
 ==Kioku Details==
 The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
