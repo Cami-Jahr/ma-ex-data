@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Judgement Ray
+|skill_name_jp              = ジャッジメントレイ
+|skill_effect               = Deals 90% light DMG to all enemies, and when fewer than 5 enemies are present, deals 10% of battle skill as light DMG (count increases with fewer enemies; max 4 times).<br>With 2 or more enemies present, grants 5 MP to self, plus an additional 5 MP for each enemy above 2.
+|skill_image                = All-Target Attack
+|skill_progression          = [('90', '93', '97', '102', '107', '112', '117', '123', '128', '135'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10')]
+|normal_attack_effect       = Deals 50% light DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Oracle Ray
+|special_attack_name_jp     = オラクルレイ
+|special_attack_effect      = Deals 160% light DMG to all enemies, and when fewer than 5 enemies are present, deals 10% of special attack DMG as light DMG (count increases with fewer enemies; max 4 times).
+|special_attack_image       = All-Target Attack
+|special_attack_progression = [('160', '165', '173', '182', '195', '208', '224', '248', '280', '320'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

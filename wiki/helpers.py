@@ -6,7 +6,7 @@ SOURCE_JP = "manifests/resjp"
 
 
 def get_files(source, file, idfield):
-    with open(os.path.join(source, file), encoding="utf-8") as f:
+    with open(os.path.join(source, f"{file}.json"), encoding="utf-8") as f:
         return {char[idfield]: char for char in json.load(f)["payload"]["mstList"]}
 
 

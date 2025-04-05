@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Shining Verdict
+|skill_name_jp              = 裁きの閃光
+|skill_effect               = Deals 70% dark DMG to all enemies, and deals 30% dark DMG to enemies in break.
+|skill_image                = All-Target Attack
+|skill_progression          = [('70', '74', '78', '83', '88', '94', '100', '106', '112', '120'), ('30', '31', '33', '35', '37', '40', '42', '44', '47', '50')]
+|normal_attack_effect       = Deals 50% dark DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Seraphic Trial
+|special_attack_name_jp     = 粛清天使
+|special_attack_effect      = Deals 130% dark DMG to all enemies.<br>Advances own action order by 50%.
+|special_attack_image       = All-Target Attack
+|special_attack_progression = [('130', '132', '135', '139', '144', '150', '156', '166', '179', '195'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

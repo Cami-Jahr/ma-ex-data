@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Lynx Healing
+|skill_name_jp              = リンクスヒーリング
+|skill_effect               = Restores HP equal to 12% of user's HP +30 to a single ally and allies in proximity of the target, and removes all ailments.
+|skill_image                = Restore HP
+|skill_progression          = [('12', '12', '13', '14', '14', '15', '16', '16', '17', '18')]
+|normal_attack_effect       = Deals 50% forest DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Lynx Impact
+|special_attack_name_jp     = リンクスインパクト
+|special_attack_effect      = Deals 180% forest DMG to a single enemy.<br>Restores all allies' HP by 9% of user's HP +54.
+|special_attack_image       = Restore HP
+|special_attack_progression = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('9', '9', '10', '11', '11', '12', '13', '13', '14', '15')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

@@ -34,11 +34,11 @@ region_map = {}
 
 
 def create_character_pages():
-    teams = helpers.get_both("getCharacterTeamMstList.json", "characterTeamMstId")
-    profiles = helpers.get_both("getCharacterProfileMstList.json", "characterMstId")
-    characters = helpers.get_both("getCharacterMstList.json", "characterMstId")
-    stories = helpers.get_both("getAdvMstList.json", "advMstId")
-    story_titles = helpers.get_both("getAdvTitleMstList.json", "advTitleMstId")
+    teams = helpers.get_both("getCharacterTeamMstList", "characterTeamMstId")
+    profiles = helpers.get_both("getCharacterProfileMstList", "characterMstId")
+    characters = helpers.get_both("getCharacterMstList", "characterMstId")
+    stories = helpers.get_both("getAdvMstList", "advMstId")
+    story_titles = helpers.get_both("getAdvTitleMstList", "advTitleMstId")
 
     for character_en in characters["en"].values():
         profile_en = profiles["en"][character_en["characterMstId"]]

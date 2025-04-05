@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Crimson Lotus Spear
+|skill_name_jp              = 紅蓮の槍
+|skill_effect               = Deals 180% flame DMG to a single enemy.<br>If target not in break, increases own SPD by 15% (2 turns).<br>If target in break, increases own ATK by 10% (2 turns).
+|skill_image                = Single-Target Attack
+|skill_progression          = [('180', '186', '194', '204', '213', '223', '234', '245', '256', '270'), ('15', '16', '17', '19', '21', '22', '24', '26', '28', '30'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20')]
+|normal_attack_effect       = Deals 50% flame DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Kugatachi
+|special_attack_name_jp     = 盟神抉槍
+|special_attack_effect      = Deals 320% flame DMG to a single enemy.<br>If target's break bonus is 350% or higher, increases DMG dealt by 30%.
+|special_attack_image       = Single-Target Attack
+|special_attack_progression = [('320', '325', '334', '345', '360', '374', '392', '419', '455', '500'), ('350', '350', '350', '350', '350', '350', '350', '350', '350', '350'), ('30', '30', '30', '30', '30', '30', '30', '30', '30', '30')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Merciful Relief
+|skill_name_jp              = マーシー・レリーフ
+|skill_effect               = Deals 120% void DMG to a single enemy and 90% void DMG to enemies in proximity.<br>100% chance to wound (40% / 2 turns) targets and decrease their DEF by 10% (2 turns).<br>Grants 1 Magic to self.
+|skill_image                = Wound
+|skill_progression          = [('120', '124', '130', '136', '142', '149', '156', '163', '171', '180'), ('90', '93', '97', '102', '107', '112', '117', '123', '128', '135'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100'), ('40', '41', '43', '45', '47', '50', '52', '54', '57', '60'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10')]
+|normal_attack_effect       = Deals 50% void DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Soul Salvation
+|special_attack_name_jp     = ソウル・サルベーション
+|special_attack_effect      = Deals 220% void DMG to a single enemy and 165% void DMG to enemies in proximity.<br>Increases targets' DMG taken by 30% (2 turns).<br>Grants 2 Magic to self.
+|special_attack_image       = DMG Taken UP
+|special_attack_progression = [('220', '224', '231', '240', '251', '262', '276', '297', '325', '360'), ('165', '168', '173', '180', '188', '197', '207', '223', '244', '270'), ('30', '31', '32', '33', '34', '35', '36', '37', '38', '40')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

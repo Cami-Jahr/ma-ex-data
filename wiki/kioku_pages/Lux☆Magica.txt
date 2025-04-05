@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Penetrans Sagitta
+|skill_name_jp              = ペネトランスサジッタ
+|skill_effect               = Deals 110% light DMG to a single enemy and 82% light DMG to enemies in proximity.<br>Increases own break gauge depletion (2 turns).
+|skill_image                = Proximity Attack
+|skill_progression          = [('110', '114', '119', '124', '130', '137', '143', '150', '157', '165'), ('82', '85', '89', '93', '98', '102', '107', '112', '118', '123')]
+|normal_attack_effect       = Deals 50% light DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Lux☆Magica
+|special_attack_name_jp     = ルクス☆マギカ
+|special_attack_effect      = Deals 160% light DMG to all enemies.
+|special_attack_image       = All-Target Attack
+|special_attack_progression = [('160', '164', '170', '177', '186', '196', '208', '226', '250', '280')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

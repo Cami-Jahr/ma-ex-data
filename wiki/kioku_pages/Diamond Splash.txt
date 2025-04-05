@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Aqua Beat
+|skill_name_jp              = アクアビート
+|skill_effect               = Deals 100% aqua DMG to a single enemy.<br>Grants 2 Magic to self.
+|skill_image                = Single-Target Attack
+|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160')]
+|normal_attack_effect       = Deals 50% aqua DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Diamond Splash
+|special_attack_name_jp     = ダイヤ・スプラッシュ
+|special_attack_effect      = Deals 180% aqua DMG to a single enemy.<br>Advances own action order by 30% and grants 3 Magic to self.
+|special_attack_image       = Single-Target Attack
+|special_attack_progression = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('30', '31', '33', '35', '37', '40', '42', '44', '47', '50')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+

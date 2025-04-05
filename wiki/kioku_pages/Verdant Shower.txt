@@ -40,3 +40,32 @@ Additional stats from [[Heartphial]]s are not reflected.
 |crit damage = PLACEHOLDER
 }}
 
+===Skills===
+{{Kioku Skills
+|skill_name_en              = Green Arch
+|skill_name_jp              = ミドリノアーチ
+|skill_effect               = Deals 60% forest DMG to all enemies.
+|skill_image                = All-Target Attack
+|skill_progression          = [('60', '63', '66', '70', '75', '79', '84', '89', '94', '100')]
+|normal_attack_effect       = Deals 50% forest DMG to a single enemy.
+|normal_attack_image        = Single-Target Attack
+|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en     = Verdant Shower
+|special_attack_name_jp     = フリソソグミドリノハ
+|special_attack_effect      = Deals 150% forest DMG to a single enemy and 115% forest DMG to enemies in proximity.<br>Increases own break gauge depletion (2 turns).
+|special_attack_image       = Proximity Attack
+|special_attack_progression = [('150', '152', '156', '161', '167', '173', '180', '191', '206', '225'), ('115', '117', '119', '123', '127', '132', '137', '145', '156', '170')]
+|support_name               = PLACEHOLDER
+|support_effect             = PLACEHOLDER
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1 = PLACEHOLDER
+|ascension_2 = PLACEHOLDER
+|ascension_3 = PLACEHOLDER
+|ascension_4 = PLACEHOLDER
+|ascension_5 = PLACEHOLDER
+}}
+
+
