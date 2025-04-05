@@ -21,45 +21,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{Kioku Stats
-|hp  = 277
-|atk = 63
-|def = 120
-|spd = 85
-|ep = 120
-|crit rate = 50
-|crit damage = 100
+|hp           = 277
+|atk          = 63
+|def          = 120
+|spd          = 85
+|ep           = 120
+|crit rate    = 50
+|crit damage  = 100
 }}
 ====Max====
 {{Kioku Stats
-|hp  = PLACEHOLDER
-|atk = PLACEHOLDER
-|def = PLACEHOLDER
-|spd = PLACEHOLDER
-|ep = PLACEHOLDER
-|crit rate = PLACEHOLDER
-|crit damage = PLACEHOLDER
+|hp           = PLACEHOLDER
+|atk          = PLACEHOLDER
+|def          = PLACEHOLDER
+|spd          = PLACEHOLDER
+|ep           = PLACEHOLDER
+|crit rate    = PLACEHOLDER
+|crit damage  = PLACEHOLDER
 }}
 
 ===Skills===
 {{Kioku Skills
-|skill_name_en              = Shielding Stake
-|skill_name_jp              = シールディングステーク
-|skill_effect               = Deals 120% light DMG to a single enemy.<br>Applies barrier (15% of user's DEF +65) to all allies (3 turns).
-|skill_image                = Barrier
-|skill_progression          = [('120', '126', '133', '141', '150', '159', '168', '178', '188', '200'), ('15', '19', '23', '26', '30', '34', '37', '41', '44', '47'), ('65', '86', '162', '225', '234', '252', '270', '279', '288', '405'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
-|normal_attack_effect       = Deals 50% light DMG to a single enemy.
-|normal_attack_image        = Single-Target Attack
-|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
-|special_attack_name_en     = Surging Laser
-|special_attack_name_jp     = ディスクリート・レーザー
-|special_attack_effect      = Deals 180% light DMG to a single enemy and 135% light DMG to enemies in proximity.<br>Decreases all allies' DMG taken by 12% (2 turns).
-|special_attack_image       = DMG Taken DOWN
-|special_attack_progression = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('135', '137', '140', '144', '149', '155', '161', '171', '184', '200'), ('12', '13', '13', '14', '15', '16', '17', '18', '19', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
-|support_name_en            = Haste Accele
-|support_name_jp            = ヘイストアクセル
-|support_effect             = At battle start, increases SPD by 50% (1 turn), increases chance of being targeted, and when barrier takes DMG, grants 5 MP.
-|support_image              = battle_icon_passive_mp_heal
-|support_progression        = [('50', '58', '65', '68', '70', '73', '75', '78', '88', '100'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5')]
+|skill_name_en               = Shielding Stake
+|skill_name_jp               = シールディングステーク
+|skill_effect                = Deals 120% light DMG to a single enemy.<br>Applies barrier (15% of user's DEF +65) to all allies (3 turns).
+|skill_image                 = Barrier
+|skill_progression           = [('120', '126', '133', '141', '150', '159', '168', '178', '188', '200'), ('15', '19', '23', '26', '30', '34', '37', '41', '44', '47'), ('65', '86', '162', '225', '234', '252', '270', '279', '288', '405'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
+|normal_attack_effect        = Deals 50% light DMG to a single enemy.
+|normal_attack_image         = Single-Target Attack
+|normal_attack_progression   = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en      = Surging Laser
+|special_attack_name_jp      = ディスクリート・レーザー
+|special_attack_effect       = Deals 180% light DMG to a single enemy and 135% light DMG to enemies in proximity.<br>Decreases all allies' DMG taken by 12% (2 turns).
+|special_attack_image        = DMG Taken DOWN
+|special_attack_progression  = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('135', '137', '140', '144', '149', '155', '161', '171', '184', '200'), ('12', '13', '13', '14', '15', '16', '17', '18', '19', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en             = Haste Accele
+|support_name_jp             = ヘイストアクセル
+|support_effect              = At battle start, increases SPD by 50% (1 turn), increases chance of being targeted, and when barrier takes DMG, grants 5 MP.
+|support_image               = battle_icon_passive_mp_heal
+|support_progression         = [('50', '58', '65', '68', '70', '73', '75', '78', '88', '100'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5')]
 |extra_support_name_en       = Guard
 |extra_support_name_jp       = ガード
 |extra_support_effect        = Equipped to Defender:<br>Increases DEF by 6%.

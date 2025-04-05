@@ -21,45 +21,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{Kioku Stats
-|hp  = 305
-|atk = 71
-|def = 134
-|spd = 87
-|ep = 75
-|crit rate = 50
-|crit damage = 100
+|hp           = 305
+|atk          = 71
+|def          = 134
+|spd          = 87
+|ep           = 75
+|crit rate    = 50
+|crit damage  = 100
 }}
 ====Max====
 {{Kioku Stats
-|hp  = PLACEHOLDER
-|atk = PLACEHOLDER
-|def = PLACEHOLDER
-|spd = PLACEHOLDER
-|ep = PLACEHOLDER
-|crit rate = PLACEHOLDER
-|crit damage = PLACEHOLDER
+|hp           = PLACEHOLDER
+|atk          = PLACEHOLDER
+|def          = PLACEHOLDER
+|spd          = PLACEHOLDER
+|ep           = PLACEHOLDER
+|crit rate    = PLACEHOLDER
+|crit damage  = PLACEHOLDER
 }}
 
 ===Skills===
 {{Kioku Skills
-|skill_name_en              = Bounding Fang
-|skill_name_jp              = バウンスファング
-|skill_effect               = Deals 105% of DEF as dark DMG to a single enemy.<br>Applies barrier (24% of user's DEF +72) to all allies (3 turns). Barrier deals 50% of durability as reflect DMG (3 turns).
-|skill_image                = Barrier
-|skill_progression          = [('105', '109', '113', '118', '123', '129', '135', '141', '147', '155'), ('24', '28', '33', '37', '42', '49', '51', '55', '60', '64'), ('72', '86', '162', '225', '234', '252', '270', '279', '288', '405'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
-|normal_attack_effect       = Deals 35% of DEF as dark DMG to a single enemy.
-|normal_attack_image        = Single-Target Attack
-|normal_attack_progression  = [('35', '37', '41', '44', '48', '52', '56', '60', '65', '70')]
-|special_attack_name_en     = Vampire Fang
-|special_attack_name_jp     = ヴァンパイアファング
-|special_attack_effect      = Deals 150% of DEF as dark DMG to a single enemy and 110% of DEF as dark DMG to enemies in proximity.<br>Decreases targets' ATK by 20% (2 turns) and SPD by 15% (2 turns).
-|special_attack_image       = ATK DOWN
-|special_attack_progression = [('150', '153', '158', '164', '172', '180', '190', '205', '225', '250'), ('110', '112', '116', '121', '127', '133', '140', '151', '166', '185'), ('20', '20', '20', '21', '21', '22', '22', '23', '24', '25'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('15', '15', '15', '16', '16', '17', '17', '18', '19', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
-|support_name_en            = Defense Rising
-|support_name_jp            = ディフェンドライズ
-|support_effect             = At battle start, increases SPD by 50% (1 turn).<br>Increases MP recovery rate by 10% for all allies with a barrier.<br>Decreases all allies' DMG taken by 10%.
-|support_image              = battle_icon_passive_buff
-|support_progression        = [('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10'), ('10', '12', '13', '14', '15', '16', '17', '18', '19', '20')]
+|skill_name_en               = Bounding Fang
+|skill_name_jp               = バウンスファング
+|skill_effect                = Deals 105% of DEF as dark DMG to a single enemy.<br>Applies barrier (24% of user's DEF +72) to all allies (3 turns). Barrier deals 50% of durability as reflect DMG (3 turns).
+|skill_image                 = Barrier
+|skill_progression           = [('105', '109', '113', '118', '123', '129', '135', '141', '147', '155'), ('24', '28', '33', '37', '42', '49', '51', '55', '60', '64'), ('72', '86', '162', '225', '234', '252', '270', '279', '288', '405'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
+|normal_attack_effect        = Deals 35% of DEF as dark DMG to a single enemy.
+|normal_attack_image         = Single-Target Attack
+|normal_attack_progression   = [('35', '37', '41', '44', '48', '52', '56', '60', '65', '70')]
+|special_attack_name_en      = Vampire Fang
+|special_attack_name_jp      = ヴァンパイアファング
+|special_attack_effect       = Deals 150% of DEF as dark DMG to a single enemy and 110% of DEF as dark DMG to enemies in proximity.<br>Decreases targets' ATK by 20% (2 turns) and SPD by 15% (2 turns).
+|special_attack_image        = ATK DOWN
+|special_attack_progression  = [('150', '153', '158', '164', '172', '180', '190', '205', '225', '250'), ('110', '112', '116', '121', '127', '133', '140', '151', '166', '185'), ('20', '20', '20', '21', '21', '22', '22', '23', '24', '25'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('15', '15', '15', '16', '16', '17', '17', '18', '19', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en             = Defense Rising
+|support_name_jp             = ディフェンドライズ
+|support_effect              = At battle start, increases SPD by 50% (1 turn).<br>Increases MP recovery rate by 10% for all allies with a barrier.<br>Decreases all allies' DMG taken by 10%.
+|support_image               = battle_icon_passive_buff
+|support_progression         = [('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10'), ('10', '12', '13', '14', '15', '16', '17', '18', '19', '20')]
 |extra_support_name_en       = Guard Rising
 |extra_support_name_jp       = ガードライズ
 |extra_support_effect        = Equipped to Defender:<br>Increases DEF by 10% and MP recovery rate by 5%.

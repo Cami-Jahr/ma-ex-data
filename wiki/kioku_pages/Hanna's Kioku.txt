@@ -21,45 +21,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{Kioku Stats
-|hp  = 288
-|atk = 84
-|def = 96
-|spd = 113
-|ep = 0
-|crit rate = 50
-|crit damage = 100
+|hp           = 288
+|atk          = 84
+|def          = 96
+|spd          = 113
+|ep           = 0
+|crit rate    = 50
+|crit damage  = 100
 }}
 ====Max====
 {{Kioku Stats
-|hp  = PLACEHOLDER
-|atk = PLACEHOLDER
-|def = PLACEHOLDER
-|spd = PLACEHOLDER
-|ep = PLACEHOLDER
-|crit rate = PLACEHOLDER
-|crit damage = PLACEHOLDER
+|hp           = PLACEHOLDER
+|atk          = PLACEHOLDER
+|def          = PLACEHOLDER
+|spd          = PLACEHOLDER
+|ep           = PLACEHOLDER
+|crit rate    = PLACEHOLDER
+|crit damage  = PLACEHOLDER
 }}
 
 ===Skills===
 {{Kioku Skills
-|skill_name_en              = Accursed Sphere
-|skill_name_jp              = カーススフィア
-|skill_effect               = Deals 100% dark DMG to a single enemy.<br>Increases own SPD by 8% (2 turns).
-|skill_image                = Single-Target Attack
-|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
-|normal_attack_effect       = Deals 50% dark DMG to a single enemy.
-|normal_attack_image        = Single-Target Attack
-|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
-|special_attack_name_en     = 
-|special_attack_name_jp     = 
-|special_attack_effect      = 
-|special_attack_image       = 
-|special_attack_progression = []
-|support_name_en            = Haste Piercing
-|support_name_jp            = ヘイストペネトレイト
-|support_effect             = Increases break bonus by 20%, and on enemy break, increases SPD by 8 (2 turns).
-|support_image              = battle_icon_passive_buff
-|support_progression        = [('20', '21', '23', '25', '27', '30', '32', '34', '37', '40'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|skill_name_en               = Accursed Sphere
+|skill_name_jp               = カーススフィア
+|skill_effect                = Deals 100% dark DMG to a single enemy.<br>Increases own SPD by 8% (2 turns).
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|normal_attack_effect        = Deals 50% dark DMG to a single enemy.
+|normal_attack_image         = Single-Target Attack
+|normal_attack_progression   = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en      = 
+|special_attack_name_jp      = 
+|special_attack_effect       = 
+|special_attack_image        = 
+|special_attack_progression  = []
+|support_name_en             = Haste Piercing
+|support_name_jp             = ヘイストペネトレイト
+|support_effect              = Increases break bonus by 20%, and on enemy break, increases SPD by 8 (2 turns).
+|support_image               = battle_icon_passive_buff
+|support_progression         = [('20', '21', '23', '25', '27', '30', '32', '34', '37', '40'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
 |extra_support_name_en       = Haste
 |extra_support_name_jp       = ヘイスト
 |extra_support_effect        = Equipped to Breaker:<br>Increases SPD by 3%.

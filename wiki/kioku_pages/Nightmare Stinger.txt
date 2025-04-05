@@ -21,45 +21,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{Kioku Stats
-|hp  = 274
-|atk = 93
-|def = 92
-|spd = 118
-|ep = 75
-|crit rate = 50
-|crit damage = 100
+|hp           = 274
+|atk          = 93
+|def          = 92
+|spd          = 118
+|ep           = 75
+|crit rate    = 50
+|crit damage  = 100
 }}
 ====Max====
 {{Kioku Stats
-|hp  = PLACEHOLDER
-|atk = PLACEHOLDER
-|def = PLACEHOLDER
-|spd = PLACEHOLDER
-|ep = PLACEHOLDER
-|crit rate = PLACEHOLDER
-|crit damage = PLACEHOLDER
+|hp           = PLACEHOLDER
+|atk          = PLACEHOLDER
+|def          = PLACEHOLDER
+|spd          = PLACEHOLDER
+|ep           = PLACEHOLDER
+|crit rate    = PLACEHOLDER
+|crit damage  = PLACEHOLDER
 }}
 
 ===Skills===
 {{Kioku Skills
-|skill_name_en              = Thorn Swing
-|skill_name_jp              = ソーンスウィング
-|skill_effect               = Deals 100% dark DMG to a single enemy and 75% dark DMG to enemies in proximity.<br>100% chance to curse (25% / 2 turns) targets.
-|skill_image                = Curse
-|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('75', '78', '82', '87', '92', '97', '102', '108', '113', '120'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100'), ('25', '26', '27', '29', '31', '32', '34', '36', '38', '40'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
-|normal_attack_effect       = Deals 50% dark DMG to a single enemy.
-|normal_attack_image        = Single-Target Attack
-|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
-|special_attack_name_en     = Nightmare Stinger
-|special_attack_name_jp     = ナイトメア・スティンガー
-|special_attack_effect      = Deals 160% dark DMG to a single enemy.<br>Consumes all remaining turns of ongoing DMG effects on target and immediately deals their total DMG.
-|special_attack_image       = Single-Target Attack
-|special_attack_progression = [('160', '162', '165', '168', '173', '178', '184', '193', '205', '220')]
-|support_name_en            = Assault Blast
-|support_name_jp            = アサルトブラスト
-|support_effect             = Increases ATK by 10% and DMG dealt to cursed enemies by 30%.
-|support_image              = battle_icon_passive_buff
-|support_progression        = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('30', '31', '32', '33', '34', '35', '36', '37', '38', '40')]
+|skill_name_en               = Thorn Swing
+|skill_name_jp               = ソーンスウィング
+|skill_effect                = Deals 100% dark DMG to a single enemy and 75% dark DMG to enemies in proximity.<br>100% chance to curse (25% / 2 turns) targets.
+|skill_image                 = Curse
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('75', '78', '82', '87', '92', '97', '102', '108', '113', '120'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100'), ('25', '26', '27', '29', '31', '32', '34', '36', '38', '40'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|normal_attack_effect        = Deals 50% dark DMG to a single enemy.
+|normal_attack_image         = Single-Target Attack
+|normal_attack_progression   = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en      = Nightmare Stinger
+|special_attack_name_jp      = ナイトメア・スティンガー
+|special_attack_effect       = Deals 160% dark DMG to a single enemy.<br>Consumes all remaining turns of ongoing DMG effects on target and immediately deals their total DMG.
+|special_attack_image        = Single-Target Attack
+|special_attack_progression  = [('160', '162', '165', '168', '173', '178', '184', '193', '205', '220')]
+|support_name_en             = Assault Blast
+|support_name_jp             = アサルトブラスト
+|support_effect              = Increases ATK by 10% and DMG dealt to cursed enemies by 30%.
+|support_image               = battle_icon_passive_buff
+|support_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('30', '31', '32', '33', '34', '35', '36', '37', '38', '40')]
 |extra_support_name_en       = Injection
 |extra_support_name_jp       = インジェクト
 |extra_support_effect        = Equipped to Debuffer:<br>Increases ailment hit rate by 4%.

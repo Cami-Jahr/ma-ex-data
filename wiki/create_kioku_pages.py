@@ -24,45 +24,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{{{Kioku Stats
-|hp  = {minHp}
-|atk = {minAtk}
-|def = {minDef}
-|spd = {minSpd}
-|ep = {minEp}
-|crit rate = {minCritRate}
-|crit damage = {minCritDmg}
+|hp           = {minHp}
+|atk          = {minAtk}
+|def          = {minDef}
+|spd          = {minSpd}
+|ep           = {minEp}
+|crit rate    = {minCritRate}
+|crit damage  = {minCritDmg}
 }}}}
 ====Max====
 {{{{Kioku Stats
-|hp  = {maxHp}
-|atk = {maxAtk}
-|def = {maxDef}
-|spd = {maxSpd}
-|ep = {maxEp}
-|crit rate = {maxCritRate}
-|crit damage = {maxCritDmg}
+|hp           = {maxHp}
+|atk          = {maxAtk}
+|def          = {maxDef}
+|spd          = {maxSpd}
+|ep           = {maxEp}
+|crit rate    = {maxCritRate}
+|crit damage  = {maxCritDmg}
 }}}}
 
 ===Skills===
 {{{{Kioku Skills
-|skill_name_en              = {skill_name_en}
-|skill_name_jp              = {skill_name_jp}
-|skill_effect               = {skill_effect}
-|skill_image                = {skill_image}
-|skill_progression          = {skill_progression}
-|normal_attack_effect       = {normal_attack_effect}
-|normal_attack_image        = {normal_attack_image}
-|normal_attack_progression  = {normal_attack_progression}
-|special_attack_name_en     = {special_attack_name_en}
-|special_attack_name_jp     = {special_attack_name_jp}
-|special_attack_effect      = {special_attack_effect}
-|special_attack_image       = {special_attack_image}
-|special_attack_progression = {special_attack_progression}
-|support_name_en            = {support_name_en}
-|support_name_jp            = {support_name_jp}
-|support_effect             = {support_effect}
-|support_image              = {support_image}
-|support_progression        = {support_progression}
+|skill_name_en               = {skill_name_en}
+|skill_name_jp               = {skill_name_jp}
+|skill_effect                = {skill_effect}
+|skill_image                 = {skill_image}
+|skill_progression           = {skill_progression}
+|normal_attack_effect        = {normal_attack_effect}
+|normal_attack_image         = {normal_attack_image}
+|normal_attack_progression   = {normal_attack_progression}
+|special_attack_name_en      = {special_attack_name_en}
+|special_attack_name_jp      = {special_attack_name_jp}
+|special_attack_effect       = {special_attack_effect}
+|special_attack_image        = {special_attack_image}
+|special_attack_progression  = {special_attack_progression}
+|support_name_en             = {support_name_en}
+|support_name_jp             = {support_name_jp}
+|support_effect              = {support_effect}
+|support_image               = {support_image}
+|support_progression         = {support_progression}
 |extra_support_name_en       = {extra_support_name_en}
 |extra_support_name_jp       = {extra_support_name_jp}
 |extra_support_effect        = {extra_support_effect}

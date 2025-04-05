@@ -21,45 +21,45 @@ Additional stats from [[Heartphial]]s are not reflected.
 ===Stats===
 ====Base====
 {{Kioku Stats
-|hp  = 232
-|atk = 120
-|def = 79
-|spd = 99
-|ep = 90
-|crit rate = 50
-|crit damage = 100
+|hp           = 232
+|atk          = 120
+|def          = 79
+|spd          = 99
+|ep           = 90
+|crit rate    = 50
+|crit damage  = 100
 }}
 ====Max====
 {{Kioku Stats
-|hp  = PLACEHOLDER
-|atk = PLACEHOLDER
-|def = PLACEHOLDER
-|spd = PLACEHOLDER
-|ep = PLACEHOLDER
-|crit rate = PLACEHOLDER
-|crit damage = PLACEHOLDER
+|hp           = PLACEHOLDER
+|atk          = PLACEHOLDER
+|def          = PLACEHOLDER
+|spd          = PLACEHOLDER
+|ep           = PLACEHOLDER
+|crit rate    = PLACEHOLDER
+|crit damage  = PLACEHOLDER
 }}
 
 ===Skills===
 {{Kioku Skills
-|skill_name_en              = Ryushin Torrent Slash
-|skill_name_jp              = 竜真瀑水斬
-|skill_effect               = Deals 150% aqua DMG to a single enemy.<br>Increases own DMG dealt by 10% (1 turn).
-|skill_image                = Single-Target Attack
-|skill_progression          = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
-|normal_attack_effect       = Deals 50% aqua DMG to a single enemy.
-|normal_attack_image        = Single-Target Attack
-|normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
-|special_attack_name_en     = Ryushin Spiral Fury
-|special_attack_name_jp     = 竜真螺旋咆撃
-|special_attack_effect      = Deals 270% aqua DMG to a single enemy.<br>Advances own action order by 50%.
-|special_attack_image       = Single-Target Attack
-|special_attack_progression = [('270', '274', '280', '288', '299', '309', '322', '342', '368', '400'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
-|support_name_en            = Assault Guard
-|support_name_jp            = アサルトガード
-|support_effect             = At turn end, increases ATK by 3% (Stacks 3 times), and if under 50% HP, increases DEF by 20%.
-|support_image              = battle_icon_passive_buff
-|support_progression        = [('3', '3', '3', '4', '4', '4', '4', '4', '5', '5'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('20', '21', '23', '25', '27', '30', '32', '34', '37', '40')]
+|skill_name_en               = Ryushin Torrent Slash
+|skill_name_jp               = 竜真瀑水斬
+|skill_effect                = Deals 150% aqua DMG to a single enemy.<br>Increases own DMG dealt by 10% (1 turn).
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
+|normal_attack_effect        = Deals 50% aqua DMG to a single enemy.
+|normal_attack_image         = Single-Target Attack
+|normal_attack_progression   = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|special_attack_name_en      = Ryushin Spiral Fury
+|special_attack_name_jp      = 竜真螺旋咆撃
+|special_attack_effect       = Deals 270% aqua DMG to a single enemy.<br>Advances own action order by 50%.
+|special_attack_image        = Single-Target Attack
+|special_attack_progression  = [('270', '274', '280', '288', '299', '309', '322', '342', '368', '400'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
+|support_name_en             = Assault Guard
+|support_name_jp             = アサルトガード
+|support_effect              = At turn end, increases ATK by 3% (Stacks 3 times), and if under 50% HP, increases DEF by 20%.
+|support_image               = battle_icon_passive_buff
+|support_progression         = [('3', '3', '3', '4', '4', '4', '4', '4', '5', '5'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('20', '21', '23', '25', '27', '30', '32', '34', '37', '40')]
 |extra_support_name_en       = Assault
 |extra_support_name_jp       = アサルト
 |extra_support_effect        = Equipped to Aqua:<br>Increases ATK by 6%.
