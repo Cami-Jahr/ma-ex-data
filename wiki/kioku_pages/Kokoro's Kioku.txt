@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = パイルストライク
 |skill_effect               = Deals 120% light DMG to a single enemy.<br>Applies shield to all allies (10% / 2 times).
 |skill_image                = Shield
-|skill_progression          = [('120', '126', '133', '141', '150', '159', '168', '178', '188', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20')]
+|skill_progression          = [('120', '126', '133', '141', '150', '159', '168', '178', '188', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
 |normal_attack_effect       = Deals 50% light DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = 
 |special_attack_image       = 
 |special_attack_progression = []
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Guard Haste
+|support_name_jp            = ガードヘイスト
+|support_effect             = At battle start, increases SPD by 50% (2 turns).<br>On taking at least 1 DMG from an enemy attack, increases all allies' DEF by 2% (2 turns / Stacks 3 times).
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('2', '2', '2', '3', '3', '3', '3', '3', '4', '4'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
+|extra_support_name_en       = Guard
+|extra_support_name_jp       = ガード
+|extra_support_effect        = Equipped to Light:<br>Increases DEF by 5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('5', '5', '5', '5', '6', '6', '6', '6', '7', '7')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = On taking DMG equal to 20% or higher of max HP, restores 10% of own HP.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases all allies' DEF by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = At battle start, increases DEF by 10%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = At battle start, applies shield to self (50% / 1 time).
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = At battle start, increases DEF by 10%.
 }}
 
 

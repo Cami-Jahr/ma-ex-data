@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = フレイムスラッシュ
 |skill_effect               = Deals 100% flame DMG to a single enemy.<br>Restores all allies' HP by 6% of user's HP +15.
 |skill_image                = Restore HP
-|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('6', '6', '6', '7', '7', '7', '8', '8', '8', '9')]
+|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('6', '6', '6', '7', '7', '7', '8', '8', '8', '9'), ('15', '22', '33', '50', '76', '114', '171', '257', '385', '578')]
 |normal_attack_effect       = Deals 50% flame DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -54,18 +54,31 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_name_jp     = サークル・オブ・ファイア
 |special_attack_effect      = Deals 180% flame DMG to a single enemy.<br>Restores all allies' HP by 9% of user's HP +54.
 |special_attack_image       = Restore HP
-|special_attack_progression = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('9', '9', '10', '11', '11', '12', '13', '13', '14', '15')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|special_attack_progression = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('9', '9', '10', '11', '11', '12', '13', '13', '14', '15'), ('54', '81', '121', '158', '205', '267', '320', '384', '461', '600')]
+|support_name_en            = Healing
+|support_name_jp            = ヒール
+|support_effect             = When an enemy is defeated, restores all allies' HP by 5% of user's HP +15.
+|support_image              = battle_icon_passive_heal
+|support_progression        = [('5', '6', '7', '7', '7', '7', '8', '8', '9', '10'), ('15', '31', '47', '52', '57', '62', '68', '73', '94', '120')]
+|extra_support_name_en       = Rising
+|extra_support_name_jp       = ライズ
+|extra_support_effect        = Equipped to Healer:<br>Increases MP recovery rate by 2%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('2', '2', '2', '3', '3', '3', '4', '4', '4', '5')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases HP recovery amount by 12%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases HP recovery amount by 20%, and on special attack, removes all allies' ailments.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = Increases MP recovery rate by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

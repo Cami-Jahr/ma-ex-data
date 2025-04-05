@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = コールドエッジ
 |skill_effect               = Deals 70% light DMG to all enemies.<br>Increases own DMG dealt by 8% (1 turn).
 |skill_image                = All-Target Attack
-|skill_progression          = [('70', '74', '78', '83', '88', '94', '100', '106', '112', '120'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18')]
+|skill_progression          = [('70', '74', '78', '83', '88', '94', '100', '106', '112', '120'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
 |normal_attack_effect       = Deals 50% light DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = 
 |special_attack_image       = 
 |special_attack_progression = []
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Chase
+|support_name_jp            = チェイス
+|support_effect             = On enemy break, triggers a follow-up attack.<br><br>Follow-Up Attack:<br>Deals 35% light DMG to all enemies.
+|support_image              = battle_icon_passive_additional_attack
+|support_progression        = [('35', '37', '39', '42', '44', '47', '50', '53', '56', '60')]
+|extra_support_name_en       = Assault
+|extra_support_name_jp       = アサルト
+|extra_support_effect        = Equipped to Light:<br>Increases ATK by 5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('5', '5', '5', '5', '6', '6', '6', '6', '7', '7')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases SPD by 10 (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases follow-up attack DMG dealt by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases DMG dealt by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases DMG dealt by 5%.
 }}
 
 

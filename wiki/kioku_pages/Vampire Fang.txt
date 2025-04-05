@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = バウンスファング
 |skill_effect               = Deals 105% of DEF as dark DMG to a single enemy.<br>Applies barrier (24% of user's DEF +72) to all allies (3 turns). Barrier deals 50% of durability as reflect DMG (3 turns).
 |skill_image                = Barrier
-|skill_progression          = [('105', '109', '113', '118', '123', '129', '135', '141', '147', '155'), ('24', '28', '33', '37', '42', '49', '51', '55', '60', '64'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
+|skill_progression          = [('105', '109', '113', '118', '123', '129', '135', '141', '147', '155'), ('24', '28', '33', '37', '42', '49', '51', '55', '60', '64'), ('72', '86', '162', '225', '234', '252', '270', '279', '288', '405'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
 |normal_attack_effect       = Deals 35% of DEF as dark DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('35', '37', '41', '44', '48', '52', '56', '60', '65', '70')]
@@ -54,18 +54,31 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_name_jp     = ヴァンパイアファング
 |special_attack_effect      = Deals 150% of DEF as dark DMG to a single enemy and 110% of DEF as dark DMG to enemies in proximity.<br>Decreases targets' ATK by 20% (2 turns) and SPD by 15% (2 turns).
 |special_attack_image       = ATK DOWN
-|special_attack_progression = [('150', '153', '158', '164', '172', '180', '190', '205', '225', '250'), ('110', '112', '116', '121', '127', '133', '140', '151', '166', '185'), ('20', '20', '20', '21', '21', '22', '22', '23', '24', '25'), ('15', '15', '15', '16', '16', '17', '17', '18', '19', '20')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|special_attack_progression = [('150', '153', '158', '164', '172', '180', '190', '205', '225', '250'), ('110', '112', '116', '121', '127', '133', '140', '151', '166', '185'), ('20', '20', '20', '21', '21', '22', '22', '23', '24', '25'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('15', '15', '15', '16', '16', '17', '17', '18', '19', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en            = Defense Rising
+|support_name_jp            = ディフェンドライズ
+|support_effect             = At battle start, increases SPD by 50% (1 turn).<br>Increases MP recovery rate by 10% for all allies with a barrier.<br>Decreases all allies' DMG taken by 10%.
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10'), ('10', '12', '13', '14', '15', '16', '17', '18', '19', '20')]
+|extra_support_name_en       = Guard Rising
+|extra_support_name_jp       = ガードライズ
+|extra_support_effect        = Equipped to Defender:<br>Increases DEF by 10% and MP recovery rate by 5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('10', '10', '11', '11', '12', '12', '13', '13', '14', '15'), ('5', '6', '1', '7', '2', '8', '3', '9', '4', '10')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = On taking at least 1 DMG from an enemy attack, increases MP gained by 5. At battle start, applies shield to self (20% / 2 times).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = At battle start, applies barrier (45% of user's DEF) to all allies (2 turns).<br>Max value of barrier applied is 75% of user's DEF.<br>Barrier applied can only be removed by its duration expiring.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On taking at least 1 DMG from an enemy attack, grants 5 MP.<br>Increases all allies' DEF by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

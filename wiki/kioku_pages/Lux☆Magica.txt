@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = ペネトランスサジッタ
 |skill_effect               = Deals 110% light DMG to a single enemy and 82% light DMG to enemies in proximity.<br>Increases own break gauge depletion (2 turns).
 |skill_image                = Proximity Attack
-|skill_progression          = [('110', '114', '119', '124', '130', '137', '143', '150', '157', '165'), ('82', '85', '89', '93', '98', '102', '107', '112', '118', '123')]
+|skill_progression          = [('110', '114', '119', '124', '130', '137', '143', '150', '157', '165'), ('82', '85', '89', '93', '98', '102', '107', '112', '118', '123'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
 |normal_attack_effect       = Deals 50% light DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = Deals 160% light DMG to all enemies.
 |special_attack_image       = All-Target Attack
 |special_attack_progression = [('160', '164', '170', '177', '186', '196', '208', '226', '250', '280')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Haste Breakage
+|support_name_jp            = ヘイストブレイカブル
+|support_effect             = Increases break effect by 40%, and on enemy break, increases SPD by 10 (2 turns).
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('40', '44', '50', '56', '62', '69', '76', '83', '91', '100'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|extra_support_name_en       = Breakage Technique
+|extra_support_name_jp       = ブレイカブルテクニカル
+|extra_support_effect        = Equipped to Light:<br>Increases break gauge depletion and increases break effect by 3.5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('3', '4', '4', '5', '6', '7', '7', '8', '9', '10')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = 0 Magic at battle start.<br>On own or ally use of battle skill, grants 1 Magic.<br>At 5 Magic, triggers a follow-up attack.<br>Max 5 Magic.<br><br>Follow-Up Attack:<br>Deals 60% light DMG to all enemies.<br>Consumes 5 Magic.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = At turn start, grants 5 MP.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = Increases follow-up attack break gauge depletion.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = 
 |special_attack_image       = 
 |special_attack_progression = []
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Strike
+|support_name_jp            = ストライク
+|support_effect             = On enemy break, increases critical DMG by 10% (2 turns).
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|extra_support_name_en       = Haste
+|extra_support_name_jp       = ヘイスト
+|extra_support_effect        = Equipped to Flame:<br>Increases SPD by 3%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('3', '3', '4', '4', '5', '5', '6', '6', '7', '8')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases break effect by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = On enemy break, increases critical rate by 10% (2 turns).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = At battle start, increases SPD by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On maxed enemy break bonus, advances all allies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = At battle start, increases SPD by 5%.
 }}
 
 

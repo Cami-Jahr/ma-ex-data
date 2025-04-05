@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = 手榴弾投擲
 |skill_effect               = Deals 180% dark DMG to a single enemy.<br>Increases own DMG dealt by 15% (1 turn).
 |skill_image                = Single-Target Attack
-|skill_progression          = [('180', '186', '194', '204', '213', '223', '234', '245', '256', '270'), ('15', '17', '18', '19', '19', '20', '20', '21', '23', '25')]
+|skill_progression          = [('180', '186', '194', '204', '213', '223', '234', '245', '256', '270'), ('15', '17', '18', '19', '19', '20', '20', '21', '23', '25'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
 |normal_attack_effect       = Deals 50% dark DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = Deals 270% dark DMG to a single enemy and 200% dark DMG to enemies in proximity.<br>Advances own action order by 100%.
 |special_attack_image       = Proximity Attack
 |special_attack_progression = [('270', '275', '282', '291', '303', '315', '330', '353', '383', '420'), ('200', '203', '209', '216', '225', '235', '246', '263', '286', '315'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Accele Chase
+|support_name_jp            = アクセルチェイス
+|support_effect             = On enemy break or maxed break bonus, triggers a follow-up attack.<br><br>Follow-Up Attack:<br>Deals 90% dark DMG to a single enemy.<br>Grants 5 MP to user.
+|support_image              = battle_icon_passive_additional_attack
+|support_progression        = [('90', '93', '97', '102', '107', '112', '117', '123', '128', '135'), ('5', '5', '6', '6', '7', '7', '8', '9', '9', '10')]
+|extra_support_name_en       = Blast
+|extra_support_name_jp       = ブラスト
+|extra_support_effect        = Equipped to Dark:<br>Increases DMG dealt by 5%, and increases follow-up attack and counterattack DMG dealt by 16%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('5', '6', '7', '8', '9', '11', '12', '13', '14', '15'), ('16', '18', '20', '21', '23', '25', '27', '28', '30', '32')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = On enemy break, increases MP by 10%, and increases ATK by 20% (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases follow-up attack DMG dealt by 60%, and on special attack, increases ATK by 20% (2 turns).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On maxed enemy break bonus, gain an additional turn.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

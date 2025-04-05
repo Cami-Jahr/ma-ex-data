@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = マーシレスエッジ
 |skill_effect               = Deals 150% void DMG to a single enemy.<br>Increases own DMG dealt by 10% (1 turn).
 |skill_image                = Single-Target Attack
-|skill_progression          = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20')]
+|skill_progression          = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
 |normal_attack_effect       = Deals 50% void DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = Deals 270% void DMG to a single enemy.
 |special_attack_image       = Single-Target Attack
 |special_attack_progression = [('270', '274', '280', '288', '299', '309', '322', '342', '368', '400')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Chase
+|support_name_jp            = チェイス
+|support_effect             = On attack to an enemy with a break bonus of 200% or higher, triggers a follow-up attack.<br><br>Follow-Up Attack:<br>Deals 30% void DMG to a single enemy.
+|support_image              = battle_icon_passive_additional_attack
+|support_progression        = [('200', '200', '200', '200', '200', '200', '200', '200', '200', '200'), ('30', '31', '33', '35', '37', '40', '42', '44', '47', '50')]
+|extra_support_name_en       = Enchantment
+|extra_support_name_jp       = エンチャント
+|extra_support_effect        = Equipped to Attacker:<br>Increases DMG dealt when targeting elemental weakness by 8%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('8', '8', '9', '10', '11', '11', '12', '13', '14', '15')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases MP by 25%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases follow-up attack DMG dealt by 30%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = 
 |special_attack_image       = 
 |special_attack_progression = []
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Blast Edge
+|support_name_jp            = ブラストシャープ
+|support_effect             = 0 Magic at battle start.<br>On DMG dealt to an enemy, grants 1 Magic.<br>At max Magic, increases DMG dealt by 8% and critical rate by 8%.<br>Max 5 Magic.
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('0', '0', '0', '0', '0', '0', '0', '0', '0', '0'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5')]
+|extra_support_name_en       = Defense
+|extra_support_name_jp       = ディフェンド
+|extra_support_effect        = Equipped to Attacker:<br>Decreases DMG taken by 1.5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('1', '1', '2', '2', '3', '3', '3', '4', '4', '5')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases SPD by 10 (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = At max Magic, increases critical DMG by 8%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases DMG dealt by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases DMG dealt by 5%.
 }}
 
 

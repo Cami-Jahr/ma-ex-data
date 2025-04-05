@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = Deals 130% dark DMG to all enemies.<br>Advances own action order by 50%.
 |special_attack_image       = All-Target Attack
 |special_attack_progression = [('130', '132', '135', '139', '144', '150', '156', '166', '179', '195'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Assault Accele
+|support_name_jp            = アサルトアクセル
+|support_effect             = At turn start, for each enemy in break, increases ATK by 2% (Stacks 15 times), and on enemy break, advances action order by 15% and grants 5 MP.
+|support_image              = battle_icon_passive_mp_heal
+|support_progression        = [('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('15', '15', '15', '15', '15', '15', '15', '15', '15', '15'), ('15', '16', '17', '18', '19', '20', '21', '22', '23', '25'), ('5', '6', '7', '8', '9', '10', '11', '12', '13', '15')]
+|extra_support_name_en       = Assault
+|extra_support_name_jp       = アサルト
+|extra_support_effect        = Equipped to Attacker:<br>Increases ATK by 6%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('6', '6', '6', '7', '7', '8', '8', '9', '9', '10')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases MP by 25%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases the number of buff stacks gained on ability use by 1.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

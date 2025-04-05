@@ -54,18 +54,31 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_name_jp     = フリソソグミドリノハ
 |special_attack_effect      = Deals 150% forest DMG to a single enemy and 115% forest DMG to enemies in proximity.<br>Increases own break gauge depletion (2 turns).
 |special_attack_image       = Proximity Attack
-|special_attack_progression = [('150', '152', '156', '161', '167', '173', '180', '191', '206', '225'), ('115', '117', '119', '123', '127', '132', '137', '145', '156', '170')]
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|special_attack_progression = [('150', '152', '156', '161', '167', '173', '180', '191', '206', '225'), ('115', '117', '119', '123', '127', '132', '137', '145', '156', '170'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en            = Breakage Technique
+|support_name_jp            = ブレイカブルテクニカル
+|support_effect             = Increases break effect by 30%, and when at least 2 enemies are present, increases break gauge depletion. For each enemy above 2, increases break gauge depletion further.
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('30', '36', '44', '54', '63', '73', '84', '95', '106', '120'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|extra_support_name_en       = Breakage
+|extra_support_name_jp       = ブレイカブル
+|extra_support_effect        = Equipped to Breaker:<br>Increases break effect by 15%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('15', '16', '18', '20', '21', '23', '25', '26', '28', '30')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases SPD by 20% (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = On battle skill use, if there are 2 or more targets, increases SPD by 30% (2 turns) and increases break effect by 50%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances all allies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
 }}
 
 

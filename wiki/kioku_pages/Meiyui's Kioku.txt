@@ -46,7 +46,7 @@ Additional stats from [[Heartphial]]s are not reflected.
 |skill_name_jp              = 鷹爪拳
 |skill_effect               = Deals 100% aqua DMG to a single enemy.<br>Increases own break effect by 10% (1 turn).
 |skill_image                = Single-Target Attack
-|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('10', '12', '15', '18', '21', '24', '28', '32', '35', '40')]
+|skill_progression          = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('10', '12', '15', '18', '21', '24', '28', '32', '35', '40'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
 |normal_attack_effect       = Deals 50% aqua DMG to a single enemy.
 |normal_attack_image        = Single-Target Attack
 |normal_attack_progression  = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
@@ -55,17 +55,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = 
 |special_attack_image       = 
 |special_attack_progression = []
-|support_name               = PLACEHOLDER
-|support_effect             = PLACEHOLDER
+|support_name_en            = Haste Piercing
+|support_name_jp            = ヘイストペネトレイト
+|support_effect             = Increases break bonus by 10% and SPD by 8.
+|support_image              = battle_icon_passive_buff
+|support_progression        = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18')]
+|extra_support_name_en       = Assault
+|extra_support_name_jp       = アサルト
+|extra_support_effect        = Equipped to Aqua:<br>Increases ATK by 5%.
+|extra_support_image         = battle_icon_supportpassive_buff
+|extra_support_progression   = [('5', '5', '5', '5', '6', '6', '6', '6', '7', '7')]
 }}
 
 ===Ascensions===
 {{Kioku Ascensions
-|ascension_1 = PLACEHOLDER
-|ascension_2 = PLACEHOLDER
-|ascension_3 = PLACEHOLDER
-|ascension_4 = PLACEHOLDER
-|ascension_5 = PLACEHOLDER
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases break effect by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases break effect by 20%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = At battle start, increases SPD by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On maxed enemy break bonus, advances all allies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = At battle start, increases SPD by 5%.
 }}
 
 

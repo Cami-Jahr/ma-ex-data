@@ -58,17 +58,30 @@ Additional stats from [[Heartphial]]s are not reflected.
 |special_attack_effect      = {special_attack_effect}
 |special_attack_image       = {special_attack_image}
 |special_attack_progression = {special_attack_progression}
-|support_name               = {support_name}
+|support_name_en            = {support_name_en}
+|support_name_jp            = {support_name_jp}
 |support_effect             = {support_effect}
+|support_image              = {support_image}
+|support_progression        = {support_progression}
+|extra_support_name_en       = {extra_support_name_en}
+|extra_support_name_jp       = {extra_support_name_jp}
+|extra_support_effect        = {extra_support_effect}
+|extra_support_image         = {extra_support_image}
+|extra_support_progression   = {extra_support_progression}
 }}}}
 
 ===Ascensions===
 {{{{Kioku Ascensions
-|ascension_1 = {ascension_1}
-|ascension_2 = {ascension_2}
-|ascension_3 = {ascension_3}
-|ascension_4 = {ascension_4}
-|ascension_5 = {ascension_5}
+|ascension_1_effect_1 = {ascension_1_effect_1}
+|ascension_1_effect_2 = {ascension_1_effect_2}
+|ascension_2_effect_1 = {ascension_2_effect_1}
+|ascension_2_effect_2 = {ascension_2_effect_2}
+|ascension_3_effect_1 = {ascension_3_effect_1}
+|ascension_3_effect_2 = {ascension_3_effect_2}
+|ascension_4_effect_1 = {ascension_4_effect_1}
+|ascension_4_effect_2 = {ascension_4_effect_2}
+|ascension_5_effect_1 = {ascension_5_effect_1}
+|ascension_5_effect_2 = {ascension_5_effect_2}
 }}}}
 
 """
@@ -106,13 +119,13 @@ def read_skill_progression(skills, skill_id):
     values = []
     for i in range(1, 11):
         skill = skills["en"][int(f"{skill_id}{i:02}")]
-        value = re.findall(r"(\d+)%", skill["description"])
+        value = re.findall(r"(\d+)", skill["description"])
         values.append(value)
 
     return list(zip(*values))
 
 
-def read_skill(skills, lang, skill_id):
+def read_skill(skills, lang, skill_id, image_path="balloonText"):
     if skill_id == 0:  # For 3* Kioku without ultimates
         return {
             "name": "",
@@ -124,7 +137,7 @@ def read_skill(skills, lang, skill_id):
     return {
         "name": skill["name"],
         "description": skill["description"],
-        "image": skill["balloonText"],
+        "image": skill[image_path],
         "progression": read_skill_progression(skills, skill_id),
     }
 
@@ -133,6 +146,15 @@ def create_kioku_pages():
     kiokus = helpers.get_both("getStyleMstList", "styleMstId")
     characters = helpers.get_both("getCharacterMstList", "characterMstId")
     skills = helpers.get_both("getSkillMstList", "skillMstId")
+    passives = helpers.get_both("getPassiveSkillMstList", "passiveSkillMstId")
+    ascensions = helpers.get_files(
+        helpers.SOURCE_EN, "getStyleLimitBreakMstList", "styleLimitBreakMstId"
+    )
+    ascension_effects = helpers.get_files(
+        helpers.SOURCE_EN,
+        "getStyleLimitBreakEffectMstList",
+        "styleLimitBreakEffectMstId",
+    )
 
     for kioku_en in kiokus["en"].values():
         if not kioku_en["isCollectionDisp"]:
@@ -141,24 +163,48 @@ def create_kioku_pages():
         characterId = int(str(kioku_en["styleMstId"])[:4])
         kioku_jp = kiokus["jp"][kioku_en["styleMstId"]]
 
-        skill_en = read_skill(skills, "en", kioku_en["skill1"])
-        skill_jp = read_skill(skills, "jp", kioku_en["skill1"])
         normal_attack_en = read_skill(skills, "en", kioku_en["normalAttack"])
+
+        skill_en = read_skill(skills, "en", kioku_en["skill1"])
+        skill_jp_name = skills["jp"][int(f"{kioku_en["skill1"]}01")]["name"]
+
         special_attack_en = read_skill(skills, "en", kioku_en["specialAttackMstId"])
-        special_attack_jp = read_skill(skills, "jp", kioku_en["specialAttackMstId"])
+        special_attack_jp_name = (
+            skills["jp"][int(f"{kioku_en["specialAttackMstId"]}01")]["name"]
+            if kioku_en["specialAttackMstId"] != 0
+            else ""
+        )
+
+        support_en = read_skill(
+            passives, "en", kioku_en["passiveSkill1"], image_path="skillButtonIcon"
+        )
+        support_jp_name = passives["jp"][int(f"{kioku_en["passiveSkill1"]}01")]["name"]
+
+        extra_support_en = read_skill(
+            passives, "en", kioku_en["subPassiveSkill"], image_path="skillButtonIcon"
+        )
+        extra_support_jp_name = passives["jp"][int(f"{kioku_en["subPassiveSkill"]}01")][
+            "name"
+        ]
+
+        ascension_strings = {}
+
+        def find_effect(effect_id):
+            effect = ascension_effects[effect_id]
+            if effect["name"] != "":
+                return effect["name"]
+            return passives["en"][effect["value1"]]["description"]
+
+        for i in range(1, 6):
+            ascension_keysheet = ascensions[int(f"{kioku_en["styleMstId"]}{i:02}")]
+            ascension_strings[f"ascension_{i}_effect_1"] = find_effect(
+                ascension_keysheet["styleLimitBreakEffectMstId1"]
+            )
+            ascension_strings[f"ascension_{i}_effect_2"] = find_effect(
+                ascension_keysheet["styleLimitBreakEffectMstId2"]
+            )
 
         kioku_en["PLACEHOLDER"] = "PLACEHOLDER"
-        # TODO Check what these does and add them
-        #  "specialAttackMstId": 1150,
-        #  "normalAttack": 1148,
-        #  "skill1": 1149,
-        #  "passiveSkill1": 15009,
-        #  "limitBreakPassiveSkill1": 0,
-        #  "subPassiveSkill": 95009,
-        #  "leaderSkill": 12000 # TODO unsure what this is
-
-        # NOTE: There are *Rate fields which currently are all 0 so I ignore them
-        #  but might be needed in the future
         with open(
             f"wiki/kioku_pages/{kioku_en["name"]}.txt", "w", encoding="utf-8"
         ) as g:
@@ -178,7 +224,6 @@ def create_kioku_pages():
                     minAtk=kioku_en["atk"],
                     minDef=kioku_en["def"],
                     minEp=kioku_en["ep"],
-                    # recoveryEpRate might be related to ep but always 0 so unsure what it is
                     minSpd=kioku_en["speed"],
                     minCritRate=kioku_en["criticalRate"],
                     minCritDmg=kioku_en["criticalDamageRate"],
@@ -190,7 +235,7 @@ def create_kioku_pages():
                     maxCritRate=kioku_en["PLACEHOLDER"],
                     maxCritDmg=kioku_en["PLACEHOLDER"],
                     skill_name_en=skill_en["name"],
-                    skill_name_jp=skill_jp["name"],
+                    skill_name_jp=skill_jp_name,
                     skill_effect=skill_en["description"],
                     skill_image=skill_en["image"],
                     skill_progression=skill_en["progression"],
@@ -198,17 +243,21 @@ def create_kioku_pages():
                     normal_attack_image=normal_attack_en["image"],
                     normal_attack_progression=normal_attack_en["progression"],
                     special_attack_name_en=special_attack_en["name"],
-                    special_attack_name_jp=special_attack_jp["name"],
+                    special_attack_name_jp=special_attack_jp_name,
                     special_attack_effect=special_attack_en["description"],
                     special_attack_image=special_attack_en["image"],
                     special_attack_progression=special_attack_en["progression"],
-                    support_name=kioku_en["PLACEHOLDER"],
-                    support_effect=kioku_en["PLACEHOLDER"],
-                    ascension_1=kioku_en["PLACEHOLDER"],
-                    ascension_2=kioku_en["PLACEHOLDER"],
-                    ascension_3=kioku_en["PLACEHOLDER"],
-                    ascension_4=kioku_en["PLACEHOLDER"],
-                    ascension_5=kioku_en["PLACEHOLDER"],
+                    support_name_en=support_en["name"],
+                    support_name_jp=support_jp_name,
+                    support_effect=support_en["description"],
+                    support_image=support_en["image"],
+                    support_progression=support_en["progression"],
+                    extra_support_name_en=extra_support_en["name"],
+                    extra_support_name_jp=extra_support_jp_name,
+                    extra_support_effect=extra_support_en["description"],
+                    extra_support_image=extra_support_en["image"],
+                    extra_support_progression=extra_support_en["progression"],
+                    **ascension_strings,
                 ),
                 file=g,
             )
