@@ -13,6 +13,8 @@
 |color                = #8ABAF0
 |description_en       = An almost emotionless Magical Girl, Masara was born into a peaceful family and raised by two loving parents.<br>Despite all the love she was given, she remains cold, living a life lacking excitement.<br>Deep inside, though, she is thirsty for something more.
 |description_jp       = 感情の起伏に乏しい魔法少女。<br>特に波風も立たない穏やかな家庭に生まれ、両親の愛情を受けながら成長していった。<br>しかし、生来のものなのか、非常に冷めた性格となり、淡々とした毎日を送っている。一方、内心では刺激を求めている。
+|story_name_en        = A Flame Kindled in the Vastness
+|story_name_jp        = 空漠に火が灯るとき
 |school_en            = Chuo Academy
 |school_jp            = 中央学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

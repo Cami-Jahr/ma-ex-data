@@ -13,6 +13,8 @@
 |color                = #1A9AB7
 |description_en       = A seasoned Magical Girl who has fought Witches for 7 years in Kamihama.<br>Yachiyo is well informed about the city and Magical Girls in general.<br>She keeps her distance from other Magical Girls while she compiles files on Kamihama City's Rumors.
 |description_jp       = ７年間、神浜市で魔女と戦ってきたベテランの魔法少女。<br>神浜市や魔法少女についての情報に精通している。<br>他の魔法少女とも距離を置き、神浜市で発生している「噂」をファイリングしている。
+|story_name_en        = Bittersweet Letters
+|story_name_jp        = 遺書が紡ぐ悲喜交々
 |school_en            = Kamihama City University
 |school_jp            = 神浜市立大学
 |group                = Puella Magi Madoka Magica Side Story Magia Record

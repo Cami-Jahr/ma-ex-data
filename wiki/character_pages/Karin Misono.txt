@@ -13,6 +13,8 @@
 |color                = #FFCF3D
 |description_en       = The "Magical Girl born of Halloween." Or that's what she says at least...<br>Karin loves reading and drawing manga, she's even created her own Magical Girl story.<br>She's heavily influenced by her favorite manga, Phantom Thief Magical Kirin.
 |description_jp       = 自称、ハロウィンが生んだ魔法少女。<br>夢見がちで都合良く解釈しようとする性格と、漫画の読み描きという趣味が相まって、魔法少女としての設定を作ってしまった。<br>“怪盗少女マジカルきりん”というお気に入りの漫画に影響されている。
+|story_name_en        = The Prison City Great Escape
+|story_name_jp        = 大監獄から大脱出なのっ!!
 |school_en            = Sakae Academy
 |school_jp            = 栄総合学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

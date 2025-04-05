@@ -13,6 +13,8 @@
 |color                = #ED7CA2
 |description_en       = An eccentric, animal-loving Magical Girl who's not much of a people person.<br>At home and at school, she fell victim to a world that seemed set on crushing her, which fueled her loathing for it.<br>After making a contract, a certain encounter would lead her down the path towards an even stranger fate.
 |description_jp       = 本来は内向的で人と接するのが苦手な魔法少女。<br>家庭、学校において虐げられる立場に置かれてしまい、この世を憎んでいる。<br>契約後、ある事件に遭遇してから、さらに数奇な運命を辿る。<br>エキセントリックな性格だが、動物が好きという一面も。
+|story_name_en        = At the End of the World with You
+|story_name_jp        = 世界の終わりは君と
 |school_en            = Mizuna Girls' Academy
 |school_jp            = 水名女学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

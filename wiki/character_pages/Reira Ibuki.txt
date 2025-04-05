@@ -13,6 +13,8 @@
 |color                = #E38D84
 |description_en       = A Magical Girl who lives in an apartment complex in Daito Ward.<br>She is cheerful, considerate, and treats everyone with warmth, so people are naturally drawn to her.<br>Her desire to get along with others can sometimes lead to her kindness being taken advantage of though.
 |description_jp       = 神浜市・大東区にある団地で暮らしている魔法少女。<br>明朗快活でとても心根が優しく、誰にでも温かく接することから、<br>彼女の人柄に惹かれて、自然と多くの人が周囲に集まる。<br>その反面、周囲の調和のために自分を犠牲にしてしまうこともある。
+|story_name_en        = Mighty Bonds from Little Acorns
+|story_name_jp        = どんぐりで繋がる絆
 |school_en            = Kamihama University Affiliated School
 |school_jp            = 神浜市立大附属学校
 |group                = Puella Magi Madoka Magica Side Story Magia Record

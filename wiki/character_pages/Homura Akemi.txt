@@ -13,6 +13,8 @@
 |color                = #B56ABF
 |description_en       = A Magical Girl who transfers to Madoka's school.<br>Amongst other curious behavior, she appears hostile to Mami and Sayaka, but always shows concern for Madoka, regularly offering her advice and kind words.
 |description_jp       = 転校生として、まどかの前に現れた魔法少女。<br>謎めいた行動が多く、マミやさやかには敵対心を持たれる一方で、まどかのことを常に気にかけ忠告をしたり、優しい言葉をしばしばかける。
+|story_name_en        = A Little Goes a Long Way
+|story_name_jp        = 少しの関わりが繋ぐ先
 |school_en            = Mitakihara Middle School
 |school_jp            = 見滝原中学校
 |group                = Puella Magi Madoka Magica

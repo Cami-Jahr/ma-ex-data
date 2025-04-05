@@ -13,6 +13,8 @@
 |color                = #8CE70E
 |description_en       = A Magical Girl raised in an orphanage.<br>She was sent to the Azalea House when her parents abandoned her at the mere age of one year old.<br>She's simple and direct, and her wild spirit often gets her caught up in all kinds of trouble.
 |description_jp       = 神浜市の施設「つつじの家」出身の魔法少女。<br>１歳の頃に捨てられて以来、つつじの家で育つ。<br>純粋で真っ直ぐな心の持ち主で、なおかつとても野性的。<br>常にアクティブで、何でも向こう見ずに突き進んでしまうためにトラブルも頻繁に巻き起こしてきた。
+|story_name_en        = Runaway Adventure
+|story_name_jp        = 逃避行のような大冒険！
 |school_en            = Sankyoin Academy
 |school_jp            = 参京院教育学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

@@ -13,6 +13,8 @@
 |color                = #FF4227
 |description_en       = A Magical Girl from California who is in search of Japanese kawaii culture.<br>She's obsessed with all things kawaii from Harajuku fashion to anime and manga.<br>She even uploads videos to show the people back home.<br>Kumanosuke, the bear plushie she got from her father, is her most precious treasure.
 |description_jp       = 日本のKAWAIIを求めてカリフォルニアからやって来た魔法少女。<br>原宿系ファッションからアニメ・マンガまでKAWAIIなら、なんでも大好き。<br>KAWAIIを広めるために故郷アメリカへ動画を配信している。<br>ダディからもらったクマのぬいぐるみ"熊乃介"は宝物。
+|story_name_en        = Can't Be Myself Without What I Love
+|story_name_jp        = 大好きと一緒に私らしく
 |school_en            = Kosho Academy
 |school_jp            = 工匠学舎
 |group                = Puella Magi Madoka Magica Side Story Magia Record

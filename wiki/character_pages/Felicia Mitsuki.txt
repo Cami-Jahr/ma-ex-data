@@ -13,6 +13,8 @@
 |color                = #8D6AD2
 |description_en       = Felicia is a spirited Magical Girl, full of energy and determination, who hates Witches for taking the lives of her parents.<br>She now works as a mercenary, hunting Witches all across Kamihama.<br>Her tough talk hides a kind heart and a love of animals.
 |description_jp       = 元気で勝気で自由気ままな魔法少女。<br>魔女を両親の仇として心底憎んでおり、そのため「傭兵」を生業として、神浜の各地で魔女との戦いを繰り広げている。<br>ワイルドな口調はバトル系少年漫画の影響。ただ、心根は優しく動物が大好き。
+|story_name_en        = The Day my Mom and Dad Were Killed
+|story_name_jp        = 父ちゃんと母ちゃんが殺された日
 |school_en            = Chuo Academy
 |school_jp            = 中央学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

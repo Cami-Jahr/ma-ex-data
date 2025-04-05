@@ -13,6 +13,8 @@
 |color                = #FFFFFF
 |description_en       = A Magical Girl who lost all memories, even of her own<br>appearance, leaving her form undefined. She wandered<br>through darkness before reaching the Lighthouse.
 |description_jp       = 過去の記憶を失った魔法少女。<br>自身の姿まで忘れてしまった影響で、明確な見た目が存在しない。<br>暗闇をさまよう中で灯台劇場へとたどり着いた。
+|story_name_en        = 
+|story_name_jp        = 
 |school_en            = ―
 |school_jp            = ―
 |group                = 

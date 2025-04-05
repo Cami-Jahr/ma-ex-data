@@ -13,6 +13,8 @@
 |color                = #39ADE1
 |description_en       = Riko is like a little sister to the other Magical Girls.<br>She often can be found working at her parents' bento shop and is a warming presence for the customers.<br>Though still quite young, she is considerate to her elders and shows a bravery beyond her age.
 |description_jp       = お姉さん魔法少女たち全員の、妹的存在の魔法少女。<br>普段は、家のお弁当屋さんの看板娘として、お客さんの心を和ませている。<br>小学生らしい無邪気さを持ちながらも、周りの大人たちへの気遣いも忘れない、健気な頑張り屋さん。
+|story_name_en        = Worked Out with a Woof
+|story_name_jp        = 「ワン！」とお悩み解決!?
 |school_en            = Kosho Academy
 |school_jp            = 工匠学舎
 |group                = Puella Magi Madoka Magica Side Story Magia Record

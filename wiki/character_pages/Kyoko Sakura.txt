@@ -13,6 +13,8 @@
 |color                = #E64545
 |description_en       = A Magical Girl who's come to take over Mitakihara City following an incident.<br>She tended to clash with Sayaka, but when she learns that Sayaka also wished to fulfill another's dream, she begins to see her as a comrade.
 |description_jp       = ある出来事を機に、見滝原市の縄張りを奪いにやってきた魔法少女。<br>当初、さやかとはいがみ合っていたが、自分と同じように他人の願いを叶えて魔法少女になったと知り、仲間意識を覚える。
+|story_name_en        = The Path I Chose
+|story_name_jp        = これが、あたしの生き方
 |school_en            = ―
 |school_jp            = ―
 |group                = Puella Magi Madoka Magica

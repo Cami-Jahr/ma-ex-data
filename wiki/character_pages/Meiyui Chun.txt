@@ -13,6 +13,8 @@
 |color                = #4E80C2
 |description_en       = A kung fu master, Meiyui belongs to the Blue Seas Family.<br>She left her parents in China and came to Japan alone.<br>She is well-composed, but she lets that all go when it's time to protect her family and townspeople.<br>She is an excellent Mahjong player.
 |description_jp       = 「蒼海幇」という組織に所属する魔法少女。<br>カンフーの使い手。中国にいる親の元から離れて、単身で日本に渡って来た。<br>普段から口調も振る舞いもクールだが、仲間と地元のことをなによりも大切にしている熱い心を秘めている。<br>麻雀をたしなむ。
+|story_name_en        = Purging a Problematic Piece
+|story_name_jp        = 緊急！　違法銃を処分せよ！
 |school_en            = Chuo Academy
 |school_jp            = 中央学園
 |group                = Puella Magi Madoka Magica Side Story Magia Record

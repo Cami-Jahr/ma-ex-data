@@ -15,6 +15,8 @@ text = """{{{{Character Infobox
 |color                = {color}
 |description_en       = {description_en}
 |description_jp       = {description_jp}
+|story_name_en        = {story_name_en}
+|story_name_jp        = {story_name_jp}
 |school_en            = {school_en}
 |school_jp            = {school_jp}
 |group                = {series}
@@ -35,11 +37,20 @@ def create_character_pages():
     teams = helpers.get_both("getCharacterTeamMstList.json", "characterTeamMstId")
     profiles = helpers.get_both("getCharacterProfileMstList.json", "characterMstId")
     characters = helpers.get_both("getCharacterMstList.json", "characterMstId")
+    stories = helpers.get_both("getAdvMstList.json", "advMstId")
+    story_titles = helpers.get_both("getAdvTitleMstList.json", "advTitleMstId")
 
     for character_en in characters["en"].values():
         profile_en = profiles["en"][character_en["characterMstId"]]
         profile_jp = profiles["jp"][character_en["characterMstId"]]
         character_jp = characters["jp"][character_en["characterMstId"]]
+
+        if character_en["characterMstId"] == 1000:  # Namae
+            story_title_id = None
+        else:
+            story_title_id = stories["en"][
+                int(f"30{character_en["characterMstId"]}00")
+            ]["advTitleMstId"]
         with open(
             f"wiki/character_pages/{character_en["name"]}.txt",
             "w",
@@ -66,6 +77,12 @@ def create_character_pages():
                     team1_jp=teams["jp"].get(profile_jp["teamId1"], {}).get("name", ""),
                     team2_en=teams["en"].get(profile_en["teamId2"], {}).get("name", ""),
                     team2_jp=teams["jp"].get(profile_jp["teamId2"], {}).get("name", ""),
+                    story_name_en=story_titles["en"]
+                    .get(story_title_id, {})
+                    .get("title", ""),
+                    story_name_jp=story_titles["jp"]
+                    .get(story_title_id, {})
+                    .get("title", ""),
                 ),
                 file=g,
             )

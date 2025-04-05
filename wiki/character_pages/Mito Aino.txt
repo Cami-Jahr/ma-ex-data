@@ -13,6 +13,8 @@
 |color                = #7DAC7C
 |description_en       = An innocent and carefree Magical Girl, Mito is not afraid to be herself.<br>Although she appears to have a relaxed demeanor, there are times when she says things that cut to the core.<br>Mito lives in the same apartment complex as Reira and Seika, her two childhood friends that she truly treasures.
 |description_jp       = 天真爛漫で屈託のない性格の魔法少女。いつも自然体で生きている。<br>だが、ゆったりとした物腰や口調とは裏腹に、人をハッとさせる鋭い一言を放つ時もある。<br>伊吹れいら、桑水せいかとは同じ団地に住む幼馴染で、ふたりを何よりも大事に思っている。
+|story_name_en        = A Lucky Clover Connecting Hearts
+|story_name_jp        = 心を繋ぐ四つ葉のクローバー
 |school_en            = Kamihama University Affiliated School
 |school_jp            = 神浜市立大附属学校
 |group                = Puella Magi Madoka Magica Side Story Magia Record

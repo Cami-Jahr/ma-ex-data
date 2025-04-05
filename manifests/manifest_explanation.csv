@@ -1,122 +1,123 @@
-battle buffs/debuffs,getAbilityEffectTypeMstList.json
-main story titles,getAdvMstList.json
-Character story titles,getAdvTitleMstList.json
-Banner name and colour,getBannerLabelMstList.json
-Banner type,getBannerMstList.json
-battle status effects,getBattleConditionMstList.json
-battle status effect applicators ,getBattleConditionSetMstList.json
-,getBossDirectionMstList.json
-Combat breakpoints ,getBreakMstList.json
-event point breakdown,getCalculationPointPolicyMstList.json
-memoriae stats per level,getCardLimitBreakMstList.json
-memoriae info,getCardMstList.json
-ACCOUNT BOUND,getCharacterAwakeMstList.json
-affection exp requirements,getCharacterHeartLevelUpMstList.json
-ACCOUNT BOUND current affection,getCharacterHeartMstList.json
-affection rewards?,getCharacterHeartObjectRewardMstList.json
-affection in post-battle display rule?,getCharacterHeartParamUpGroupMstList.json
-Character list (name+colour+id),getCharacterMstList.json
-Character trivia,getCharacterProfileMstList.json
-Character factions ,getCharacterTeamMstList.json
-ACCOUNT BOUND,getChatStampMstList.json
-collectables for multiple?,getCollectionConditionGroupMstList.json
-collectables?,getCollectionConditionMstList.json
-Memoriae for gallery,getCollectionIllustMstList.json
-gallery conditionals,getCollectionIllustPieceMstList.json
-ACCOUNT BOUND,getCollectionParamUpEffectMstList.json
-,getCollectionParamUpLevelMstList.json
-,getCollectionParamUpMstList.json
-,getCollectionRewardMstList.json
-,getDioramaBackgroundMstList.json
-,getDungeonEventMstList.json
-,getDungeonMstList.json
-,getDungeonRoomMstList.json
-,getDungeonTypeMstList.json
-,getEnemyConditionSetsAndActionMstList.json
-,getEnemyMstList.json
-,getEnemyProfileMstList.json
-,getFieldPointMstList.json
-,getFieldSeriesMstList.json
-,getFieldStageMstList.json
-,getFieldStratumMstList.json
-,getGatheringLevelMstList.json
-,getGatheringRewardMstList.json
-Union missions,getGuildMissionMstList.json
-,getGuildMissionTransitionMstList.json
-,getGuildTitleMstList.json
-,getGveMstList.json
-,getGveStageMstList.json
-,getGveStageRewardMstList.json
-,getGvgMstList.json
-,getGvgPointRewardMstList.json
-,getGvgRankingRewardMstList.json
-Tutorial banners,getHomeAppealMstList.json
-Event banner timers,getHomeBannerMstList.json
-Items,getItemMstList.json
-,getLeaderSkillDetailMstList.json
-,getLeaderSkillMstList.json
-2dLive motions? ,getLive2DParamMstList.json
-Normal text english translation,getLocalizeTextMstListDefaultAndClientDefined.json
-,getLocalizeTextMstListDefaultAndServerDefined.json
-Other text english translation,getLocalizeTextMstListNonDefault.json
-Login bonuses,getLoginBonusMstList.json
-,getLoginBonusRewardMstList.json
-,getMapGveAreaMstList.json
-,getMapGveMstList.json
-,getMapGvePointMstList.json
-Menu tutorials ,getMiniTutorialMstList.json
-All missions,getMissionMstList.json
-Missions categories,getMissionTitleMstList.json
-Mission translations,getMissionTransitionMstList.json
-,getObjectReceiveTypeMstList.json
-passive overworld info,getPassiveSkillDetailMstList.json
-passive ingame effects,getPassiveSkillMstList.json
-,getPayTypeMstList.json
-,getPvpPointRewardMstList.json
-,getPvpRankingRewardMstList.json
-,getQuestCategoryMstList.json
-,getQuestConditionMstList.json
-,getQuestEnemyAppearanceMstList.json
-,getQuestEnemySkillSetMstList.json
-,getQuestGroupMstList.json
-,getQuestMapMstList.json
-,getQuestRewardMstList.json
-,getQuestStageMstList.json
-,getScoreAttackHighScoreRewardMstList.json
-,getScoreAttackMstList.json
-,getScoreAttackStageMstList.json
-,getScoreAttackTotalScoreRewardMstList.json
-,getShopDetailMstList.json
-,getShopMstList.json
-,getShopSeriesMstList.json
-,getSkillDetailMstList.json
-,getSkillLevelUpConditionMstList.json
-,getSkillMstList.json
-voiceline info,getSoundMstList.json
-,getStoryEventBonusRateMstList.json
-,getStoryEventMstList.json
-,getStoryEventQuestStageMstList.json
-,getStoryEventScenarioMstList.json
-,getStoryEventScenarioRewardMstList.json
-,getStyleFigureMstList.json
-,getStyleFigureStoryMstList.json
-,getStyleLevelUpMstList.json
-,getStyleLimitBreakEffectMstList.json
-,getStyleLimitBreakMstList.json
-"kioku information (actual, lvl1 and lvlmax for each?)",getStyleMstList.json
-,getStyleParamUpCostMstList.json
-,getStyleParamUpEffectMstList.json
-,getStyleParamUpMstList.json
-,getStyleParamUpTreeMstList.json
-,getStyleVoiceMstList.json
-battlepass rewards,getSubscriptionMissionRewardMstList.json
-,getTalismanMstList.json
-,getTalismanParamEffectMstList.json
-,getTalismanParamMstList.json
-,getTalismanSeriesMstList.json
-,getTipsMstList.json
-,getTowerMstList.json
-level exp requirements,getUserLevelUpMstList.json
-player icon title,getUserTitleMstList.json
-,get_resource_asset_bundle_mst_list.json
-,get_resource_file_mst_list.json
+What it does,file name,wikia status
+battle buffs/debuffs,getAbilityEffectTypeMstList.json,
+main story titles,getAdvMstList.json,"Done for characters, not events etc"
+Character story titles,getAdvTitleMstList.json,"Done for characters, not events etc"
+Banner name and colour,getBannerLabelMstList.json,
+Banner type,getBannerMstList.json,
+battle status effects,getBattleConditionMstList.json,
+battle status effect applicators ,getBattleConditionSetMstList.json,
+,getBossDirectionMstList.json,
+Combat breakpoints ,getBreakMstList.json,
+event point breakdown,getCalculationPointPolicyMstList.json,
+memoriae stats per level,getCardLimitBreakMstList.json,
+memoriae info,getCardMstList.json,
+ACCOUNT BOUND,getCharacterAwakeMstList.json,
+affection exp requirements,getCharacterHeartLevelUpMstList.json,
+ACCOUNT BOUND current affection,getCharacterHeartMstList.json,
+affection rewards?,getCharacterHeartObjectRewardMstList.json,
+affection in post-battle display rule?,getCharacterHeartParamUpGroupMstList.json,
+Character list (name+colour+id),getCharacterMstList.json,Done
+Character trivia,getCharacterProfileMstList.json,Done except some unused fields
+Character factions ,getCharacterTeamMstList.json,Done
+ACCOUNT BOUND,getChatStampMstList.json,
+collectables for multiple?,getCollectionConditionGroupMstList.json,
+collectables?,getCollectionConditionMstList.json,
+Memoriae for gallery,getCollectionIllustMstList.json,
+gallery conditionals,getCollectionIllustPieceMstList.json,
+ACCOUNT BOUND,getCollectionParamUpEffectMstList.json,
+,getCollectionParamUpLevelMstList.json,
+,getCollectionParamUpMstList.json,
+,getCollectionRewardMstList.json,
+,getDioramaBackgroundMstList.json,
+,getDungeonEventMstList.json,
+,getDungeonMstList.json,
+,getDungeonRoomMstList.json,
+,getDungeonTypeMstList.json,
+,getEnemyConditionSetsAndActionMstList.json,
+,getEnemyMstList.json,
+,getEnemyProfileMstList.json,
+,getFieldPointMstList.json,
+,getFieldSeriesMstList.json,
+,getFieldStageMstList.json,
+,getFieldStratumMstList.json,
+,getGatheringLevelMstList.json,
+,getGatheringRewardMstList.json,
+Union missions,getGuildMissionMstList.json,
+,getGuildMissionTransitionMstList.json,
+,getGuildTitleMstList.json,
+,getGveMstList.json,
+,getGveStageMstList.json,
+,getGveStageRewardMstList.json,
+,getGvgMstList.json,
+,getGvgPointRewardMstList.json,
+,getGvgRankingRewardMstList.json,
+Tutorial banners,getHomeAppealMstList.json,
+Event banner timers,getHomeBannerMstList.json,
+Items,getItemMstList.json,
+,getLeaderSkillDetailMstList.json,
+,getLeaderSkillMstList.json,
+2dLive motions? ,getLive2DParamMstList.json,
+Normal text english translation,getLocalizeTextMstListDefaultAndClientDefined.json,
+,getLocalizeTextMstListDefaultAndServerDefined.json,
+Other text english translation,getLocalizeTextMstListNonDefault.json,
+Login bonuses,getLoginBonusMstList.json,
+,getLoginBonusRewardMstList.json,
+,getMapGveAreaMstList.json,
+,getMapGveMstList.json,
+,getMapGvePointMstList.json,
+Menu tutorials ,getMiniTutorialMstList.json,
+All missions,getMissionMstList.json,
+Missions categories,getMissionTitleMstList.json,
+Mission translations,getMissionTransitionMstList.json,
+,getObjectReceiveTypeMstList.json,
+passive overworld info,getPassiveSkillDetailMstList.json,
+passive ingame effects,getPassiveSkillMstList.json,
+,getPayTypeMstList.json,
+,getPvpPointRewardMstList.json,
+,getPvpRankingRewardMstList.json,
+,getQuestCategoryMstList.json,
+,getQuestConditionMstList.json,
+,getQuestEnemyAppearanceMstList.json,
+,getQuestEnemySkillSetMstList.json,
+,getQuestGroupMstList.json,
+,getQuestMapMstList.json,
+,getQuestRewardMstList.json,
+,getQuestStageMstList.json,
+,getScoreAttackHighScoreRewardMstList.json,
+,getScoreAttackMstList.json,
+,getScoreAttackStageMstList.json,
+,getScoreAttackTotalScoreRewardMstList.json,
+,getShopDetailMstList.json,
+,getShopMstList.json,
+,getShopSeriesMstList.json,
+,getSkillDetailMstList.json,
+,getSkillLevelUpConditionMstList.json,
+,getSkillMstList.json,
+voiceline info,getSoundMstList.json,
+,getStoryEventBonusRateMstList.json,
+,getStoryEventMstList.json,
+,getStoryEventQuestStageMstList.json,
+,getStoryEventScenarioMstList.json,
+,getStoryEventScenarioRewardMstList.json,
+,getStyleFigureMstList.json,
+,getStyleFigureStoryMstList.json,
+,getStyleLevelUpMstList.json,
+,getStyleLimitBreakEffectMstList.json,
+,getStyleLimitBreakMstList.json,
+"kioku information (actual, lvl1 and lvlmax for each?)",getStyleMstList.json,Done except some unused fields
+,getStyleParamUpCostMstList.json,
+,getStyleParamUpEffectMstList.json,
+,getStyleParamUpMstList.json,
+,getStyleParamUpTreeMstList.json,
+,getStyleVoiceMstList.json,
+battlepass rewards,getSubscriptionMissionRewardMstList.json,
+,getTalismanMstList.json,
+,getTalismanParamEffectMstList.json,
+,getTalismanParamMstList.json,
+,getTalismanSeriesMstList.json,
+,getTipsMstList.json,
+,getTowerMstList.json,
+level exp requirements,getUserLevelUpMstList.json,
+player icon title,getUserTitleMstList.json,
+,get_resource_asset_bundle_mst_list.json,
+,get_resource_file_mst_list.json,
