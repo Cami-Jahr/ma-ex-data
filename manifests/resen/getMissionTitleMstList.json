@@ -6,98 +6,98 @@
             {
                 "missionTitleMstId": 1,
                 "prevMissionTitleMstId": 0,
-                "title": "チャレンジミッション",
+                "title": "Challenge Missions",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 2,
                 "prevMissionTitleMstId": 0,
-                "title": "デイリーミッション",
+                "title": "Daily Mission",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 3,
                 "prevMissionTitleMstId": 0,
-                "title": "ウィークリーミッション",
+                "title": "Weekly Mission",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 4,
                 "prevMissionTitleMstId": 0,
-                "title": "初心者ミッション",
+                "title": "Beginner Missions",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5,
                 "prevMissionTitleMstId": 0,
-                "title": "カムバックミッション",
+                "title": "Welcome Back Missions",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 10,
                 "prevMissionTitleMstId": 0,
-                "title": "エクセドラパスミッション",
+                "title": "Exedra Pass Missions",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 15,
                 "prevMissionTitleMstId": 0,
-                "title": "ユニオンミッション",
+                "title": "Union Mission",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5000,
                 "prevMissionTitleMstId": 0,
-                "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～イベントミッション",
+                "title": "Steady Steps Forward: Magical Girl Dreams Event Missions",
                 "priority": 1,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5001,
                 "prevMissionTitleMstId": 0,
-                "title": "フェアウェル・ストーリー 前編イベントミッション",
+                "title": "Farewell Story Part I Event Missions",
                 "priority": 10,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5002,
                 "prevMissionTitleMstId": 0,
-                "title": "フェアウェル・ストーリー 後編イベントミッション",
+                "title": "Farewell Story Part II Event Missions",
                 "priority": 12,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5004,
                 "prevMissionTitleMstId": 0,
-                "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベントミッション",
+                "title": "Dance☆Magica Event Missions",
                 "priority": 11,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5006,
                 "prevMissionTitleMstId": 0,
-                "title": "育成応援ミッション",
+                "title": "Training Spree Missions",
                 "priority": 3,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5007,
                 "prevMissionTitleMstId": 0,
-                "title": "育成応援ミッション 第2弾",
+                "title": "Training Spree Missions Part 2",
                 "priority": 3,
                 "featuredRewardResourceName": ""
             },
             {
                 "missionTitleMstId": 5008,
                 "prevMissionTitleMstId": 0,
-                "title": "スコアアタック攻略応援ミッション",
+                "title": "Score Attack Support Missions",
                 "priority": 4,
                 "featuredRewardResourceName": ""
             }

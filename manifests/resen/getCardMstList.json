@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "cardMstId": 4100001,
-                "name": "いつも通りの“おはよう”",
+                "name": "Typical Morning Greetings",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -22,7 +22,7 @@
             },
             {
                 "cardMstId": 4100002,
-                "name": "紅茶とケーキと魔法少女",
+                "name": "Tea, Cake, and Puella Magi",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -39,7 +39,7 @@
             },
             {
                 "cardMstId": 4100003,
-                "name": "ふたりきりの病室で",
+                "name": "A Room to Ourselves",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -56,7 +56,7 @@
             },
             {
                 "cardMstId": 4100004,
-                "name": "戦う使命を課された者たち",
+                "name": "Duty-Bound to Battle",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -73,7 +73,7 @@
             },
             {
                 "cardMstId": 4100005,
-                "name": "優しすぎるあなたに",
+                "name": "To You Who Is Too Kind",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -90,7 +90,7 @@
             },
             {
                 "cardMstId": 4100006,
-                "name": "キレイな解決じゃなくたって",
+                "name": "It Wouldn't Be a Pretty Ending",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -107,7 +107,7 @@
             },
             {
                 "cardMstId": 4100007,
-                "name": "後悔だけはしない",
+                "name": "I'll Never Regret Anything",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -124,7 +124,7 @@
             },
             {
                 "cardMstId": 4100008,
-                "name": "親友の告白",
+                "name": "My Bestie's Confession",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -141,7 +141,7 @@
             },
             {
                 "cardMstId": 4100009,
-                "name": "受け止められない想い",
+                "name": "Feelings Unrequited",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -158,7 +158,7 @@
             },
             {
                 "cardMstId": 4100010,
-                "name": "たったひとつの目的のために",
+                "name": "One Sole Purpose",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -175,7 +175,7 @@
             },
             {
                 "cardMstId": 4100011,
-                "name": "この魂を賭けてでも",
+                "name": "If My Soul Is the Cost",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -192,7 +192,7 @@
             },
             {
                 "cardMstId": 4100012,
-                "name": "過去への約束",
+                "name": "A Promise to the Past",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -209,7 +209,7 @@
             },
             {
                 "cardMstId": 4100013,
-                "name": "私は何度でも繰り返す",
+                "name": "As Many Times As It Takes",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -226,7 +226,7 @@
             },
             {
                 "cardMstId": 4100014,
-                "name": "ほんの少しの奇跡を信じて",
+                "name": "Belief in a Little Miracle",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -243,7 +243,7 @@
             },
             {
                 "cardMstId": 4100015,
-                "name": "懐かしくて愛おしい",
+                "name": "Familiar and Dear",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -260,7 +260,7 @@
             },
             {
                 "cardMstId": 4100016,
-                "name": "入る隙間なんてないんですよ",
+                "name": "No Space to Come Between",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -277,7 +277,7 @@
             },
             {
                 "cardMstId": 4100017,
-                "name": "わたしの世界のため",
+                "name": "For the Sake of My World",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -294,7 +294,7 @@
             },
             {
                 "cardMstId": 4200001,
-                "name": "その背中に目を奪われて",
+                "name": "Captivated by Where You Stand",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -311,7 +311,7 @@
             },
             {
                 "cardMstId": 4200002,
-                "name": "理想の魔法少女になるために",
+                "name": "To Be an Ideal Magical Girl",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -328,7 +328,7 @@
             },
             {
                 "cardMstId": 4200003,
-                "name": "幸せな時間",
+                "name": "A Time of Happiness",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -345,7 +345,7 @@
             },
             {
                 "cardMstId": 4200004,
-                "name": "覚悟と決別",
+                "name": "Determination & Separation",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -362,7 +362,7 @@
             },
             {
                 "cardMstId": 4200019,
-                "name": "描いた理想はまだ遠く",
+                "name": "A Distant Ideal",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -379,7 +379,7 @@
             },
             {
                 "cardMstId": 4200023,
-                "name": "DANCE☆MAGICA",
+                "name": "Dance☆Magica",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -396,7 +396,7 @@
             },
             {
                 "cardMstId": 4300001,
-                "name": "またね、ほむらちゃん",
+                "name": "See You Around, Homura",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -413,7 +413,7 @@
             },
             {
                 "cardMstId": 4300002,
-                "name": "あなたは私が守るから",
+                "name": "Because I'll Protect You",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -430,7 +430,7 @@
             },
             {
                 "cardMstId": 4300003,
-                "name": "はじめまして、ひさしぶり",
+                "name": "Nice to Meet You Once Again",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -447,7 +447,7 @@
             },
             {
                 "cardMstId": 4300004,
-                "name": "今は静寂が残るのみ",
+                "name": "Only Silence Remains Now",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -464,7 +464,7 @@
             },
             {
                 "cardMstId": 4300005,
-                "name": "催眠術でさらに最強!!",
+                "name": "Even Mightier with Hypnosis!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -481,7 +481,7 @@
             },
             {
                 "cardMstId": 4300006,
-                "name": "言葉にならない感動は涙で",
+                "name": "Tears for Wordless Wonder",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -498,7 +498,7 @@
             },
             {
                 "cardMstId": 4300007,
-                "name": "わたしが普通のお嬢様だった頃",
+                "name": "Once Your Average Preppy Girl",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -515,7 +515,7 @@
             },
             {
                 "cardMstId": 4300008,
-                "name": "彼女のために変わり続ける",
+                "name": "I'll Keep Changing for Her",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -532,7 +532,7 @@
             },
             {
                 "cardMstId": 4300009,
-                "name": "えーん！　お家に帰りたいの！",
+                "name": "Waaa! I Just Want to Go Home!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -549,7 +549,7 @@
             },
             {
                 "cardMstId": 4300010,
-                "name": "一刀竜断！",
+                "name": "One Lethal Lash!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -566,7 +566,7 @@
             },
             {
                 "cardMstId": 4300011,
-                "name": "掌上に運らす",
+                "name": "Wrapped Around My Finger",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -583,7 +583,7 @@
             },
             {
                 "cardMstId": 4300012,
-                "name": "これが私たちの温度",
+                "name": "When the Heat Is On",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -600,7 +600,7 @@
             },
             {
                 "cardMstId": 4300013,
-                "name": "バイバイは明日への約束",
+                "name": "Goodbye's Promise of Tomorrow",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -617,7 +617,7 @@
             },
             {
                 "cardMstId": 4300014,
-                "name": "四つ葉は幸せの予感！",
+                "name": "Heralds of Happiness",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -634,7 +634,7 @@
             },
             {
                 "cardMstId": 4300015,
-                "name": "幸せ味のクッキー",
+                "name": "Bliss-Flavored Cookies",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -668,7 +668,7 @@
             },
             {
                 "cardMstId": 4300017,
-                "name": "ケンコンイッテキ、大勝利！",
+                "name": "All-Or-Nothing For the Win!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -702,7 +702,7 @@
             },
             {
                 "cardMstId": 4300019,
-                "name": "あちしとかこと冒険",
+                "name": "Kako and Me Adventuring",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -719,7 +719,7 @@
             },
             {
                 "cardMstId": 4300020,
-                "name": "ほのかに灯る熱",
+                "name": "Keeping Cool Before the Heat",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -736,7 +736,7 @@
             },
             {
                 "cardMstId": 4300021,
-                "name": "あたしたちはもう戻れない",
+                "name": "We Can Never Go Back",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -753,7 +753,7 @@
             },
             {
                 "cardMstId": 4300022,
-                "name": "マメジは頼りになる看板犬！",
+                "name": "Reliable Mascot Doggo Mameji!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -770,7 +770,7 @@
             },
             {
                 "cardMstId": 4300023,
-                "name": "一度きりの人生を大好きと",
+                "name": "Cherish the One Life We Live",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -787,7 +787,7 @@
             },
             {
                 "cardMstId": 4300024,
-                "name": "vs.センチメンタル",
+                "name": "Counter Sentimental",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -804,7 +804,7 @@
             },
             {
                 "cardMstId": 4300025,
-                "name": "ゆま、やったよ！",
+                "name": "I Did It!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -821,7 +821,7 @@
             },
             {
                 "cardMstId": 4300026,
-                "name": "私たちだけの内緒",
+                "name": "Our Little Secret",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -838,7 +838,7 @@
             },
             {
                 "cardMstId": 4300028,
-                "name": "あたしはあたしのために",
+                "name": "For My Own Sake",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -855,7 +855,7 @@
             },
             {
                 "cardMstId": 4300032,
-                "name": "忘却は消え去り…",
+                "name": "Oblivion Fades",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -872,7 +872,7 @@
             },
             {
                 "cardMstId": 4300033,
-                "name": "私を見つけて",
+                "name": "Find Me",
                 "illustrator": "",
                 "source": "",
                 "rarity": 4,
@@ -889,7 +889,7 @@
             },
             {
                 "cardMstId": 5100001,
-                "name": "持つべきものは親友",
+                "name": "Best Friend Required",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -906,7 +906,7 @@
             },
             {
                 "cardMstId": 5100002,
-                "name": "お手柄ハイタッチ",
+                "name": "High Five for Harmony",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -923,7 +923,7 @@
             },
             {
                 "cardMstId": 5100003,
-                "name": "わたしたちの守るべき町",
+                "name": "A City Ours to Defend",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -940,7 +940,7 @@
             },
             {
                 "cardMstId": 5100004,
-                "name": "手作りケーキに挑戦中",
+                "name": "Cake Baking Challenge",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -957,7 +957,7 @@
             },
             {
                 "cardMstId": 5100005,
-                "name": "たまには給仕を",
+                "name": "An Occasional Indulgence",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -974,7 +974,7 @@
             },
             {
                 "cardMstId": 5100006,
-                "name": "それぞれの想いを胸に",
+                "name": "Each Hope in Our Hearts",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -991,7 +991,7 @@
             },
             {
                 "cardMstId": 5100007,
-                "name": "レッツ・ケーキパーティー！",
+                "name": "It's Cake Party Time!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1008,7 +1008,7 @@
             },
             {
                 "cardMstId": 5100008,
-                "name": "きっとまたいつか",
+                "name": "Surely Again Someday",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1025,7 +1025,7 @@
             },
             {
                 "cardMstId": 5100009,
-                "name": "救世の使徒",
+                "name": "The Savior's Apostle",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1042,7 +1042,7 @@
             },
             {
                 "cardMstId": 5100010,
-                "name": "帰ろう、わたしたちの家へ",
+                "name": "Home Sweet Homebound",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1059,7 +1059,7 @@
             },
             {
                 "cardMstId": 5100011,
-                "name": "その先にある希望へ",
+                "name": "For Hope That Lies Ahead",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1076,7 +1076,7 @@
             },
             {
                 "cardMstId": 5100012,
-                "name": "アルバムを通して想う未来",
+                "name": "Futures Felt in Photographs",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1093,7 +1093,7 @@
             },
             {
                 "cardMstId": 5100013,
-                "name": "彼女は知らない",
+                "name": "In Blissful Ignorance",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1110,7 +1110,7 @@
             },
             {
                 "cardMstId": 5100014,
-                "name": "似たもの同士？",
+                "name": "We're So Similar?",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1127,7 +1127,7 @@
             },
             {
                 "cardMstId": 5100015,
-                "name": "臨時共同戦線！",
+                "name": "One Time Team-up!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1144,7 +1144,7 @@
             },
             {
                 "cardMstId": 5100016,
-                "name": "なりゆきダンスコーチ",
+                "name": "A Reluctant Coach Steps Up",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1161,7 +1161,7 @@
             },
             {
                 "cardMstId": 5100017,
-                "name": "人魚姫の夢",
+                "name": "A Dream of a Little Mermaid",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1178,7 +1178,7 @@
             },
             {
                 "cardMstId": 5100018,
-                "name": "ステージでは別人",
+                "name": "Special Stage Persona",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1195,7 +1195,7 @@
             },
             {
                 "cardMstId": 5100019,
-                "name": "たまにはいつもと違うメガネで",
+                "name": "New Specs to a New Perspective",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1212,7 +1212,7 @@
             },
             {
                 "cardMstId": 5100020,
-                "name": "夢の中の出会い",
+                "name": "Meeting Within a Dream",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1229,7 +1229,7 @@
             },
             {
                 "cardMstId": 5100021,
-                "name": "いつか上がる雨",
+                "name": "Rains Too Shall Pass",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1246,7 +1246,7 @@
             },
             {
                 "cardMstId": 5100022,
-                "name": "仲直りの証",
+                "name": "Proof of Friends Again",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1263,7 +1263,7 @@
             },
             {
                 "cardMstId": 5100023,
-                "name": "桜の木の下で",
+                "name": "Under a Cherry Blossom Tree",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1280,7 +1280,7 @@
             },
             {
                 "cardMstId": 5100024,
-                "name": "あの子に託されたもの",
+                "name": "What She Once Entrusted",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1297,7 +1297,7 @@
             },
             {
                 "cardMstId": 5100025,
-                "name": "夢の中で…",
+                "name": "In a Dream",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1314,7 +1314,7 @@
             },
             {
                 "cardMstId": 5100026,
-                "name": "この戦いが終わったら…",
+                "name": "Once the Battle's Over",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1331,7 +1331,7 @@
             },
             {
                 "cardMstId": 5100027,
-                "name": "誰かのために使う魔法",
+                "name": "Magic for Someone's Sake",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1348,7 +1348,7 @@
             },
             {
                 "cardMstId": 5400001,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1365,7 +1365,7 @@
             },
             {
                 "cardMstId": 5400002,
-                "name": "薔薇園の魔女",
+                "name": "Rose Garden Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1382,7 +1382,7 @@
             },
             {
                 "cardMstId": 5400003,
-                "name": "暗闇の魔女",
+                "name": "Darkness Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1399,7 +1399,7 @@
             },
             {
                 "cardMstId": 5400004,
-                "name": "お菓子の魔女",
+                "name": "Dessert Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1416,7 +1416,7 @@
             },
             {
                 "cardMstId": 5400005,
-                "name": "ハコの魔女",
+                "name": "Box Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1433,7 +1433,7 @@
             },
             {
                 "cardMstId": 5400006,
-                "name": "落書きの魔女",
+                "name": "Graffiti Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1450,7 +1450,7 @@
             },
             {
                 "cardMstId": 5400007,
-                "name": "銀の魔女",
+                "name": "Silver Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1467,7 +1467,7 @@
             },
             {
                 "cardMstId": 5400008,
-                "name": "影の魔女",
+                "name": "Shadow Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1484,7 +1484,7 @@
             },
             {
                 "cardMstId": 5400009,
-                "name": "犬の魔女",
+                "name": "Dog Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1501,7 +1501,7 @@
             },
             {
                 "cardMstId": 5400010,
-                "name": "人魚の魔女",
+                "name": "Mermaid Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1518,7 +1518,7 @@
             },
             {
                 "cardMstId": 5400011,
-                "name": "芸術家の魔女",
+                "name": "Artist Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1535,7 +1535,7 @@
             },
             {
                 "cardMstId": 5400012,
-                "name": "委員長の魔女",
+                "name": "Chairperson Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1552,7 +1552,7 @@
             },
             {
                 "cardMstId": 5400013,
-                "name": "鳥かごの魔女",
+                "name": "Birdcage Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1569,7 +1569,7 @@
             },
             {
                 "cardMstId": 5400014,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1586,7 +1586,7 @@
             },
             {
                 "cardMstId": 5400015,
-                "name": "針の魔女",
+                "name": "Needle Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1603,7 +1603,7 @@
             },
             {
                 "cardMstId": 5400016,
-                "name": "砂場の魔女",
+                "name": "Sandbox Witch",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1620,7 +1620,7 @@
             },
             {
                 "cardMstId": 5400017,
-                "name": "マチビト馬のウワサ",
+                "name": "Uwasa of the Commoner's Horse",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1637,7 +1637,7 @@
             },
             {
                 "cardMstId": 9900001,
-                "name": "きらめく感動の気配！",
+                "name": "Sensing a Sparkling Sentiment!",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1654,7 +1654,7 @@
             },
             {
                 "cardMstId": 9900002,
-                "name": "新たなキオクへの扉",
+                "name": "Door to a New Kioku",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,
@@ -1671,7 +1671,7 @@
             },
             {
                 "cardMstId": 9900003,
-                "name": "輝け記憶の光たち",
+                "name": "Glittering Memsparks",
                 "illustrator": "",
                 "source": "",
                 "rarity": 5,

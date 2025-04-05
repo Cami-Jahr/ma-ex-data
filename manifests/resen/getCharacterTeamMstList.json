@@ -5,32 +5,32 @@
         "mstList": [
             {
                 "characterTeamMstId": 1,
-                "name": "みかづき荘",
+                "name": "Mikazuki Villa",
                 "sortOrder": 1
             },
             {
                 "characterTeamMstId": 2,
-                "name": "神浜大東団地",
+                "name": "Daito Apartment Complex",
                 "sortOrder": 2
             },
             {
                 "characterTeamMstId": 3,
-                "name": "つつじの家",
+                "name": "Azalea House",
                 "sortOrder": 3
             },
             {
                 "characterTeamMstId": 4,
-                "name": "チームななか",
+                "name": "Team Nanaka",
                 "sortOrder": 4
             },
             {
                 "characterTeamMstId": 7,
-                "name": "ブロッサム",
+                "name": "Blossom",
                 "sortOrder": 7
             },
             {
                 "characterTeamMstId": 900,
-                "name": "無所属",
+                "name": "No Affiliation",
                 "sortOrder": 900
             }
         ]

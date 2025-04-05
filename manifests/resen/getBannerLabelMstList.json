@@ -5,77 +5,77 @@
         "mstList": [
             {
                 "bannerLabelMstId": 1,
-                "labelContent": "ガチャ",
+                "labelContent": "Fate Weave",
                 "labelBgColor": "#b15076"
             },
             {
                 "bannerLabelMstId": 2,
-                "labelContent": "イベント",
+                "labelContent": "Events",
                 "labelBgColor": "#4f8b97"
             },
             {
                 "bannerLabelMstId": 3,
-                "labelContent": "キャンペーン",
+                "labelContent": "Campaign",
                 "labelBgColor": "#8c5588"
             },
             {
                 "bannerLabelMstId": 4,
-                "labelContent": "アップデート",
+                "labelContent": "Update",
                 "labelBgColor": "#d77856"
             },
             {
                 "bannerLabelMstId": 5,
-                "labelContent": "セール",
+                "labelContent": "Sale",
                 "labelBgColor": "#686b9f"
             },
             {
                 "bannerLabelMstId": 6,
-                "labelContent": "重要",
+                "labelContent": "Important",
                 "labelBgColor": "#c95f6a"
             },
             {
                 "bannerLabelMstId": 8,
-                "labelContent": "ピックアップ",
+                "labelContent": "Featured",
                 "labelBgColor": "#bc758c"
             },
             {
                 "bannerLabelMstId": 9,
-                "labelContent": "ステップアップ",
+                "labelContent": "Step",
                 "labelBgColor": "#5f758c"
             },
             {
                 "bannerLabelMstId": 10,
-                "labelContent": "マギアキー",
+                "labelContent": "Magia Key",
                 "labelBgColor": "#be8379"
             },
             {
                 "bannerLabelMstId": 11,
-                "labelContent": "★5確定",
+                "labelContent": "5★ Guaranteed",
                 "labelBgColor": "#5f8f7f"
             },
             {
                 "bannerLabelMstId": 12,
-                "labelContent": "かけらガチャ",
+                "labelContent": "Shard Fate Weave",
                 "labelBgColor": "#be8379"
             },
             {
                 "bannerLabelMstId": 13,
-                "labelContent": "カムバック",
+                "labelContent": "Welcome Back",
                 "labelBgColor": "#b15076"
             },
             {
                 "bannerLabelMstId": 14,
-                "labelContent": "無料ガチャ",
+                "labelContent": "Free Fate Weave",
                 "labelBgColor": "#b15076"
             },
             {
                 "bannerLabelMstId": 15,
-                "labelContent": "エクセドラパス",
+                "labelContent": "Exedra Pass",
                 "labelBgColor": "#b15076"
             },
             {
                 "bannerLabelMstId": 16,
-                "labelContent": "メンテナンス",
+                "labelContent": "Maintenance",
                 "labelBgColor": "#4f8a64"
             }
         ]

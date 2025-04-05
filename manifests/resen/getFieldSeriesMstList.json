@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "fieldSeriesMstId": 60000,
-                "name": "薔薇園の魔女 前編\n鹿目まどかの記憶",
+                "name": "Rose Garden Witch Part I\nMadoka Kaname's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60000,
                 "styleMstId": 0,
@@ -16,7 +16,7 @@
             },
             {
                 "fieldSeriesMstId": 60001,
-                "name": "薔薇園の魔女 後編\n巴マミの記憶",
+                "name": "Rose Garden Witch Part II\nMami Tomoe's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60001,
                 "styleMstId": 0,
@@ -27,7 +27,7 @@
             },
             {
                 "fieldSeriesMstId": 60100,
-                "name": "暗闇の魔女\n巴マミの記憶",
+                "name": "Darkness Witch\nMami Tomoe's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60100,
                 "styleMstId": 0,
@@ -38,7 +38,7 @@
             },
             {
                 "fieldSeriesMstId": 60200,
-                "name": "お菓子の魔女\n巴マミの記憶",
+                "name": "Dessert Witch\nMami Tomoe's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60200,
                 "styleMstId": 0,
@@ -49,7 +49,7 @@
             },
             {
                 "fieldSeriesMstId": 60300,
-                "name": "ハコの魔女\n美樹さやかの記憶",
+                "name": "Box Witch\nSayaka Miki's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60300,
                 "styleMstId": 0,
@@ -60,7 +60,7 @@
             },
             {
                 "fieldSeriesMstId": 60400,
-                "name": "落書きの魔女\n美樹さやかの記憶",
+                "name": "Graffiti Witch\nSayaka Miki's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60400,
                 "styleMstId": 0,
@@ -71,7 +71,7 @@
             },
             {
                 "fieldSeriesMstId": 60500,
-                "name": "銀の魔女\n佐倉杏子の記憶",
+                "name": "Silver Witch\nKyoko Sakura's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60500,
                 "styleMstId": 0,
@@ -82,7 +82,7 @@
             },
             {
                 "fieldSeriesMstId": 60600,
-                "name": "影の魔女\n美樹さやかの記憶",
+                "name": "Shadow Witch\nSayaka Miki's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60600,
                 "styleMstId": 0,
@@ -93,7 +93,7 @@
             },
             {
                 "fieldSeriesMstId": 60700,
-                "name": "犬の魔女\n美樹さやかの記憶",
+                "name": "Dog Witch\nSayaka Miki's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60700,
                 "styleMstId": 0,
@@ -104,7 +104,7 @@
             },
             {
                 "fieldSeriesMstId": 60800,
-                "name": "人魚の魔女\n佐倉杏子の記憶",
+                "name": "Mermaid Witch\nKyoko Sakura's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60800,
                 "styleMstId": 0,
@@ -115,7 +115,7 @@
             },
             {
                 "fieldSeriesMstId": 60900,
-                "name": "芸術家の魔女\n暁美ほむらの記憶",
+                "name": "Artist Witch\nHomura Akemi's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 60900,
                 "styleMstId": 0,
@@ -126,7 +126,7 @@
             },
             {
                 "fieldSeriesMstId": 61000,
-                "name": "委員長の魔女\n暁美ほむらの記憶",
+                "name": "Chairperson Witch\nHomura Akemi's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 61000,
                 "styleMstId": 0,
@@ -137,7 +137,7 @@
             },
             {
                 "fieldSeriesMstId": 61100,
-                "name": "鳥かごの魔女\n暁美ほむらの記憶",
+                "name": "Birdcage Witch\nHomura Akemi's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 61100,
                 "styleMstId": 0,
@@ -148,7 +148,7 @@
             },
             {
                 "fieldSeriesMstId": 61200,
-                "name": "舞台装置の魔女\n暁美ほむらの記憶",
+                "name": "Stagecraft Witch\nHomura Akemi's Memory",
                 "questMapMstId": 1,
                 "questGroupMstId": 61200,
                 "styleMstId": 0,
@@ -159,7 +159,7 @@
             },
             {
                 "fieldSeriesMstId": 61500,
-                "name": "針の魔女",
+                "name": "Needle Witch",
                 "questMapMstId": 3,
                 "questGroupMstId": 61500,
                 "styleMstId": 0,
@@ -170,7 +170,7 @@
             },
             {
                 "fieldSeriesMstId": 61700,
-                "name": "砂場の魔女",
+                "name": "Sandbox Witch",
                 "questMapMstId": 2,
                 "questGroupMstId": 61700,
                 "styleMstId": 0,
@@ -181,7 +181,7 @@
             },
             {
                 "fieldSeriesMstId": 61800,
-                "name": "マチビト馬のウワサ",
+                "name": "Uwasa of the Commoner's Horse",
                 "questMapMstId": 2,
                 "questGroupMstId": 61800,
                 "styleMstId": 0,
@@ -192,7 +192,7 @@
             },
             {
                 "fieldSeriesMstId": 61900,
-                "name": "名無し人工知能のウワサ",
+                "name": "Uwasa of the Anonymous AI",
                 "questMapMstId": 2,
                 "questGroupMstId": 61900,
                 "styleMstId": 0,

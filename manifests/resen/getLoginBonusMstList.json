@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "loginBonusMstId": 1,
-                "title": "ログインボーナス",
+                "title": "Login Bonus",
                 "cycleType": 1,
                 "sortOrder": 100,
                 "startTime": "2025-03-26T17:00:00+09:00",
@@ -13,7 +13,7 @@
             },
             {
                 "loginBonusMstId": 2,
-                "title": "初心者ログインボーナス",
+                "title": "Beginner Login Bonus",
                 "cycleType": 2,
                 "sortOrder": 900,
                 "startTime": "2025-03-26T17:00:00+09:00",
@@ -21,7 +21,7 @@
             },
             {
                 "loginBonusMstId": 3,
-                "title": "カムバックログインボーナス",
+                "title": "Welcome Back Login Bonus",
                 "cycleType": 3,
                 "sortOrder": 500,
                 "startTime": "2025-03-26T17:00:00+09:00",
@@ -29,7 +29,7 @@
             },
             {
                 "loginBonusMstId": 4,
-                "title": "リリース記念ログインボーナス",
+                "title": "Release Celebration Login Bonus",
                 "cycleType": 2,
                 "sortOrder": 1000,
                 "startTime": "2025-03-26T17:00:00+09:00",
@@ -37,7 +37,7 @@
             },
             {
                 "loginBonusMstId": 5,
-                "title": "DANCE☆MAGICAログインボーナス",
+                "title": "Dance☆Magica Login Bonus",
                 "cycleType": 2,
                 "sortOrder": 1000,
                 "startTime": "2025-04-01T00:00:00+09:00",

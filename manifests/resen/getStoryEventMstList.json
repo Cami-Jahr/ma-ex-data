@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "storyEventMstId": 1,
-                "name": "フェアウェル・ストーリー 前編",
+                "name": "Farewell Story Part I",
                 "storyQuestGroupId": 1001,
                 "scoreAttackMstId": 0,
                 "eventItemId": 201007,
@@ -18,11 +18,11 @@
                 "topImageName": "2",
                 "bannerImageName": "banner_00018",
                 "bossCameraAssetName": "0",
-                "description": "新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語\n（ドラマCD『フェアウェル・ストーリー』）"
+                "description": "Caught in a dire situation, Kyoko Sakura is rescued by Mami Tomoe. Turn back time to before Walpurgisnacht's descent, for a story of two Magical Girls, as they meet and part ways."
             },
             {
                 "storyEventMstId": 2,
-                "name": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+                "name": "Dance☆Magica",
                 "storyQuestGroupId": 1005,
                 "scoreAttackMstId": 0,
                 "eventItemId": 201005,
@@ -35,11 +35,11 @@
                 "topImageName": "3",
                 "bannerImageName": "banner_00019",
                 "bossCameraAssetName": "0",
-                "description": "『ダンシング魔法少女』\nそれは、キュゥべえにスカウトされた、\n踊ることで穢れを祓う５人の少女たち！\nある日、彼女たちにメディアデビューの話が舞い込み…！？ "
+                "description": "\"Dancing Magical Girls\"\nFive girls are recruited by Kyubey to cleanse impurities, one dance at a time! Then one day, a chance at a media debut lands in their lap... "
             },
             {
                 "storyEventMstId": 3,
-                "name": "フェアウェル・ストーリー 後編",
+                "name": "Farewell Story Part II",
                 "storyQuestGroupId": 1003,
                 "scoreAttackMstId": 1,
                 "eventItemId": 201004,
@@ -52,11 +52,11 @@
                 "topImageName": "4",
                 "bannerImageName": "banner_00020",
                 "bossCameraAssetName": "0",
-                "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）"
+                "description": "Kyoko and Mami grew close fighting alongside each other. But their bond begins to unravel, and the two eventually part ways. A year has passed since then. Now alone, Kyoko encounters a black-haired girl."
             },
             {
                 "storyEventMstId": 10000,
-                "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
+                "name": "Steady Steps Forward: Magical Girl Dreams",
                 "storyQuestGroupId": 1004,
                 "scoreAttackMstId": 0,
                 "eventItemId": 201008,
@@ -69,7 +69,7 @@
                 "topImageName": "1",
                 "bannerImageName": "banner_00017",
                 "bossCameraAssetName": "0",
-                "description": "新人魔法少女のまどかは、やっと一人前と認められたばかり\n立派に活躍する先輩魔法少女たちに憧れ\nまだまだ力不足の自分に焦りを感じてもいる\nそんなまどかの新しい日常の始まり"
+                "description": "Madoka, recognized as a full-fledged Magical Girl at last, now worries she will fall short of her more accomplished seniors. This marks the beginning of a new chapter in her life."
             }
         ]
     }

@@ -5,709 +5,709 @@
         "mstList": [
             {
                 "userTitleMstId": 10010101,
-                "title": "ルクス☆マギカ",
+                "title": "Lux☆Magica",
                 "titleType": 1,
                 "value1": 10010101
             },
             {
                 "userTitleMstId": 10010701,
-                "title": "プルウィア☆マギカ",
+                "title": "Pluvia☆Magica",
                 "titleType": 1,
                 "value1": 10010701
             },
             {
                 "userTitleMstId": 10020201,
-                "title": "ミサイルによる集中砲火",
+                "title": "Concentrated Missile Fire",
                 "titleType": 1,
                 "value1": 10020201
             },
             {
                 "userTitleMstId": 10030101,
-                "title": "ティロ・フィナーレ",
+                "title": "Tiro Finale",
                 "titleType": 1,
                 "value1": 10030101
             },
             {
                 "userTitleMstId": 10050101,
-                "title": "盟神抉槍",
+                "title": "Kugatachi",
                 "titleType": 1,
                 "value1": 10050101
             },
             {
                 "userTitleMstId": 10080101,
-                "title": "ストラーダ・フトゥーロ",
+                "title": "Strada Futuro",
                 "titleType": 1,
                 "value1": 10080101
             },
             {
                 "userTitleMstId": 10090101,
-                "title": "アブソリュート・レイン",
+                "title": "Absolute Rain",
                 "titleType": 1,
                 "value1": 10090101
             },
             {
                 "userTitleMstId": 10100101,
-                "title": "炎扇斬舞",
+                "title": "Flame Waltz",
                 "titleType": 1,
                 "value1": 10100101
             },
             {
                 "userTitleMstId": 10110101,
-                "title": "フォルターゲフェングニス",
+                "title": "Folter Gefängnis",
                 "titleType": 1,
                 "value1": 10110101
             },
             {
                 "userTitleMstId": 10120101,
-                "title": "ウルトラグレートビッグハンマー",
+                "title": "Ultra Great Big Hammer",
                 "titleType": 1,
                 "value1": 10120101
             },
             {
                 "userTitleMstId": 10800101,
-                "title": "ソウル・サルベーション",
+                "title": "Soul Salvation",
                 "titleType": 1,
                 "value1": 10800101
             },
             {
                 "userTitleMstId": 11240101,
-                "title": "オラクルレイ",
+                "title": "Oracle Ray",
                 "titleType": 1,
                 "value1": 11240101
             },
             {
                 "userTitleMstId": 11250101,
-                "title": "ヴァンパイアファング",
+                "title": "Vampire Fang",
                 "titleType": 1,
                 "value1": 11250101
             },
             {
                 "userTitleMstId": 20000000,
-                "title": "名前のない少女",
+                "title": "Nameless Girl",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101001,
-                "title": "薔薇園の魔女 前編 Mainクリア",
+                "title": "Rose Garden Witch Part I (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101002,
-                "title": "薔薇園の魔女 後編 Mainクリア",
+                "title": "Rose Garden Witch Part II (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101003,
-                "title": "暗闇の魔女 Mainクリア",
+                "title": "Darkness Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101004,
-                "title": "お菓子の魔女 Mainクリア",
+                "title": "Dessert Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101005,
-                "title": "ハコの魔女 Mainクリア",
+                "title": "Box Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101006,
-                "title": "落書きの魔女 Mainクリア",
+                "title": "Graffiti Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101007,
-                "title": "銀の魔女 Mainクリア",
+                "title": "Silver Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101008,
-                "title": "影の魔女 Mainクリア",
+                "title": "Shadow Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101009,
-                "title": "犬の魔女 Mainクリア",
+                "title": "Dog Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101010,
-                "title": "人魚の魔女 Mainクリア",
+                "title": "Mermaid Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101011,
-                "title": "芸術家の魔女 Mainクリア",
+                "title": "Artist Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101012,
-                "title": "委員長の魔女 Mainクリア",
+                "title": "Chairperson Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101013,
-                "title": "鳥かごの魔女 Mainクリア",
+                "title": "Birdcage Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20101014,
-                "title": "舞台装置の魔女 Mainクリア",
+                "title": "Stagecraft Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102001,
-                "title": "薔薇園の魔女 前編 Battleクリア",
+                "title": "Rose Garden Witch Part I (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102002,
-                "title": "薔薇園の魔女 後編 Battleクリア",
+                "title": "Rose Garden Witch Part II (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102003,
-                "title": "暗闇の魔女 Battleクリア",
+                "title": "Darkness Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102004,
-                "title": "お菓子の魔女 Battleクリア",
+                "title": "Dessert Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102005,
-                "title": "ハコの魔女 Battleクリア",
+                "title": "Box Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102006,
-                "title": "落書きの魔女 Battleクリア",
+                "title": "Graffiti Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102007,
-                "title": "銀の魔女 Battleクリア",
+                "title": "Silver Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102008,
-                "title": "影の魔女 Battleクリア",
+                "title": "Shadow Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102009,
-                "title": "犬の魔女 Battleクリア",
+                "title": "Dog Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102010,
-                "title": "人魚の魔女 Battleクリア",
+                "title": "Mermaid Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102011,
-                "title": "芸術家の魔女 Battleクリア",
+                "title": "Artist Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102012,
-                "title": "委員長の魔女 Battleクリア",
+                "title": "Chairperson Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102013,
-                "title": "鳥かごの魔女 Battleクリア",
+                "title": "Birdcage Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20102014,
-                "title": "舞台装置の魔女 Battleクリア",
+                "title": "Stagecraft Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103001,
-                "title": "薔薇園の魔女 前編 Nightmareクリア",
+                "title": "Rose Garden Witch Part I (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103002,
-                "title": "薔薇園の魔女 後編 Nightmareクリア",
+                "title": "Rose Garden Witch Part II (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103003,
-                "title": "暗闇の魔女 Nightmareクリア",
+                "title": "Darkness Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103004,
-                "title": "お菓子の魔女 Nightmareクリア",
+                "title": "Dessert Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103005,
-                "title": "ハコの魔女 Nightmareクリア",
+                "title": "Box Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103006,
-                "title": "落書きの魔女 Nightmareクリア",
+                "title": "Graffiti Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103007,
-                "title": "銀の魔女 Nightmareクリア",
+                "title": "Silver Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103008,
-                "title": "影の魔女 Nightmareクリア",
+                "title": "Shadow Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103009,
-                "title": "犬の魔女 Nightmareクリア",
+                "title": "Dog Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103010,
-                "title": "人魚の魔女 Nightmareクリア",
+                "title": "Mermaid Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103011,
-                "title": "芸術家の魔女 Nightmareクリア",
+                "title": "Artist Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103012,
-                "title": "委員長の魔女 Nightmareクリア",
+                "title": "Chairperson Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103013,
-                "title": "鳥かごの魔女 Nightmareクリア",
+                "title": "Birdcage Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20103014,
-                "title": "舞台装置の魔女 Nightmareクリア",
+                "title": "Stagecraft Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20201001,
-                "title": "砂場の魔女 Mainクリア",
+                "title": "Sandbox Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20201002,
-                "title": "マチビト馬のウワサ Mainクリア",
+                "title": "Uwasa of the Commoner's Horse (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20202001,
-                "title": "砂場の魔女 Battleクリア",
+                "title": "Sandbox Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20202002,
-                "title": "マチビト馬のウワサ Battleクリア",
+                "title": "Uwasa of the Commoner's Horse (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20203001,
-                "title": "砂場の魔女 Nightmareクリア",
+                "title": "Sandbox Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20203002,
-                "title": "マチビト馬のウワサ Nightmareクリア",
+                "title": "Uwasa of the Commoner's Horse (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20301001,
-                "title": "針の魔女 Mainクリア",
+                "title": "Needle Witch (Standard) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20302001,
-                "title": "針の魔女 Battleクリア",
+                "title": "Needle Witch (Battler) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 20303001,
-                "title": "針の魔女 Nightmareクリア",
+                "title": "Needle Witch (Nightmare) Ace",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010001,
-                "title": "プレイヤーマッチNo.1",
+                "title": "Player Match No.1",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010002,
-                "title": "プレイヤーマッチNo.2",
+                "title": "Player Match No.2",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010003,
-                "title": "プレイヤーマッチNo.3",
+                "title": "Player Match No.3",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010004,
-                "title": "プレイヤーマッチNo.4",
+                "title": "Player Match No.4",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010005,
-                "title": "プレイヤーマッチNo.5",
+                "title": "Player Match No.5",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010006,
-                "title": "プレイヤーマッチNo.6",
+                "title": "Player Match No.6",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010007,
-                "title": "プレイヤーマッチNo.7",
+                "title": "Player Match No.7",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010008,
-                "title": "プレイヤーマッチNo.8",
+                "title": "Player Match No.8",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010009,
-                "title": "プレイヤーマッチNo.9",
+                "title": "Player Match No.9",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010010,
-                "title": "プレイヤーマッチNo.10",
+                "title": "Player Match No.10",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010011,
-                "title": "プレイヤーマッチTop50",
+                "title": "Player Match Top 50",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010012,
-                "title": "プレイヤーマッチTop100",
+                "title": "Player Match Top 100",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010013,
-                "title": "プレイヤーマッチTop500",
+                "title": "Player Match Top 500",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010014,
-                "title": "プレイヤーマッチTop1000",
+                "title": "Player Match Top 1,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010015,
-                "title": "プレイヤーマッチTop2000",
+                "title": "Player Match Top 2,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010016,
-                "title": "プレイヤーマッチTop5000",
+                "title": "Player Match Top 5,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010017,
-                "title": "プレイヤーマッチTop10000",
+                "title": "Player Match Top 10,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010018,
-                "title": "プレイヤーマッチTop20000",
+                "title": "Player Match Top 20,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 30010019,
-                "title": "プレイヤーマッチTop50000",
+                "title": "Player Match Top 50,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 60000001,
-                "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～クリア",
+                "title": "Steady Steps Forward: Magical Girl Dreams Ace",
                 "titleType": 2,
                 "value1": 4200019
             },
             {
                 "userTitleMstId": 60000002,
-                "title": "フェアウェル・ストーリー 前編クリア",
+                "title": "Clear Farewell Story Part I",
                 "titleType": 2,
                 "value1": 4200001
             },
             {
                 "userTitleMstId": 60000003,
-                "title": "フェアウェル・ストーリー 後編クリア",
+                "title": "Clear Farewell Story Part II",
                 "titleType": 2,
                 "value1": 4200003
             },
             {
                 "userTitleMstId": 70000001,
-                "title": "ミラーズランキングS☆☆☆",
+                "title": "Mirrors Ranking S☆☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000002,
-                "title": "ミラーズランキングS☆☆",
+                "title": "Mirrors Ranking S☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000003,
-                "title": "ミラーズランキングS☆",
+                "title": "Mirrors Ranking S☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000004,
-                "title": "ミラーズランキングA☆☆☆",
+                "title": "Mirrors Ranking A☆☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000005,
-                "title": "ミラーズランキングA☆☆",
+                "title": "Mirrors Ranking A☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000006,
-                "title": "ミラーズランキングA☆",
+                "title": "Mirrors Ranking A☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000007,
-                "title": "ミラーズランキングB☆☆☆",
+                "title": "Mirrors Ranking B☆☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000008,
-                "title": "ミラーズランキングB☆☆",
+                "title": "Mirrors Ranking B☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000009,
-                "title": "ミラーズランキングB☆",
+                "title": "Mirrors Ranking B☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000010,
-                "title": "ミラーズランキングC☆☆☆",
+                "title": "Mirrors Ranking C☆☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000011,
-                "title": "ミラーズランキングC☆☆",
+                "title": "Mirrors Ranking C☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000012,
-                "title": "ミラーズランキングC☆",
+                "title": "Mirrors Ranking C☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000013,
-                "title": "ミラーズランキングD☆☆☆",
+                "title": "Mirrors Ranking D☆☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000014,
-                "title": "ミラーズランキングD☆☆",
+                "title": "Mirrors Ranking D☆☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000015,
-                "title": "ミラーズランキングD☆",
+                "title": "Mirrors Ranking D☆",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000016,
-                "title": "マギアレコード総合戦力値No.1",
+                "title": "Magia Record Total PWR No.1",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000017,
-                "title": "マギアレコード総合戦力値No.2",
+                "title": "Magia Record Total PWR No.2",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000018,
-                "title": "マギアレコード総合戦力値No.3",
+                "title": "Magia Record Total PWR No.3",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000019,
-                "title": "マギアレコード総合戦力値No.4",
+                "title": "Magia Record Total PWR No.4",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000020,
-                "title": "マギアレコード総合戦力値No.5",
+                "title": "Magia Record Total PWR No.5",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000021,
-                "title": "マギアレコード総合戦力値No.6",
+                "title": "Magia Record Total PWR No.6",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000022,
-                "title": "マギアレコード総合戦力値No.7",
+                "title": "Magia Record Total PWR No.7",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000023,
-                "title": "マギアレコード総合戦力値No.8",
+                "title": "Magia Record Total PWR No.8",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000024,
-                "title": "マギアレコード総合戦力値No.9",
+                "title": "Magia Record Total PWR No.9",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000025,
-                "title": "マギアレコード総合戦力値No.10",
+                "title": "Magia Record Total PWR No.10",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000026,
-                "title": "マギアレコード総合戦力値Top50",
+                "title": "Magia Record Total PWR Top 50",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000027,
-                "title": "マギアレコード総合戦力値Top100",
+                "title": "Magia Record Total PWR Top 100",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000028,
-                "title": "マギアレコード総合戦力値Top500",
+                "title": "Magia Record Total PWR Top 500",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000029,
-                "title": "マギアレコード総合戦力値Top1000",
+                "title": "Magia Record Total PWR Top 1,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000030,
-                "title": "マギアレコード総合戦力値Top5000",
+                "title": "Magia Record Total PWR Top 5,000",
                 "titleType": 0,
                 "value1": 0
             },
             {
                 "userTitleMstId": 70000031,
-                "title": "マギアレコード総合戦力値Top10000",
+                "title": "Magia Record Total PWR Top 10,000",
                 "titleType": 0,
                 "value1": 0
             }

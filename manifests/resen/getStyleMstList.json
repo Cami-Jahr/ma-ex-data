@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "styleMstId": 100,
-                "name": "プルウィア☆マギカ",
+                "name": "Pluvia☆Magica",
                 "styleFigureMstId": 100107,
                 "rarity": 5,
                 "specialAttackMstId": 1002,
@@ -48,7 +48,7 @@
             },
             {
                 "styleMstId": 200,
-                "name": "ミサイルによる集中砲火",
+                "name": "Concentrated Missile Fire",
                 "styleFigureMstId": 100202,
                 "rarity": 5,
                 "specialAttackMstId": 2,
@@ -91,7 +91,7 @@
             },
             {
                 "styleMstId": 300,
-                "name": "プルウィア☆マギカ",
+                "name": "Pluvia☆Magica",
                 "styleFigureMstId": 100107,
                 "rarity": 5,
                 "specialAttackMstId": 1002,
@@ -134,7 +134,7 @@
             },
             {
                 "styleMstId": 400,
-                "name": "ミサイルによる集中砲火",
+                "name": "Concentrated Missile Fire",
                 "styleFigureMstId": 100202,
                 "rarity": 5,
                 "specialAttackMstId": 1005,
@@ -177,7 +177,7 @@
             },
             {
                 "styleMstId": 500,
-                "name": "ストラーダ・フトゥーロ",
+                "name": "Strada Futuro",
                 "styleFigureMstId": 100801,
                 "rarity": 5,
                 "specialAttackMstId": 1020,
@@ -220,7 +220,7 @@
             },
             {
                 "styleMstId": 600,
-                "name": "アブソリュート・レイン",
+                "name": "Absolute Rain",
                 "styleFigureMstId": 100901,
                 "rarity": 5,
                 "specialAttackMstId": 1023,
@@ -263,7 +263,7 @@
             },
             {
                 "styleMstId": 700,
-                "name": "炎扇斬舞",
+                "name": "Flame Waltz",
                 "styleFigureMstId": 101001,
                 "rarity": 5,
                 "specialAttackMstId": 1026,
@@ -306,7 +306,7 @@
             },
             {
                 "styleMstId": 800,
-                "name": "ウルトラグレートビッグハンマー",
+                "name": "Ultra Great Big Hammer",
                 "styleFigureMstId": 101201,
                 "rarity": 5,
                 "specialAttackMstId": 1153,
@@ -349,7 +349,7 @@
             },
             {
                 "styleMstId": 900,
-                "name": "フォルターゲフェングニス",
+                "name": "Folter Gefängnis",
                 "styleFigureMstId": 101101,
                 "rarity": 5,
                 "specialAttackMstId": 1156,
@@ -392,7 +392,7 @@
             },
             {
                 "styleMstId": 10010101,
-                "name": "ルクス☆マギカ",
+                "name": "Lux☆Magica",
                 "styleFigureMstId": 100101,
                 "rarity": 5,
                 "specialAttackMstId": 1150,
@@ -435,7 +435,7 @@
             },
             {
                 "styleMstId": 10010701,
-                "name": "プルウィア☆マギカ",
+                "name": "Pluvia☆Magica",
                 "styleFigureMstId": 100107,
                 "rarity": 5,
                 "specialAttackMstId": 1002,
@@ -478,7 +478,7 @@
             },
             {
                 "styleMstId": 10020201,
-                "name": "ミサイルによる集中砲火",
+                "name": "Concentrated Missile Fire",
                 "styleFigureMstId": 100202,
                 "rarity": 5,
                 "specialAttackMstId": 1005,
@@ -521,7 +521,7 @@
             },
             {
                 "styleMstId": 10030101,
-                "name": "ティロ・フィナーレ",
+                "name": "Tiro Finale",
                 "styleFigureMstId": 100301,
                 "rarity": 5,
                 "specialAttackMstId": 1008,
@@ -564,7 +564,7 @@
             },
             {
                 "styleMstId": 10050101,
-                "name": "盟神抉槍",
+                "name": "Kugatachi",
                 "styleFigureMstId": 100501,
                 "rarity": 5,
                 "specialAttackMstId": 1011,
@@ -607,7 +607,7 @@
             },
             {
                 "styleMstId": 10080101,
-                "name": "ストラーダ・フトゥーロ",
+                "name": "Strada Futuro",
                 "styleFigureMstId": 100801,
                 "rarity": 5,
                 "specialAttackMstId": 1020,
@@ -650,7 +650,7 @@
             },
             {
                 "styleMstId": 10090101,
-                "name": "アブソリュート・レイン",
+                "name": "Absolute Rain",
                 "styleFigureMstId": 100901,
                 "rarity": 5,
                 "specialAttackMstId": 1023,
@@ -693,7 +693,7 @@
             },
             {
                 "styleMstId": 10100101,
-                "name": "炎扇斬舞",
+                "name": "Flame Waltz",
                 "styleFigureMstId": 101001,
                 "rarity": 5,
                 "specialAttackMstId": 1026,
@@ -736,7 +736,7 @@
             },
             {
                 "styleMstId": 10110101,
-                "name": "フォルターゲフェングニス",
+                "name": "Folter Gefängnis",
                 "styleFigureMstId": 101101,
                 "rarity": 5,
                 "specialAttackMstId": 1156,
@@ -779,7 +779,7 @@
             },
             {
                 "styleMstId": 10120101,
-                "name": "ウルトラグレートビッグハンマー",
+                "name": "Ultra Great Big Hammer",
                 "styleFigureMstId": 101201,
                 "rarity": 5,
                 "specialAttackMstId": 1153,
@@ -822,7 +822,7 @@
             },
             {
                 "styleMstId": 10170101,
-                "name": "パープルウィルオーウィスプ",
+                "name": "Purple Will-o'-Wisp",
                 "styleFigureMstId": 101701,
                 "rarity": 4,
                 "specialAttackMstId": 1041,
@@ -865,7 +865,7 @@
             },
             {
                 "styleMstId": 10170102,
-                "name": "かりんのキオク",
+                "name": "Karin's Kioku",
                 "styleFigureMstId": 101701,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -908,7 +908,7 @@
             },
             {
                 "styleMstId": 10180101,
-                "name": "竜真螺旋咆撃",
+                "name": "Ryushin Spiral Fury",
                 "styleFigureMstId": 101801,
                 "rarity": 4,
                 "specialAttackMstId": 1038,
@@ -951,7 +951,7 @@
             },
             {
                 "styleMstId": 10180102,
-                "name": "明日香のキオク",
+                "name": "Asuka's Kioku",
                 "styleFigureMstId": 101801,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -994,7 +994,7 @@
             },
             {
                 "styleMstId": 10580101,
-                "name": "夏希のキオク",
+                "name": "Natsuki's Kioku",
                 "styleFigureMstId": 105801,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1037,7 +1037,7 @@
             },
             {
                 "styleMstId": 10610101,
-                "name": "白椿",
+                "name": "White Camellia",
                 "styleFigureMstId": 106101,
                 "rarity": 4,
                 "specialAttackMstId": 1049,
@@ -1080,7 +1080,7 @@
             },
             {
                 "styleMstId": 10610102,
-                "name": "ななかのキオク",
+                "name": "Nanaka's Kioku",
                 "styleFigureMstId": 106101,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1123,7 +1123,7 @@
             },
             {
                 "styleMstId": 10670101,
-                "name": "かこのキオク",
+                "name": "Kako's Kioku",
                 "styleFigureMstId": 106701,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1166,7 +1166,7 @@
             },
             {
                 "styleMstId": 10680101,
-                "name": "美雨のキオク",
+                "name": "Meiyui's Kioku",
                 "styleFigureMstId": 106801,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1209,7 +1209,7 @@
             },
             {
                 "styleMstId": 10690101,
-                "name": "サークル・オブ・ファイア",
+                "name": "Circle Of Fire",
                 "styleFigureMstId": 106901,
                 "rarity": 4,
                 "specialAttackMstId": 1052,
@@ -1252,7 +1252,7 @@
             },
             {
                 "styleMstId": 10690102,
-                "name": "れいらのキオク",
+                "name": "Reira's Kioku",
                 "styleFigureMstId": 106901,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1295,7 +1295,7 @@
             },
             {
                 "styleMstId": 10700101,
-                "name": "ダイヤ・スプラッシュ",
+                "name": "Diamond Splash",
                 "styleFigureMstId": 107001,
                 "rarity": 4,
                 "specialAttackMstId": 1055,
@@ -1338,7 +1338,7 @@
             },
             {
                 "styleMstId": 10700102,
-                "name": "せいかのキオク",
+                "name": "Seika's Kioku",
                 "styleFigureMstId": 107001,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1381,7 +1381,7 @@
             },
             {
                 "styleMstId": 10710101,
-                "name": "フリソソグミドリノハ",
+                "name": "Verdant Shower",
                 "styleFigureMstId": 107101,
                 "rarity": 4,
                 "specialAttackMstId": 1058,
@@ -1424,7 +1424,7 @@
             },
             {
                 "styleMstId": 10710102,
-                "name": "みとのキオク",
+                "name": "Mito's Kioku",
                 "styleFigureMstId": 107101,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1467,7 +1467,7 @@
             },
             {
                 "styleMstId": 10720101,
-                "name": "ディスクリート・レーザー",
+                "name": "Surging Laser",
                 "styleFigureMstId": 107201,
                 "rarity": 4,
                 "specialAttackMstId": 1117,
@@ -1510,7 +1510,7 @@
             },
             {
                 "styleMstId": 10720102,
-                "name": "こころのキオク",
+                "name": "Kokoro's Kioku",
                 "styleFigureMstId": 107201,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1553,7 +1553,7 @@
             },
             {
                 "styleMstId": 10740101,
-                "name": "ナイトメア・スティンガー",
+                "name": "Nightmare Stinger",
                 "styleFigureMstId": 107401,
                 "rarity": 4,
                 "specialAttackMstId": 1061,
@@ -1596,7 +1596,7 @@
             },
             {
                 "styleMstId": 10740102,
-                "name": "帆奈のキオク",
+                "name": "Hanna's Kioku",
                 "styleFigureMstId": 107401,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1639,7 +1639,7 @@
             },
             {
                 "styleMstId": 10760101,
-                "name": "メテオ・フィスト",
+                "name": "Meteor Punch",
                 "styleFigureMstId": 107601,
                 "rarity": 4,
                 "specialAttackMstId": 1064,
@@ -1682,7 +1682,7 @@
             },
             {
                 "styleMstId": 10760102,
-                "name": "ひみかのキオク",
+                "name": "Himika's Kioku",
                 "styleFigureMstId": 107601,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1725,7 +1725,7 @@
             },
             {
                 "styleMstId": 10800101,
-                "name": "ソウル・サルベーション",
+                "name": "Soul Salvation",
                 "styleFigureMstId": 108001,
                 "rarity": 5,
                 "specialAttackMstId": 1035,
@@ -1768,7 +1768,7 @@
             },
             {
                 "styleMstId": 10810101,
-                "name": "このはのキオク",
+                "name": "Konoha's Kioku",
                 "styleFigureMstId": 108101,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1811,7 +1811,7 @@
             },
             {
                 "styleMstId": 10820101,
-                "name": "サンダー・トレント",
+                "name": "Thunder Torrent",
                 "styleFigureMstId": 108201,
                 "rarity": 4,
                 "specialAttackMstId": 1067,
@@ -1854,7 +1854,7 @@
             },
             {
                 "styleMstId": 10820102,
-                "name": "葉月のキオク",
+                "name": "Hazuki's Kioku",
                 "styleFigureMstId": 108201,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1897,7 +1897,7 @@
             },
             {
                 "styleMstId": 10830101,
-                "name": "未確認飛行ファイヤー",
+                "name": "Unknown Flying Fire",
                 "styleFigureMstId": 108301,
                 "rarity": 4,
                 "specialAttackMstId": 1070,
@@ -1940,7 +1940,7 @@
             },
             {
                 "styleMstId": 10830102,
-                "name": "あやめのキオク",
+                "name": "Ayame's Kioku",
                 "styleFigureMstId": 108301,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -1983,7 +1983,7 @@
             },
             {
                 "styleMstId": 10840101,
-                "name": "インビジブル・アサシン",
+                "name": "Invisible Assassin",
                 "styleFigureMstId": 108401,
                 "rarity": 4,
                 "specialAttackMstId": 1120,
@@ -2026,7 +2026,7 @@
             },
             {
                 "styleMstId": 10840102,
-                "name": "まさらのキオク",
+                "name": "Masara's Kioku",
                 "styleFigureMstId": 108401,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -2069,7 +2069,7 @@
             },
             {
                 "styleMstId": 10860101,
-                "name": "キラ盛りビーム",
+                "name": "Brilliant Beam",
                 "styleFigureMstId": 108601,
                 "rarity": 4,
                 "specialAttackMstId": 1073,
@@ -2112,7 +2112,7 @@
             },
             {
                 "styleMstId": 10860102,
-                "name": "梨花のキオク",
+                "name": "Rika's Kioku",
                 "styleFigureMstId": 108601,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -2155,7 +2155,7 @@
             },
             {
                 "styleMstId": 10900101,
-                "name": "食べごろハンター",
+                "name": "Yummy Hunter",
                 "styleFigureMstId": 109001,
                 "rarity": 4,
                 "specialAttackMstId": 1123,
@@ -2198,7 +2198,7 @@
             },
             {
                 "styleMstId": 10900102,
-                "name": "理子のキオク",
+                "name": "Riko's Kioku",
                 "styleFigureMstId": 109001,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -2241,7 +2241,7 @@
             },
             {
                 "styleMstId": 11070101,
-                "name": "オシャンティックハリケーン",
+                "name": "Glittering Hurricane",
                 "styleFigureMstId": 110701,
                 "rarity": 4,
                 "specialAttackMstId": 1126,
@@ -2284,7 +2284,7 @@
             },
             {
                 "styleMstId": 11070102,
-                "name": "アシュリーのキオク",
+                "name": "Ashley's Kioku",
                 "styleFigureMstId": 110701,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -2327,7 +2327,7 @@
             },
             {
                 "styleMstId": 11140101,
-                "name": "粛清天使",
+                "name": "Seraphic Trial",
                 "styleFigureMstId": 111401,
                 "rarity": 4,
                 "specialAttackMstId": 1129,
@@ -2370,7 +2370,7 @@
             },
             {
                 "styleMstId": 11140102,
-                "name": "クシュのキオク",
+                "name": "Kush's Kioku",
                 "styleFigureMstId": 111401,
                 "rarity": 3,
                 "specialAttackMstId": 0,
@@ -2413,7 +2413,7 @@
             },
             {
                 "styleMstId": 11240101,
-                "name": "オラクルレイ",
+                "name": "Oracle Ray",
                 "styleFigureMstId": 112401,
                 "rarity": 5,
                 "specialAttackMstId": 1076,
@@ -2456,7 +2456,7 @@
             },
             {
                 "styleMstId": 11250101,
-                "name": "ヴァンパイアファング",
+                "name": "Vampire Fang",
                 "styleFigureMstId": 112501,
                 "rarity": 5,
                 "specialAttackMstId": 1079,
@@ -2499,7 +2499,7 @@
             },
             {
                 "styleMstId": 11260101,
-                "name": "リンクスインパクト",
+                "name": "Lynx Impact",
                 "styleFigureMstId": 112601,
                 "rarity": 4,
                 "specialAttackMstId": 1082,
@@ -2542,7 +2542,7 @@
             },
             {
                 "styleMstId": 11260102,
-                "name": "ゆまのキオク",
+                "name": "Yuma's Kioku",
                 "styleFigureMstId": 112601,
                 "rarity": 3,
                 "specialAttackMstId": 0,

@@ -6,7 +6,7 @@
             {
                 "enemyMstId": 101401,
                 "enemyUniqueId": 101401,
-                "name": "十咎ももこ",
+                "name": "Momoko Togame",
                 "runesName": "",
                 "enemyType": 4,
                 "size": 1,
@@ -23,7 +23,7 @@
             {
                 "enemyMstId": 101501,
                 "enemyUniqueId": 101501,
-                "name": "水波レナ",
+                "name": "Rena Minami",
                 "runesName": "",
                 "enemyType": 4,
                 "size": 1,
@@ -40,7 +40,7 @@
             {
                 "enemyMstId": 101601,
                 "enemyUniqueId": 101601,
-                "name": "秋野かえで",
+                "name": "Kaede Akino",
                 "runesName": "",
                 "enemyType": 4,
                 "size": 1,
@@ -57,7 +57,7 @@
             {
                 "enemyMstId": 112401,
                 "enemyUniqueId": 112401,
-                "name": "美国織莉子",
+                "name": "Oriko Mikuni",
                 "runesName": "",
                 "enemyType": 4,
                 "size": 1,
@@ -74,7 +74,7 @@
             {
                 "enemyMstId": 112501,
                 "enemyUniqueId": 112501,
-                "name": "呉キリカ",
+                "name": "Kirika Kure",
                 "runesName": "",
                 "enemyType": 4,
                 "size": 1,
@@ -91,7 +91,7 @@
             {
                 "enemyMstId": 600001,
                 "enemyUniqueId": 600001,
-                "name": "薔薇園の魔女",
+                "name": "Rose Garden Witch",
                 "runesName": "gertrud",
                 "enemyType": 2,
                 "size": 2,
@@ -108,7 +108,7 @@
             {
                 "enemyMstId": 600002,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "anthony",
                 "enemyType": 1,
                 "size": 0,
@@ -125,7 +125,7 @@
             {
                 "enemyMstId": 600003,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "adelbert",
                 "enemyType": 1,
                 "size": 0,
@@ -142,7 +142,7 @@
             {
                 "enemyMstId": 600007,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -159,7 +159,7 @@
             {
                 "enemyMstId": 600008,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -176,7 +176,7 @@
             {
                 "enemyMstId": 600009,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -193,7 +193,7 @@
             {
                 "enemyMstId": 600010,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -210,7 +210,7 @@
             {
                 "enemyMstId": 600011,
                 "enemyUniqueId": 600002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -227,7 +227,7 @@
             {
                 "enemyMstId": 600012,
                 "enemyUniqueId": 614002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -244,7 +244,7 @@
             {
                 "enemyMstId": 600013,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -261,7 +261,7 @@
             {
                 "enemyMstId": 600014,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -278,7 +278,7 @@
             {
                 "enemyMstId": 600015,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -295,7 +295,7 @@
             {
                 "enemyMstId": 600016,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -312,7 +312,7 @@
             {
                 "enemyMstId": 600017,
                 "enemyUniqueId": 600003,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -329,7 +329,7 @@
             {
                 "enemyMstId": 600018,
                 "enemyUniqueId": 614002,
-                "name": "薔薇園の魔女の手下",
+                "name": "Rose Garden Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -346,7 +346,7 @@
             {
                 "enemyMstId": 600019,
                 "enemyUniqueId": 600001,
-                "name": "薔薇園の魔女",
+                "name": "Rose Garden Witch",
                 "runesName": "gertrud",
                 "enemyType": 2,
                 "size": 2,
@@ -363,7 +363,7 @@
             {
                 "enemyMstId": 600020,
                 "enemyUniqueId": 600001,
-                "name": "薔薇園の魔女",
+                "name": "Rose Garden Witch",
                 "runesName": "gertrud",
                 "enemyType": 2,
                 "size": 2,
@@ -380,7 +380,7 @@
             {
                 "enemyMstId": 601001,
                 "enemyUniqueId": 601001,
-                "name": "暗闇の魔女",
+                "name": "Darkness Witch",
                 "runesName": "suleika",
                 "enemyType": 2,
                 "size": 1,
@@ -397,7 +397,7 @@
             {
                 "enemyMstId": 601002,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -414,7 +414,7 @@
             {
                 "enemyMstId": 601003,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -431,7 +431,7 @@
             {
                 "enemyMstId": 601004,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -448,7 +448,7 @@
             {
                 "enemyMstId": 601005,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -465,7 +465,7 @@
             {
                 "enemyMstId": 601006,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -482,7 +482,7 @@
             {
                 "enemyMstId": 601007,
                 "enemyUniqueId": 601002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -499,7 +499,7 @@
             {
                 "enemyMstId": 601008,
                 "enemyUniqueId": 614002,
-                "name": "暗闇の魔女の手下",
+                "name": "Darkness Witch Minion",
                 "runesName": "ulla",
                 "enemyType": 1,
                 "size": 1,
@@ -516,7 +516,7 @@
             {
                 "enemyMstId": 601009,
                 "enemyUniqueId": 601001,
-                "name": "暗闇の魔女",
+                "name": "Darkness Witch",
                 "runesName": "suleika",
                 "enemyType": 2,
                 "size": 1,
@@ -533,7 +533,7 @@
             {
                 "enemyMstId": 601010,
                 "enemyUniqueId": 601001,
-                "name": "暗闇の魔女",
+                "name": "Darkness Witch",
                 "runesName": "suleika",
                 "enemyType": 2,
                 "size": 1,
@@ -550,7 +550,7 @@
             {
                 "enemyMstId": 602001,
                 "enemyUniqueId": 602001,
-                "name": "お菓子の魔女",
+                "name": "Dessert Witch",
                 "runesName": "charlotte",
                 "enemyType": 2,
                 "size": 0,
@@ -567,7 +567,7 @@
             {
                 "enemyMstId": 602002,
                 "enemyUniqueId": 602001,
-                "name": "お菓子の魔女",
+                "name": "Dessert Witch",
                 "runesName": "charlotte",
                 "enemyType": 2,
                 "size": 3,
@@ -584,7 +584,7 @@
             {
                 "enemyMstId": 602003,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "pyotr",
                 "enemyType": 1,
                 "size": 0,
@@ -601,7 +601,7 @@
             {
                 "enemyMstId": 602004,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "polina",
                 "enemyType": 1,
                 "size": 0,
@@ -618,7 +618,7 @@
             {
                 "enemyMstId": 602009,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "pyotr",
                 "enemyType": 1,
                 "size": 0,
@@ -635,7 +635,7 @@
             {
                 "enemyMstId": 602010,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -652,7 +652,7 @@
             {
                 "enemyMstId": 602011,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -669,7 +669,7 @@
             {
                 "enemyMstId": 602012,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -686,7 +686,7 @@
             {
                 "enemyMstId": 602013,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -703,7 +703,7 @@
             {
                 "enemyMstId": 602014,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -720,7 +720,7 @@
             {
                 "enemyMstId": 602015,
                 "enemyUniqueId": 614002,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -737,7 +737,7 @@
             {
                 "enemyMstId": 602016,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -754,7 +754,7 @@
             {
                 "enemyMstId": 602017,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -771,7 +771,7 @@
             {
                 "enemyMstId": 602018,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -788,7 +788,7 @@
             {
                 "enemyMstId": 602019,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -805,7 +805,7 @@
             {
                 "enemyMstId": 602020,
                 "enemyUniqueId": 602004,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -822,7 +822,7 @@
             {
                 "enemyMstId": 602021,
                 "enemyUniqueId": 614002,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -839,7 +839,7 @@
             {
                 "enemyMstId": 602022,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -856,7 +856,7 @@
             {
                 "enemyMstId": 602023,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -873,7 +873,7 @@
             {
                 "enemyMstId": 602024,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -890,7 +890,7 @@
             {
                 "enemyMstId": 602025,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -907,7 +907,7 @@
             {
                 "enemyMstId": 602026,
                 "enemyUniqueId": 602003,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -924,7 +924,7 @@
             {
                 "enemyMstId": 602027,
                 "enemyUniqueId": 614002,
-                "name": "お菓子の魔女の手下",
+                "name": "Dessert Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 0,
@@ -941,7 +941,7 @@
             {
                 "enemyMstId": 602032,
                 "enemyUniqueId": 602001,
-                "name": "お菓子の魔女",
+                "name": "Dessert Witch",
                 "runesName": "charlotte",
                 "enemyType": 2,
                 "size": 3,
@@ -958,7 +958,7 @@
             {
                 "enemyMstId": 602033,
                 "enemyUniqueId": 602001,
-                "name": "お菓子の魔女",
+                "name": "Dessert Witch",
                 "runesName": "charlotte",
                 "enemyType": 2,
                 "size": 3,
@@ -975,7 +975,7 @@
             {
                 "enemyMstId": 603001,
                 "enemyUniqueId": 603001,
-                "name": "ハコの魔女",
+                "name": "Box Witch",
                 "runesName": "h.n.elly(kirsten)",
                 "enemyType": 2,
                 "size": 0,
@@ -992,7 +992,7 @@
             {
                 "enemyMstId": 603002,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "daniyyel&jennifer",
                 "enemyType": 1,
                 "size": 1,
@@ -1009,7 +1009,7 @@
             {
                 "enemyMstId": 603003,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "daniyyel&jennifer",
                 "enemyType": 1,
                 "size": 1,
@@ -1026,7 +1026,7 @@
             {
                 "enemyMstId": 603004,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1043,7 +1043,7 @@
             {
                 "enemyMstId": 603005,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1060,7 +1060,7 @@
             {
                 "enemyMstId": 603006,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1077,7 +1077,7 @@
             {
                 "enemyMstId": 603007,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1094,7 +1094,7 @@
             {
                 "enemyMstId": 603008,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1111,7 +1111,7 @@
             {
                 "enemyMstId": 603009,
                 "enemyUniqueId": 614002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1128,7 +1128,7 @@
             {
                 "enemyMstId": 603010,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1145,7 +1145,7 @@
             {
                 "enemyMstId": 603011,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1162,7 +1162,7 @@
             {
                 "enemyMstId": 603012,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1179,7 +1179,7 @@
             {
                 "enemyMstId": 603013,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1196,7 +1196,7 @@
             {
                 "enemyMstId": 603014,
                 "enemyUniqueId": 603002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1213,7 +1213,7 @@
             {
                 "enemyMstId": 603015,
                 "enemyUniqueId": 614002,
-                "name": "ハコの魔女の手下",
+                "name": "Box Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1230,7 +1230,7 @@
             {
                 "enemyMstId": 603016,
                 "enemyUniqueId": 603001,
-                "name": "ハコの魔女",
+                "name": "Box Witch",
                 "runesName": "h.n.elly(kirsten)",
                 "enemyType": 2,
                 "size": 0,
@@ -1247,7 +1247,7 @@
             {
                 "enemyMstId": 603017,
                 "enemyUniqueId": 603001,
-                "name": "ハコの魔女",
+                "name": "Box Witch",
                 "runesName": "h.n.elly(kirsten)",
                 "enemyType": 2,
                 "size": 0,
@@ -1264,7 +1264,7 @@
             {
                 "enemyMstId": 604001,
                 "enemyUniqueId": 604001,
-                "name": "落書きの魔女",
+                "name": "Graffiti Witch",
                 "runesName": "albertine",
                 "enemyType": 2,
                 "size": 2,
@@ -1281,7 +1281,7 @@
             {
                 "enemyMstId": 604002,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "anja",
                 "enemyType": 1,
                 "size": 0,
@@ -1298,7 +1298,7 @@
             {
                 "enemyMstId": 604003,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "anja",
                 "enemyType": 1,
                 "size": 0,
@@ -1315,7 +1315,7 @@
             {
                 "enemyMstId": 604004,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "anja",
                 "enemyType": 1,
                 "size": 0,
@@ -1332,7 +1332,7 @@
             {
                 "enemyMstId": 604005,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1349,7 +1349,7 @@
             {
                 "enemyMstId": 604006,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1366,7 +1366,7 @@
             {
                 "enemyMstId": 604007,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1383,7 +1383,7 @@
             {
                 "enemyMstId": 604008,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1400,7 +1400,7 @@
             {
                 "enemyMstId": 604009,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1417,7 +1417,7 @@
             {
                 "enemyMstId": 604010,
                 "enemyUniqueId": 614002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1434,7 +1434,7 @@
             {
                 "enemyMstId": 604011,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1451,7 +1451,7 @@
             {
                 "enemyMstId": 604012,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1468,7 +1468,7 @@
             {
                 "enemyMstId": 604013,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1485,7 +1485,7 @@
             {
                 "enemyMstId": 604014,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1502,7 +1502,7 @@
             {
                 "enemyMstId": 604015,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1519,7 +1519,7 @@
             {
                 "enemyMstId": 604016,
                 "enemyUniqueId": 614002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1536,7 +1536,7 @@
             {
                 "enemyMstId": 604017,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1553,7 +1553,7 @@
             {
                 "enemyMstId": 604018,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1570,7 +1570,7 @@
             {
                 "enemyMstId": 604019,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1587,7 +1587,7 @@
             {
                 "enemyMstId": 604020,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1604,7 +1604,7 @@
             {
                 "enemyMstId": 604021,
                 "enemyUniqueId": 604002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1621,7 +1621,7 @@
             {
                 "enemyMstId": 604022,
                 "enemyUniqueId": 614002,
-                "name": "落書きの魔女の手下",
+                "name": "Graffiti Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1638,7 +1638,7 @@
             {
                 "enemyMstId": 604023,
                 "enemyUniqueId": 604001,
-                "name": "落書きの魔女",
+                "name": "Graffiti Witch",
                 "runesName": "albertine",
                 "enemyType": 2,
                 "size": 2,
@@ -1655,7 +1655,7 @@
             {
                 "enemyMstId": 604024,
                 "enemyUniqueId": 604001,
-                "name": "落書きの魔女",
+                "name": "Graffiti Witch",
                 "runesName": "albertine",
                 "enemyType": 2,
                 "size": 2,
@@ -1672,7 +1672,7 @@
             {
                 "enemyMstId": 605001,
                 "enemyUniqueId": 605001,
-                "name": "銀の魔女",
+                "name": "Silver Witch",
                 "runesName": "gisela",
                 "enemyType": 2,
                 "size": 2,
@@ -1689,7 +1689,7 @@
             {
                 "enemyMstId": 605002,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "dora",
                 "enemyType": 1,
                 "size": 1,
@@ -1706,7 +1706,7 @@
             {
                 "enemyMstId": 605003,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "dora",
                 "enemyType": 1,
                 "size": 1,
@@ -1723,7 +1723,7 @@
             {
                 "enemyMstId": 605004,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "dora",
                 "enemyType": 1,
                 "size": 1,
@@ -1740,7 +1740,7 @@
             {
                 "enemyMstId": 605005,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1757,7 +1757,7 @@
             {
                 "enemyMstId": 605006,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1774,7 +1774,7 @@
             {
                 "enemyMstId": 605007,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1791,7 +1791,7 @@
             {
                 "enemyMstId": 605008,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1808,7 +1808,7 @@
             {
                 "enemyMstId": 605009,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1825,7 +1825,7 @@
             {
                 "enemyMstId": 605010,
                 "enemyUniqueId": 614002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1842,7 +1842,7 @@
             {
                 "enemyMstId": 605011,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1859,7 +1859,7 @@
             {
                 "enemyMstId": 605012,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1876,7 +1876,7 @@
             {
                 "enemyMstId": 605013,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1893,7 +1893,7 @@
             {
                 "enemyMstId": 605014,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1910,7 +1910,7 @@
             {
                 "enemyMstId": 605015,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1927,7 +1927,7 @@
             {
                 "enemyMstId": 605016,
                 "enemyUniqueId": 614002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1944,7 +1944,7 @@
             {
                 "enemyMstId": 605017,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1961,7 +1961,7 @@
             {
                 "enemyMstId": 605018,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1978,7 +1978,7 @@
             {
                 "enemyMstId": 605019,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -1995,7 +1995,7 @@
             {
                 "enemyMstId": 605020,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2012,7 +2012,7 @@
             {
                 "enemyMstId": 605021,
                 "enemyUniqueId": 605002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2029,7 +2029,7 @@
             {
                 "enemyMstId": 605022,
                 "enemyUniqueId": 614002,
-                "name": "銀の魔女の手下",
+                "name": "Silver Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2046,7 +2046,7 @@
             {
                 "enemyMstId": 605023,
                 "enemyUniqueId": 605001,
-                "name": "銀の魔女",
+                "name": "Silver Witch",
                 "runesName": "gisela",
                 "enemyType": 2,
                 "size": 2,
@@ -2063,7 +2063,7 @@
             {
                 "enemyMstId": 605024,
                 "enemyUniqueId": 605001,
-                "name": "銀の魔女",
+                "name": "Silver Witch",
                 "runesName": "gisela",
                 "enemyType": 2,
                 "size": 2,
@@ -2080,7 +2080,7 @@
             {
                 "enemyMstId": 606001,
                 "enemyUniqueId": 606001,
-                "name": "影の魔女",
+                "name": "Shadow Witch",
                 "runesName": "elsamaria",
                 "enemyType": 2,
                 "size": 1,
@@ -2097,7 +2097,7 @@
             {
                 "enemyMstId": 606002,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "Sebastian's",
                 "enemyType": 1,
                 "size": 1,
@@ -2114,7 +2114,7 @@
             {
                 "enemyMstId": 606003,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "Sebastian's",
                 "enemyType": 1,
                 "size": 1,
@@ -2131,7 +2131,7 @@
             {
                 "enemyMstId": 606004,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "Sebastian's",
                 "enemyType": 1,
                 "size": 1,
@@ -2148,7 +2148,7 @@
             {
                 "enemyMstId": 606005,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2165,7 +2165,7 @@
             {
                 "enemyMstId": 606006,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2182,7 +2182,7 @@
             {
                 "enemyMstId": 606007,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2199,7 +2199,7 @@
             {
                 "enemyMstId": 606008,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2216,7 +2216,7 @@
             {
                 "enemyMstId": 606009,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2233,7 +2233,7 @@
             {
                 "enemyMstId": 606010,
                 "enemyUniqueId": 614002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2250,7 +2250,7 @@
             {
                 "enemyMstId": 606011,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2267,7 +2267,7 @@
             {
                 "enemyMstId": 606012,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2284,7 +2284,7 @@
             {
                 "enemyMstId": 606013,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2301,7 +2301,7 @@
             {
                 "enemyMstId": 606014,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2318,7 +2318,7 @@
             {
                 "enemyMstId": 606015,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2335,7 +2335,7 @@
             {
                 "enemyMstId": 606016,
                 "enemyUniqueId": 614002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2352,7 +2352,7 @@
             {
                 "enemyMstId": 606017,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2369,7 +2369,7 @@
             {
                 "enemyMstId": 606018,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2386,7 +2386,7 @@
             {
                 "enemyMstId": 606019,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2403,7 +2403,7 @@
             {
                 "enemyMstId": 606020,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2420,7 +2420,7 @@
             {
                 "enemyMstId": 606021,
                 "enemyUniqueId": 606002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2437,7 +2437,7 @@
             {
                 "enemyMstId": 606022,
                 "enemyUniqueId": 614002,
-                "name": "影の魔女の手下",
+                "name": "Shadow Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2454,7 +2454,7 @@
             {
                 "enemyMstId": 606023,
                 "enemyUniqueId": 606001,
-                "name": "影の魔女",
+                "name": "Shadow Witch",
                 "runesName": "elsamaria",
                 "enemyType": 2,
                 "size": 1,
@@ -2471,7 +2471,7 @@
             {
                 "enemyMstId": 606024,
                 "enemyUniqueId": 606001,
-                "name": "影の魔女",
+                "name": "Shadow Witch",
                 "runesName": "elsamaria",
                 "enemyType": 2,
                 "size": 1,
@@ -2488,7 +2488,7 @@
             {
                 "enemyMstId": 607001,
                 "enemyUniqueId": 607001,
-                "name": "犬の魔女",
+                "name": "Dog Witch",
                 "runesName": "uhrmann",
                 "enemyType": 2,
                 "size": 1,
@@ -2505,7 +2505,7 @@
             {
                 "enemyMstId": 607002,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "bartels",
                 "enemyType": 1,
                 "size": 2,
@@ -2522,7 +2522,7 @@
             {
                 "enemyMstId": 607003,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "bartels",
                 "enemyType": 1,
                 "size": 2,
@@ -2539,7 +2539,7 @@
             {
                 "enemyMstId": 607004,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "bartels",
                 "enemyType": 1,
                 "size": 2,
@@ -2556,7 +2556,7 @@
             {
                 "enemyMstId": 607005,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2573,7 +2573,7 @@
             {
                 "enemyMstId": 607006,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2590,7 +2590,7 @@
             {
                 "enemyMstId": 607007,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2607,7 +2607,7 @@
             {
                 "enemyMstId": 607008,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2624,7 +2624,7 @@
             {
                 "enemyMstId": 607009,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2641,7 +2641,7 @@
             {
                 "enemyMstId": 607010,
                 "enemyUniqueId": 614002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2658,7 +2658,7 @@
             {
                 "enemyMstId": 607011,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2675,7 +2675,7 @@
             {
                 "enemyMstId": 607012,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2692,7 +2692,7 @@
             {
                 "enemyMstId": 607013,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2709,7 +2709,7 @@
             {
                 "enemyMstId": 607014,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2726,7 +2726,7 @@
             {
                 "enemyMstId": 607015,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2743,7 +2743,7 @@
             {
                 "enemyMstId": 607016,
                 "enemyUniqueId": 614002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2760,7 +2760,7 @@
             {
                 "enemyMstId": 607017,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2777,7 +2777,7 @@
             {
                 "enemyMstId": 607018,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2794,7 +2794,7 @@
             {
                 "enemyMstId": 607019,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2811,7 +2811,7 @@
             {
                 "enemyMstId": 607020,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2828,7 +2828,7 @@
             {
                 "enemyMstId": 607021,
                 "enemyUniqueId": 607002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2845,7 +2845,7 @@
             {
                 "enemyMstId": 607022,
                 "enemyUniqueId": 614002,
-                "name": "犬の魔女の手下",
+                "name": "Dog Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 2,
@@ -2862,7 +2862,7 @@
             {
                 "enemyMstId": 607023,
                 "enemyUniqueId": 607001,
-                "name": "犬の魔女",
+                "name": "Dog Witch",
                 "runesName": "uhrmann",
                 "enemyType": 2,
                 "size": 1,
@@ -2879,7 +2879,7 @@
             {
                 "enemyMstId": 607024,
                 "enemyUniqueId": 607001,
-                "name": "犬の魔女",
+                "name": "Dog Witch",
                 "runesName": "uhrmann",
                 "enemyType": 2,
                 "size": 1,
@@ -2896,7 +2896,7 @@
             {
                 "enemyMstId": 608001,
                 "enemyUniqueId": 608001,
-                "name": "人魚の魔女",
+                "name": "Mermaid Witch",
                 "runesName": "oktavia von seckendorff",
                 "enemyType": 2,
                 "size": 3,
@@ -2913,7 +2913,7 @@
             {
                 "enemyMstId": 608002,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "holger",
                 "enemyType": 1,
                 "size": 1,
@@ -2930,7 +2930,7 @@
             {
                 "enemyMstId": 608003,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "holger",
                 "enemyType": 1,
                 "size": 1,
@@ -2947,7 +2947,7 @@
             {
                 "enemyMstId": 608004,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "holger",
                 "enemyType": 1,
                 "size": 1,
@@ -2964,7 +2964,7 @@
             {
                 "enemyMstId": 608005,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2981,7 +2981,7 @@
             {
                 "enemyMstId": 608006,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -2998,7 +2998,7 @@
             {
                 "enemyMstId": 608007,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3015,7 +3015,7 @@
             {
                 "enemyMstId": 608008,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3032,7 +3032,7 @@
             {
                 "enemyMstId": 608009,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3049,7 +3049,7 @@
             {
                 "enemyMstId": 608010,
                 "enemyUniqueId": 614002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3066,7 +3066,7 @@
             {
                 "enemyMstId": 608011,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3083,7 +3083,7 @@
             {
                 "enemyMstId": 608012,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3100,7 +3100,7 @@
             {
                 "enemyMstId": 608013,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3117,7 +3117,7 @@
             {
                 "enemyMstId": 608014,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3134,7 +3134,7 @@
             {
                 "enemyMstId": 608015,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3151,7 +3151,7 @@
             {
                 "enemyMstId": 608016,
                 "enemyUniqueId": 614002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3168,7 +3168,7 @@
             {
                 "enemyMstId": 608017,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3185,7 +3185,7 @@
             {
                 "enemyMstId": 608018,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3202,7 +3202,7 @@
             {
                 "enemyMstId": 608019,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3219,7 +3219,7 @@
             {
                 "enemyMstId": 608020,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3236,7 +3236,7 @@
             {
                 "enemyMstId": 608021,
                 "enemyUniqueId": 608002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3253,7 +3253,7 @@
             {
                 "enemyMstId": 608022,
                 "enemyUniqueId": 614002,
-                "name": "人魚の魔女の手下",
+                "name": "Mermaid Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3270,7 +3270,7 @@
             {
                 "enemyMstId": 608023,
                 "enemyUniqueId": 608001,
-                "name": "人魚の魔女",
+                "name": "Mermaid Witch",
                 "runesName": "oktavia von seckendorff",
                 "enemyType": 2,
                 "size": 3,
@@ -3287,7 +3287,7 @@
             {
                 "enemyMstId": 608024,
                 "enemyUniqueId": 608001,
-                "name": "人魚の魔女",
+                "name": "Mermaid Witch",
                 "runesName": "oktavia von seckendorff",
                 "enemyType": 2,
                 "size": 3,
@@ -3304,7 +3304,7 @@
             {
                 "enemyMstId": 609001,
                 "enemyUniqueId": 609001,
-                "name": "芸術家の魔女",
+                "name": "Artist Witch",
                 "runesName": "Isabel",
                 "enemyType": 2,
                 "size": 2,
@@ -3321,7 +3321,7 @@
             {
                 "enemyMstId": 609002,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "michaela",
                 "enemyType": 1,
                 "size": 1,
@@ -3338,7 +3338,7 @@
             {
                 "enemyMstId": 609003,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "michaela",
                 "enemyType": 1,
                 "size": 1,
@@ -3355,7 +3355,7 @@
             {
                 "enemyMstId": 609004,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "michaela",
                 "enemyType": 1,
                 "size": 1,
@@ -3372,7 +3372,7 @@
             {
                 "enemyMstId": 609005,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3389,7 +3389,7 @@
             {
                 "enemyMstId": 609006,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3406,7 +3406,7 @@
             {
                 "enemyMstId": 609007,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3423,7 +3423,7 @@
             {
                 "enemyMstId": 609008,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3440,7 +3440,7 @@
             {
                 "enemyMstId": 609009,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3457,7 +3457,7 @@
             {
                 "enemyMstId": 609010,
                 "enemyUniqueId": 614002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3474,7 +3474,7 @@
             {
                 "enemyMstId": 609011,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3491,7 +3491,7 @@
             {
                 "enemyMstId": 609012,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3508,7 +3508,7 @@
             {
                 "enemyMstId": 609013,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3525,7 +3525,7 @@
             {
                 "enemyMstId": 609014,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3542,7 +3542,7 @@
             {
                 "enemyMstId": 609015,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3559,7 +3559,7 @@
             {
                 "enemyMstId": 609016,
                 "enemyUniqueId": 614002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3576,7 +3576,7 @@
             {
                 "enemyMstId": 609017,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3593,7 +3593,7 @@
             {
                 "enemyMstId": 609018,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3610,7 +3610,7 @@
             {
                 "enemyMstId": 609019,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3627,7 +3627,7 @@
             {
                 "enemyMstId": 609020,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3644,7 +3644,7 @@
             {
                 "enemyMstId": 609021,
                 "enemyUniqueId": 609002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3661,7 +3661,7 @@
             {
                 "enemyMstId": 609022,
                 "enemyUniqueId": 614002,
-                "name": "芸術家の魔女の手下",
+                "name": "Artist Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3678,7 +3678,7 @@
             {
                 "enemyMstId": 609023,
                 "enemyUniqueId": 609001,
-                "name": "芸術家の魔女",
+                "name": "Artist Witch",
                 "runesName": "Isabel",
                 "enemyType": 2,
                 "size": 2,
@@ -3695,7 +3695,7 @@
             {
                 "enemyMstId": 609024,
                 "enemyUniqueId": 609001,
-                "name": "芸術家の魔女",
+                "name": "Artist Witch",
                 "runesName": "Isabel",
                 "enemyType": 2,
                 "size": 2,
@@ -3712,7 +3712,7 @@
             {
                 "enemyMstId": 610001,
                 "enemyUniqueId": 610001,
-                "name": "委員長の魔女",
+                "name": "Chairperson Witch",
                 "runesName": "patricia",
                 "enemyType": 2,
                 "size": 3,
@@ -3729,7 +3729,7 @@
             {
                 "enemyMstId": 610002,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "mathieu",
                 "enemyType": 1,
                 "size": 1,
@@ -3746,7 +3746,7 @@
             {
                 "enemyMstId": 610003,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3763,7 +3763,7 @@
             {
                 "enemyMstId": 610004,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3780,7 +3780,7 @@
             {
                 "enemyMstId": 610005,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3797,7 +3797,7 @@
             {
                 "enemyMstId": 610006,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3814,7 +3814,7 @@
             {
                 "enemyMstId": 610007,
                 "enemyUniqueId": 610002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3831,7 +3831,7 @@
             {
                 "enemyMstId": 610008,
                 "enemyUniqueId": 614002,
-                "name": "委員長の魔女の手下",
+                "name": "Chairperson Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3848,7 +3848,7 @@
             {
                 "enemyMstId": 610009,
                 "enemyUniqueId": 610001,
-                "name": "委員長の魔女",
+                "name": "Chairperson Witch",
                 "runesName": "patricia",
                 "enemyType": 2,
                 "size": 3,
@@ -3865,7 +3865,7 @@
             {
                 "enemyMstId": 610010,
                 "enemyUniqueId": 610001,
-                "name": "委員長の魔女",
+                "name": "Chairperson Witch",
                 "runesName": "patricia",
                 "enemyType": 2,
                 "size": 3,
@@ -3882,7 +3882,7 @@
             {
                 "enemyMstId": 611001,
                 "enemyUniqueId": 611001,
-                "name": "鳥かごの魔女",
+                "name": "Birdcage Witch",
                 "runesName": "roberta",
                 "enemyType": 2,
                 "size": 3,
@@ -3899,7 +3899,7 @@
             {
                 "enemyMstId": 611002,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "gotz",
                 "enemyType": 1,
                 "size": 1,
@@ -3916,7 +3916,7 @@
             {
                 "enemyMstId": 611003,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3933,7 +3933,7 @@
             {
                 "enemyMstId": 611004,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3950,7 +3950,7 @@
             {
                 "enemyMstId": 611005,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3967,7 +3967,7 @@
             {
                 "enemyMstId": 611006,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -3984,7 +3984,7 @@
             {
                 "enemyMstId": 611007,
                 "enemyUniqueId": 611002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4001,7 +4001,7 @@
             {
                 "enemyMstId": 611008,
                 "enemyUniqueId": 614002,
-                "name": "鳥かごの魔女の手下",
+                "name": "Birdcage Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4018,7 +4018,7 @@
             {
                 "enemyMstId": 611009,
                 "enemyUniqueId": 611001,
-                "name": "鳥かごの魔女",
+                "name": "Birdcage Witch",
                 "runesName": "roberta",
                 "enemyType": 2,
                 "size": 3,
@@ -4035,7 +4035,7 @@
             {
                 "enemyMstId": 611010,
                 "enemyUniqueId": 611001,
-                "name": "鳥かごの魔女",
+                "name": "Birdcage Witch",
                 "runesName": "roberta",
                 "enemyType": 2,
                 "size": 3,
@@ -4052,7 +4052,7 @@
             {
                 "enemyMstId": 612001,
                 "enemyUniqueId": 612001,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4069,7 +4069,7 @@
             {
                 "enemyMstId": 612002,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4086,7 +4086,7 @@
             {
                 "enemyMstId": 612003,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4103,7 +4103,7 @@
             {
                 "enemyMstId": 612005,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4120,7 +4120,7 @@
             {
                 "enemyMstId": 612006,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4137,7 +4137,7 @@
             {
                 "enemyMstId": 612007,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4154,7 +4154,7 @@
             {
                 "enemyMstId": 612008,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4171,7 +4171,7 @@
             {
                 "enemyMstId": 612009,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4188,7 +4188,7 @@
             {
                 "enemyMstId": 612010,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4205,7 +4205,7 @@
             {
                 "enemyMstId": 612011,
                 "enemyUniqueId": 612002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4222,7 +4222,7 @@
             {
                 "enemyMstId": 612012,
                 "enemyUniqueId": 614002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4239,7 +4239,7 @@
             {
                 "enemyMstId": 612013,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4256,7 +4256,7 @@
             {
                 "enemyMstId": 612014,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4273,7 +4273,7 @@
             {
                 "enemyMstId": 612015,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4290,7 +4290,7 @@
             {
                 "enemyMstId": 612016,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4307,7 +4307,7 @@
             {
                 "enemyMstId": 612017,
                 "enemyUniqueId": 612003,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4324,7 +4324,7 @@
             {
                 "enemyMstId": 612018,
                 "enemyUniqueId": 614002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4341,7 +4341,7 @@
             {
                 "enemyMstId": 612019,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4358,7 +4358,7 @@
             {
                 "enemyMstId": 612020,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4375,7 +4375,7 @@
             {
                 "enemyMstId": 612021,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4392,7 +4392,7 @@
             {
                 "enemyMstId": 612022,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4409,7 +4409,7 @@
             {
                 "enemyMstId": 612023,
                 "enemyUniqueId": 612005,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4426,7 +4426,7 @@
             {
                 "enemyMstId": 612024,
                 "enemyUniqueId": 614002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4443,7 +4443,7 @@
             {
                 "enemyMstId": 612025,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4460,7 +4460,7 @@
             {
                 "enemyMstId": 612026,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4477,7 +4477,7 @@
             {
                 "enemyMstId": 612027,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4494,7 +4494,7 @@
             {
                 "enemyMstId": 612028,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4511,7 +4511,7 @@
             {
                 "enemyMstId": 612029,
                 "enemyUniqueId": 612006,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4528,7 +4528,7 @@
             {
                 "enemyMstId": 612030,
                 "enemyUniqueId": 614002,
-                "name": "舞台装置の魔女の手下",
+                "name": "Stagecraft Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4545,7 +4545,7 @@
             {
                 "enemyMstId": 612031,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4562,7 +4562,7 @@
             {
                 "enemyMstId": 612032,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4579,7 +4579,7 @@
             {
                 "enemyMstId": 612033,
                 "enemyUniqueId": 612001,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4596,7 +4596,7 @@
             {
                 "enemyMstId": 612034,
                 "enemyUniqueId": 612001,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4613,7 +4613,7 @@
             {
                 "enemyMstId": 612035,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4630,7 +4630,7 @@
             {
                 "enemyMstId": 612036,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4647,7 +4647,7 @@
             {
                 "enemyMstId": 612037,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4664,7 +4664,7 @@
             {
                 "enemyMstId": 612038,
                 "enemyUniqueId": 612031,
-                "name": "舞台装置の魔女",
+                "name": "Stagecraft Witch",
                 "runesName": "",
                 "enemyType": 2,
                 "size": 4,
@@ -4681,7 +4681,7 @@
             {
                 "enemyMstId": 615001,
                 "enemyUniqueId": 615001,
-                "name": "針の魔女",
+                "name": "Needle Witch",
                 "runesName": "latria",
                 "enemyType": 2,
                 "size": 2,
@@ -4698,7 +4698,7 @@
             {
                 "enemyMstId": 615002,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4715,7 +4715,7 @@
             {
                 "enemyMstId": 615003,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4732,7 +4732,7 @@
             {
                 "enemyMstId": 615004,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4749,7 +4749,7 @@
             {
                 "enemyMstId": 615005,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4766,7 +4766,7 @@
             {
                 "enemyMstId": 615006,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4783,7 +4783,7 @@
             {
                 "enemyMstId": 615007,
                 "enemyUniqueId": 615002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4800,7 +4800,7 @@
             {
                 "enemyMstId": 615008,
                 "enemyUniqueId": 614002,
-                "name": "針の魔女の手下",
+                "name": "Needle Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -4817,7 +4817,7 @@
             {
                 "enemyMstId": 615009,
                 "enemyUniqueId": 615001,
-                "name": "針の魔女",
+                "name": "Needle Witch",
                 "runesName": "latria",
                 "enemyType": 2,
                 "size": 2,
@@ -4834,7 +4834,7 @@
             {
                 "enemyMstId": 615010,
                 "enemyUniqueId": 615001,
-                "name": "針の魔女",
+                "name": "Needle Witch",
                 "runesName": "latria",
                 "enemyType": 2,
                 "size": 2,
@@ -4851,7 +4851,7 @@
             {
                 "enemyMstId": 616002,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4868,7 +4868,7 @@
             {
                 "enemyMstId": 616003,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4885,7 +4885,7 @@
             {
                 "enemyMstId": 616004,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4902,7 +4902,7 @@
             {
                 "enemyMstId": 616005,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4919,7 +4919,7 @@
             {
                 "enemyMstId": 616006,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4936,7 +4936,7 @@
             {
                 "enemyMstId": 616007,
                 "enemyUniqueId": 616002,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4953,7 +4953,7 @@
             {
                 "enemyMstId": 616008,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4970,7 +4970,7 @@
             {
                 "enemyMstId": 616009,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -4987,7 +4987,7 @@
             {
                 "enemyMstId": 616010,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -5004,7 +5004,7 @@
             {
                 "enemyMstId": 616011,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -5021,7 +5021,7 @@
             {
                 "enemyMstId": 616012,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -5038,7 +5038,7 @@
             {
                 "enemyMstId": 616013,
                 "enemyUniqueId": 616008,
-                "name": "象徴の魔女の手下",
+                "name": "Symbol Witch Minion",
                 "runesName": "echo",
                 "enemyType": 1,
                 "size": 1,
@@ -5055,7 +5055,7 @@
             {
                 "enemyMstId": 617001,
                 "enemyUniqueId": 617001,
-                "name": "砂場の魔女",
+                "name": "Sandbox Witch",
                 "runesName": "zenobia",
                 "enemyType": 2,
                 "size": 2,
@@ -5072,7 +5072,7 @@
             {
                 "enemyMstId": 617002,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "zabaii",
                 "enemyType": 1,
                 "size": 1,
@@ -5089,7 +5089,7 @@
             {
                 "enemyMstId": 617003,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5106,7 +5106,7 @@
             {
                 "enemyMstId": 617004,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5123,7 +5123,7 @@
             {
                 "enemyMstId": 617005,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5140,7 +5140,7 @@
             {
                 "enemyMstId": 617006,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5157,7 +5157,7 @@
             {
                 "enemyMstId": 617007,
                 "enemyUniqueId": 617002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5174,7 +5174,7 @@
             {
                 "enemyMstId": 617008,
                 "enemyUniqueId": 614002,
-                "name": "砂場の魔女の手下",
+                "name": "Sandbox Witch Minion",
                 "runesName": "",
                 "enemyType": 1,
                 "size": 1,
@@ -5191,7 +5191,7 @@
             {
                 "enemyMstId": 617009,
                 "enemyUniqueId": 617001,
-                "name": "砂場の魔女",
+                "name": "Sandbox Witch",
                 "runesName": "zenobia",
                 "enemyType": 2,
                 "size": 2,
@@ -5208,7 +5208,7 @@
             {
                 "enemyMstId": 617010,
                 "enemyUniqueId": 617001,
-                "name": "砂場の魔女",
+                "name": "Sandbox Witch",
                 "runesName": "zenobia",
                 "enemyType": 2,
                 "size": 2,
@@ -5225,7 +5225,7 @@
             {
                 "enemyMstId": 618001,
                 "enemyUniqueId": 618001,
-                "name": "マチビト馬のウワサ",
+                "name": "Uwasa of the Commoner's Horse",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5242,7 +5242,7 @@
             {
                 "enemyMstId": 618002,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5259,7 +5259,7 @@
             {
                 "enemyMstId": 618003,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5276,7 +5276,7 @@
             {
                 "enemyMstId": 618004,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5293,7 +5293,7 @@
             {
                 "enemyMstId": 618005,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5310,7 +5310,7 @@
             {
                 "enemyMstId": 618006,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5327,7 +5327,7 @@
             {
                 "enemyMstId": 618007,
                 "enemyUniqueId": 618002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5344,7 +5344,7 @@
             {
                 "enemyMstId": 618008,
                 "enemyUniqueId": 614002,
-                "name": "口寄せ絵馬のウワサ",
+                "name": "Uwasa of the Seance Tablet",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5361,7 +5361,7 @@
             {
                 "enemyMstId": 618009,
                 "enemyUniqueId": 618001,
-                "name": "マチビト馬のウワサ",
+                "name": "Uwasa of the Commoner's Horse",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,
@@ -5378,7 +5378,7 @@
             {
                 "enemyMstId": 618010,
                 "enemyUniqueId": 618001,
-                "name": "マチビト馬のウワサ",
+                "name": "Uwasa of the Commoner's Horse",
                 "runesName": "",
                 "enemyType": 5,
                 "size": 1,

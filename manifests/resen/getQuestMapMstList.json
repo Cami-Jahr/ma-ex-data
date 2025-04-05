@@ -6,7 +6,7 @@
             {
                 "questMapMstId": 1,
                 "questCategoryMstId": 1,
-                "name": "魔法少女まどか☆マギカ",
+                "name": "Puella Magi Madoka Magica",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 0,
                 "openEffectFlagMiniTutorialNumber": 0
@@ -14,7 +14,7 @@
             {
                 "questMapMstId": 2,
                 "questCategoryMstId": 1,
-                "name": "マギアレコード",
+                "name": "Magia Record",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 34,
                 "openEffectFlagMiniTutorialNumber": 35
@@ -22,7 +22,7 @@
             {
                 "questMapMstId": 3,
                 "questCategoryMstId": 1,
-                "name": "魔法少女おりこ☆マギカ",
+                "name": "Puella Magi Oriko Magica",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 32,
                 "openEffectFlagMiniTutorialNumber": 33
@@ -30,7 +30,7 @@
             {
                 "questMapMstId": 41,
                 "questCategoryMstId": 4,
-                "name": "キオク強化素材クエスト",
+                "name": "Kioku Upgrade Material Quest",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 0,
                 "openEffectFlagMiniTutorialNumber": 0
@@ -38,7 +38,7 @@
             {
                 "questMapMstId": 42,
                 "questCategoryMstId": 4,
-                "name": "魔力解放素材クエスト",
+                "name": "Magic Unlock Material Quest",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 0,
                 "openEffectFlagMiniTutorialNumber": 0
@@ -46,7 +46,7 @@
             {
                 "questMapMstId": 101,
                 "questCategoryMstId": 10,
-                "name": "こころの器クエスト",
+                "name": "Heartphial Quests",
                 "conditionGroupId": 0,
                 "openFlagMiniTutorialNumber": 0,
                 "openEffectFlagMiniTutorialNumber": 0
