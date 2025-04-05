@@ -1,0 +1,89 @@
+{
+    "url": "/api/mst/getDungeonTypeMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "dungeonTypeMstId": 101,
+                "structureType": 101,
+                "room1LengthType": 2,
+                "room2LengthType": 2,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 102,
+                "structureType": 102,
+                "room1LengthType": 2,
+                "room2LengthType": 2,
+                "room3LengthType": 2,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 103,
+                "structureType": 103,
+                "room1LengthType": 2,
+                "room2LengthType": 2,
+                "room3LengthType": 2,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 104,
+                "structureType": 104,
+                "room1LengthType": 2,
+                "room2LengthType": 0,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 10000,
+                "structureType": 0,
+                "room1LengthType": 1,
+                "room2LengthType": 0,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 10010,
+                "structureType": 0,
+                "room1LengthType": 4,
+                "room2LengthType": 0,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 10011,
+                "structureType": 104,
+                "room1LengthType": 1,
+                "room2LengthType": 0,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 10012,
+                "structureType": 104,
+                "room1LengthType": 3,
+                "room2LengthType": 0,
+                "room3LengthType": 0,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            },
+            {
+                "dungeonTypeMstId": 10102,
+                "structureType": 102,
+                "room1LengthType": 2,
+                "room2LengthType": 1,
+                "room3LengthType": 2,
+                "room4LengthType": 0,
+                "room5LengthType": 0
+            }
+        ]
+    }
+}

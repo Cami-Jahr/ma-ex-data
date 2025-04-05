@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getShopDetailMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

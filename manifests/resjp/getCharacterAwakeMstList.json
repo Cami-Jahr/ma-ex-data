@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getCharacterAwakeMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

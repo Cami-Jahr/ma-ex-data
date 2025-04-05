@@ -1,0 +1,100 @@
+{
+    "url": "/api/mst/getLocalizeTextMstListNonDefault",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "textMstId": "258f8a235a77ea36ca089499fc2c28282",
+                "text": "Increases debuff RES."
+            },
+            {
+                "textMstId": "28a9de62ffa0e785a4909ea8ead54ccd2",
+                "text": "Assigning Parties"
+            },
+            {
+                "textMstId": "32c9821efbf6619a78789106cb7f577111",
+                "text": "Special"
+            },
+            {
+                "textMstId": "3c9c142a2384e772d12ab9d6eab509da2",
+                "text": "Increases DEF."
+            },
+            {
+                "textMstId": "6bb0a058f798e2aaa705d14eaf1a8b192",
+                "text": "Increases ailment RES."
+            },
+            {
+                "textMstId": "729cdaf94b96864e05f39f98eb0072cc2",
+                "text": "Mirror Layer 1"
+            },
+            {
+                "textMstId": "751ef0ab997151d543362828b26fb76411",
+                "text": "Suggested Elements"
+            },
+            {
+                "textMstId": "7b36f745107360f12e993304fe93fcf32",
+                "text": "Increases ailment hit rate."
+            },
+            {
+                "textMstId": "7e2d3996d1a1f2c1608a50e6133e8a6c2",
+                "text": "Increases ATK."
+            },
+            {
+                "textMstId": "83ff580d3896a6ff6805c0c558b74ca92",
+                "text": "Decreases DMG taken."
+            },
+            {
+                "textMstId": "8b945b3d53100be43f012e4c5c8ed47c2",
+                "text": "Increases break gauge depletion."
+            },
+            {
+                "textMstId": "94ff04da02a1310a2b72295ae1ad4ee82",
+                "text": "Increases DMG dealt."
+            },
+            {
+                "textMstId": "9edf6eeb2858fc019e1ee3cff54a971b2",
+                "text": "Magic Unlock"
+            },
+            {
+                "textMstId": "a727fae002ec389320c9cadd5e5e17d42",
+                "text": "Increases buff effect."
+            },
+            {
+                "textMstId": "b50dfca72aae1f98c988c856284be0d82",
+                "text": "Decreases DEF."
+            },
+            {
+                "textMstId": "c221f1326d8e03b02ecd36c2f973090a2",
+                "text": "Decreases SPD."
+            },
+            {
+                "textMstId": "c469a9f54300df614b67abee9dd186222",
+                "text": "Increases SPD."
+            },
+            {
+                "textMstId": "cbf53dcb51e3e3892ac679ed1d63e5e42",
+                "text": "Suggested"
+            },
+            {
+                "textMstId": "d15ca533ec861cd3c0d98590e3c15fe32",
+                "text": "Heartphial"
+            },
+            {
+                "textMstId": "d3aed8b23edf7e9351ec355b88715dbc2",
+                "text": "Decreases DMG dealt."
+            },
+            {
+                "textMstId": "d41223f8f3dcbd9cd46e81ceea690ccf2",
+                "text": "Decreases debuff effect."
+            },
+            {
+                "textMstId": "db99ffff81c1a332c31d768d6accfdfa2",
+                "text": "Increases DMG taken."
+            },
+            {
+                "textMstId": "eb943c279ca0864f5263bf9cd807fd5c2",
+                "text": "Decreases ATK."
+            }
+        ]
+    }
+}

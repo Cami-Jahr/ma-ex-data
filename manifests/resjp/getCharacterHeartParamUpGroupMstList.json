@@ -1,0 +1,308 @@
+{
+    "url": "/api/mst/getCharacterHeartParamUpGroupMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "characterHeartParamUpGroupMstId": 1,
+                "paramUpGroupId": 1,
+                "heartLevel": 6,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 2,
+                "paramUpGroupId": 1,
+                "heartLevel": 13,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 3,
+                "paramUpGroupId": 1,
+                "heartLevel": 19,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 4,
+                "paramUpGroupId": 1,
+                "heartLevel": 25,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 5,
+                "paramUpGroupId": 1,
+                "heartLevel": 31,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 6,
+                "paramUpGroupId": 1,
+                "heartLevel": 37,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 7,
+                "paramUpGroupId": 1,
+                "heartLevel": 43,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 8,
+                "paramUpGroupId": 1,
+                "heartLevel": 49,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 9,
+                "paramUpGroupId": 1,
+                "heartLevel": 9,
+                "styleParamUpEffectMstId": 601
+            },
+            {
+                "characterHeartParamUpGroupMstId": 10,
+                "paramUpGroupId": 1,
+                "heartLevel": 15,
+                "styleParamUpEffectMstId": 601
+            },
+            {
+                "characterHeartParamUpGroupMstId": 11,
+                "paramUpGroupId": 1,
+                "heartLevel": 21,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 12,
+                "paramUpGroupId": 1,
+                "heartLevel": 27,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 13,
+                "paramUpGroupId": 1,
+                "heartLevel": 33,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 14,
+                "paramUpGroupId": 1,
+                "heartLevel": 39,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 15,
+                "paramUpGroupId": 1,
+                "heartLevel": 45,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 16,
+                "paramUpGroupId": 1,
+                "heartLevel": 11,
+                "styleParamUpEffectMstId": 701
+            },
+            {
+                "characterHeartParamUpGroupMstId": 17,
+                "paramUpGroupId": 1,
+                "heartLevel": 17,
+                "styleParamUpEffectMstId": 701
+            },
+            {
+                "characterHeartParamUpGroupMstId": 18,
+                "paramUpGroupId": 1,
+                "heartLevel": 23,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 19,
+                "paramUpGroupId": 1,
+                "heartLevel": 29,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 20,
+                "paramUpGroupId": 1,
+                "heartLevel": 35,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 21,
+                "paramUpGroupId": 1,
+                "heartLevel": 41,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 22,
+                "paramUpGroupId": 1,
+                "heartLevel": 47,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 100,
+                "paramUpGroupId": 2,
+                "heartLevel": 4,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 101,
+                "paramUpGroupId": 2,
+                "heartLevel": 6,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 102,
+                "paramUpGroupId": 2,
+                "heartLevel": 8,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 103,
+                "paramUpGroupId": 2,
+                "heartLevel": 12,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 104,
+                "paramUpGroupId": 2,
+                "heartLevel": 13,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 105,
+                "paramUpGroupId": 2,
+                "heartLevel": 16,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 106,
+                "paramUpGroupId": 2,
+                "heartLevel": 19,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 107,
+                "paramUpGroupId": 2,
+                "heartLevel": 22,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 108,
+                "paramUpGroupId": 2,
+                "heartLevel": 25,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 109,
+                "paramUpGroupId": 2,
+                "heartLevel": 28,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 110,
+                "paramUpGroupId": 2,
+                "heartLevel": 31,
+                "styleParamUpEffectMstId": 501
+            },
+            {
+                "characterHeartParamUpGroupMstId": 111,
+                "paramUpGroupId": 2,
+                "heartLevel": 37,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 112,
+                "paramUpGroupId": 2,
+                "heartLevel": 43,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 113,
+                "paramUpGroupId": 2,
+                "heartLevel": 49,
+                "styleParamUpEffectMstId": 502
+            },
+            {
+                "characterHeartParamUpGroupMstId": 114,
+                "paramUpGroupId": 2,
+                "heartLevel": 9,
+                "styleParamUpEffectMstId": 601
+            },
+            {
+                "characterHeartParamUpGroupMstId": 115,
+                "paramUpGroupId": 2,
+                "heartLevel": 15,
+                "styleParamUpEffectMstId": 601
+            },
+            {
+                "characterHeartParamUpGroupMstId": 116,
+                "paramUpGroupId": 2,
+                "heartLevel": 21,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 117,
+                "paramUpGroupId": 2,
+                "heartLevel": 27,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 118,
+                "paramUpGroupId": 2,
+                "heartLevel": 33,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 119,
+                "paramUpGroupId": 2,
+                "heartLevel": 39,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 120,
+                "paramUpGroupId": 2,
+                "heartLevel": 45,
+                "styleParamUpEffectMstId": 602
+            },
+            {
+                "characterHeartParamUpGroupMstId": 121,
+                "paramUpGroupId": 2,
+                "heartLevel": 11,
+                "styleParamUpEffectMstId": 701
+            },
+            {
+                "characterHeartParamUpGroupMstId": 122,
+                "paramUpGroupId": 2,
+                "heartLevel": 17,
+                "styleParamUpEffectMstId": 701
+            },
+            {
+                "characterHeartParamUpGroupMstId": 123,
+                "paramUpGroupId": 2,
+                "heartLevel": 23,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 124,
+                "paramUpGroupId": 2,
+                "heartLevel": 29,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 125,
+                "paramUpGroupId": 2,
+                "heartLevel": 35,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 126,
+                "paramUpGroupId": 2,
+                "heartLevel": 41,
+                "styleParamUpEffectMstId": 702
+            },
+            {
+                "characterHeartParamUpGroupMstId": 127,
+                "paramUpGroupId": 2,
+                "heartLevel": 47,
+                "styleParamUpEffectMstId": 702
+            }
+        ]
+    }
+}

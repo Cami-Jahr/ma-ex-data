@@ -1,0 +1,152 @@
+{
+    "url": "/api/mst/getStyleParamUpEffectMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "styleParamUpEffectMstId": 101,
+                "name": "HP+100",
+                "targetType": 1,
+                "abilityEffectType": "UP_HP_FIXED",
+                "value1": 100,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 102,
+                "name": "ATK+36",
+                "targetType": 1,
+                "abilityEffectType": "UP_ATK_FIXED",
+                "value1": 36,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 103,
+                "name": "DEF+36",
+                "targetType": 1,
+                "abilityEffectType": "UP_DEF_FIXED",
+                "value1": 36,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 104,
+                "name": "CRT+2.5%",
+                "targetType": 1,
+                "abilityEffectType": "UP_CTR_FIXED",
+                "value1": 25,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 105,
+                "name": "CTD+2%",
+                "targetType": 1,
+                "abilityEffectType": "UP_CTD_FIXED",
+                "value1": 20,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 106,
+                "name": "HP+90",
+                "targetType": 1,
+                "abilityEffectType": "UP_HP_FIXED",
+                "value1": 90,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 107,
+                "name": "ATK+32",
+                "targetType": 1,
+                "abilityEffectType": "UP_ATK_FIXED",
+                "value1": 32,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 108,
+                "name": "DEF+32",
+                "targetType": 1,
+                "abilityEffectType": "UP_DEF_FIXED",
+                "value1": 32,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 201,
+                "name": "通常攻撃Lv.UP",
+                "targetType": 2,
+                "abilityEffectType": "",
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 202,
+                "name": "戦闘スキルLv.UP",
+                "targetType": 3,
+                "abilityEffectType": "",
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 203,
+                "name": "アビリティLv.UP",
+                "targetType": 4,
+                "abilityEffectType": "",
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 204,
+                "name": "サポートアビリティLv.UP",
+                "targetType": 5,
+                "abilityEffectType": "",
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 501,
+                "name": "HP+30",
+                "targetType": 1,
+                "abilityEffectType": "UP_HP_FIXED",
+                "value1": 30,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 502,
+                "name": "HP+40",
+                "targetType": 1,
+                "abilityEffectType": "UP_HP_FIXED",
+                "value1": 40,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 601,
+                "name": "攻撃力+10",
+                "targetType": 1,
+                "abilityEffectType": "UP_ATK_FIXED",
+                "value1": 10,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 602,
+                "name": "攻撃力+20",
+                "targetType": 1,
+                "abilityEffectType": "UP_ATK_FIXED",
+                "value1": 20,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 701,
+                "name": "防御力+10",
+                "targetType": 1,
+                "abilityEffectType": "UP_DEF_FIXED",
+                "value1": 10,
+                "value2": 0
+            },
+            {
+                "styleParamUpEffectMstId": 702,
+                "name": "防御力+20",
+                "targetType": 1,
+                "abilityEffectType": "UP_DEF_FIXED",
+                "value1": 20,
+                "value2": 0
+            }
+        ]
+    }
+}

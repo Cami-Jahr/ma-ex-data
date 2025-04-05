@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getStyleFigureStoryMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getGuildTitleMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}

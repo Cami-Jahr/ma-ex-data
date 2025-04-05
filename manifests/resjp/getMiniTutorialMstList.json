@@ -1,0 +1,980 @@
+{
+    "url": "/api/mst/getMiniTutorialMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "miniTutorialMstId": 201,
+                "miniTutorialNumber": 2,
+                "sortOrder": 1,
+                "title": "ユニオン",
+                "description": "ユニオンは複数のプレイヤーが集まるコミュニティです。\nユニオンに所属すると、ユニオンミッションの挑戦や\nユニオンチャットによるコミュニケーションができます。",
+                "resourceName": "union_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 202,
+                "miniTutorialNumber": 2,
+                "sortOrder": 2,
+                "title": "ユニオン",
+                "description": "ユニオンを探すか、新しいユニオンを設立することで\nユニオンに所属することができます。\n所属できる人数は最大10人です。",
+                "resourceName": "union_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 203,
+                "miniTutorialNumber": 2,
+                "sortOrder": 3,
+                "title": "ユニオン",
+                "description": "ユニオンミッションはメンバー全員で挑戦するミッションです。\nミッションの内容は毎週、特定の日時にリセットされます。\n所属直後は挑戦可能になるまで一定の期間が必要です。",
+                "resourceName": "union_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 204,
+                "miniTutorialNumber": 2,
+                "sortOrder": 4,
+                "title": "ユニオン",
+                "description": "ユニオンメンバー全員で挑戦できるコンテンツを開催予定です。\n開催までお待ちください。",
+                "resourceName": "union_04",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 301,
+                "miniTutorialNumber": 3,
+                "sortOrder": 1,
+                "title": "限界突破",
+                "description": "同じキオクを複数回獲得することで、キオクが限界突破します。\n限界突破を行うと、必殺技のLv.が上昇します。",
+                "resourceName": "memory_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 503,
+                "miniTutorialNumber": 5,
+                "sortOrder": 3,
+                "title": "限界突破",
+                "description": "同じポートレイトを消費することで、限界突破が可能です。\n限界突破するとポートレイトのスキル効果も上昇します。",
+                "resourceName": "portrait_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 701,
+                "miniTutorialNumber": 7,
+                "sortOrder": 1,
+                "title": "ピュエラピクトゥーラRank",
+                "description": "記憶の光の獲得状況に応じてRankが上がります。\n到達Rankごとにアイテム獲得やサポートキオクのパラメータ反映率上昇、\n強化クエストで挑戦できるRankの解放などの恩恵が得られます。",
+                "resourceName": "puella_001",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1401,
+                "miniTutorialNumber": 14,
+                "sortOrder": 1,
+                "title": "光の間について",
+                "description": "光の間ではキオクや記憶の光を集めると、ピュエラピクトゥーラや\nコレクションアイテム（ギャラリー、ストーリー、ミュージック）を\n閲覧・視聴することができます。",
+                "resourceName": "gallery_tutorial_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1402,
+                "miniTutorialNumber": 14,
+                "sortOrder": 2,
+                "title": "光の間の閲覧報酬について",
+                "description": "光の間内のコレクションアイテムは初閲覧・視聴時に　\nマギカストーンを獲得できます。",
+                "resourceName": "gallery_tutorial_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1501,
+                "miniTutorialNumber": 15,
+                "sortOrder": 1,
+                "title": "イベントクエスト",
+                "description": "本イベント「焦らずゆっくり未来へ ～魔法少女に夢を見て～」は常設イベントとなります。また、その他にも期間限定イベントを順次配信予定です。\n今後配信されるイベントクエストをぜひお楽しみください。 ",
+                "resourceName": "event_appeal01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1502,
+                "miniTutorialNumber": 15,
+                "sortOrder": 2,
+                "title": "イベントクエスト",
+                "description": "イベントクエストでは1日にバトルに挑戦できる回数が設定されています。\n毎日少しずつイベントをプレイしていきましょう。",
+                "resourceName": "event_appeal02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1503,
+                "miniTutorialNumber": 15,
+                "sortOrder": 3,
+                "title": "イベントクエスト",
+                "description": "イベントクエストではバトルの報酬としてメダルを獲得することができます。\nメダルを集めることでポートレイトをはじめとした様々なアイテムと交換できます。",
+                "resourceName": "event_appeal03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1504,
+                "miniTutorialNumber": 15,
+                "sortOrder": 4,
+                "title": "イベントクエスト",
+                "description": "イベント交換所はイベントTOPのバナーから移動できます。\n集めたメダルを使ってポートレイトや強化素材を獲得してゲーム攻略に役立てましょう。",
+                "resourceName": "event_appeal04",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1901,
+                "miniTutorialNumber": 19,
+                "sortOrder": 1,
+                "title": "プレイヤーマッチ",
+                "description": "他のプレイヤーと対戦し、勝利を目指しましょう。\n期間中に獲得したポイントでランキングを競います。\n一定期間ごとにシーズンが切り替わります。",
+                "resourceName": "pvp_04",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1902,
+                "miniTutorialNumber": 19,
+                "sortOrder": 2,
+                "title": "プレイヤーマッチ",
+                "description": "プレイヤーマッチの対戦はFULL AUTOで行われます。\nまた、自分のパーティの魔法少女にもブレイクゲージが追加されます。\nブレイクゲージ量はレアリティ、ロールによって異なります。",
+                "resourceName": "pvp_05",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1903,
+                "miniTutorialNumber": 19,
+                "sortOrder": 3,
+                "title": "プレイヤーマッチ",
+                "description": "強い相手に勝利したり、連勝を重ねるなど、様々な条件で対戦時に獲得できるポイントを増やすことができます。\nより多くのポイントボーナス条件を達成して勝利を目指しましょう。\n",
+                "resourceName": "pvp_06",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1904,
+                "miniTutorialNumber": 19,
+                "sortOrder": 4,
+                "title": "プレイヤーマッチ",
+                "description": "ランキングと獲得ポイントに応じて、報酬が獲得できます。\n獲得ポイント報酬の対戦メダルは、\n交換所で様々な報酬と交換することができます。",
+                "resourceName": "pvp_07",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 1905,
+                "miniTutorialNumber": 19,
+                "sortOrder": 5,
+                "title": "プレイヤーマッチ",
+                "description": "1日に無料で挑戦できる回数は5回です。\nマギカストーンを消費すると、挑戦回数を追加できます。\n毎日プレイして豪華報酬獲得を目指しましょう。",
+                "resourceName": "pvp_08",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 2501,
+                "miniTutorialNumber": 25,
+                "sortOrder": 1,
+                "title": "強化クエスト : キオク強化",
+                "description": "キオクLv.強化素材が獲得できます。\n高難易度になるほど上位の素材が獲得可能です。",
+                "resourceName": "traing_quest_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 2502,
+                "miniTutorialNumber": 25,
+                "sortOrder": 2,
+                "title": "強化クエスト : 魔力解放",
+                "description": "キオクの魔力解放素材が獲得できます。\n高難易度になるほど上位の素材が獲得可能です。",
+                "resourceName": "traing_quest_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4101,
+                "miniTutorialNumber": 41,
+                "sortOrder": 1,
+                "title": "キオクのLv.強化",
+                "description": "Lv.を上げるとキオクのステータスが上昇します。\nLv.を上げるには、素材を消費します。",
+                "resourceName": "memory_05",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4102,
+                "miniTutorialNumber": 41,
+                "sortOrder": 2,
+                "title": "キオクのLv.強化",
+                "description": "キオクのLv.には上限があります。\nプレイヤーLv.を上げることでキオクLv.上限を引き上げることができます。",
+                "resourceName": "memory_06",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4301,
+                "miniTutorialNumber": 43,
+                "sortOrder": 1,
+                "title": "ポートレイト強化",
+                "description": "ポートレイトを強化することができる育成機能です。\n強化段階をあげることでアビリティの効果を引き上げることができます。",
+                "resourceName": "portraitability_training01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4302,
+                "miniTutorialNumber": 43,
+                "sortOrder": 2,
+                "title": "ポートレイト強化",
+                "description": "ポートレイト強化段階の育成素材はイベントやプレイヤーマッチなどの報酬で獲得できます。",
+                "resourceName": "portraitability_training02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4901,
+                "miniTutorialNumber": 49,
+                "sortOrder": 1,
+                "title": "ストーリーイベント",
+                "description": "イベントミッションでは高難易度のクエストクリアによって豪華報酬も獲得可能です。",
+                "resourceName": "event_quest_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 4902,
+                "miniTutorialNumber": 49,
+                "sortOrder": 2,
+                "title": "ストーリーイベント",
+                "description": "ストーリーイベントは開催期間が終了するとイベント未開放状態となります。\nイベント未開放状態のイベントも、すべて開催期間終了後にも遊び直せます。\n専用アイテム消費によって解放できます。",
+                "resourceName": "event_quest_03",
+                "advMstId": 70000033
+            },
+            {
+                "miniTutorialMstId": 5101,
+                "miniTutorialNumber": 51,
+                "sortOrder": 1,
+                "title": "魔力解放素材獲得クエスト",
+                "description": "魔力解放素材を獲得できるクエストが解放されました。\nバトルをクリアすることでキオクの魔力解放段階を強化するために必要な素材を獲得することができます。",
+                "resourceName": "memory_quest01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5102,
+                "miniTutorialNumber": 51,
+                "sortOrder": 2,
+                "title": "魔力解放素材獲得クエスト",
+                "description": "Rankの高いクエストをクリアすることで獲得できる魔力解放素材の量が増加します。\n一定Rank以上のクエストからはより上位の魔力解放素材を獲得できます。",
+                "resourceName": "memory_quest02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5103,
+                "miniTutorialNumber": 51,
+                "sortOrder": 3,
+                "title": "魔力解放素材獲得クエスト",
+                "description": "ピュエラピクトゥーラを一定Rankまで上昇させるとクエストRankを上げることができます。",
+                "resourceName": "memory_quest03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5301,
+                "miniTutorialNumber": 53,
+                "sortOrder": 1,
+                "title": "こころの器",
+                "description": "こころの器Lv.に応じて対象キオクのステータス上昇の恩恵や\n魔法少女ストーリー、ポートレイト、ボイスなどを獲得できます。\nこころの器は各魔法少女が１つ持っています。",
+                "resourceName": "character_heart_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5302,
+                "miniTutorialNumber": 53,
+                "sortOrder": 2,
+                "title": "こころの器",
+                "description": "こころの器Lv.を上げるには、専用の素材を使用します。\n専用の素材はメインクエストやイベントなどで獲得できます。",
+                "resourceName": "character_heart_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5303,
+                "miniTutorialNumber": 53,
+                "sortOrder": 3,
+                "title": "こころの器",
+                "description": "こころの器で獲得できるポートレイトは魔法少女のキオクに\n編成すると発揮できる有用なアビリティをもっています。\nこころの器Lv.を上げてポートレイトの獲得を目指しましょう。",
+                "resourceName": "character_heart_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5401,
+                "miniTutorialNumber": 54,
+                "sortOrder": 1,
+                "title": "スコアアタック",
+                "description": "スコアアタックは強力な敵を倒しバトル結果に応じてスコアを獲得できるコンテンツです。\n獲得したスコアによってハイスコア報酬や累計スコア報酬を獲得することができます。",
+                "resourceName": "scoreattack_appeal01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5402,
+                "miniTutorialNumber": 54,
+                "sortOrder": 2,
+                "title": "スコアアタック",
+                "description": "ハイスコア報酬とは、スコアアタック期間中に獲得した最大スコアによって獲得できる報酬です。\n難易度が高いほど獲得できるスコアが高く、早くクリアする、被ダメージを抑えてクリアするなどの条件を満たすとより高いスコアを獲得することができます。",
+                "resourceName": "scoreattack_appeal02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5403,
+                "miniTutorialNumber": 54,
+                "sortOrder": 3,
+                "title": "スコアアタック",
+                "description": "累計スコア報酬とは、スコアアタック期間中に獲得したスコアの合計値で獲得できる報酬です。\n1回のバトルで高スコアを取る必要はなく繰り返しバトルをクリアしていけば獲得することができます。",
+                "resourceName": "scoreattack_appeal03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5501,
+                "miniTutorialNumber": 55,
+                "sortOrder": 1,
+                "title": "こころの器クエスト",
+                "description": "こころの器クエストでは、バトルをクリアするとメインキオクに\n編成した魔法少女のこころの器Lv.経験値を獲得できます。\n経験値を獲得したい魔法少女を編成してバトルに挑戦しましょう。",
+                "resourceName": "character_heart_quest_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5502,
+                "miniTutorialNumber": 55,
+                "sortOrder": 2,
+                "title": "こころの器クエスト",
+                "description": "クエストは1日に挑戦可能な回数が決まっています。\n毎日プレイしてこころの器のLv.アップを目指しましょう。",
+                "resourceName": "character_heart_quest_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 5503,
+                "miniTutorialNumber": 55,
+                "sortOrder": 3,
+                "title": "こころの器クエスト",
+                "description": "各バトルをクリアするとスキップ機能が解放されます。\nスキップ機能はバトルをクリアした編成でのみ使用できます。",
+                "resourceName": "character_heart_quest_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 6901,
+                "miniTutorialNumber": 69,
+                "sortOrder": 1,
+                "title": "ピュエラピクトゥーラの進行状況",
+                "description": "結界に存在する記憶の光（物語）もしくは（その他）を全て集めると\nピュエラピクトゥーラの欠片がひとつ埋まります",
+                "resourceName": "dungeon_howtopp_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 6902,
+                "miniTutorialNumber": 69,
+                "sortOrder": 2,
+                "title": "ピュエラピクトゥーラの進行状況",
+                "description": "ピュエラピクトゥーラの欠片がどの記憶の窓で獲得できるかは\n額縁をタップすることで確認できます。",
+                "resourceName": "dungeon_howtopp_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7001,
+                "miniTutorialNumber": 70,
+                "sortOrder": 1,
+                "title": "Battleモードについて",
+                "description": "Mainモードよりも強力なバトルに挑戦できるコンテンツです。\nBattleモードを攻略することでピュエラピクトゥーラのRank UPに必要な記憶の光を集められます。\nピュエラピクトゥーラの完成報酬ではマギカストーン×1000を獲得することができます。",
+                "resourceName": "battlemode_tutorial01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7002,
+                "miniTutorialNumber": 70,
+                "sortOrder": 2,
+                "title": "Battleモードについて",
+                "description": "Battleモードでは魔女モチーフの★5ポートレイトを獲得できます。\nまた各バトルをクリアしてプレイヤー経験値を獲得することでプレイヤーLv.を上げられます。\nプレイヤーLv.を上げることでキオクのLv.上限も上げられるため積極的に攻略していきましょう。",
+                "resourceName": "battlemode_tutorial02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7301,
+                "miniTutorialNumber": 73,
+                "sortOrder": 1,
+                "title": "チャット",
+                "description": "チャットは他プレイヤーとコミュニケーションできる機能です。\nユニオンチャットやグループチャット、ダイレクトメッセージや\nブロックリストを使用できます。",
+                "resourceName": "chat_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7302,
+                "miniTutorialNumber": 73,
+                "sortOrder": 2,
+                "title": "チャット",
+                "description": "ユニオンチャットは同じユニオン内でチャットができます。\n利用するにはユニオンに所属する必要があります。\n",
+                "resourceName": "chat_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7303,
+                "miniTutorialNumber": 73,
+                "sortOrder": 3,
+                "title": "チャット",
+                "description": "グループチャットは参加したプレイヤー内でチャットができます。\nチャットを新規作成するか、招待で最大100件まで参加できます。\n1つのグループに参加できる人数は最大15人です。",
+                "resourceName": "chat_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7304,
+                "miniTutorialNumber": 73,
+                "sortOrder": 4,
+                "title": "チャット",
+                "description": "ダイレクトメッセージは任意のプレイヤーとチャットができます。\n参加できるのは最大100件です。\n",
+                "resourceName": "chat_04",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7401,
+                "miniTutorialNumber": 74,
+                "sortOrder": 1,
+                "title": "必殺技強化",
+                "description": "キオクの必殺技Lv.を強化することができる育成機能です。\nLv.を上げることで必殺技がさらに強力になります。",
+                "resourceName": "specialskill_training01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7402,
+                "miniTutorialNumber": 74,
+                "sortOrder": 2,
+                "title": "必殺技強化",
+                "description": "必殺技Lv.の上限は特定の段階までキオクを限界突破させることで上げることができます。\n必殺技強化の育成素材はイベントや対戦メダル交換所などの報酬で獲得できます。",
+                "resourceName": "specialskill_training02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7601,
+                "miniTutorialNumber": 76,
+                "sortOrder": 1,
+                "title": "魔力解放について",
+                "description": "魔力解放はキオクを強化することができる育成機能です。\n魔力解放で得られるステータス上昇やスキル効果の上昇量は高いため積極的に強化を行いましょう。",
+                "resourceName": "memory_training01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7602,
+                "miniTutorialNumber": 76,
+                "sortOrder": 2,
+                "title": "魔力解放について",
+                "description": "魔力解放の強化には専用の素材が必要となります。\n強化素材は強化クエスト内にある魔力解放素材獲得クエストやイベント等の報酬で獲得ができます。",
+                "resourceName": "memory_training02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 7701,
+                "miniTutorialNumber": 77,
+                "sortOrder": 1,
+                "title": "バトルのAUTO設定について",
+                "description": "バトルをオートで進行する設定をすることができます。\n必殺技以外の行動がオート進行になるSEMI AUTOモードと、\n全ての行動が自動になるFULL AUTOモードがあります。",
+                "resourceName": "battle_auto_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 10401,
+                "miniTutorialNumber": 104,
+                "sortOrder": 1,
+                "title": "プロフィール",
+                "description": "プロフィール画面ではあなたの名前やコメント、\nお気に入りのキオク、称号を設定することができます。",
+                "resourceName": "profile_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 10402,
+                "miniTutorialNumber": 104,
+                "sortOrder": 2,
+                "title": "プロフィール",
+                "description": "称号は特定のミッションやイベント報酬などで獲得できます。",
+                "resourceName": "profile_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 20301,
+                "miniTutorialNumber": 203,
+                "sortOrder": 1,
+                "title": "サポートキオクについて",
+                "description": "サポートキオクを装備することで、ステータスを上昇させたり、サポートアビリティを発動できるようになります。",
+                "resourceName": "support_kioku_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 20302,
+                "miniTutorialNumber": 203,
+                "sortOrder": 2,
+                "title": "サポートキオクについて",
+                "description": "サポートキオクのステータス反映率は、ピュエラピクトゥーラRankを上げることで上昇させることができます。",
+                "resourceName": "support_kioku_03",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 20303,
+                "miniTutorialNumber": 203,
+                "sortOrder": 3,
+                "title": "サポートキオクについて",
+                "description": "サポートアビリティは発動条件があるため、発動可能なものを装備するようにしましょう。\nまた、効果内容は魔力解放によって強化することができます。",
+                "resourceName": "support_kioku_04",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 20601,
+                "miniTutorialNumber": 206,
+                "sortOrder": 1,
+                "title": "Nightmareモードについて",
+                "description": "オリジナルシナリオを読むことができたり、★5ポートレイトが\n獲得できる高難易度コンテンツです。\nパーティを強化して挑戦しましょう。",
+                "resourceName": "main_nightmare_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 20602,
+                "miniTutorialNumber": 206,
+                "sortOrder": 2,
+                "title": "Nightmareモードの追加配信について",
+                "description": "Mainモードでプレイできる全ての結界に対して、Nightmareモードが存在します。\n今後配信予定の結界についても、Main・Nightmareモード両方の難易度が追加されていきます。",
+                "resourceName": "main_nightmare_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21001,
+                "miniTutorialNumber": 210,
+                "sortOrder": 1,
+                "title": "結界マップについて（ポイント）",
+                "description": "結界では、いくつかのポイントが存在します。\nバトルポイント：バトルのみをおこないます。\n探索ポイント：キオクの姿となり、内部を探索します。\n回想ポイント：記憶により深く干渉します。",
+                "resourceName": "dungeon_map_0101",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21101,
+                "miniTutorialNumber": 211,
+                "sortOrder": 1,
+                "title": "結界マップについて（記憶の光）",
+                "description": "現在の記憶の窓で獲得できる記憶の光はリストで確認できます。\n獲得した記憶の光（物語）は、リストからすぐに読むことができます。",
+                "resourceName": "dungeon_map_0201",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21102,
+                "miniTutorialNumber": 211,
+                "sortOrder": 2,
+                "title": "結界マップについて（記憶の光）",
+                "description": "記憶の光を集めるとピュエラピクトゥーラの欠片が埋まり\nピュエラピクトゥーラRankが上昇します。",
+                "resourceName": "dungeon_map_0202",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21103,
+                "miniTutorialNumber": 211,
+                "sortOrder": 3,
+                "title": "結界マップについて（記憶の光）",
+                "description": "ピュエラピクトゥーラが完成すると次の報酬が獲得できます。\n・マギカストーン×1000\n・最大限界突破のポートレイト\n更に一部では★5キオク「鹿目まどか　ルクス☆マギカ」も獲得できます。",
+                "resourceName": "dungeon_map_0203",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21301,
+                "miniTutorialNumber": 213,
+                "sortOrder": 1,
+                "title": "キオクLv.とプレイヤーLv.",
+                "description": "キオクはそれぞれLv.があり、プレイヤーLv.と同じ値が上限です。\nプレイヤーLv.は主に各種クエストをプレイすることであがります。",
+                "resourceName": "dungeon_level_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21302,
+                "miniTutorialNumber": 213,
+                "sortOrder": 2,
+                "title": "キオクLv.とプレイヤーLv.",
+                "description": "バトルをするか専用のアイテムを使うことで\nキオクの経験値を獲得できます。",
+                "resourceName": "dungeon_level_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21501,
+                "miniTutorialNumber": 215,
+                "sortOrder": 1,
+                "title": "ポートレイトの限界突破",
+                "description": "同じポートレイトを獲得すると、自動で限界突破をします。\n限界突破は5段階あり、限界突破するごとに\nポートレイトのパラメータが上昇します。",
+                "resourceName": "dungeon_portrait_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21701,
+                "miniTutorialNumber": 217,
+                "sortOrder": 1,
+                "title": "Bossポイントについて",
+                "description": "結界の最後には強力なBossが待ち受けています。\nBossポイントでは、バトル中Autoが使用できません。",
+                "resourceName": "dungeon_boss_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21702,
+                "miniTutorialNumber": 217,
+                "sortOrder": 2,
+                "title": "Bossポイントについて",
+                "description": "ボスを倒すことで結界クリアとなり\nマギカストーン×300が獲得できます。",
+                "resourceName": "dungeon_boss_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 21901,
+                "miniTutorialNumber": 219,
+                "sortOrder": 1,
+                "title": "AreaBossポイントについて",
+                "description": "結界の途中ではAreaBossポイントが出現することがあります。\nAreaBossポイントの敵はこれまでより強力で\nバトル中にAutoが使用できません。",
+                "resourceName": "dungeon_areaboss_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22101,
+                "miniTutorialNumber": 221,
+                "sortOrder": 1,
+                "title": "Extraポイントについて",
+                "description": "ポイントをクリアすると、複数のポイントが出現することがあります。\nExtraポイントは物語の進行には直接関係ありませんが\nアイテムや記憶の光を獲得できます。",
+                "resourceName": "dungeon_extra_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22102,
+                "miniTutorialNumber": 221,
+                "sortOrder": 2,
+                "title": "Extraポイントについて",
+                "description": "ポイント内にまだアイテムが残っている場合、ポイントの周囲がキラキラ光ります。\nこれを目印に結界を探索しましょう。",
+                "resourceName": "dungeon_extra_02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22501,
+                "miniTutorialNumber": 225,
+                "sortOrder": 1,
+                "title": "ポートレイトの効果について",
+                "description": "ポートレイトは、それぞれに固有の能力をもっています。\nキオクの特性に合わせてポートレイトを編成することで\nより有利にバトルをすることができるようになります。",
+                "resourceName": "dungeon_portrait_up_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22701,
+                "miniTutorialNumber": 227,
+                "sortOrder": 1,
+                "title": "攻略のヒント",
+                "description": "Bossを撃破することで結界をクリアできます。\nBossバトルは他のバトルと比べて難易度が高くなっているため、\nキオクをしっかり強化してから挑むことをおすすめします。",
+                "resourceName": "memory_quest_appeal01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22702,
+                "miniTutorialNumber": 227,
+                "sortOrder": 2,
+                "title": "攻略のヒント",
+                "description": "メニューのパーティ→育成→キオク一覧からキオクを選択し\n詳細画面内の＋ボタンをタップすることでキオク強化画面が開きます。\n強化に必要な素材は強化クエスト内のキオク強化クエストで獲得できます。",
+                "resourceName": "memory_quest_appeal02",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22901,
+                "miniTutorialNumber": 229,
+                "sortOrder": 1,
+                "title": "攻略のヒント",
+                "description": "敵が強くなってきたと思ったら、以下のようなポイントを意識してみましょう。\n①ブレイクを活用してみる\n②ロールを意識してパーティを編成してみる\n③ユニット詳細で敵の情報を確認してみる。",
+                "resourceName": "battletutorial_1014",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22902,
+                "miniTutorialNumber": 229,
+                "sortOrder": 2,
+                "title": "バトルシステムについて",
+                "description": "敵をブレイクし、ブレイクボーナスを上げて与えられるダメージを増やし、強力な必殺技でダメージを与えるのがバトルの基本的な戦略となります。",
+                "resourceName": "battletutorial_1006",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22903,
+                "miniTutorialNumber": 229,
+                "sortOrder": 3,
+                "title": "ロールについて",
+                "description": "ロールは全部で6種類あります。\nそれぞれのロールの特徴を活かしてパーティを組んでみましょう。",
+                "resourceName": "battletutorial_1007",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 22910,
+                "miniTutorialNumber": 229,
+                "sortOrder": 10,
+                "title": "敵の情報を確認する",
+                "description": "バトル中に敵の持つスキルや発動中の効果を確認することができます。\n詳しい情報を知りたい時は確認してみましょう。",
+                "resourceName": "battletutorial_1015",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100001,
+                "miniTutorialNumber": 1000,
+                "sortOrder": 1,
+                "title": "ブレイクについて",
+                "description": "ブレイクゲージを削ると敵はブレイク状態になります。\nブレイク状態になると、有利な状況を作ることができます。\nブレイク中にブレイクボーナスを上げて効率よくダメージを与えましょう。",
+                "resourceName": "battletutorial_1001",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100101,
+                "miniTutorialNumber": 1001,
+                "sortOrder": 1,
+                "title": "ロールについて",
+                "description": "魔法少女はそれぞれの戦い方の特徴を表すロールを持っています。\n鹿目まどかはブレイクゲージを削ったり、ブレイクボーナスを上げることが得意なBREAKER（ブレイカー）です。\n暁美ほむらは敵にダメージを与えることが得意なATTACKER（アタッカー）です。",
+                "resourceName": "battletutorial_1002",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100201,
+                "miniTutorialNumber": 1002,
+                "sortOrder": 1,
+                "title": "BUFFER（バッファー）について",
+                "description": "由比鶴乃は火力を上げたり有利になるようなバフ効果を使って味方を支援することが得意なBUFFER（バッファー）です。",
+                "resourceName": "battletutorial_1003",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100301,
+                "miniTutorialNumber": 1003,
+                "sortOrder": 1,
+                "title": "DEFENDER（ディフェンダー）について",
+                "description": "二葉さなは耐久性能を上げて味方を守るのが得意なDEFENDER（ディフェンダー）です。",
+                "resourceName": "battletutorial_1004",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100401,
+                "miniTutorialNumber": 1004,
+                "sortOrder": 1,
+                "title": "DEBUFFER（デバッファー）について",
+                "description": "深月フェリシアは敵の弱体化や状態異常によって戦況を有利にすることが得意なDEBUFFER（デバッファー）です。",
+                "resourceName": "battletutorial_1005",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100501,
+                "miniTutorialNumber": 1005,
+                "sortOrder": 1,
+                "title": "バトルシステムについて",
+                "description": "敵をブレイクし、ブレイクボーナスを上げて与えられるダメージを増やし、強力な必殺技でダメージを与えるのがバトルの基本的な戦略となります。",
+                "resourceName": "battletutorial_1006",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100601,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 1,
+                "title": "ロールについて",
+                "description": "ロールは全部で6種類あります。",
+                "resourceName": "battletutorial_1007",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100602,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 2,
+                "title": "ATTACKER（アタッカー）",
+                "description": "高い火力でダメージを与えるのが得意です。",
+                "resourceName": "battletutorial_1008",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100603,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 3,
+                "title": "BREAKER（ブレイカー）",
+                "description": "ブレイクゲージを削ったり、ブレイクボーナスを上げることが得意です。",
+                "resourceName": "battletutorial_1009",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100604,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 4,
+                "title": "BUFFER（バッファー）",
+                "description": "火力を上げるなどのバフ効果を使って味方を支援することが得意です。",
+                "resourceName": "battletutorial_1010",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100605,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 5,
+                "title": "DEBUFFER（デバッファー）",
+                "description": "敵の弱体化や状態異常によって戦況を有利にすることが得意です。",
+                "resourceName": "battletutorial_1011",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100606,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 6,
+                "title": "DEFENDER（ディフェンダー）",
+                "description": "敵の攻撃を引きつけたり、耐久性能を上げて味方を守るのが得意です。",
+                "resourceName": "battletutorial_1012",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 100607,
+                "miniTutorialNumber": 1006,
+                "sortOrder": 7,
+                "title": "HEALER（ヒーラー）",
+                "description": "回復系の効果で味方を補助するのが得意です。",
+                "resourceName": "battletutorial_1013",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200001,
+                "miniTutorialNumber": 2000,
+                "sortOrder": 1,
+                "title": "探索ポイント：移動",
+                "description": "探索ポイントでは、魔女結界内を自動で探索していきます。",
+                "resourceName": "minitutorial_2000",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200101,
+                "miniTutorialNumber": 2001,
+                "sortOrder": 1,
+                "title": "探索ポイント：アイテム",
+                "description": "探索ポイント内にはアイテムが落ちていることがあります。\n魔法少女を移動させると自動で獲得可能です。\n\n※帰還したり、ゴールポイントに到達できないと失われます。",
+                "resourceName": "minitutorial_2001",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200201,
+                "miniTutorialNumber": 2002,
+                "sortOrder": 1,
+                "title": "探索ポイント：記憶の光",
+                "description": "記憶の光は探索ポイント内に存在します。\n魔法少女を移動させると自動で獲得することができます。\n\n※帰還したり、ゴールポイントに到達できない場合は獲得できません。",
+                "resourceName": "minitutorial_2002",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200301,
+                "miniTutorialNumber": 2003,
+                "sortOrder": 1,
+                "title": "探索ポイント：マニュアル操作",
+                "description": "探索ポイントで自分で操作して探索したい場合は、\nマニュアルボタンをタップすることで操作可能になります。",
+                "resourceName": "minitutorial_2003",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200401,
+                "miniTutorialNumber": 2004,
+                "sortOrder": 1,
+                "title": "探索ポイント：分岐ルート",
+                "description": "探索ポイント内には分岐ルートがあることがあります。\n矢印をタップ、またはフリックすることで分岐ルートへ移動できます。\n分岐ルートの先にはアイテムが落ちていたり、敵が待っていたりします。",
+                "resourceName": "minitutorial_2004",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200501,
+                "miniTutorialNumber": 2005,
+                "sortOrder": 1,
+                "title": "探索ポイント：エンカウントバトル",
+                "description": "敵が探索ポイントにいる場合、魔法少女が敵シンボルに触れるとバトルが開始します。",
+                "resourceName": "minitutorial_2005",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200601,
+                "miniTutorialNumber": 2006,
+                "sortOrder": 1,
+                "title": "探索ポイント：記憶の光（その他）ポートレイト",
+                "description": "記憶の光（その他）ではポートレイトが獲得できます。",
+                "resourceName": "minitutorial_2006",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 200701,
+                "miniTutorialNumber": 2007,
+                "sortOrder": 1,
+                "title": "探索ポイント：記憶の光（その他）ミュージック",
+                "description": "記憶の光（その他）ではミュージック/魔女や魔女の手下/魔女結界も獲得できます。",
+                "resourceName": "minitutorial_2007",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 201201,
+                "miniTutorialNumber": 2012,
+                "sortOrder": 1,
+                "title": "隠しアイテムについて",
+                "description": "探索では、道中で拾えるアイテムの他に\nキラキラ光る物が落ちていることがあります。\nタップすることでアイテムを獲得できますので、探してみてください。",
+                "resourceName": "dungeon_secretitem_01",
+                "advMstId": 70000190
+            },
+            {
+                "miniTutorialMstId": 201601,
+                "miniTutorialNumber": 2016,
+                "sortOrder": 1,
+                "title": "スイッチについて",
+                "description": "探索では、道中にスイッチが落ちていることがあります。\nスイッチを獲得することで、結界内に新たにポイントが出現します。",
+                "resourceName": "dungeon_secretpoint_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 201602,
+                "miniTutorialNumber": 2016,
+                "sortOrder": 2,
+                "title": "Bonusポイントについて",
+                "description": "結界では時折Bonusポイントが出現することがあります。\nバトルはなくアイテムや記憶の光が獲得できるので\n見つけたら積極的に立ち寄りましょう。",
+                "resourceName": "dungeon_bonus_01",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 400001,
+                "miniTutorialNumber": 4000,
+                "sortOrder": 1,
+                "title": "編成",
+                "description": "パーティはキオクを最大で5体まで編成できます。\n各キオクにはポートレイト1枚が装備可能です。",
+                "resourceName": "minitutorial_4000",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 400002,
+                "miniTutorialNumber": 4000,
+                "sortOrder": 2,
+                "title": "編成 : キオク",
+                "description": "編成したいキオクを選択します。\n画面下部のキオクアイコンから編成枠を切り替えることもできます。",
+                "resourceName": "minitutorial_4000_2",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 400003,
+                "miniTutorialNumber": 4000,
+                "sortOrder": 3,
+                "title": "編成 : ポートレイト",
+                "description": "装備したいポートレイトを選択します。\nポートレイトはメインキオクを編成していないと装備できません。\n画面下部のキオクアイコンから装備枠を切り替えることもできます。",
+                "resourceName": "minitutorial_4000_3",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 400004,
+                "miniTutorialNumber": 4000,
+                "sortOrder": 4,
+                "title": "編成 : 自動編成",
+                "description": "今回は自動編成をしてみましょう。",
+                "resourceName": "minitutorial_4000_6",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 500001,
+                "miniTutorialNumber": 5000,
+                "sortOrder": 1,
+                "title": "交換所",
+                "description": "交換所ではガチャで獲得したポイントでキオクの交換ができたり、\nイベントで獲得したメダルでアイテムが交換できたりします。\n期限付きの交換所もあるので定期的に確認してみましょう。",
+                "resourceName": "minitutorial_5000",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 600001,
+                "miniTutorialNumber": 6000,
+                "sortOrder": 1,
+                "title": "マギアボックス",
+                "description": "最大24時間まで、時間経過でA-Qチップや素材が溜まっていきます。\nプレイヤーLv.が上がると獲得できる報酬量が増加します。",
+                "resourceName": "minitutorial_6000",
+                "advMstId": 0
+            },
+            {
+                "miniTutorialMstId": 600002,
+                "miniTutorialNumber": 6000,
+                "sortOrder": 2,
+                "title": "マギアボックス",
+                "description": "1日に最大7回、マギカストーンを使用して6時間分の報酬を獲得できます。\n毎日1回目はマギカストーンの消費無しで行えます。",
+                "resourceName": "minitutorial_6000_2",
+                "advMstId": 0
+            }
+        ]
+    }
+}

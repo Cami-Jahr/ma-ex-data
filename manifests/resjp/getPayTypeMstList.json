@@ -1,0 +1,28 @@
+{
+    "url": "/api/mst/getPayTypeMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "payType": 1,
+                "objectType": 1
+            },
+            {
+                "payType": 2,
+                "objectType": 7
+            },
+            {
+                "payType": 3,
+                "objectType": 3
+            },
+            {
+                "payType": 4,
+                "objectType": 11
+            },
+            {
+                "payType": 5,
+                "objectType": 2
+            }
+        ]
+    }
+}

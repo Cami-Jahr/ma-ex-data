@@ -1,0 +1,26 @@
+{
+    "url": "/api/mst/getGuildMissionTransitionMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "guildMissionTransitionMstId": 15002,
+                "guildMissionMstId": 15002,
+                "transitionSceneName": "MainQuest",
+                "transitionSceneParam": 0
+            },
+            {
+                "guildMissionTransitionMstId": 15003,
+                "guildMissionMstId": 15003,
+                "transitionSceneName": "EnhanceQuest",
+                "transitionSceneParam": 0
+            },
+            {
+                "guildMissionTransitionMstId": 15004,
+                "guildMissionMstId": 15004,
+                "transitionSceneName": "PvP",
+                "transitionSceneParam": 0
+            }
+        ]
+    }
+}

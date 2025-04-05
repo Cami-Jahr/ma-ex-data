@@ -1,0 +1,56 @@
+{
+    "url": "/api/mst/getQuestMapMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "questMapMstId": 1,
+                "questCategoryMstId": 1,
+                "name": "魔法少女まどか☆マギカ",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 0,
+                "openEffectFlagMiniTutorialNumber": 0
+            },
+            {
+                "questMapMstId": 2,
+                "questCategoryMstId": 1,
+                "name": "マギアレコード",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 34,
+                "openEffectFlagMiniTutorialNumber": 35
+            },
+            {
+                "questMapMstId": 3,
+                "questCategoryMstId": 1,
+                "name": "魔法少女おりこ☆マギカ",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 32,
+                "openEffectFlagMiniTutorialNumber": 33
+            },
+            {
+                "questMapMstId": 41,
+                "questCategoryMstId": 4,
+                "name": "キオク強化素材クエスト",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 0,
+                "openEffectFlagMiniTutorialNumber": 0
+            },
+            {
+                "questMapMstId": 42,
+                "questCategoryMstId": 4,
+                "name": "魔力解放素材クエスト",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 0,
+                "openEffectFlagMiniTutorialNumber": 0
+            },
+            {
+                "questMapMstId": 101,
+                "questCategoryMstId": 10,
+                "name": "こころの器クエスト",
+                "conditionGroupId": 0,
+                "openFlagMiniTutorialNumber": 0,
+                "openEffectFlagMiniTutorialNumber": 0
+            }
+        ]
+    }
+}

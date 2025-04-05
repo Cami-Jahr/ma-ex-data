@@ -1,0 +1,1204 @@
+{
+    "url": "/api/mst/getLive2DParamMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "live2DParamMstId": 100130,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環いろはre(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100131,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環いろはre(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100132,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環いろはre_(転校前)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100134,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環いろはre(部屋着)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100163,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環いろはre_(晴着)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100230,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 100231,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 100232,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(部屋着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 100234,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 100260,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(晴着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 100330,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"由比鶴乃re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"虚ろ目\"},{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"愕然2\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"虚ろ目(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_143.exp3.json\",\"desc\":\"考える(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 100331,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"由比鶴乃re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"虚ろ目\"},{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"愕然2\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"虚ろ目(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_143.exp3.json\",\"desc\":\"考える(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 100362,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"由比鶴乃re_(晴着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"虚ろ目\"},{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"愕然2\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"虚ろ目(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_143.exp3.json\",\"desc\":\"考える(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 100430,
+                "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"二葉さなre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100431,
+                "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"二葉さなre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100433,
+                "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"二葉さなre_(黒羽根)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100462,
+                "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"二葉さなre_(晴着)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100530,
+                "json": "{\"textureWidth\":768,\"height\":-95,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"深月フェリシアre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100531,
+                "json": "{\"textureWidth\":768,\"height\":-95,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"深月フェリシアre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100534,
+                "json": "{\"textureWidth\":768,\"height\":-95,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"深月フェリシアre_(黒羽根)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100562,
+                "json": "{\"textureWidth\":768,\"height\":-95,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"深月フェリシアre_(晴着)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"梓みふゆre\"}"
+            },
+            {
+                "live2DParamMstId": 100631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"梓みふゆre_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100632,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"梓みふゆre(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100730,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"里見灯花re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100731,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"里見灯花re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100732,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"里見灯花re_（病院服）_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 100830,
+                "json": "{\"textureWidth\":512,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"アリナ・グレイre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"高笑い\"}]}"
+            },
+            {
+                "live2DParamMstId": 100831,
+                "json": "{\"textureWidth\":512,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"アリナ・グレイre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"高笑い\"}]}"
+            },
+            {
+                "live2DParamMstId": 100930,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"水波レナre(魔法少女)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"洗脳\"}]}"
+            },
+            {
+                "live2DParamMstId": 100931,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"水波レナre_制服\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"洗脳\"}]}"
+            },
+            {
+                "live2DParamMstId": 101030,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"十咎ももこre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101031,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"十咎ももこre(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101130,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"秋野かえでre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"洗脳\"}]}"
+            },
+            {
+                "live2DParamMstId": 101131,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"秋野かえでre_制服\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"洗脳\"}]}"
+            },
+            {
+                "live2DParamMstId": 101230,
+                "json": "{\"height\":-40,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"御園かりんre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101231,
+                "json": "{\"height\":-40,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"御園かりんre_制服\"}"
+            },
+            {
+                "live2DParamMstId": 101330,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"竜城明日香re(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101331,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"竜城明日香re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101430,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"柊ねむre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101431,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"柊ねむre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101432,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"柊ねむre_(病院服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101433,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"柊ねむre_(制服車椅子)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 101530,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環ういre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 101531,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環ういre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 101532,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"環ういre_(病院服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 101630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"和泉十七夜re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"悲しい笑顔\"}]}"
+            },
+            {
+                "live2DParamMstId": 101631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"和泉十七夜re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"悲しい笑顔\"}]}"
+            },
+            {
+                "live2DParamMstId": 101632,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"和泉十七夜re_(メイド)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"悲しい笑顔\"}]}"
+            },
+            {
+                "live2DParamMstId": 101730,
+                "json": "{\"textureWidth\":512,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"八雲みたまre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"悲しい笑顔\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(濁り目)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(濁り目)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(濁り目)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(濁り目)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(濁り目)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(濁り目)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(濁り目)\"},{\"name\":\"mtn_ex_132.exp3.json\",\"desc\":\"後悔(濁り目)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"悲しい笑顔(濁り目)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(濁り目)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気付き(濁り目)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(濁り目)\"}]}"
+            },
+            {
+                "live2DParamMstId": 101731,
+                "json": "{\"textureWidth\":512,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"八雲みたまre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"悲しい笑顔\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(濁り目)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(濁り目)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(濁り目)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(濁り目)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(濁り目)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(濁り目)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(濁り目)\"},{\"name\":\"mtn_ex_132.exp3.json\",\"desc\":\"後悔(濁り目)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"悲しい笑顔(濁り目)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(濁り目)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気付き(濁り目)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(濁り目)\"}]}"
+            },
+            {
+                "live2DParamMstId": 101830,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_020.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_050.exp3.json\"],\"charaName\":\"天音月夜re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_024.exp3.json\",\"desc\":\"剣呑\"},{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 101831,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\",\"mtn_ex_040.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_020.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_050.exp3.json\"],\"charaName\":\"天音月夜re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_024.exp3.json\",\"desc\":\"剣呑\"},{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 101930,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_050.exp3.json\"],\"charaName\":\"天音月咲re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_024.exp3.json\",\"desc\":\"剣呑\"},{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 101931,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_050.exp3.json\"],\"charaName\":\"天音月咲re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_024.exp3.json\",\"desc\":\"剣呑\"},{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 101932,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_050.exp3.json\"],\"charaName\":\"天音月咲re_(月夜変装)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_024.exp3.json\",\"desc\":\"剣呑\"},{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 110230,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(小学生)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 110231,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"七海やちよre_(小学生/制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 110232,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"梓みふゆre_(小学生)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 110234,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"梓みふゆre_(小学生)_制服_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 110330,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"由比鶴乃re_(ウワサ)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"虚ろ目\"},{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"愕然2\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_133.exp3.json\",\"desc\":\"虚ろ目(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_143.exp3.json\",\"desc\":\"考える(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 111230,
+                "json": "{\"height\":-40,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"御園かりんre_(ハロウィン)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 111232,
+                "json": "{\"textureWidth\":512,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"アリナ・グレイre_圧縮(ハロウィン）\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"高笑い\"}]}"
+            },
+            {
+                "live2DParamMstId": 120830,
+                "json": "{\"textureWidth\":512,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"ホーリーアリナre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"高笑い\"}]}"
+            },
+            {
+                "live2DParamMstId": 200130,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200131,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200132,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(制服黄リボン)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200133,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(体操服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200162,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(パジャマ)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200230,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200231,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール・制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200232,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(リボン)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200233,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(リボン・制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200262,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール・入院着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200263,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール・黒ワンピース)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200330,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200331,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡・制服）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200333,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡・体操服）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200335,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡・入院着）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200359,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_（眼鏡・体操服）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200360,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡・晴着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200430,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre(魔法少女)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200431,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200464,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre_(白サンタ)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 200530,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(魔法少女)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200531,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200564,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(ハロウィン)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 200630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(魔法少女)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 200631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 200634,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 200664,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re_(黒サンタ)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 200730,
+                "json": "{\"textureWidth\":768,\"height\":-100,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"百江なぎさre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_031.exp3.json\",\"desc\":\"悲愴\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"無表情(暗い)\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"悲哀(暗い)\"},{\"name\":\"mtn_ex_060.exp3.json\",\"desc\":\"ダメージ\"}]}"
+            },
+            {
+                "live2DParamMstId": 200731,
+                "json": "{\"textureWidth\":768,\"height\":-100,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"百江なぎさre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_031.exp3.json\",\"desc\":\"悲愴\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"無表情(暗い)\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"悲哀(暗い)\"},{\"name\":\"mtn_ex_060.exp3.json\",\"desc\":\"ダメージ\"}]}"
+            },
+            {
+                "live2DParamMstId": 200930,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200931,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200932,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(ニット制服)\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200933,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(光学迷彩)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200934,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(メイド服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200935,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(白衣私服)圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 200936,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"愛生まばゆre_(見滝原制服)\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"恍惚2\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"考える\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 210030,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(晴着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 210130,
+                "json": "{\"textureWidth\":1024,\"height\":-90,\"modelScale\":1.6,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"アルティメットまどかre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 210531,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 210532,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(メイド服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 210630,
+                "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目まどかre_(水着)\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_141.exp3.json\",\"desc\":\"微苦笑(ハイライトなし)\"},{\"name\":\"mtn_ex_151.exp3.json\",\"desc\":\"気づき(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"},{\"name\":\"mtn_ex_163.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"},{\"name\":\"mtn_ex_164.exp3.json\",\"desc\":\"絶望(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 220230,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"悪魔ほむらre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"見下し\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 220231,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"悪魔ほむらre_(制服リボンイヤーカフ)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"見下し\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"無表情(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 230131,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール・私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 230132,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"暁美ほむらre_(クール・メイド服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"笑顔2\"},{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 230134,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"暁美ほむらre_（眼鏡・私服)\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 240130,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre_(水着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 240231,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 240232,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美樹さやかre_(メイド服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"絶望\"}]}"
+            },
+            {
+                "live2DParamMstId": 250130,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(水着)\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 250230,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ホーリーマミre_（魔法少女）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"聖母\"},{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_114.exp3.json\",\"desc\":\"聖母(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 250331,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 250332,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"巴マミre_(メイド服)\",\"expressions\":[{\"name\":\"mtn_ex_101.exp3.json\",\"desc\":\"真剣(ハイライトなし)\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑(ハイライトなし)\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔(ハイライトなし)\"},{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ(ハイライトなし)\"},{\"name\":\"mtn_ex_121.exp3.json\",\"desc\":\"激昂(ハイライトなし）\"},{\"name\":\"mtn_ex_130.exp3.json\",\"desc\":\"悲哀(ハイライトなし)\"},{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"},{\"name\":\"mtn_ex_140.exp3.json\",\"desc\":\"困る(ハイライトなし)\"},{\"name\":\"mtn_ex_150.exp3.json\",\"desc\":\"驚き(ハイライトなし)\"},{\"name\":\"mtn_ex_152.exp3.json\",\"desc\":\"愕然(ハイライトなし)\"},{\"name\":\"mtn_ex_160.exp3.json\",\"desc\":\"ダメージ(ハイライトなし)\"}]}"
+            },
+            {
+                "live2DParamMstId": 260060,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re_(水着)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 260131,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 260132,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re_(メイド服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 300130,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"矢宵かのこre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300131,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"矢宵かのこre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"空穂夏希re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300231,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"空穂夏希re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300330,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"都ひなのre(魔法少女)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_000.exp3.json\",\"desc\":\"微笑\"},{\"name\":\"mtn_ex_010.exp3.json\",\"desc\":\"にやり\"}]}"
+            },
+            {
+                "live2DParamMstId": 300331,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"都ひなのre_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_000.exp3.json\",\"desc\":\"微笑\"},{\"name\":\"mtn_ex_010.exp3.json\",\"desc\":\"にやり\"}]}"
+            },
+            {
+                "live2DParamMstId": 300530,
+                "json": "{\"height\":-75,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"常盤ななかre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300531,
+                "json": "{\"height\":-75,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"常盤ななかre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"木崎衣美里re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"木崎衣美里re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300830,
+                "json": "{\"height\":-60,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"志伸あきらre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 300831,
+                "json": "{\"height\":-60,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"志伸あきらre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301130,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"夏目かこre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301131,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"夏目かこre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"純美雨re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301231,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"純美雨re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301330,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"伊吹れいらre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301331,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"伊吹れいらre_制服\"}"
+            },
+            {
+                "live2DParamMstId": 301430,
+                "json": "{\"textureWidth\":768,\"height\":-40,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"桑水せいかre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301431,
+                "json": "{\"textureWidth\":768,\"height\":-40,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"桑水せいかre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301530,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"相野みとre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301531,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"相野みとre_制服_(圧縮)\"}"
+            },
+            {
+                "live2DParamMstId": 301630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"粟根こころre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 301631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"粟根こころre_(制服)\"}"
+            },
+            {
+                "live2DParamMstId": 301830,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_013.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"更紗帆奈re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 301831,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_013.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"更紗帆奈re_(制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 302030,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"眞尾ひみかre_(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302031,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"眞尾ひみかre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302530,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"五十鈴れんre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302531,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"五十鈴れんre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"静海このはre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302631,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"静海このはre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302730,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"遊佐葉月re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302731,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"遊佐葉月re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302830,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"三栗あやめre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302831,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"三栗あやめre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302930,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"加賀見まさらre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 302931,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"加賀見まさらre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303030,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"春名このみre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303031,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"春名このみre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303032,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"春名このみre_(シャドウ)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303130,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"綾野梨花re(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303131,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"綾野梨花re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303530,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"千秋理子re(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303531,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"千秋理子re(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303730,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"安名メルre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 303731,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"安名メルre_(制服)\"}"
+            },
+            {
+                "live2DParamMstId": 304330,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"万年桜のウワサre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 304331,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"万年桜のウワサre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 304332,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"万年桜のウワサre_(桜)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 304930,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"雪野かなえre(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 304931,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"雪野かなえre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 305230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"アシュリー・テイラーre_圧縮\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 305231,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"アシュリー・テイラーre_(制服)_圧縮\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 305260,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"アシュリー・テイラーre_(私服)_圧縮\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 305930,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"入名クシュre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 305931,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"入名クシュre_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 305932,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"入名クシュre_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400101,
+                "json": "{\"height\":-50,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国織莉子（変身前）_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400130,
+                "json": "{\"height\":-50,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国織莉子re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400131,
+                "json": "{\"height\":-50,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国織莉子re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400132,
+                "json": "{\"height\":-50,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国織莉子re_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400134,
+                "json": "{\"textureWidth\":768,\"height\":-120,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国織莉子re_(幼少期)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"}]}"
+            },
+            {
+                "live2DParamMstId": 400230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_012.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"呉キリカre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ（ハイライトなし）\"}]}"
+            },
+            {
+                "live2DParamMstId": 400231,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_012.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"呉キリカre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ（ハイライトなし）\"}]}"
+            },
+            {
+                "live2DParamMstId": 400232,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_012.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"呉キリカre_(見滝原制服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_120.exp3.json\",\"desc\":\"ムカッ（ハイライトなし）\"}]}"
+            },
+            {
+                "live2DParamMstId": 400250,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"キリカ幼少期re_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"不信\"}]}"
+            },
+            {
+                "live2DParamMstId": 400259,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"キリカ幼少期(私服)_re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_043.exp3.json\",\"desc\":\"不信\"}]}"
+            },
+            {
+                "live2DParamMstId": 400330,
+                "json": "{\"height\":-120,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"千歳ゆまre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 400331,
+                "json": "{\"height\":-120,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"千歳ゆまre_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 402630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"エリザ・ツェリスカre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 660230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"牛の魔女re\"}"
+            },
+            {
+                "live2DParamMstId": 715030,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(黒/低)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715031,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(黒/中)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715032,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(黒/高)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715033,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(黒/B)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715034,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼(黒/E)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715050,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/低)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715051,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/中)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715052,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/高)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715150,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/低)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715151,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/中)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715152,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"マギウスの翼re_(白/高)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715155,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"天音月夜re_(白羽根)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 715156,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"天音月咲re_(白羽根)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_023.exp3.json\",\"desc\":\"狂気\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"涙表情(涙無し)\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"涙表情(涙あり)\"}]}"
+            },
+            {
+                "live2DParamMstId": 800100,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Aピンクre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800101,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Aピンクre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800102,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Aピンクre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800103,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Aオレンジre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800130,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"魔法少女Are_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800200,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Bre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800201,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Bピンクre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800202,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)B緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800203,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)B青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800230,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"魔法少女Bre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800300,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Cピンクre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800301,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)C緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800302,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)C青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800303,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(女)Cオレンジre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800330,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"魔法少女Cre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800400,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)A青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800401,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)A緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800500,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)B緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800501,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)B青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800600,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"大人(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800700,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"大人(男)青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800701,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"大人(男)緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800702,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"大人(男)青紫re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800800,
+                "json": "{\"textureWidth\":768,\"height\":-75,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"中年(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 800900,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"中年(男)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801000,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"青年(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801100,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"青年(男)青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801101,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"青年(男)緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801102,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"青年(男)青紫re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801200,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"子供(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801201,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"子供(女)01青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801202,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"子供(女)02緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801300,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"子供(男)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801400,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"老人(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801500,
+                "json": "{\"textureWidth\":768,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"老人(男)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801501,
+                "json": "{\"textureWidth\":768,\"height\":-75,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"老人(男はげ)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 801800,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"老人(女だんご)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 810030,
+                "json": "{\"textureWidth\":768,\"height\":0,\"modelScale\":1.3,\"charaName\":\"キュゥべえre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 810130,
+                "json": "{\"textureWidth\":768,\"height\":0,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\",\"mtn_ex_030.exp3.json\",\"mtn_ex_000.exp3.json\"],\"charaName\":\"re小キュゥべえ_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 810300,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"中沢くん\"}"
+            },
+            {
+                "live2DParamMstId": 810530,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"上条恭介re_圧縮\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 810531,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"上条恭介re(入院着)_圧縮\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 810630,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"志筑仁美re_(制服)\",\"expressions\":[{\"name\":\"\",\"desc\":\"\"}]}"
+            },
+            {
+                "live2DParamMstId": 820030,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"ウワサさんre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 820130,
+                "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"アイちゃん_re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 831031,
+                "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"エイミーre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 833430,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"mtn_ex_052.exp3.json\"],\"charaName\":\"まばゆの母re_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"微笑2\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"怯え\"},{\"name\":\"mtn_ex_110.exp3.json\",\"desc\":\"微笑（憔悴なし）\"},{\"name\":\"mtn_ex_111.exp3.json\",\"desc\":\"笑顔（憔悴なし）\"},{\"name\":\"mtn_ex_114.exp3.json\",\"desc\":\"微笑2（憔悴なし）\"}]}"
+            },
+            {
+                "live2DParamMstId": 833530,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"咲笑re_（パティシエ服）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"微笑2\"},{\"name\":\"mtn_ex_015.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 833531,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"咲笑re_（私服）_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"微笑2\"},{\"name\":\"mtn_ex_015.exp3.json\",\"desc\":\"笑顔2\"}]}"
+            },
+            {
+                "live2DParamMstId": 834230,
+                "json": "{\"textureWidth\":768,\"height\":-40,\"modelScale\":1.0,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"ドラム缶re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 834530,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"鹿目詢子re(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 834531,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"鹿目詢子re(スーツ)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 834532,
+                "json": "{\"textureWidth\":512,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"鹿目詢子re_(パジャマ)\"}"
+            },
+            {
+                "live2DParamMstId": 835530,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ホストA(ショウさん)re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"にやり\"}]}"
+            },
+            {
+                "live2DParamMstId": 835550,
+                "json": "{\"textureWidth\":768,\"height\":-100,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"百江なぎさre(株分け2P)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_031.exp3.json\",\"desc\":\"悲愴\"},{\"name\":\"mtn_ex_033.exp3.json\",\"desc\":\"無表情\"},{\"name\":\"mtn_ex_034.exp3.json\",\"desc\":\"無表情(暗い)\"},{\"name\":\"mtn_ex_035.exp3.json\",\"desc\":\"悲哀(暗い)\"},{\"name\":\"mtn_ex_060.exp3.json\",\"desc\":\"ダメージ\"}]}"
+            },
+            {
+                "live2DParamMstId": 835631,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ホストBre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"にやり\"}]}"
+            },
+            {
+                "live2DParamMstId": 835730,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"えりか幼少期re_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 835731,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"えりか(私服)_re_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"洗脳\"}]}"
+            },
+            {
+                "live2DParamMstId": 835830,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\",\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"mtn_ex_001.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"真澄千花_re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 835930,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"優木沙々re\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"ゲス笑い\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 835931,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"優木沙々re_(私服)\",\"expressions\":[{\"name\":\"mtn_ex_014.exp3.json\",\"desc\":\"ゲス笑い\"},{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"}]}"
+            },
+            {
+                "live2DParamMstId": 836030,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"浅古小巻re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836031,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"浅古小巻re_(制服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836130,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"人見リナre\"}"
+            },
+            {
+                "live2DParamMstId": 836131,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_001.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"人見リナre_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836230,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"佐木京re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836231,
+                "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":\"\",\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"佐木京re_(私服)\"}"
+            },
+            {
+                "live2DParamMstId": 836330,
+                "json": "{\"height\":-65,\"textureWidth\":768,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"朱音麻衣re(魔法少女)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836331,
+                "json": "{\"height\":-65,\"textureWidth\":768,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"朱音麻衣re(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836430,
+                "json": "{\"height\":-70,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"煤名美緒re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836431,
+                "json": "{\"height\":-70,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"煤名美緒re_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836530,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"浅古小糸re\"}"
+            },
+            {
+                "live2DParamMstId": 836531,
+                "json": "{\"height\":-90,\"textureWidth\":768,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"浅古小糸re_(私服)\"}"
+            },
+            {
+                "live2DParamMstId": 836630,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"長月美幸_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836730,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_000.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"行方晶_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836830,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"美国久臣_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836930,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)C青re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 836931,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"同級生(男)C緑re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837030,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"幼児(男)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837130,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"幼児(女)re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837230,
+                "json": "{\"textureWidth\":768,\"height\":-80,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"やちよの祖母re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837330,
+                "json": "{\"textureWidth\":768,\"height\":-100,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ももre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837430,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"早乙女和子re(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837530,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目知久re_(私服)_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837630,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鹿目タツヤre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_063.exp3.json\",\"desc\":\"無表情\"}]}"
+            },
+            {
+                "live2DParamMstId": 837730,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"鶴乃の父re_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 837830,
+                "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"豆柴_re\"}"
+            },
+            {
+                "live2DParamMstId": 837930,
+                "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"子猫_re\"}"
+            },
+            {
+                "live2DParamMstId": 838030,
+                "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"いろはの父_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 838130,
+                "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"いろはの母_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 838230,
+                "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"幼児(女)Bre_圧縮\"}"
+            },
+            {
+                "live2DParamMstId": 2601310,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 2601311,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            },
+            {
+                "live2DParamMstId": 2601312,
+                "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"mtn_ex_021.exp3.json\",\"\",\"\"],\"charaName\":\"佐倉杏子re(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_053.exp3.json\",\"desc\":\"驚愕\"},{\"name\":\"mtn_ex_064.exp3.json\",\"desc\":\"ダメージ2\"}]}"
+            }
+        ]
+    }
+}

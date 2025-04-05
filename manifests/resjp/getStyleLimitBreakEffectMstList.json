@@ -5,7 +5,7 @@
         "mstList": [
             {
                 "styleLimitBreakEffectMstId": 1001,
-                "name": "HP・攻撃力・防御力+2%",
+                "name": "Increases HP/ATK/DEF by 2%.",
                 "targetType": 1,
                 "abilityEffectType": "UP_HP_ATK_DEF_RATIO",
                 "value1": 20,
@@ -13,7 +13,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1002,
-                "name": "必殺技Lv上限+3",
+                "name": "Increases Special Attack Lvl. Cap by 3.",
                 "targetType": 2,
                 "abilityEffectType": "",
                 "value1": 3,
@@ -21,7 +21,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1003,
-                "name": "与えるダメージ+5%",
+                "name": "Increases DMG dealt by 5%.",
                 "targetType": 3,
                 "abilityEffectType": "",
                 "value1": 8399701,
@@ -29,7 +29,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1004,
-                "name": "バトル開始時にスピード+5%",
+                "name": "At battle start, increases SPD by 5%.",
                 "targetType": 3,
                 "abilityEffectType": "",
                 "value1": 8399801,
@@ -37,7 +37,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1005,
-                "name": "デバフ命中率+25%",
+                "name": "Increases debuff hit rate by 25%.",
                 "targetType": 3,
                 "abilityEffectType": "",
                 "value1": 8399901,
@@ -45,7 +45,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1006,
-                "name": "バトル開始時に最大HP+2%",
+                "name": "At battle start, increases max HP by 2%.",
                 "targetType": 3,
                 "abilityEffectType": "",
                 "value1": 8399501,
@@ -53,7 +53,7 @@
             },
             {
                 "styleLimitBreakEffectMstId": 1007,
-                "name": "バトル開始時に防御力+10%",
+                "name": "At battle start, increases DEF by 10%.",
                 "targetType": 3,
                 "abilityEffectType": "",
                 "value1": 8399601,

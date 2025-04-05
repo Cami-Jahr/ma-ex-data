@@ -1,0 +1,708 @@
+{
+    "url": "/api/mst/getUserLevelUpMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "level": 1,
+                "levelUpExp": 10,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 10
+            },
+            {
+                "level": 2,
+                "levelUpExp": 16,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 12
+            },
+            {
+                "level": 3,
+                "levelUpExp": 23,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 14
+            },
+            {
+                "level": 4,
+                "levelUpExp": 31,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 16
+            },
+            {
+                "level": 5,
+                "levelUpExp": 40,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 19
+            },
+            {
+                "level": 6,
+                "levelUpExp": 50,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 21
+            },
+            {
+                "level": 7,
+                "levelUpExp": 61,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 23
+            },
+            {
+                "level": 8,
+                "levelUpExp": 73,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 25
+            },
+            {
+                "level": 9,
+                "levelUpExp": 86,
+                "backGroundPlayLimitSeconds": 28800,
+                "subStyleSlotNum": 3,
+                "maxStamina": 27
+            },
+            {
+                "level": 10,
+                "levelUpExp": 100,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 4,
+                "maxStamina": 30
+            },
+            {
+                "level": 11,
+                "levelUpExp": 115,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 4,
+                "maxStamina": 32
+            },
+            {
+                "level": 12,
+                "levelUpExp": 131,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 4,
+                "maxStamina": 34
+            },
+            {
+                "level": 13,
+                "levelUpExp": 148,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 4,
+                "maxStamina": 36
+            },
+            {
+                "level": 14,
+                "levelUpExp": 166,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 4,
+                "maxStamina": 38
+            },
+            {
+                "level": 15,
+                "levelUpExp": 185,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 5,
+                "maxStamina": 40
+            },
+            {
+                "level": 16,
+                "levelUpExp": 205,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 5,
+                "maxStamina": 42
+            },
+            {
+                "level": 17,
+                "levelUpExp": 227,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 5,
+                "maxStamina": 44
+            },
+            {
+                "level": 18,
+                "levelUpExp": 251,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 5,
+                "maxStamina": 46
+            },
+            {
+                "level": 19,
+                "levelUpExp": 277,
+                "backGroundPlayLimitSeconds": 43200,
+                "subStyleSlotNum": 5,
+                "maxStamina": 48
+            },
+            {
+                "level": 20,
+                "levelUpExp": 305,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 6,
+                "maxStamina": 51
+            },
+            {
+                "level": 21,
+                "levelUpExp": 335,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 6,
+                "maxStamina": 52
+            },
+            {
+                "level": 22,
+                "levelUpExp": 367,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 6,
+                "maxStamina": 53
+            },
+            {
+                "level": 23,
+                "levelUpExp": 401,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 6,
+                "maxStamina": 54
+            },
+            {
+                "level": 24,
+                "levelUpExp": 437,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 6,
+                "maxStamina": 55
+            },
+            {
+                "level": 25,
+                "levelUpExp": 475,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 7,
+                "maxStamina": 57
+            },
+            {
+                "level": 26,
+                "levelUpExp": 515,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 7,
+                "maxStamina": 58
+            },
+            {
+                "level": 27,
+                "levelUpExp": 557,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 7,
+                "maxStamina": 59
+            },
+            {
+                "level": 28,
+                "levelUpExp": 601,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 7,
+                "maxStamina": 60
+            },
+            {
+                "level": 29,
+                "levelUpExp": 647,
+                "backGroundPlayLimitSeconds": 57600,
+                "subStyleSlotNum": 7,
+                "maxStamina": 61
+            },
+            {
+                "level": 30,
+                "levelUpExp": 695,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 8,
+                "maxStamina": 63
+            },
+            {
+                "level": 31,
+                "levelUpExp": 745,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 8,
+                "maxStamina": 64
+            },
+            {
+                "level": 32,
+                "levelUpExp": 797,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 8,
+                "maxStamina": 65
+            },
+            {
+                "level": 33,
+                "levelUpExp": 851,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 8,
+                "maxStamina": 66
+            },
+            {
+                "level": 34,
+                "levelUpExp": 907,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 8,
+                "maxStamina": 67
+            },
+            {
+                "level": 35,
+                "levelUpExp": 965,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 9,
+                "maxStamina": 69
+            },
+            {
+                "level": 36,
+                "levelUpExp": 1025,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 9,
+                "maxStamina": 70
+            },
+            {
+                "level": 37,
+                "levelUpExp": 1087,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 9,
+                "maxStamina": 71
+            },
+            {
+                "level": 38,
+                "levelUpExp": 1151,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 9,
+                "maxStamina": 72
+            },
+            {
+                "level": 39,
+                "levelUpExp": 1217,
+                "backGroundPlayLimitSeconds": 72000,
+                "subStyleSlotNum": 9,
+                "maxStamina": 73
+            },
+            {
+                "level": 40,
+                "levelUpExp": 1286,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 75
+            },
+            {
+                "level": 41,
+                "levelUpExp": 1358,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 76
+            },
+            {
+                "level": 42,
+                "levelUpExp": 1433,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 77
+            },
+            {
+                "level": 43,
+                "levelUpExp": 1511,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 78
+            },
+            {
+                "level": 44,
+                "levelUpExp": 1592,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 79
+            },
+            {
+                "level": 45,
+                "levelUpExp": 1676,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 81
+            },
+            {
+                "level": 46,
+                "levelUpExp": 1763,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 82
+            },
+            {
+                "level": 47,
+                "levelUpExp": 1853,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 82
+            },
+            {
+                "level": 48,
+                "levelUpExp": 1946,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 82
+            },
+            {
+                "level": 49,
+                "levelUpExp": 2042,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 83
+            },
+            {
+                "level": 50,
+                "levelUpExp": 2141,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 83
+            },
+            {
+                "level": 51,
+                "levelUpExp": 2243,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 83
+            },
+            {
+                "level": 52,
+                "levelUpExp": 2348,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 84
+            },
+            {
+                "level": 53,
+                "levelUpExp": 2456,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 84
+            },
+            {
+                "level": 54,
+                "levelUpExp": 2567,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 84
+            },
+            {
+                "level": 55,
+                "levelUpExp": 2681,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 85
+            },
+            {
+                "level": 56,
+                "levelUpExp": 2798,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 85
+            },
+            {
+                "level": 57,
+                "levelUpExp": 2918,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 85
+            },
+            {
+                "level": 58,
+                "levelUpExp": 3041,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 86
+            },
+            {
+                "level": 59,
+                "levelUpExp": 3167,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 86
+            },
+            {
+                "level": 60,
+                "levelUpExp": 3296,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 86
+            },
+            {
+                "level": 61,
+                "levelUpExp": 3428,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 87
+            },
+            {
+                "level": 62,
+                "levelUpExp": 3563,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 87
+            },
+            {
+                "level": 63,
+                "levelUpExp": 3701,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 87
+            },
+            {
+                "level": 64,
+                "levelUpExp": 3842,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 88
+            },
+            {
+                "level": 65,
+                "levelUpExp": 3986,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 88
+            },
+            {
+                "level": 66,
+                "levelUpExp": 4133,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 88
+            },
+            {
+                "level": 67,
+                "levelUpExp": 4283,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 89
+            },
+            {
+                "level": 68,
+                "levelUpExp": 4436,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 89
+            },
+            {
+                "level": 69,
+                "levelUpExp": 4592,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 89
+            },
+            {
+                "level": 70,
+                "levelUpExp": 4751,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 90
+            },
+            {
+                "level": 71,
+                "levelUpExp": 4913,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 90
+            },
+            {
+                "level": 72,
+                "levelUpExp": 5078,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 90
+            },
+            {
+                "level": 73,
+                "levelUpExp": 5246,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 91
+            },
+            {
+                "level": 74,
+                "levelUpExp": 5417,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 91
+            },
+            {
+                "level": 75,
+                "levelUpExp": 5591,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 91
+            },
+            {
+                "level": 76,
+                "levelUpExp": 5768,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 92
+            },
+            {
+                "level": 77,
+                "levelUpExp": 5948,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 92
+            },
+            {
+                "level": 78,
+                "levelUpExp": 6131,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 92
+            },
+            {
+                "level": 79,
+                "levelUpExp": 6317,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 93
+            },
+            {
+                "level": 80,
+                "levelUpExp": 6507,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 93
+            },
+            {
+                "level": 81,
+                "levelUpExp": 6701,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 93
+            },
+            {
+                "level": 82,
+                "levelUpExp": 6899,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 94
+            },
+            {
+                "level": 83,
+                "levelUpExp": 7101,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 94
+            },
+            {
+                "level": 84,
+                "levelUpExp": 7307,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 94
+            },
+            {
+                "level": 85,
+                "levelUpExp": 7517,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 95
+            },
+            {
+                "level": 86,
+                "levelUpExp": 7731,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 95
+            },
+            {
+                "level": 87,
+                "levelUpExp": 7949,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 95
+            },
+            {
+                "level": 88,
+                "levelUpExp": 8171,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 96
+            },
+            {
+                "level": 89,
+                "levelUpExp": 8397,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 96
+            },
+            {
+                "level": 90,
+                "levelUpExp": 8627,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 96
+            },
+            {
+                "level": 91,
+                "levelUpExp": 8861,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 97
+            },
+            {
+                "level": 92,
+                "levelUpExp": 9099,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 97
+            },
+            {
+                "level": 93,
+                "levelUpExp": 9341,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 97
+            },
+            {
+                "level": 94,
+                "levelUpExp": 9587,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 98
+            },
+            {
+                "level": 95,
+                "levelUpExp": 9837,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 98
+            },
+            {
+                "level": 96,
+                "levelUpExp": 10091,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 98
+            },
+            {
+                "level": 97,
+                "levelUpExp": 10349,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 99
+            },
+            {
+                "level": 98,
+                "levelUpExp": 10611,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 99
+            },
+            {
+                "level": 99,
+                "levelUpExp": 10877,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 99
+            },
+            {
+                "level": 100,
+                "levelUpExp": 0,
+                "backGroundPlayLimitSeconds": 86400,
+                "subStyleSlotNum": 10,
+                "maxStamina": 100
+            }
+        ]
+    }
+}

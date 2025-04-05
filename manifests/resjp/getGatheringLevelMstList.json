@@ -1,0 +1,408 @@
+{
+    "url": "/api/mst/getGatheringLevelMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "gatheringLevel": 1,
+                "userLevel": 1
+            },
+            {
+                "gatheringLevel": 2,
+                "userLevel": 2
+            },
+            {
+                "gatheringLevel": 3,
+                "userLevel": 3
+            },
+            {
+                "gatheringLevel": 4,
+                "userLevel": 4
+            },
+            {
+                "gatheringLevel": 5,
+                "userLevel": 5
+            },
+            {
+                "gatheringLevel": 6,
+                "userLevel": 6
+            },
+            {
+                "gatheringLevel": 7,
+                "userLevel": 7
+            },
+            {
+                "gatheringLevel": 8,
+                "userLevel": 8
+            },
+            {
+                "gatheringLevel": 9,
+                "userLevel": 9
+            },
+            {
+                "gatheringLevel": 10,
+                "userLevel": 10
+            },
+            {
+                "gatheringLevel": 11,
+                "userLevel": 11
+            },
+            {
+                "gatheringLevel": 12,
+                "userLevel": 12
+            },
+            {
+                "gatheringLevel": 13,
+                "userLevel": 13
+            },
+            {
+                "gatheringLevel": 14,
+                "userLevel": 14
+            },
+            {
+                "gatheringLevel": 15,
+                "userLevel": 15
+            },
+            {
+                "gatheringLevel": 16,
+                "userLevel": 16
+            },
+            {
+                "gatheringLevel": 17,
+                "userLevel": 17
+            },
+            {
+                "gatheringLevel": 18,
+                "userLevel": 18
+            },
+            {
+                "gatheringLevel": 19,
+                "userLevel": 19
+            },
+            {
+                "gatheringLevel": 20,
+                "userLevel": 20
+            },
+            {
+                "gatheringLevel": 21,
+                "userLevel": 21
+            },
+            {
+                "gatheringLevel": 22,
+                "userLevel": 22
+            },
+            {
+                "gatheringLevel": 23,
+                "userLevel": 23
+            },
+            {
+                "gatheringLevel": 24,
+                "userLevel": 24
+            },
+            {
+                "gatheringLevel": 25,
+                "userLevel": 25
+            },
+            {
+                "gatheringLevel": 26,
+                "userLevel": 26
+            },
+            {
+                "gatheringLevel": 27,
+                "userLevel": 27
+            },
+            {
+                "gatheringLevel": 28,
+                "userLevel": 28
+            },
+            {
+                "gatheringLevel": 29,
+                "userLevel": 29
+            },
+            {
+                "gatheringLevel": 30,
+                "userLevel": 30
+            },
+            {
+                "gatheringLevel": 31,
+                "userLevel": 31
+            },
+            {
+                "gatheringLevel": 32,
+                "userLevel": 32
+            },
+            {
+                "gatheringLevel": 33,
+                "userLevel": 33
+            },
+            {
+                "gatheringLevel": 34,
+                "userLevel": 34
+            },
+            {
+                "gatheringLevel": 35,
+                "userLevel": 35
+            },
+            {
+                "gatheringLevel": 36,
+                "userLevel": 36
+            },
+            {
+                "gatheringLevel": 37,
+                "userLevel": 37
+            },
+            {
+                "gatheringLevel": 38,
+                "userLevel": 38
+            },
+            {
+                "gatheringLevel": 39,
+                "userLevel": 39
+            },
+            {
+                "gatheringLevel": 40,
+                "userLevel": 40
+            },
+            {
+                "gatheringLevel": 41,
+                "userLevel": 41
+            },
+            {
+                "gatheringLevel": 42,
+                "userLevel": 42
+            },
+            {
+                "gatheringLevel": 43,
+                "userLevel": 43
+            },
+            {
+                "gatheringLevel": 44,
+                "userLevel": 44
+            },
+            {
+                "gatheringLevel": 45,
+                "userLevel": 45
+            },
+            {
+                "gatheringLevel": 46,
+                "userLevel": 46
+            },
+            {
+                "gatheringLevel": 47,
+                "userLevel": 47
+            },
+            {
+                "gatheringLevel": 48,
+                "userLevel": 48
+            },
+            {
+                "gatheringLevel": 49,
+                "userLevel": 49
+            },
+            {
+                "gatheringLevel": 50,
+                "userLevel": 50
+            },
+            {
+                "gatheringLevel": 51,
+                "userLevel": 51
+            },
+            {
+                "gatheringLevel": 52,
+                "userLevel": 52
+            },
+            {
+                "gatheringLevel": 53,
+                "userLevel": 53
+            },
+            {
+                "gatheringLevel": 54,
+                "userLevel": 54
+            },
+            {
+                "gatheringLevel": 55,
+                "userLevel": 55
+            },
+            {
+                "gatheringLevel": 56,
+                "userLevel": 56
+            },
+            {
+                "gatheringLevel": 57,
+                "userLevel": 57
+            },
+            {
+                "gatheringLevel": 58,
+                "userLevel": 58
+            },
+            {
+                "gatheringLevel": 59,
+                "userLevel": 59
+            },
+            {
+                "gatheringLevel": 60,
+                "userLevel": 60
+            },
+            {
+                "gatheringLevel": 61,
+                "userLevel": 61
+            },
+            {
+                "gatheringLevel": 62,
+                "userLevel": 62
+            },
+            {
+                "gatheringLevel": 63,
+                "userLevel": 63
+            },
+            {
+                "gatheringLevel": 64,
+                "userLevel": 64
+            },
+            {
+                "gatheringLevel": 65,
+                "userLevel": 65
+            },
+            {
+                "gatheringLevel": 66,
+                "userLevel": 66
+            },
+            {
+                "gatheringLevel": 67,
+                "userLevel": 67
+            },
+            {
+                "gatheringLevel": 68,
+                "userLevel": 68
+            },
+            {
+                "gatheringLevel": 69,
+                "userLevel": 69
+            },
+            {
+                "gatheringLevel": 70,
+                "userLevel": 70
+            },
+            {
+                "gatheringLevel": 71,
+                "userLevel": 71
+            },
+            {
+                "gatheringLevel": 72,
+                "userLevel": 72
+            },
+            {
+                "gatheringLevel": 73,
+                "userLevel": 73
+            },
+            {
+                "gatheringLevel": 74,
+                "userLevel": 74
+            },
+            {
+                "gatheringLevel": 75,
+                "userLevel": 75
+            },
+            {
+                "gatheringLevel": 76,
+                "userLevel": 76
+            },
+            {
+                "gatheringLevel": 77,
+                "userLevel": 77
+            },
+            {
+                "gatheringLevel": 78,
+                "userLevel": 78
+            },
+            {
+                "gatheringLevel": 79,
+                "userLevel": 79
+            },
+            {
+                "gatheringLevel": 80,
+                "userLevel": 80
+            },
+            {
+                "gatheringLevel": 81,
+                "userLevel": 81
+            },
+            {
+                "gatheringLevel": 82,
+                "userLevel": 82
+            },
+            {
+                "gatheringLevel": 83,
+                "userLevel": 83
+            },
+            {
+                "gatheringLevel": 84,
+                "userLevel": 84
+            },
+            {
+                "gatheringLevel": 85,
+                "userLevel": 85
+            },
+            {
+                "gatheringLevel": 86,
+                "userLevel": 86
+            },
+            {
+                "gatheringLevel": 87,
+                "userLevel": 87
+            },
+            {
+                "gatheringLevel": 88,
+                "userLevel": 88
+            },
+            {
+                "gatheringLevel": 89,
+                "userLevel": 89
+            },
+            {
+                "gatheringLevel": 90,
+                "userLevel": 90
+            },
+            {
+                "gatheringLevel": 91,
+                "userLevel": 91
+            },
+            {
+                "gatheringLevel": 92,
+                "userLevel": 92
+            },
+            {
+                "gatheringLevel": 93,
+                "userLevel": 93
+            },
+            {
+                "gatheringLevel": 94,
+                "userLevel": 94
+            },
+            {
+                "gatheringLevel": 95,
+                "userLevel": 95
+            },
+            {
+                "gatheringLevel": 96,
+                "userLevel": 96
+            },
+            {
+                "gatheringLevel": 97,
+                "userLevel": 97
+            },
+            {
+                "gatheringLevel": 98,
+                "userLevel": 98
+            },
+            {
+                "gatheringLevel": 99,
+                "userLevel": 99
+            },
+            {
+                "gatheringLevel": 100,
+                "userLevel": 100
+            }
+        ]
+    }
+}

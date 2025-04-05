@@ -1,0 +1,5240 @@
+{
+    "url": "/api/mst/getBattleConditionMstList",
+    "status": 200,
+    "payload": {
+        "mstList": [
+            {
+                "battleConditionMstId": 1,
+                "description": "行動者は仲間",
+                "compareTarget": 2,
+                "compareContent": 10,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 2,
+                "description": "行動者は敵",
+                "compareTarget": 2,
+                "compareContent": 11,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 3,
+                "description": "自分は行動者",
+                "compareTarget": 1,
+                "compareContent": 8,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 4,
+                "description": "自分がメーンの行動対象",
+                "compareTarget": 1,
+                "compareContent": 9,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 5,
+                "description": "行動タイプが通常攻撃",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 1,
+                "compareValue": "NormalAttack"
+            },
+            {
+                "battleConditionMstId": 6,
+                "description": "行動タイプがスキル攻撃",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 1,
+                "compareValue": "ActiveSkill"
+            },
+            {
+                "battleConditionMstId": 7,
+                "description": "行動タイプは必殺技",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 1,
+                "compareValue": "SpecialAttack"
+            },
+            {
+                "battleConditionMstId": 8,
+                "description": "自分のHPが100以上",
+                "compareTarget": 1,
+                "compareContent": 1,
+                "compareOperator": 4,
+                "compareValue": "100"
+            },
+            {
+                "battleConditionMstId": 9,
+                "description": "自分のHPが50％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 10,
+                "description": "自分が中毒している",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 11,
+                "description": "行動者のATKが100以上",
+                "compareTarget": 2,
+                "compareContent": 3,
+                "compareOperator": 4,
+                "compareValue": "100"
+            },
+            {
+                "battleConditionMstId": 12,
+                "description": "メーンの行動対象のSPDが50以上",
+                "compareTarget": 2,
+                "compareContent": 4,
+                "compareOperator": 5,
+                "compareValue": "100"
+            },
+            {
+                "battleConditionMstId": 13,
+                "description": "メーンの行動対象のSPDが50以上",
+                "compareTarget": 3,
+                "compareContent": 5,
+                "compareOperator": 4,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 14,
+                "description": "メーンの行動対象のEPが50未満",
+                "compareTarget": 3,
+                "compareContent": 6,
+                "compareOperator": 5,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 15,
+                "description": "自分のタン数が2",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 16,
+                "description": "メーンの行動対象が受けたダメージが100以上",
+                "compareTarget": 3,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "100"
+            },
+            {
+                "battleConditionMstId": 17,
+                "description": "メーンの行動対象がMaxHP50％以上のダメージを受けた",
+                "compareTarget": 3,
+                "compareContent": 102,
+                "compareOperator": 4,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 18,
+                "description": "メーンの行動対象が殺された",
+                "compareTarget": 3,
+                "compareContent": 103,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 19,
+                "description": "メーンの行動対象が殺されてない",
+                "compareTarget": 3,
+                "compareContent": 103,
+                "compareOperator": 1,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 20,
+                "description": "敵軍のSPが3以上",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 21,
+                "description": "自軍のSPが5以下",
+                "compareTarget": 5,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 22,
+                "description": "味方の生存者数が3体以上",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 23,
+                "description": "敵軍の死亡者数が3未満",
+                "compareTarget": 6,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 24,
+                "description": "敵軍のユニットが2体以上殺された",
+                "compareTarget": 6,
+                "compareContent": 301,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 25,
+                "description": "自分が1以上のダメージを受けた",
+                "compareTarget": 1,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 26,
+                "description": "敵軍がDMG_MAGICの効果があるスキルを発動した",
+                "compareTarget": 6,
+                "compareContent": 204,
+                "compareOperator": 7,
+                "compareValue": "DMG_MAGIC"
+            },
+            {
+                "battleConditionMstId": 27,
+                "description": "敵軍がUP_ATK_RATIOの効果があるスキルを発動した",
+                "compareTarget": 6,
+                "compareContent": 204,
+                "compareOperator": 7,
+                "compareValue": "UP_ATK_RATIO"
+            },
+            {
+                "battleConditionMstId": 28,
+                "description": "自軍がDMG_MAGICの効果があるスキルを発動した",
+                "compareTarget": 5,
+                "compareContent": 204,
+                "compareOperator": 7,
+                "compareValue": "DMG_MAGIC"
+            },
+            {
+                "battleConditionMstId": 29,
+                "description": "自軍がUP_ATK_RATIOの効果があるスキルを発動した",
+                "compareTarget": 5,
+                "compareContent": 204,
+                "compareOperator": 7,
+                "compareValue": "UP_ATK_RATIO"
+            },
+            {
+                "battleConditionMstId": 30,
+                "description": "対象のHPが50%以上のとき",
+                "compareTarget": 3,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 31,
+                "description": "自身のSPDが100以上のとき",
+                "compareTarget": 1,
+                "compareContent": 5,
+                "compareOperator": 4,
+                "compareValue": "100"
+            },
+            {
+                "battleConditionMstId": 32,
+                "description": "自分のHPが30％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "30"
+            },
+            {
+                "battleConditionMstId": 33,
+                "description": "自分のHPが70％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "70"
+            },
+            {
+                "battleConditionMstId": 34,
+                "description": "自分のHPが50％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 35,
+                "description": "自分のHPが70％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "70"
+            },
+            {
+                "battleConditionMstId": 36,
+                "description": "自分が3ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,2"
+            },
+            {
+                "battleConditionMstId": 37,
+                "description": "自分が2ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 38,
+                "description": "自分のHPが80％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "80"
+            },
+            {
+                "battleConditionMstId": 39,
+                "description": "自身のSPDが118以上のとき",
+                "compareTarget": 1,
+                "compareContent": 5,
+                "compareOperator": 4,
+                "compareValue": "118"
+            },
+            {
+                "battleConditionMstId": 40,
+                "description": "自分のキャラクターが「鹿目まどか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1001"
+            },
+            {
+                "battleConditionMstId": 41,
+                "description": "自分のキャラクターが「暁美ほむら」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1002"
+            },
+            {
+                "battleConditionMstId": 42,
+                "description": "自分のキャラクターが「巴マミ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1003"
+            },
+            {
+                "battleConditionMstId": 43,
+                "description": "自分のキャラクターが「美樹さやか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1004"
+            },
+            {
+                "battleConditionMstId": 44,
+                "description": "自分のキャラクターが「佐倉杏子」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1005"
+            },
+            {
+                "battleConditionMstId": 45,
+                "description": "自分のキャラクターが「環いろは」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1008"
+            },
+            {
+                "battleConditionMstId": 46,
+                "description": "自分のキャラクターが「七海やちよ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1009"
+            },
+            {
+                "battleConditionMstId": 47,
+                "description": "自分のキャラクターが「由比鶴乃」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1010"
+            },
+            {
+                "battleConditionMstId": 48,
+                "description": "自分のキャラクターが「深月フェリシア」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1012"
+            },
+            {
+                "battleConditionMstId": 49,
+                "description": "自分のキャラクターが「十咎ももこ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1014"
+            },
+            {
+                "battleConditionMstId": 50,
+                "description": "自分のキャラクターが「水波レナ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1015"
+            },
+            {
+                "battleConditionMstId": 51,
+                "description": "自分のキャラクターが「秋野かえで」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1016"
+            },
+            {
+                "battleConditionMstId": 52,
+                "description": "自分のキャラクターが「呉キリカ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1125"
+            },
+            {
+                "battleConditionMstId": 53,
+                "description": "自分のキャラクターが「アルティメット鹿目まどか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1137"
+            },
+            {
+                "battleConditionMstId": 54,
+                "description": "自分が毒じゃない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 55,
+                "description": "自分が2ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,1"
+            },
+            {
+                "battleConditionMstId": 56,
+                "description": "自分が2ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,2"
+            },
+            {
+                "battleConditionMstId": 57,
+                "description": "自分が3ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,1"
+            },
+            {
+                "battleConditionMstId": 58,
+                "description": "自分が3ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,2"
+            },
+            {
+                "battleConditionMstId": 59,
+                "description": "自分が3ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,3"
+            },
+            {
+                "battleConditionMstId": 60,
+                "description": "自分が4ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,1"
+            },
+            {
+                "battleConditionMstId": 61,
+                "description": "自分が4ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,2"
+            },
+            {
+                "battleConditionMstId": 62,
+                "description": "自分が4ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,3"
+            },
+            {
+                "battleConditionMstId": 63,
+                "description": "自分が4ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,4"
+            },
+            {
+                "battleConditionMstId": 64,
+                "description": "自分が5ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "5,1"
+            },
+            {
+                "battleConditionMstId": 65,
+                "description": "自分が5ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "5,2"
+            },
+            {
+                "battleConditionMstId": 66,
+                "description": "自分が5ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "5,3"
+            },
+            {
+                "battleConditionMstId": 67,
+                "description": "自分が5ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "5,4"
+            },
+            {
+                "battleConditionMstId": 68,
+                "description": "自分が5ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "5,5"
+            },
+            {
+                "battleConditionMstId": 69,
+                "description": "自分が6ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,1"
+            },
+            {
+                "battleConditionMstId": 70,
+                "description": "自分が6ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,2"
+            },
+            {
+                "battleConditionMstId": 71,
+                "description": "自分が6ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,3"
+            },
+            {
+                "battleConditionMstId": 72,
+                "description": "自分が6ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,4"
+            },
+            {
+                "battleConditionMstId": 73,
+                "description": "自分が6ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,5"
+            },
+            {
+                "battleConditionMstId": 74,
+                "description": "自分が6ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,6"
+            },
+            {
+                "battleConditionMstId": 75,
+                "description": "自分が7ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,1"
+            },
+            {
+                "battleConditionMstId": 76,
+                "description": "自分が7ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,2"
+            },
+            {
+                "battleConditionMstId": 77,
+                "description": "自分が7ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,3"
+            },
+            {
+                "battleConditionMstId": 78,
+                "description": "自分が7ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,4"
+            },
+            {
+                "battleConditionMstId": 79,
+                "description": "自分が7ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,5"
+            },
+            {
+                "battleConditionMstId": 80,
+                "description": "自分が7ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,6"
+            },
+            {
+                "battleConditionMstId": 81,
+                "description": "自分が7ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "7,7"
+            },
+            {
+                "battleConditionMstId": 82,
+                "description": "自分が8ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,1"
+            },
+            {
+                "battleConditionMstId": 83,
+                "description": "自分が8ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,2"
+            },
+            {
+                "battleConditionMstId": 84,
+                "description": "自分が8ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,3"
+            },
+            {
+                "battleConditionMstId": 85,
+                "description": "自分が8ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,4"
+            },
+            {
+                "battleConditionMstId": 86,
+                "description": "自分が8ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,5"
+            },
+            {
+                "battleConditionMstId": 87,
+                "description": "自分が8ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,6"
+            },
+            {
+                "battleConditionMstId": 88,
+                "description": "自分が8ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,7"
+            },
+            {
+                "battleConditionMstId": 89,
+                "description": "自分が8ターンごとに（ターン8から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "8,8"
+            },
+            {
+                "battleConditionMstId": 90,
+                "description": "自分が9ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,1"
+            },
+            {
+                "battleConditionMstId": 91,
+                "description": "自分が9ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,2"
+            },
+            {
+                "battleConditionMstId": 92,
+                "description": "自分が9ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,3"
+            },
+            {
+                "battleConditionMstId": 93,
+                "description": "自分が9ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,4"
+            },
+            {
+                "battleConditionMstId": 94,
+                "description": "自分が9ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,5"
+            },
+            {
+                "battleConditionMstId": 95,
+                "description": "自分が9ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,6"
+            },
+            {
+                "battleConditionMstId": 96,
+                "description": "自分が9ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,7"
+            },
+            {
+                "battleConditionMstId": 97,
+                "description": "自分が9ターンごとに（ターン8から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,8"
+            },
+            {
+                "battleConditionMstId": 98,
+                "description": "自分が9ターンごとに（ターン9から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "9,9"
+            },
+            {
+                "battleConditionMstId": 99,
+                "description": "自分が10ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,1"
+            },
+            {
+                "battleConditionMstId": 100,
+                "description": "自分が10ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,2"
+            },
+            {
+                "battleConditionMstId": 101,
+                "description": "自分が10ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,3"
+            },
+            {
+                "battleConditionMstId": 102,
+                "description": "自分が10ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,4"
+            },
+            {
+                "battleConditionMstId": 103,
+                "description": "自分が10ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,5"
+            },
+            {
+                "battleConditionMstId": 104,
+                "description": "自分が10ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,6"
+            },
+            {
+                "battleConditionMstId": 105,
+                "description": "自分が10ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,7"
+            },
+            {
+                "battleConditionMstId": 106,
+                "description": "自分が10ターンごとに（ターン8から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,8"
+            },
+            {
+                "battleConditionMstId": 107,
+                "description": "自分が10ターンごとに（ターン9から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,9"
+            },
+            {
+                "battleConditionMstId": 108,
+                "description": "自分が10ターンごとに（ターン10から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "10,10"
+            },
+            {
+                "battleConditionMstId": 109,
+                "description": "自軍のユニットが2体以上殺された",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 110,
+                "description": "自軍の死亡者数が1以上",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 111,
+                "description": "敵が気絶している",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "STUN"
+            },
+            {
+                "battleConditionMstId": 112,
+                "description": "自分が呪い状態のとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_BREAK"
+            },
+            {
+                "battleConditionMstId": 113,
+                "description": "自分の行動タイプが通常攻撃",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 1,
+                "compareValue": "NormalAttack"
+            },
+            {
+                "battleConditionMstId": 114,
+                "description": "自分のDEFが2000以上のとき",
+                "compareTarget": 1,
+                "compareContent": 4,
+                "compareOperator": 4,
+                "compareValue": "2000"
+            },
+            {
+                "battleConditionMstId": 115,
+                "description": "自分の受けたダメージが20000未満のとき",
+                "compareTarget": 1,
+                "compareContent": 101,
+                "compareOperator": 5,
+                "compareValue": "20000"
+            },
+            {
+                "battleConditionMstId": 116,
+                "description": "自分が防御力デバフを受けていないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_DEF_RATIO"
+            },
+            {
+                "battleConditionMstId": 117,
+                "description": "自分のHPが40％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 118,
+                "description": "自分のHPが80％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "80"
+            },
+            {
+                "battleConditionMstId": 119,
+                "description": "自分のHPが90％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "90"
+            },
+            {
+                "battleConditionMstId": 120,
+                "description": "自分が火傷状態ではないとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN_BREAK"
+            },
+            {
+                "battleConditionMstId": 121,
+                "description": "自分が火傷状態ではないとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN_ATK"
+            },
+            {
+                "battleConditionMstId": 122,
+                "description": "自分が火傷状態ではないとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN_DEF"
+            },
+            {
+                "battleConditionMstId": 123,
+                "description": "自分が火傷状態ではないとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN_HP"
+            },
+            {
+                "battleConditionMstId": 124,
+                "description": "自分が毒状態ではないとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON_BREAK"
+            },
+            {
+                "battleConditionMstId": 125,
+                "description": "自分が毒状態ではないとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON_ATK"
+            },
+            {
+                "battleConditionMstId": 126,
+                "description": "自分が毒状態ではないとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON_DEF"
+            },
+            {
+                "battleConditionMstId": 127,
+                "description": "自分が毒状態ではないとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON_HP"
+            },
+            {
+                "battleConditionMstId": 128,
+                "description": "自分が呪い状態ではないとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_BREAK"
+            },
+            {
+                "battleConditionMstId": 129,
+                "description": "自分が呪い状態ではないとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_ATK"
+            },
+            {
+                "battleConditionMstId": 130,
+                "description": "自分が呪い状態ではないとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_DEF"
+            },
+            {
+                "battleConditionMstId": 131,
+                "description": "自分が呪い状態ではないとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_HP"
+            },
+            {
+                "battleConditionMstId": 132,
+                "description": "自分が裂傷状態ではないとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED_BREAK"
+            },
+            {
+                "battleConditionMstId": 133,
+                "description": "自分が裂傷状態ではないとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED_ATK"
+            },
+            {
+                "battleConditionMstId": 134,
+                "description": "自分が裂傷状態ではないとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED_DEF"
+            },
+            {
+                "battleConditionMstId": 135,
+                "description": "自分が裂傷状態ではないとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED_HP"
+            },
+            {
+                "battleConditionMstId": 136,
+                "description": "自分が衰弱状態ではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 137,
+                "description": "自分がスタン状態ではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "STUN"
+            },
+            {
+                "battleConditionMstId": 138,
+                "description": "自分の体力ゲージ数が1のとき",
+                "compareTarget": 1,
+                "compareContent": 15,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 139,
+                "description": "自分の体力ゲージ数が2のとき",
+                "compareTarget": 1,
+                "compareContent": 15,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 140,
+                "description": "自分の体力ゲージ数が3のとき",
+                "compareTarget": 1,
+                "compareContent": 15,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 141,
+                "description": "対象のHPが80%以上のとき",
+                "compareTarget": 3,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "80"
+            },
+            {
+                "battleConditionMstId": 142,
+                "description": "対象のHPが40%未満のとき",
+                "compareTarget": 3,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 143,
+                "description": "相手が火傷状態のとき【BREAK】",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_BREAK"
+            },
+            {
+                "battleConditionMstId": 144,
+                "description": "相手が火傷状態のとき【ATK】",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_ATK"
+            },
+            {
+                "battleConditionMstId": 145,
+                "description": "相手が火傷状態のとき【DEF】",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_DEF"
+            },
+            {
+                "battleConditionMstId": 146,
+                "description": "相手が火傷状態のとき【HP】",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_HP"
+            },
+            {
+                "battleConditionMstId": 147,
+                "description": "バトル開始から自分の行動が1回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 148,
+                "description": "バトル開始から自分の行動が2回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 149,
+                "description": "バトル開始から自分の行動が3回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 150,
+                "description": "バトル開始から自分の行動が4回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 151,
+                "description": "バトル開始から自分の行動が5回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 152,
+                "description": "バトル開始から自分の行動が6回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 153,
+                "description": "バトル開始から自分の行動が7回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 154,
+                "description": "バトル開始から自分の行動が8回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 155,
+                "description": "バトル開始から自分の行動が9回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 156,
+                "description": "バトル開始から自分の行動が10回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 157,
+                "description": "バトル開始から自分の行動が11回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "11"
+            },
+            {
+                "battleConditionMstId": 158,
+                "description": "バトル開始から自分の行動が12回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "12"
+            },
+            {
+                "battleConditionMstId": 159,
+                "description": "バトル開始から自分の行動が13回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "13"
+            },
+            {
+                "battleConditionMstId": 160,
+                "description": "バトル開始から自分の行動が14回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "14"
+            },
+            {
+                "battleConditionMstId": 161,
+                "description": "バトル開始から自分の行動が15回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "15"
+            },
+            {
+                "battleConditionMstId": 162,
+                "description": "バトル開始から自分の行動が16回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "16"
+            },
+            {
+                "battleConditionMstId": 163,
+                "description": "バトル開始から自分の行動が17回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "17"
+            },
+            {
+                "battleConditionMstId": 164,
+                "description": "バトル開始から自分の行動が18回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "18"
+            },
+            {
+                "battleConditionMstId": 165,
+                "description": "バトル開始から自分の行動が19回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "19"
+            },
+            {
+                "battleConditionMstId": 166,
+                "description": "バトル開始から自分の行動が20回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "20"
+            },
+            {
+                "battleConditionMstId": 167,
+                "description": "バトル開始から自分の行動が21回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "21"
+            },
+            {
+                "battleConditionMstId": 168,
+                "description": "バトル開始から自分の行動が22回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "22"
+            },
+            {
+                "battleConditionMstId": 169,
+                "description": "バトル開始から自分の行動が23回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "23"
+            },
+            {
+                "battleConditionMstId": 170,
+                "description": "バトル開始から自分の行動が24回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "24"
+            },
+            {
+                "battleConditionMstId": 171,
+                "description": "バトル開始から自分の行動が25回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "25"
+            },
+            {
+                "battleConditionMstId": 172,
+                "description": "バトル開始から自分の行動が26回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "26"
+            },
+            {
+                "battleConditionMstId": 173,
+                "description": "バトル開始から自分の行動が27回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "27"
+            },
+            {
+                "battleConditionMstId": 174,
+                "description": "バトル開始から自分の行動が28回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "28"
+            },
+            {
+                "battleConditionMstId": 175,
+                "description": "バトル開始から自分の行動が29回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "29"
+            },
+            {
+                "battleConditionMstId": 176,
+                "description": "バトル開始から自分の行動が30回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "30"
+            },
+            {
+                "battleConditionMstId": 177,
+                "description": "バトル開始から自分の行動が31回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "31"
+            },
+            {
+                "battleConditionMstId": 178,
+                "description": "バトル開始から自分の行動が32回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "32"
+            },
+            {
+                "battleConditionMstId": 179,
+                "description": "バトル開始から自分の行動が33回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "33"
+            },
+            {
+                "battleConditionMstId": 180,
+                "description": "バトル開始から自分の行動が34回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "34"
+            },
+            {
+                "battleConditionMstId": 181,
+                "description": "バトル開始から自分の行動が35回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "35"
+            },
+            {
+                "battleConditionMstId": 182,
+                "description": "バトル開始から自分の行動が36回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "36"
+            },
+            {
+                "battleConditionMstId": 183,
+                "description": "バトル開始から自分の行動が37回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "37"
+            },
+            {
+                "battleConditionMstId": 184,
+                "description": "バトル開始から自分の行動が38回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "38"
+            },
+            {
+                "battleConditionMstId": 185,
+                "description": "バトル開始から自分の行動が39回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "39"
+            },
+            {
+                "battleConditionMstId": 186,
+                "description": "バトル開始から自分の行動が40回目",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 1,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 187,
+                "description": "自分のキャラクターが「御園かりん」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1017"
+            },
+            {
+                "battleConditionMstId": 188,
+                "description": "自分のキャラクターが「竜城明日香」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1018"
+            },
+            {
+                "battleConditionMstId": 189,
+                "description": "自分のキャラクターが「空穂夏希」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1058"
+            },
+            {
+                "battleConditionMstId": 190,
+                "description": "自分のキャラクターが「常盤ななか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1061"
+            },
+            {
+                "battleConditionMstId": 191,
+                "description": "自分のキャラクターが「夏目かこ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1067"
+            },
+            {
+                "battleConditionMstId": 192,
+                "description": "自分のキャラクターが「純美雨」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1068"
+            },
+            {
+                "battleConditionMstId": 193,
+                "description": "自分のキャラクターが「伊吹れいら」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1069"
+            },
+            {
+                "battleConditionMstId": 194,
+                "description": "自分のキャラクターが「桑水せいか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1070"
+            },
+            {
+                "battleConditionMstId": 195,
+                "description": "自分のキャラクターが「相野みと」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1071"
+            },
+            {
+                "battleConditionMstId": 196,
+                "description": "自分のキャラクターが「粟根こころ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1072"
+            },
+            {
+                "battleConditionMstId": 197,
+                "description": "自分のキャラクターが「更紗帆奈」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1074"
+            },
+            {
+                "battleConditionMstId": 198,
+                "description": "自分のキャラクターが「眞尾ひみか」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1076"
+            },
+            {
+                "battleConditionMstId": 199,
+                "description": "自分のキャラクターが「静海このは」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1081"
+            },
+            {
+                "battleConditionMstId": 200,
+                "description": "自分のキャラクターが「遊佐葉月」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1082"
+            },
+            {
+                "battleConditionMstId": 201,
+                "description": "自分のキャラクターが「三栗あやめ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1083"
+            },
+            {
+                "battleConditionMstId": 202,
+                "description": "自分のキャラクターが「加賀見まさら」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1084"
+            },
+            {
+                "battleConditionMstId": 203,
+                "description": "自分のキャラクターが「綾野梨花」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1086"
+            },
+            {
+                "battleConditionMstId": 204,
+                "description": "自分のキャラクターが「千秋理子」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1090"
+            },
+            {
+                "battleConditionMstId": 205,
+                "description": "自分のキャラクターが「アシュリー・テイラー」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1107"
+            },
+            {
+                "battleConditionMstId": 206,
+                "description": "自分のキャラクターが「入名クシュ」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1114"
+            },
+            {
+                "battleConditionMstId": 207,
+                "description": "自分のキャラクターが「千歳ゆま」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1126"
+            },
+            {
+                "battleConditionMstId": 208,
+                "description": "自分のキャラクターが「五十鈴れん」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1080"
+            },
+            {
+                "battleConditionMstId": 209,
+                "description": "自分のキャラクターが「美国織莉子」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1124"
+            },
+            {
+                "battleConditionMstId": 210,
+                "description": "対象が「呪い」の場合",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_ATK"
+            },
+            {
+                "battleConditionMstId": 211,
+                "description": "敵軍のSPが3以上",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 212,
+                "description": "自分がスピードデバフではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_SPD_RATIO"
+            },
+            {
+                "battleConditionMstId": 213,
+                "description": "自分がスピードデバフではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_SPD_FIXED"
+            },
+            {
+                "battleConditionMstId": 214,
+                "description": "自分が攻撃力デバフではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "UP_ATK_RATIO"
+            },
+            {
+                "battleConditionMstId": 215,
+                "description": "自分が攻撃力デバフではないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "UP_ATK_FIXED"
+            },
+            {
+                "battleConditionMstId": 216,
+                "description": "自分が防御力デバフを受けていないとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_DEF_FIXED"
+            },
+            {
+                "battleConditionMstId": 217,
+                "description": "自分が火傷状態のとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_BREAK"
+            },
+            {
+                "battleConditionMstId": 218,
+                "description": "自分が火傷状態のとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_ATK"
+            },
+            {
+                "battleConditionMstId": 219,
+                "description": "自分が火傷状態のとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_DEF"
+            },
+            {
+                "battleConditionMstId": 220,
+                "description": "自分が火傷状態のとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_HP"
+            },
+            {
+                "battleConditionMstId": 221,
+                "description": "自分が毒状態のとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON_BREAK"
+            },
+            {
+                "battleConditionMstId": 222,
+                "description": "自分が毒状態のとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON_ATK"
+            },
+            {
+                "battleConditionMstId": 223,
+                "description": "自分が毒状態のとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON_DEF"
+            },
+            {
+                "battleConditionMstId": 224,
+                "description": "自分が毒状態のとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON_HP"
+            },
+            {
+                "battleConditionMstId": 225,
+                "description": "自分が呪い状態のとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_BREAK"
+            },
+            {
+                "battleConditionMstId": 226,
+                "description": "自分が呪い状態のとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_ATK"
+            },
+            {
+                "battleConditionMstId": 227,
+                "description": "自分が呪い状態のとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_DEF"
+            },
+            {
+                "battleConditionMstId": 228,
+                "description": "自分が呪い状態のとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_HP"
+            },
+            {
+                "battleConditionMstId": 229,
+                "description": "自分が裂傷状態のとき【BREAK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED_BREAK"
+            },
+            {
+                "battleConditionMstId": 230,
+                "description": "自分が裂傷状態のとき【ATK】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED_ATK"
+            },
+            {
+                "battleConditionMstId": 231,
+                "description": "自分が裂傷状態のとき【DEF】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED_DEF"
+            },
+            {
+                "battleConditionMstId": 232,
+                "description": "自分が裂傷状態のとき【HP】",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED_HP"
+            },
+            {
+                "battleConditionMstId": 233,
+                "description": "自分が衰弱状態のとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 234,
+                "description": "自分がスタン状態のとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "STUN"
+            },
+            {
+                "battleConditionMstId": 235,
+                "description": "敵軍のSPが2未満",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 236,
+                "description": "味方の生存者数が1体未満",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 2,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 237,
+                "description": "敵軍のSPが4未満",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 238,
+                "description": "攻撃対象が火傷状態のとき【BREAK】",
+                "compareTarget": 4,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_BREAK"
+            },
+            {
+                "battleConditionMstId": 239,
+                "description": "攻撃対象が火傷状態のとき【ATK】",
+                "compareTarget": 4,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_ATK"
+            },
+            {
+                "battleConditionMstId": 240,
+                "description": "攻撃対象が火傷状態のとき【DEF】",
+                "compareTarget": 4,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_DEF"
+            },
+            {
+                "battleConditionMstId": 241,
+                "description": "攻撃対象が火傷状態のとき【HP】",
+                "compareTarget": 4,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN_HP"
+            },
+            {
+                "battleConditionMstId": 242,
+                "description": "自分が被ダメージバフを受けているとき/割合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "DWN_RCV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 243,
+                "description": "自分が被ダメージバフを受けていない/割合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_RCV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 244,
+                "description": "自分が被ダメージバフを受けているとき/固定値",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "DWN_RCV_DMG_FIXED"
+            },
+            {
+                "battleConditionMstId": 245,
+                "description": "自分が被ダメージバフを受けていない/固定値",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_RCV_DMG_FIXED"
+            },
+            {
+                "battleConditionMstId": 246,
+                "description": "自身のSPDが110以上のとき",
+                "compareTarget": 1,
+                "compareContent": 5,
+                "compareOperator": 4,
+                "compareValue": "110"
+            },
+            {
+                "battleConditionMstId": 247,
+                "description": "対象のHPが80%未満のとき",
+                "compareTarget": 3,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "80"
+            },
+            {
+                "battleConditionMstId": 248,
+                "description": "対象のHPが40%以上のとき",
+                "compareTarget": 3,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 249,
+                "description": "自分のキャラクターが「深月フェリシア」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1012"
+            },
+            {
+                "battleConditionMstId": 250,
+                "description": "自分のキャラクターが「二葉さな」",
+                "compareTarget": 1,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1011"
+            },
+            {
+                "battleConditionMstId": 251,
+                "description": "対象が「呪い」の場合【BREAK】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_BREAK"
+            },
+            {
+                "battleConditionMstId": 252,
+                "description": "対象が「呪い」の場合【HP】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_ATK"
+            },
+            {
+                "battleConditionMstId": 253,
+                "description": "対象が「呪い」の場合【ATK】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_DEF"
+            },
+            {
+                "battleConditionMstId": 254,
+                "description": "対象が「呪い」の場合【DEF】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE_HP"
+            },
+            {
+                "battleConditionMstId": 255,
+                "description": "対象が「呪い」ではない場合【BREAK】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_BREAK"
+            },
+            {
+                "battleConditionMstId": 256,
+                "description": "対象が「呪い」ではない場合【HP】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_ATK"
+            },
+            {
+                "battleConditionMstId": 257,
+                "description": "対象が「呪い」ではない場合【ATK】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_DEF"
+            },
+            {
+                "battleConditionMstId": 258,
+                "description": "対象が「呪い」ではない場合【DEF】",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE_HP"
+            },
+            {
+                "battleConditionMstId": 259,
+                "description": "5ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 260,
+                "description": "10ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 261,
+                "description": "15ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "15"
+            },
+            {
+                "battleConditionMstId": 262,
+                "description": "5ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 263,
+                "description": "10ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 264,
+                "description": "15ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "15"
+            },
+            {
+                "battleConditionMstId": 265,
+                "description": "4ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 266,
+                "description": "8ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 267,
+                "description": "4ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 268,
+                "description": "8ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 269,
+                "description": "3ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 270,
+                "description": "6ターン未満",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 5,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 271,
+                "description": "3ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 272,
+                "description": "6ターン以上",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 273,
+                "description": "連続行動の1回目",
+                "compareTarget": 7,
+                "compareContent": 402,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 274,
+                "description": "連続行動の2回目",
+                "compareTarget": 7,
+                "compareContent": 402,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 275,
+                "description": "連続行動の3回目",
+                "compareTarget": 7,
+                "compareContent": 402,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 276,
+                "description": "攻撃対象にブレイクが発生",
+                "compareTarget": 6,
+                "compareContent": 302,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 277,
+                "description": "行動対象がブレイク状態のとき",
+                "compareTarget": 8,
+                "compareContent": 16,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 278,
+                "description": "行動対象がブレイク状態ではないとき",
+                "compareTarget": 3,
+                "compareContent": 16,
+                "compareOperator": 1,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 279,
+                "description": "敵軍のユニットが1体以上殺された",
+                "compareTarget": 6,
+                "compareContent": 301,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 280,
+                "description": "回復したか",
+                "compareTarget": 1,
+                "compareContent": 104,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 281,
+                "description": "攻撃対象にクリティカルダメージが発生",
+                "compareTarget": 6,
+                "compareContent": 303,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 282,
+                "description": "敵が1以上のダメージを受けた",
+                "compareTarget": 3,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 283,
+                "description": "行動キャラクターが「鹿目まどか」",
+                "compareTarget": 2,
+                "compareContent": 14,
+                "compareOperator": 1,
+                "compareValue": "1001"
+            },
+            {
+                "battleConditionMstId": 284,
+                "description": "トークンが2以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 285,
+                "description": "トークンが5のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 286,
+                "description": "行動可能なとき",
+                "compareTarget": 1,
+                "compareContent": 18,
+                "compareOperator": 1,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 287,
+                "description": "行動不可なとき",
+                "compareTarget": 1,
+                "compareContent": 18,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 288,
+                "description": "トークンが3以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 289,
+                "description": "トークンが4以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 290,
+                "description": "トークンが5以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 291,
+                "description": "トークンが6以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 292,
+                "description": "自分は火属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Fire"
+            },
+            {
+                "battleConditionMstId": 293,
+                "description": "自分は火属性ではない",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 2,
+                "compareValue": "Fire"
+            },
+            {
+                "battleConditionMstId": 294,
+                "description": "自分は水属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Aqua"
+            },
+            {
+                "battleConditionMstId": 295,
+                "description": "自分は木属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Forest"
+            },
+            {
+                "battleConditionMstId": 296,
+                "description": "自分は光属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Light"
+            },
+            {
+                "battleConditionMstId": 297,
+                "description": "自分は闇属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Dark"
+            },
+            {
+                "battleConditionMstId": 298,
+                "description": "自分は無属性",
+                "compareTarget": 1,
+                "compareContent": 19,
+                "compareOperator": 1,
+                "compareValue": "Neutral"
+            },
+            {
+                "battleConditionMstId": 299,
+                "description": "自分はアタッカー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Attacker"
+            },
+            {
+                "battleConditionMstId": 300,
+                "description": "自分はアタッカーではない",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 2,
+                "compareValue": "Attacker"
+            },
+            {
+                "battleConditionMstId": 301,
+                "description": "自分はブレイカー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Breaker"
+            },
+            {
+                "battleConditionMstId": 302,
+                "description": "自分はヒーラー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Healer"
+            },
+            {
+                "battleConditionMstId": 303,
+                "description": "自分はバッファー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Buffer"
+            },
+            {
+                "battleConditionMstId": 304,
+                "description": "自分はデバッファー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Debuffer"
+            },
+            {
+                "battleConditionMstId": 305,
+                "description": "自分はディフェンダー",
+                "compareTarget": 1,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Defender"
+            },
+            {
+                "battleConditionMstId": 306,
+                "description": "行動タイプが追撃",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 1,
+                "compareValue": "AdditionalSkill"
+            },
+            {
+                "battleConditionMstId": 307,
+                "description": "自分の状態異常数は3以上",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 308,
+                "description": "自分のバフ数は3未満",
+                "compareTarget": 1,
+                "compareContent": 24,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 309,
+                "description": "自分のデバフ数は5",
+                "compareTarget": 1,
+                "compareContent": 25,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 310,
+                "description": "クリティカル発生が1体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 303,
+                "compareOperator": 2,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 311,
+                "description": "自分のブレイク補正倍率は80%以上",
+                "compareTarget": 1,
+                "compareContent": 21,
+                "compareOperator": 4,
+                "compareValue": "80"
+            },
+            {
+                "battleConditionMstId": 312,
+                "description": "自分のブレイク補正倍率は最大値になる",
+                "compareTarget": 1,
+                "compareContent": 22,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 313,
+                "description": "自分がバリアを貼った",
+                "compareTarget": 1,
+                "compareContent": 105,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 314,
+                "description": "自分のバリアが攻撃された",
+                "compareTarget": 1,
+                "compareContent": 106,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 315,
+                "description": "自分のバリアが壊れた",
+                "compareTarget": 1,
+                "compareContent": 107,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 316,
+                "description": "敵チームに与えるトータルダメージは200以上",
+                "compareTarget": 6,
+                "compareContent": 304,
+                "compareOperator": 4,
+                "compareValue": "200"
+            },
+            {
+                "battleConditionMstId": 317,
+                "description": "敵チームに2人以上は中毒している",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "POISON,2"
+            },
+            {
+                "battleConditionMstId": 318,
+                "description": "敵の生存者数が2体以上",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 319,
+                "description": "敵のブレイク補正倍率は200%以上",
+                "compareTarget": 8,
+                "compareContent": 21,
+                "compareOperator": 4,
+                "compareValue": "200"
+            },
+            {
+                "battleConditionMstId": 320,
+                "description": "ブレイク補正倍率が80%以上の敵が2人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "80,2"
+            },
+            {
+                "battleConditionMstId": 321,
+                "description": "ブレイク補正倍率が80%以上の敵が2人未満",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 5,
+                "compareValue": "80,2"
+            },
+            {
+                "battleConditionMstId": 322,
+                "description": "ブレイク補正倍率が80%未満の敵が2人以上",
+                "compareTarget": 6,
+                "compareContent": 207,
+                "compareOperator": 4,
+                "compareValue": "80,2"
+            },
+            {
+                "battleConditionMstId": 323,
+                "description": "ブレイク補正倍率が80%未満の敵が2人未満",
+                "compareTarget": 6,
+                "compareContent": 207,
+                "compareOperator": 5,
+                "compareValue": "80,2"
+            },
+            {
+                "battleConditionMstId": 324,
+                "description": "ブレイク倍率が最大のとき",
+                "compareTarget": 3,
+                "compareContent": 22,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 325,
+                "description": "敵が裂傷状態のとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 326,
+                "description": "ブレイク補正倍率がMAXになった",
+                "compareTarget": 3,
+                "compareContent": 108,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 327,
+                "description": "行動対象に中毒していて、且つ受けたダメージが200以上の人がいる",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "POISON,100"
+            },
+            {
+                "battleConditionMstId": 328,
+                "description": "敵が1以上のダメージを受けた",
+                "compareTarget": 3,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 329,
+                "description": "行動対象に裂傷状態にしていて、且つ受けたダメージが1以上の人がいる",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "BLEED_ATK,100"
+            },
+            {
+                "battleConditionMstId": 330,
+                "description": "対象が毒状態のとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 331,
+                "description": "対象が毒状態ではないとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 332,
+                "description": "味方が2体以上存在する場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 333,
+                "description": "味方が2体未満の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 334,
+                "description": "ブレイク補正倍率がMAXになった",
+                "compareTarget": 8,
+                "compareContent": 108,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 335,
+                "description": "対象が火傷状態のとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 336,
+                "description": "対象が火傷状態ではないとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 337,
+                "description": "対象が呪い状態のとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 338,
+                "description": "対象が呪い状態ではないとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 339,
+                "description": "対象がバッファーのとき",
+                "compareTarget": 8,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Buffer"
+            },
+            {
+                "battleConditionMstId": 340,
+                "description": "対象がバッファーではないとき",
+                "compareTarget": 8,
+                "compareContent": 20,
+                "compareOperator": 2,
+                "compareValue": "Buffer"
+            },
+            {
+                "battleConditionMstId": 341,
+                "description": "対象がデバッファーのとき",
+                "compareTarget": 8,
+                "compareContent": 20,
+                "compareOperator": 1,
+                "compareValue": "Debuffer"
+            },
+            {
+                "battleConditionMstId": 342,
+                "description": "対象がデバッファーではないとき",
+                "compareTarget": 8,
+                "compareContent": 20,
+                "compareOperator": 2,
+                "compareValue": "Debuffer"
+            },
+            {
+                "battleConditionMstId": 343,
+                "description": "対象が衰弱状態のとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 344,
+                "description": "対象が衰弱状態ではないとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 345,
+                "description": "対象が裂傷状態のとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 346,
+                "description": "対象が裂傷状態ではないとき",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 347,
+                "description": "味方が3体以上存在する場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 348,
+                "description": "味方が3体未満の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 349,
+                "description": "味方が4体以上存在する場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 350,
+                "description": "味方が4体未満の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 351,
+                "description": "自分に属性与ダメバフが付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "DWN_AIM_RCV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 352,
+                "description": "自分に属性与ダメバフが付与されていない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_AIM_RCV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 353,
+                "description": "味方が誰も死んでいない場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 354,
+                "description": "味方が1体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 355,
+                "description": "味方が2体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 356,
+                "description": "味方が3体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 357,
+                "description": "味方が4体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 358,
+                "description": "味方が5体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 359,
+                "description": "味方が6体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 360,
+                "description": "味方が7体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 361,
+                "description": "味方が8体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 362,
+                "description": "味方が9体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 363,
+                "description": "味方が10体以上倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 4,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 364,
+                "description": "倒されている味方が2体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 365,
+                "description": "倒されている味方が3体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 366,
+                "description": "倒されている味方が4体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 367,
+                "description": "倒されている味方が5体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 368,
+                "description": "倒されている味方が6体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 369,
+                "description": "倒されている味方が7体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 370,
+                "description": "倒されている味方が8体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 371,
+                "description": "倒されている味方が9体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 372,
+                "description": "倒されている味方が10体未満の場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 5,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 373,
+                "description": "自身のHPが50%以上のとき",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 374,
+                "description": "対象に攻撃力減少効果が付与されている場合",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "DWN_ATK_RATIO"
+            },
+            {
+                "battleConditionMstId": 375,
+                "description": "対象に攻撃力減少効果が付与されていない場合",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_ATK_RATIO"
+            },
+            {
+                "battleConditionMstId": 376,
+                "description": "自身が毒状態の場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 377,
+                "description": "自身が毒状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 378,
+                "description": "自身が火傷状態の場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 379,
+                "description": "自身が火傷状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 380,
+                "description": "自身が呪い状態の場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 381,
+                "description": "自身が呪い状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 382,
+                "description": "自身が衰弱状態の場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 383,
+                "description": "自身が衰弱状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 384,
+                "description": "自身が裂傷状態の場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 385,
+                "description": "自身が裂傷状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 386,
+                "description": "敵のブレイク補正倍率は200%以上",
+                "compareTarget": 3,
+                "compareContent": 21,
+                "compareOperator": 4,
+                "compareValue": "200"
+            },
+            {
+                "battleConditionMstId": 387,
+                "description": "自分のHPが75％未満の場合",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "75"
+            },
+            {
+                "battleConditionMstId": 388,
+                "description": "自分のHPが25％未満の場合",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "25"
+            },
+            {
+                "battleConditionMstId": 389,
+                "description": "味方が誰もいない（自分だけ）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 390,
+                "description": "行動対象に呪い状態にしていて、且つ受けたダメージが1以上の人がいる",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 391,
+                "description": "味方が1体以上存在する場合（自分以外に誰かいる）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 392,
+                "description": "毎ターンごとに（自分が1ターンごとにターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "1,1"
+            },
+            {
+                "battleConditionMstId": 393,
+                "description": "トークンが1のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 394,
+                "description": "トークンが2のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 395,
+                "description": "トークンが3のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 396,
+                "description": "トークンが4のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 397,
+                "description": "トークンが6のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 398,
+                "description": "トークンが7のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 399,
+                "description": "トークンが8のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 400,
+                "description": "トークンが9のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 401,
+                "description": "トークンが10のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 402,
+                "description": "味方が1体の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 403,
+                "description": "味方が2体の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 404,
+                "description": "味方が3体の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 405,
+                "description": "味方が4体の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 406,
+                "description": "トークンが0のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "0"
+            },
+            {
+                "battleConditionMstId": 407,
+                "description": "自分にシールドが貼られているとき",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "SHIELD"
+            },
+            {
+                "battleConditionMstId": 408,
+                "description": "敵の生存者数が3体以上",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 409,
+                "description": "敵の生存者数が4体以上",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 410,
+                "description": "敵の生存者数が5体以上",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 411,
+                "description": "自分が3ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,2"
+            },
+            {
+                "battleConditionMstId": 412,
+                "description": "自分が3ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,3"
+            },
+            {
+                "battleConditionMstId": 413,
+                "description": "自分が3ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,4"
+            },
+            {
+                "battleConditionMstId": 414,
+                "description": "相手が火傷状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 415,
+                "description": "相手が毒状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 416,
+                "description": "相手が呪い状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 417,
+                "description": "相手が衰弱状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 418,
+                "description": "相手が裂傷状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 419,
+                "description": "自身がブレイク状態の場合",
+                "compareTarget": 1,
+                "compareContent": 16,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 420,
+                "description": "自身がブレイク状態ではない場合",
+                "compareTarget": 1,
+                "compareContent": 16,
+                "compareOperator": 1,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 421,
+                "description": "対象にスピード減少（累積）が付与されている場合",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "DWN_SPD_ACCUM_RATIO"
+            },
+            {
+                "battleConditionMstId": 422,
+                "description": "対象にスピード減少（累積）が付与されていない場合",
+                "compareTarget": 8,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "DWN_SPD_ACCUM_RATIO"
+            },
+            {
+                "battleConditionMstId": 423,
+                "description": "自分の偶数ターンに発動",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,2"
+            },
+            {
+                "battleConditionMstId": 424,
+                "description": "行動者が毒状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 425,
+                "description": "行動者が毒状態ではない場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 426,
+                "description": "行動者が火傷状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 427,
+                "description": "行動者が火傷状態ではない場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 428,
+                "description": "行動者が呪い状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 429,
+                "description": "行動者が呪い状態ではない場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 430,
+                "description": "行動者が衰弱状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 431,
+                "description": "行動者が衰弱状態ではない場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 432,
+                "description": "行動者が裂傷状態の場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 433,
+                "description": "行動者が裂傷状態ではない場合",
+                "compareTarget": 2,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BLEED"
+            },
+            {
+                "battleConditionMstId": 434,
+                "description": "自分のHPが30％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "30"
+            },
+            {
+                "battleConditionMstId": 435,
+                "description": "毒状態の敵が存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "POISON,1"
+            },
+            {
+                "battleConditionMstId": 436,
+                "description": "毒状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "POISON,1"
+            },
+            {
+                "battleConditionMstId": 437,
+                "description": "火傷状態の敵が存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 438,
+                "description": "火傷状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 439,
+                "description": "呪い状態の敵が存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 440,
+                "description": "呪い状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 441,
+                "description": "衰弱状態の敵が存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "WEAKNESS,1"
+            },
+            {
+                "battleConditionMstId": 442,
+                "description": "衰弱状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "WEAKNESS,1"
+            },
+            {
+                "battleConditionMstId": 443,
+                "description": "裂傷状態の敵が存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 444,
+                "description": "裂傷状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 445,
+                "description": "自身のHPが50%未満のとき",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "50"
+            },
+            {
+                "battleConditionMstId": 446,
+                "description": "毒状態の敵にダメージを与えた場合",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "POISON,1"
+            },
+            {
+                "battleConditionMstId": 447,
+                "description": "火傷状態の敵にダメージを与えた場合",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 448,
+                "description": "呪い状態の敵にダメージを与えた場合",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 449,
+                "description": "衰弱状態の敵にダメージを与えた場合",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "WEAKNESS,1"
+            },
+            {
+                "battleConditionMstId": 450,
+                "description": "裂傷状態の敵にダメージを与えた場合",
+                "compareTarget": 4,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 451,
+                "description": "味方が1回もブレイクしていない場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 5,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 452,
+                "description": "味方が1回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 453,
+                "description": "味方が2回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 454,
+                "description": "味方が3回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 455,
+                "description": "味方が4回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 456,
+                "description": "味方が5回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 457,
+                "description": "味方が6回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 458,
+                "description": "味方が7回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 459,
+                "description": "味方が8回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 460,
+                "description": "味方が9回ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 1,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 461,
+                "description": "味方が10回以上ブレイクした場合",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 4,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 462,
+                "description": "自身に状態異常が付与されていない場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 5,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 463,
+                "description": "自身にバリアが貼られている場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BARRIER"
+            },
+            {
+                "battleConditionMstId": 464,
+                "description": "自分の奇数ターンに発動",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,1"
+            },
+            {
+                "battleConditionMstId": 465,
+                "description": "自身にバリアが貼られていない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BARRIER"
+            },
+            {
+                "battleConditionMstId": 466,
+                "description": "自分のHPが90％未満",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "90"
+            },
+            {
+                "battleConditionMstId": 467,
+                "description": "トークンが1以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 468,
+                "description": "自分が1ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "1,1"
+            },
+            {
+                "battleConditionMstId": 469,
+                "description": "敵が2体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 470,
+                "description": "敵が3体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 471,
+                "description": "敵が4体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 472,
+                "description": "敵が5体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 473,
+                "description": "敵が6体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 474,
+                "description": "敵が1以上のダメージを受けた（個別判定）",
+                "compareTarget": 8,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 475,
+                "description": "敵の状態異常数は1以上",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 476,
+                "description": "自分のデバフ数は1以上",
+                "compareTarget": 1,
+                "compareContent": 25,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 477,
+                "description": "自分の状態異常数は1未満",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 5,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 478,
+                "description": "自分のデバフ数は1未満",
+                "compareTarget": 1,
+                "compareContent": 25,
+                "compareOperator": 5,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 479,
+                "description": "火傷状態の敵が1体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 480,
+                "description": "火傷状態の敵が2体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,2"
+            },
+            {
+                "battleConditionMstId": 481,
+                "description": "火傷状態の敵が3体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,3"
+            },
+            {
+                "battleConditionMstId": 482,
+                "description": "火傷状態の敵が4体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,4"
+            },
+            {
+                "battleConditionMstId": 483,
+                "description": "火傷状態の敵が5体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,5"
+            },
+            {
+                "battleConditionMstId": 484,
+                "description": "呪い状態の敵が1体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 485,
+                "description": "呪い状態の敵が2体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,2"
+            },
+            {
+                "battleConditionMstId": 486,
+                "description": "呪い状態の敵が3体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,3"
+            },
+            {
+                "battleConditionMstId": 487,
+                "description": "呪い状態の敵が4体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,4"
+            },
+            {
+                "battleConditionMstId": 488,
+                "description": "呪い状態の敵が5体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,5"
+            },
+            {
+                "battleConditionMstId": 489,
+                "description": "裂傷状態の敵が1体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 490,
+                "description": "裂傷状態の敵が2体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,2"
+            },
+            {
+                "battleConditionMstId": 491,
+                "description": "裂傷状態の敵が3体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,3"
+            },
+            {
+                "battleConditionMstId": 492,
+                "description": "裂傷状態の敵が4体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,4"
+            },
+            {
+                "battleConditionMstId": 493,
+                "description": "裂傷状態の敵が5体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,5"
+            },
+            {
+                "battleConditionMstId": 494,
+                "description": "毒状態の敵が1体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,1"
+            },
+            {
+                "battleConditionMstId": 495,
+                "description": "毒状態の敵が2体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,2"
+            },
+            {
+                "battleConditionMstId": 496,
+                "description": "毒状態の敵が3体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,3"
+            },
+            {
+                "battleConditionMstId": 497,
+                "description": "毒状態の敵が4体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,4"
+            },
+            {
+                "battleConditionMstId": 498,
+                "description": "毒状態の敵が5体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,5"
+            },
+            {
+                "battleConditionMstId": 499,
+                "description": "衰弱状態の敵が1体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,1"
+            },
+            {
+                "battleConditionMstId": 500,
+                "description": "衰弱状態の敵が2体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,2"
+            },
+            {
+                "battleConditionMstId": 501,
+                "description": "衰弱状態の敵が3体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,3"
+            },
+            {
+                "battleConditionMstId": 502,
+                "description": "衰弱状態の敵が4体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,4"
+            },
+            {
+                "battleConditionMstId": 503,
+                "description": "衰弱状態の敵が5体存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,5"
+            },
+            {
+                "battleConditionMstId": 504,
+                "description": "火傷状態の敵が1体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 505,
+                "description": "呪い状態の敵が1体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "CURSE,1"
+            },
+            {
+                "battleConditionMstId": 506,
+                "description": "裂傷状態の敵が1体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 507,
+                "description": "毒状態の敵が1体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "POISON,1"
+            },
+            {
+                "battleConditionMstId": 508,
+                "description": "衰弱状態の敵が1体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "WEAKNESS,1"
+            },
+            {
+                "battleConditionMstId": 509,
+                "description": "裂傷状態の敵が4体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BLEED,4"
+            },
+            {
+                "battleConditionMstId": 510,
+                "description": "対象が毒状態のとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 511,
+                "description": "対象が毒状態ではないとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "POISON"
+            },
+            {
+                "battleConditionMstId": 512,
+                "description": "対象が火傷状態のとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 513,
+                "description": "対象が火傷状態ではないとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "BURN"
+            },
+            {
+                "battleConditionMstId": 514,
+                "description": "対象が呪い状態のとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 515,
+                "description": "対象が呪い状態ではないとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "CURSE"
+            },
+            {
+                "battleConditionMstId": 516,
+                "description": "対象が衰弱状態のとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 517,
+                "description": "対象が衰弱状態ではないとき",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "WEAKNESS"
+            },
+            {
+                "battleConditionMstId": 518,
+                "description": "火傷状態の敵にダメージを与えた場合",
+                "compareTarget": 6,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "BURN,1"
+            },
+            {
+                "battleConditionMstId": 519,
+                "description": "自分が2ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,6"
+            },
+            {
+                "battleConditionMstId": 520,
+                "description": "対象のデバフ数は1以上",
+                "compareTarget": 3,
+                "compareContent": 12,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 521,
+                "description": "自身が最大HPの20%以上のダメージを受けたとき",
+                "compareTarget": 1,
+                "compareContent": 102,
+                "compareOperator": 4,
+                "compareValue": "20"
+            },
+            {
+                "battleConditionMstId": 522,
+                "description": "自分は行動者ではない",
+                "compareTarget": 1,
+                "compareContent": 8,
+                "compareOperator": 1,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 523,
+                "description": "トークンが2未満のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 524,
+                "description": "味方が1体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 525,
+                "description": "味方が2体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 526,
+                "description": "味方が3体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 527,
+                "description": "味方が4体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 528,
+                "description": "味方が5体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 529,
+                "description": "味方が6体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 530,
+                "description": "味方が7体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 531,
+                "description": "味方が8体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 532,
+                "description": "味方が9体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 533,
+                "description": "味方が10体倒されている場合",
+                "compareTarget": 5,
+                "compareContent": 203,
+                "compareOperator": 1,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 534,
+                "description": "自分が2ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,7"
+            },
+            {
+                "battleConditionMstId": 535,
+                "description": "味方が1体以上存在する場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 536,
+                "description": "味方が1体未満の場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 537,
+                "description": "ブレイク補正倍率が1%以上の敵が1人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "1,1"
+            },
+            {
+                "battleConditionMstId": 538,
+                "description": "ブレイク補正倍率が1%以上の敵が2人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "1,2"
+            },
+            {
+                "battleConditionMstId": 539,
+                "description": "ブレイク補正倍率が1%以上の敵が3人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "1,3"
+            },
+            {
+                "battleConditionMstId": 540,
+                "description": "ブレイク補正倍率が1%以上の敵が4人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "1,4"
+            },
+            {
+                "battleConditionMstId": 541,
+                "description": "ブレイク補正倍率が1%以上の敵が5人以上",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "1,5"
+            },
+            {
+                "battleConditionMstId": 542,
+                "description": "自分が3ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,4"
+            },
+            {
+                "battleConditionMstId": 543,
+                "description": "自分が4ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,5"
+            },
+            {
+                "battleConditionMstId": 544,
+                "description": "自分が6ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,1"
+            },
+            {
+                "battleConditionMstId": 545,
+                "description": "自分が4ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,3"
+            },
+            {
+                "battleConditionMstId": 546,
+                "description": "味方が存在する場合（自分を除く）",
+                "compareTarget": 5,
+                "compareContent": 202,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 547,
+                "description": "HPが40％未満",
+                "compareTarget": 8,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 548,
+                "description": "自分が3ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "3,5"
+            },
+            {
+                "battleConditionMstId": 549,
+                "description": "攻撃で味方が1人殺された場合",
+                "compareTarget": 5,
+                "compareContent": 301,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 550,
+                "description": "攻撃で味方が2人以上殺された場合",
+                "compareTarget": 5,
+                "compareContent": 301,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 551,
+                "description": "攻撃で味方が1人以上殺された場合",
+                "compareTarget": 5,
+                "compareContent": 301,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 552,
+                "description": "自分が6ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,3"
+            },
+            {
+                "battleConditionMstId": 553,
+                "description": "自分が6ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "6,6"
+            },
+            {
+                "battleConditionMstId": 554,
+                "description": "メインターゲットが行動対象",
+                "compareTarget": 3,
+                "compareContent": 9,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 555,
+                "description": "ブレイクしている敵がいないとき",
+                "compareTarget": 6,
+                "compareContent": 207,
+                "compareOperator": 4,
+                "compareValue": "1,1"
+            },
+            {
+                "battleConditionMstId": 556,
+                "description": "対象は個別",
+                "compareTarget": 8,
+                "compareContent": 11,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 557,
+                "description": "1以上のダメージを与えたとき",
+                "compareTarget": 8,
+                "compareContent": 101,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 558,
+                "description": "火傷状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BURN,0"
+            },
+            {
+                "battleConditionMstId": 559,
+                "description": "呪い状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "CURSE,0"
+            },
+            {
+                "battleConditionMstId": 560,
+                "description": "裂傷状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "BLEED,0"
+            },
+            {
+                "battleConditionMstId": 561,
+                "description": "毒状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "POISON,0"
+            },
+            {
+                "battleConditionMstId": 562,
+                "description": "衰弱状態の敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "WEAKNESS,0"
+            },
+            {
+                "battleConditionMstId": 563,
+                "description": "裂傷状態の敵が3体以上存在する場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "BLEED,3"
+            },
+            {
+                "battleConditionMstId": 564,
+                "description": "裂傷状態の敵が3体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "BLEED,3"
+            },
+            {
+                "battleConditionMstId": 565,
+                "description": "敵軍のSPが0の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "0"
+            },
+            {
+                "battleConditionMstId": 566,
+                "description": "敵軍のSPが1の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 567,
+                "description": "敵軍のSPが2の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 568,
+                "description": "敵軍のSPが3の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 569,
+                "description": "敵軍のSPが4の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 570,
+                "description": "敵軍のSPが5の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 571,
+                "description": "敵軍のSPが2未満の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 572,
+                "description": "敵軍のSPが3未満の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 573,
+                "description": "敵軍のSPが4未満の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 574,
+                "description": "敵軍のSPが5未満の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 5,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 575,
+                "description": "敵軍のSPが0以上の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "0"
+            },
+            {
+                "battleConditionMstId": 576,
+                "description": "敵軍のSPが1以上の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 577,
+                "description": "敵軍のSPが2以上の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 578,
+                "description": "敵軍のSPが3以上の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 579,
+                "description": "敵軍のSPが4以上の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 4,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 580,
+                "description": "自分にシールドが貼られていない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "SHIELD"
+            },
+            {
+                "battleConditionMstId": 581,
+                "description": "バトル開始から自分の行動が10回以上の場合",
+                "compareTarget": 1,
+                "compareContent": 7,
+                "compareOperator": 4,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 582,
+                "description": "対象に状態異常が付与されている場合",
+                "compareTarget": 3,
+                "compareContent": 23,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 583,
+                "description": "自分が2ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,3"
+            },
+            {
+                "battleConditionMstId": 584,
+                "description": "自分が4ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,6"
+            },
+            {
+                "battleConditionMstId": 585,
+                "description": "自分が2ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "2,4"
+            },
+            {
+                "battleConditionMstId": 586,
+                "description": "自分が4ターンごとに（ターン8から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "4,8"
+            },
+            {
+                "battleConditionMstId": 587,
+                "description": "敵軍のSPが6の場合",
+                "compareTarget": 6,
+                "compareContent": 201,
+                "compareOperator": 1,
+                "compareValue": "6"
+            },
+            {
+                "battleConditionMstId": 588,
+                "description": "自身に状態異常が付与されていない場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "0"
+            },
+            {
+                "battleConditionMstId": 589,
+                "description": "自身に状態異常が付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 590,
+                "description": "自身に状態異常が1つ付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 591,
+                "description": "自身に状態異常が2つ付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "2"
+            },
+            {
+                "battleConditionMstId": 592,
+                "description": "自身に状態異常が3つ付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "3"
+            },
+            {
+                "battleConditionMstId": 593,
+                "description": "自身に状態異常が4つ付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "4"
+            },
+            {
+                "battleConditionMstId": 594,
+                "description": "自身に状態異常が5つ付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 1,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 595,
+                "description": "自身に状態異常が5つ以上付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 23,
+                "compareOperator": 4,
+                "compareValue": "5"
+            },
+            {
+                "battleConditionMstId": 596,
+                "description": "敵のブレイク補正倍率は250%以上",
+                "compareTarget": 3,
+                "compareContent": 21,
+                "compareOperator": 4,
+                "compareValue": "250"
+            },
+            {
+                "battleConditionMstId": 597,
+                "description": "敵にブレイク補正倍率は250%以上がいるとき",
+                "compareTarget": 6,
+                "compareContent": 206,
+                "compareOperator": 4,
+                "compareValue": "250,1"
+            },
+            {
+                "battleConditionMstId": 598,
+                "description": "自分が15ターンごとに（ターン1から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,1"
+            },
+            {
+                "battleConditionMstId": 599,
+                "description": "自分が15ターンごとに（ターン2から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,2"
+            },
+            {
+                "battleConditionMstId": 600,
+                "description": "自分が15ターンごとに（ターン3から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,3"
+            },
+            {
+                "battleConditionMstId": 601,
+                "description": "自分が15ターンごとに（ターン4から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,4"
+            },
+            {
+                "battleConditionMstId": 602,
+                "description": "自分が15ターンごとに（ターン5から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,5"
+            },
+            {
+                "battleConditionMstId": 603,
+                "description": "自分が15ターンごとに（ターン6から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,6"
+            },
+            {
+                "battleConditionMstId": 604,
+                "description": "自分が15ターンごとに（ターン7から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,7"
+            },
+            {
+                "battleConditionMstId": 605,
+                "description": "自分が15ターンごとに（ターン8から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,8"
+            },
+            {
+                "battleConditionMstId": 606,
+                "description": "自分が15ターンごとに（ターン9から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,9"
+            },
+            {
+                "battleConditionMstId": 607,
+                "description": "自分が15ターンごとに（ターン10から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,10"
+            },
+            {
+                "battleConditionMstId": 608,
+                "description": "自分が15ターンごとに（ターン11から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,11"
+            },
+            {
+                "battleConditionMstId": 609,
+                "description": "自分が15ターンごとに（ターン12から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,12"
+            },
+            {
+                "battleConditionMstId": 610,
+                "description": "自分が15ターンごとに（ターン13から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,13"
+            },
+            {
+                "battleConditionMstId": 611,
+                "description": "自分が15ターンごとに（ターン14から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,14"
+            },
+            {
+                "battleConditionMstId": 612,
+                "description": "自分が15ターンごとに（ターン15から）",
+                "compareTarget": 1,
+                "compareContent": 13,
+                "compareOperator": 1,
+                "compareValue": "15,15"
+            },
+            {
+                "battleConditionMstId": 613,
+                "description": "トークンが11のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "11"
+            },
+            {
+                "battleConditionMstId": 614,
+                "description": "トークンが12のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "12"
+            },
+            {
+                "battleConditionMstId": 615,
+                "description": "トークンが13のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "13"
+            },
+            {
+                "battleConditionMstId": 616,
+                "description": "トークンが14のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "14"
+            },
+            {
+                "battleConditionMstId": 617,
+                "description": "トークンが15のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "15"
+            },
+            {
+                "battleConditionMstId": 618,
+                "description": "敵のブレイク補正倍率は350%以上",
+                "compareTarget": 3,
+                "compareContent": 21,
+                "compareOperator": 4,
+                "compareValue": "350"
+            },
+            {
+                "battleConditionMstId": 619,
+                "description": "敵軍がブレイクボーナスがMAXになったとき",
+                "compareTarget": 6,
+                "compareContent": 308,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 620,
+                "description": "敵軍がブレイクボーナスが1%以上が一体でもいる場合",
+                "compareTarget": 8,
+                "compareContent": 16,
+                "compareOperator": 4,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 621,
+                "description": "敵軍がブレイクボーナスが1%未満が一体でもいる場合",
+                "compareTarget": 8,
+                "compareContent": 16,
+                "compareOperator": 4,
+                "compareValue": "FALSE"
+            },
+            {
+                "battleConditionMstId": 622,
+                "description": "トークンが16のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "16"
+            },
+            {
+                "battleConditionMstId": 623,
+                "description": "トークンが17のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "17"
+            },
+            {
+                "battleConditionMstId": 624,
+                "description": "トークンが18のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "18"
+            },
+            {
+                "battleConditionMstId": 625,
+                "description": "トークンが19のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "19"
+            },
+            {
+                "battleConditionMstId": 626,
+                "description": "トークンが20のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 1,
+                "compareValue": "20"
+            },
+            {
+                "battleConditionMstId": 627,
+                "description": "自分に与ダメバフが付与されている場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 7,
+                "compareValue": "UP_GIV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 628,
+                "description": "自分に与ダメバフが付与されていない場合",
+                "compareTarget": 1,
+                "compareContent": 12,
+                "compareOperator": 8,
+                "compareValue": "UP_GIV_DMG_RATIO"
+            },
+            {
+                "battleConditionMstId": 629,
+                "description": "自身がHP20%以上のダメージを受けたとき",
+                "compareTarget": 1,
+                "compareContent": 102,
+                "compareOperator": 4,
+                "compareValue": "20"
+            },
+            {
+                "battleConditionMstId": 630,
+                "description": "行動タイプが追撃以外",
+                "compareTarget": 7,
+                "compareContent": 401,
+                "compareOperator": 2,
+                "compareValue": "AdditionalSkill"
+            },
+            {
+                "battleConditionMstId": 631,
+                "description": "与ダメージデバフが付与された敵が存在しない場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,0"
+            },
+            {
+                "battleConditionMstId": 632,
+                "description": "与ダメージデバフが付与された敵が1体の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,1"
+            },
+            {
+                "battleConditionMstId": 633,
+                "description": "与ダメージデバフが付与された敵が2体の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,2"
+            },
+            {
+                "battleConditionMstId": 634,
+                "description": "与ダメージデバフが付与された敵が3体の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,3"
+            },
+            {
+                "battleConditionMstId": 635,
+                "description": "与ダメージデバフが付与された敵が4体の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,4"
+            },
+            {
+                "battleConditionMstId": 636,
+                "description": "与ダメージデバフが付与された敵が5体の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 1,
+                "compareValue": "DWN_GIV_DMG_RATIO,5"
+            },
+            {
+                "battleConditionMstId": 637,
+                "description": "与ダメージデバフが付与された敵が3体未満の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 5,
+                "compareValue": "DWN_GIV_DMG_RATIO,3"
+            },
+            {
+                "battleConditionMstId": 638,
+                "description": "与ダメージデバフが付与された敵が3体以上の場合",
+                "compareTarget": 6,
+                "compareContent": 205,
+                "compareOperator": 4,
+                "compareValue": "DWN_GIV_DMG_RATIO,3"
+            },
+            {
+                "battleConditionMstId": 639,
+                "description": "敵軍に裂傷状態の敵にダメージを与えた場合",
+                "compareTarget": 6,
+                "compareContent": 305,
+                "compareOperator": 4,
+                "compareValue": "BLEED,1"
+            },
+            {
+                "battleConditionMstId": 640,
+                "description": "対象は自身以外",
+                "compareTarget": 8,
+                "compareContent": 10,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 641,
+                "description": "自分のHPが25％以上",
+                "compareTarget": 1,
+                "compareContent": 2,
+                "compareOperator": 4,
+                "compareValue": "25"
+            },
+            {
+                "battleConditionMstId": 642,
+                "description": "行動対象者をしていないとき",
+                "compareTarget": 8,
+                "compareContent": 104,
+                "compareOperator": 2,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 643,
+                "description": "HP40%を対象にしたとき",
+                "compareTarget": 8,
+                "compareContent": 2,
+                "compareOperator": 5,
+                "compareValue": "40"
+            },
+            {
+                "battleConditionMstId": 644,
+                "description": "回復したとき",
+                "compareTarget": 5,
+                "compareContent": 204,
+                "compareOperator": 7,
+                "compareValue": "RECOVERY_HP"
+            },
+            {
+                "battleConditionMstId": 645,
+                "description": "トークンが7以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "7"
+            },
+            {
+                "battleConditionMstId": 646,
+                "description": "トークンが8以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "8"
+            },
+            {
+                "battleConditionMstId": 647,
+                "description": "トークンが9以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "9"
+            },
+            {
+                "battleConditionMstId": 648,
+                "description": "トークンが10以上のとき",
+                "compareTarget": 1,
+                "compareContent": 17,
+                "compareOperator": 4,
+                "compareValue": "10"
+            },
+            {
+                "battleConditionMstId": 649,
+                "description": "味方が1人以上ブレイクしている",
+                "compareTarget": 5,
+                "compareContent": 302,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 650,
+                "description": "敵のブレイク補正倍率は350%未満",
+                "compareTarget": 3,
+                "compareContent": 21,
+                "compareOperator": 5,
+                "compareValue": "350"
+            },
+            {
+                "battleConditionMstId": 651,
+                "description": "メインターゲットが行動対象",
+                "compareTarget": 8,
+                "compareContent": 9,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 652,
+                "description": "対象のデバフ数は1以上",
+                "compareTarget": 8,
+                "compareContent": 25,
+                "compareOperator": 4,
+                "compareValue": "1"
+            },
+            {
+                "battleConditionMstId": 653,
+                "description": "行動対象者を回復したとき",
+                "compareTarget": 8,
+                "compareContent": 104,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            },
+            {
+                "battleConditionMstId": 654,
+                "description": "行動対象がブレイク状態のとき",
+                "compareTarget": 3,
+                "compareContent": 16,
+                "compareOperator": 1,
+                "compareValue": "TRUE"
+            }
+        ]
+    }
+}

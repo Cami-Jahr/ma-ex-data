@@ -1,0 +1,7 @@
+{
+    "url": "/api/mst/getTalismanParamEffectMstList",
+    "status": 200,
+    "payload": {
+        "mstList": []
+    }
+}
