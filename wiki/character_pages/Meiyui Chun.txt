@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1068
+|image                = 1068_original.png
+|name_en              = Meiyui Chun
+|name_jp              = 純美雨
+|voice_actor_en       = Asuka Nishi
+|voice_actor_jp       = 西明日香
+|voice_link           = 
+|team1_en             = Team Nanaka
+|team1_jp             = チームななか
+|team2_en             = 
+|team2_jp             = 
+|color                = #4E80C2
+|description_en       = A kung fu master, Meiyui belongs to the Blue Seas Family.<br>She left her parents in China and came to Japan alone.<br>She is well-composed, but she lets that all go when it's time to protect her family and townspeople.<br>She is an excellent Mahjong player.
+|description_jp       = 「蒼海幇」という組織に所属する魔法少女。<br>カンフーの使い手。中国にいる親の元から離れて、単身で日本に渡って来た。<br>普段から口調も振る舞いもクールだが、仲間と地元のことをなによりも大切にしている熱い心を秘めている。<br>麻雀をたしなむ。
+|school_en            = Chuo Academy
+|school_jp            = 中央学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Meiyui Chun''' is a [[character]] in ''[[Magia Exedra]]''.
+

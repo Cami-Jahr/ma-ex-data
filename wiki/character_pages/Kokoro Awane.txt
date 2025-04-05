@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1072
+|image                = 1072_original.png
+|name_en              = Kokoro Awane
+|name_jp              = 粟根こころ
+|voice_actor_en       = Reina Kondo
+|voice_actor_jp       = 近藤玲奈
+|voice_link           = 
+|team1_en             = No Affiliation
+|team1_jp             = 無所属
+|team2_en             = 
+|team2_jp             = 
+|color                = #AAF43B
+|description_en       = A Magical Girl who always tries to put on a happy face.<br>She's lived with her father since her parents divorced when she was young.<br>Living together has strained their relationship, leading her to become emotionally shut off.
+|description_jp       = 心の内にわだかまりを押さえつけている魔法少女。<br>幼い頃に両親が離婚して以来、父親と共に暮らすが、お互いが正面から向き合えず、ギクシャクした関係がずっと続いてきた。<br>表立って態度に示したりもせず、煮え切らない日々を過ごしている。
+|school_en            = Chuo Academy
+|school_jp            = 中央学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Kokoro Awane''' is a [[character]] in ''[[Magia Exedra]]''.
+

@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1000
+|image                = 1000_original.png
+|name_en              = Name
+|name_jp              = ナマエ
+|voice_actor_en       = Akari Komiyama
+|voice_actor_jp       = 小宮山あかり
+|voice_link           = 
+|team1_en             = 
+|team1_jp             = 
+|team2_en             = 
+|team2_jp             = 
+|color                = #FFFFFF
+|description_en       = A Magical Girl who lost all memories, even of her own<br>appearance, leaving her form undefined. She wandered<br>through darkness before reaching the Lighthouse.
+|description_jp       = 過去の記憶を失った魔法少女。<br>自身の姿まで忘れてしまった影響で、明確な見た目が存在しない。<br>暗闇をさまよう中で灯台劇場へとたどり着いた。
+|school_en            = ―
+|school_jp            = ―
+|group                = 
+|region               = PLACEHOLDER FOR REGION-0
+}}
+'''Name''' is a [[character]] in ''[[Magia Exedra]]''.
+

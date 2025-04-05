@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1081
+|image                = 1081_original.png
+|name_en              = Konoha Shizumi
+|name_jp              = 静海このは
+|voice_actor_en       = Lynn
+|voice_actor_jp       = Lynn
+|voice_link           = 
+|team1_en             = Azalea House
+|team1_jp             = つつじの家
+|team2_en             = 
+|team2_jp             = 
+|color                = #6E29FF
+|description_en       = A Magical Girl raised in an orphanage.<br>She came from an affluent family, but after her parents died from illness, she went to live in the Azalea House.<br>A pro at everything she sets her mind to (except cooking...), she helps keep the other orphans in line.
+|description_jp       = 神浜市の施設「つつじの家」出身の魔法少女。<br>元は裕福な家庭で生まれ育ったが、家業が傾き、父親と母親を相次いで病で亡くし、つつじの家に引き取られた。<br>施設内では皆の取りまとめ役で、勉強をはじめ、何をやらせても優秀。しかし、料理だけは下手。
+|school_en            = Sankyoin Academy
+|school_jp            = 参京院教育学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Konoha Shizumi''' is a [[character]] in ''[[Magia Exedra]]''.
+

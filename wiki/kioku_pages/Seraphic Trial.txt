@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 11140101
+|image               = 11140101_original.png
+|name_en             = Seraphic Trial
+|name_jp             = 粛清天使
+|character_en        = Kush Irina
+|character_jp        = 入名クシュ
+|characterid         = 1114
+|rarity              = 4
+|element             = Dark
+|role                = Attacker
+|date                = 2024-03-26
+}}
+'''Seraphic Trial''' is a [[Kioku]] for [[Kush Irina] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 236
+|atk = 120
+|def = 77
+|spd = 94
+|ep = 90
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

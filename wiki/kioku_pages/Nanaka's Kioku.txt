@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10610102
+|image               = 10610102_original.png
+|name_en             = Nanaka's Kioku
+|name_jp             = ななかのキオク
+|character_en        = Nanaka Tokiwa
+|character_jp        = 常盤ななか
+|characterid         = 1061
+|rarity              = 3
+|element             = Forest
+|role                = Buffer
+|date                = 2024-03-26
+}}
+'''Nanaka's Kioku''' is a [[Kioku]] for [[Nanaka Tokiwa] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 276
+|atk = 91
+|def = 93
+|spd = 116
+|ep = 0
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

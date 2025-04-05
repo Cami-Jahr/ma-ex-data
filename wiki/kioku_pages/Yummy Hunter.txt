@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10900101
+|image               = 10900101_original.png
+|name_en             = Yummy Hunter
+|name_jp             = 食べごろハンター
+|character_en        = Riko Chiaki
+|character_jp        = 千秋理子
+|characterid         = 1090
+|rarity              = 4
+|element             = Light
+|role                = Buffer
+|date                = 2024-03-26
+}}
+'''Yummy Hunter''' is a [[Kioku]] for [[Riko Chiaki] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 277
+|atk = 91
+|def = 92
+|spd = 117
+|ep = 75
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

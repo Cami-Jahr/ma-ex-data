@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10580101
+|image               = 10580101_original.png
+|name_en             = Natsuki's Kioku
+|name_jp             = 夏希のキオク
+|character_en        = Natsuki Utsuho
+|character_jp        = 空穂夏希
+|characterid         = 1058
+|rarity              = 3
+|element             = Aqua
+|role                = Buffer
+|date                = 2024-03-26
+}}
+'''Natsuki's Kioku''' is a [[Kioku]] for [[Natsuki Utsuho] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 275
+|atk = 90
+|def = 93
+|spd = 119
+|ep = 0
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

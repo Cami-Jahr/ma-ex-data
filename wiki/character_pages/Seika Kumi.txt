@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1070
+|image                = 1070_original.png
+|name_en              = Seika Kumi
+|name_jp              = 桑水せいか
+|voice_actor_en       = Azumi Waki
+|voice_actor_jp       = 和氣あず未
+|voice_link           = 
+|team1_en             = Daito Apartment Complex
+|team1_jp             = 神浜大東団地
+|team2_en             = 
+|team2_jp             = 
+|color                = #8AA5CA
+|description_en       = Seika is an introverted Magical Girl who cannot express her feelings well.<br>She lives in the same apartments as Reira and Mito, and keeps her distance from anyone but them.<br>People think her to be cold and uninterested, but she secretly has a deep passion for teen dramas.
+|description_jp       = 内向きな性格で、感情を素直に表現することができない魔法少女。<br>伊吹れいらと相野みとと同じ団地に住んでいて、そのふたり以外とは距離を置いて人付き合いをする。<br>冷たい人間に見られがちだが、実は密かに熱血しているドラマや漫画が好き。
+|school_en            = Kamihama University Affiliated School
+|school_jp            = 神浜市立大附属学校
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Seika Kumi''' is a [[character]] in ''[[Magia Exedra]]''.
+

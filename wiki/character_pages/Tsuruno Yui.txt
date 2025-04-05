@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1010
+|image                = 1010_original.png
+|name_en              = Tsuruno Yui
+|name_jp              = 由比鶴乃
+|voice_actor_en       = Shiina Natsukawa
+|voice_actor_jp       = 夏川椎菜
+|voice_link           = 
+|team1_en             = Mikazuki Villa
+|team1_jp             = みかづき荘
+|team2_en             = 
+|team2_jp             = 
+|color                = #FF5F4B
+|description_en       = A reckless Magical Girl who's full of energy.<br>Tsuruno loves her family, especially her grandfather and great-grandfather, who lead the Yuis to their former prosperity.<br>She fights to become the Mightiest Magical Girl in order to restore the Yui name.
+|description_jp       = 元気いっぱいで猪突猛進な魔法少女。<br>由緒正しい歴史ある生家と、その隆盛を導いた祖父や曾祖父を敬愛してやまない。<br>一方で、現在は没落した由比家をどうにか再興しようと奮闘しており、そのために最強の魔法少女になることを目指している。
+|school_en            = Kamihama University Affiliated School
+|school_jp            = 神浜市立大附属学校
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Tsuruno Yui''' is a [[character]] in ''[[Magia Exedra]]''.
+

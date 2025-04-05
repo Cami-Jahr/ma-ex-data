@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10690102
+|image               = 10690102_original.png
+|name_en             = Reira's Kioku
+|name_jp             = れいらのキオク
+|character_en        = Reira Ibuki
+|character_jp        = 伊吹れいら
+|characterid         = 1069
+|rarity              = 3
+|element             = Flame
+|role                = Breaker
+|date                = 2024-03-26
+}}
+'''Reira's Kioku''' is a [[Kioku]] for [[Reira Ibuki] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 291
+|atk = 82
+|def = 96
+|spd = 114
+|ep = 0
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1003
+|image                = 1003_original.png
+|name_en              = Mami Tomoe
+|name_jp              = 巴マミ
+|voice_actor_en       = Kaori Mizuhashi
+|voice_actor_jp       = 水橋かおり
+|voice_link           = 
+|team1_en             = 
+|team1_jp             = 
+|team2_en             = 
+|team2_jp             = 
+|color                = #EA9C54
+|description_en       = Mami is a seasoned Magical Girl, having fought Witches since before meeting Madoka and her friends.<br>Upon learning that Kyubey sees potential in Madoka and Sayaka, she decides to show them the ropes.
+|description_jp       = まどかたちと会う前から魔女たちと戦い続けてきた、ベテラン魔法少女。<br>まどかとさやかがキュゥべえに魔法少女として見込まれたことを知り、２人の先輩として様々なことを教えてくれる。
+|school_en            = Mitakihara Middle School
+|school_jp            = 見滝原中学校
+|group                = Puella Magi Madoka Magica
+|region               = PLACEHOLDER FOR REGION-2
+}}
+'''Mami Tomoe''' is a [[character]] in ''[[Magia Exedra]]''.
+

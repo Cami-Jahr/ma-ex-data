@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1074
+|image                = 1074_original.png
+|name_en              = Hanna Sarasa
+|name_jp              = 更紗帆奈
+|voice_actor_en       = Miho Okasaki
+|voice_actor_jp       = 岡咲美保
+|voice_link           = 
+|team1_en             = No Affiliation
+|team1_jp             = 無所属
+|team2_en             = 
+|team2_jp             = 
+|color                = #ED7CA2
+|description_en       = An eccentric, animal-loving Magical Girl who's not much of a people person.<br>At home and at school, she fell victim to a world that seemed set on crushing her, which fueled her loathing for it.<br>After making a contract, a certain encounter would lead her down the path towards an even stranger fate.
+|description_jp       = 本来は内向的で人と接するのが苦手な魔法少女。<br>家庭、学校において虐げられる立場に置かれてしまい、この世を憎んでいる。<br>契約後、ある事件に遭遇してから、さらに数奇な運命を辿る。<br>エキセントリックな性格だが、動物が好きという一面も。
+|school_en            = Mizuna Girls' Academy
+|school_jp            = 水名女学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Hanna Sarasa''' is a [[character]] in ''[[Magia Exedra]]''.
+

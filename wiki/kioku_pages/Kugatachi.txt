@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10050101
+|image               = 10050101_original.png
+|name_en             = Kugatachi
+|name_jp             = 盟神抉槍
+|character_en        = Kyoko Sakura
+|character_jp        = 佐倉杏子
+|characterid         = 1005
+|rarity              = 5
+|element             = Flame
+|role                = Attacker
+|date                = 2025-04-04
+}}
+'''Kugatachi''' is a [[Kioku]] for [[Kyoko Sakura] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 265
+|atk = 131
+|def = 87
+|spd = 86
+|ep = 90
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

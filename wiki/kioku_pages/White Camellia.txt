@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10610101
+|image               = 10610101_original.png
+|name_en             = White Camellia
+|name_jp             = 白椿
+|character_en        = Nanaka Tokiwa
+|character_jp        = 常盤ななか
+|characterid         = 1061
+|rarity              = 4
+|element             = Forest
+|role                = Attacker
+|date                = 2024-03-26
+}}
+'''White Camellia''' is a [[Kioku]] for [[Nanaka Tokiwa] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 235
+|atk = 121
+|def = 76
+|spd = 97
+|ep = 90
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

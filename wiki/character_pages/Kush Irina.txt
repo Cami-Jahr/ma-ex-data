@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1114
+|image                = 1114_original.png
+|name_en              = Kush Irina
+|name_jp              = 入名クシュ
+|voice_actor_en       = Aoi Koga
+|voice_actor_jp       = 古賀葵
+|voice_link           = 
+|team1_en             = No Affiliation
+|team1_jp             = 無所属
+|team2_en             = 
+|team2_jp             = 
+|color                = #EB2B28
+|description_en       = A sleepyhead who always looks ready to start counting sheep—if she can stay awake long enough, that is.<br>In the daytime, it's a sluggish struggle against the sleepies with her attendance record on the line, threatening to hold her back.<br>But in the dead of night, her gaze sharpens, and her solemn side awakens to put Witches to rest.
+|description_jp       = いつも眠そうな魔法少女。<br>明るいうちは決して目覚めない体質のため常に眠そうで、出席日数が足りず進級が危ぶまれている。<br>真夜中は目が冴え、魔女退治では普段とは別人のような凛とした表情を見せる。
+|school_en            = St. Liliana Academy
+|school_jp            = 聖リリアンナ学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Kush Irina''' is a [[character]] in ''[[Magia Exedra]]''.
+

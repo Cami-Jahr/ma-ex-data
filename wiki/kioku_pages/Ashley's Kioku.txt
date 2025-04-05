@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 11070102
+|image               = 11070102_original.png
+|name_en             = Ashley's Kioku
+|name_jp             = アシュリーのキオク
+|character_en        = Ashley Taylor
+|character_jp        = アシュリー・テイラー
+|characterid         = 1107
+|rarity              = 3
+|element             = Dark
+|role                = Attacker
+|date                = 2024-03-26
+}}
+'''Ashley's Kioku''' is a [[Kioku]] for [[Ashley Taylor] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 232
+|atk = 120
+|def = 78
+|spd = 95
+|ep = 0
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

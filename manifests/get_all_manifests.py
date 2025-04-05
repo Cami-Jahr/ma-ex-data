@@ -2,13 +2,13 @@ import requests
 import json
 import os
 import sys
-import set_lang
-import get_token
 
 csfp = os.path.abspath(os.path.dirname(__file__))
 if csfp not in sys.path:
     sys.path.insert(0, csfp)
 import helpers
+import set_lang
+import get_token
 
 
 def download_manifests(is_en=False, token=None):

@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10900102
+|image               = 10900102_original.png
+|name_en             = Riko's Kioku
+|name_jp             = 理子のキオク
+|character_en        = Riko Chiaki
+|character_jp        = 千秋理子
+|characterid         = 1090
+|rarity              = 3
+|element             = Light
+|role                = Breaker
+|date                = 2024-03-26
+}}
+'''Riko's Kioku''' is a [[Kioku]] for [[Riko Chiaki] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 289
+|atk = 83
+|def = 96
+|spd = 114
+|ep = 0
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

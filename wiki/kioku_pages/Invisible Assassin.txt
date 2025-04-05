@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10840101
+|image               = 10840101_original.png
+|name_en             = Invisible Assassin
+|name_jp             = インビジブル・アサシン
+|character_en        = Masara Kagami
+|character_jp        = 加賀見まさら
+|characterid         = 1084
+|rarity              = 4
+|element             = Void
+|role                = Attacker
+|date                = 2024-03-26
+}}
+'''Invisible Assassin''' is a [[Kioku]] for [[Masara Kagami] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 233
+|atk = 122
+|def = 76
+|spd = 98
+|ep = 90
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

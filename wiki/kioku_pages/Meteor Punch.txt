@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10760101
+|image               = 10760101_original.png
+|name_en             = Meteor Punch
+|name_jp             = メテオ・フィスト
+|character_en        = Himika Mao
+|character_jp        = 眞尾ひみか
+|characterid         = 1076
+|rarity              = 4
+|element             = Flame
+|role                = Debuffer
+|date                = 2024-03-26
+}}
+'''Meteor Punch''' is a [[Kioku]] for [[Himika Mao] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 279
+|atk = 88
+|def = 94
+|spd = 120
+|ep = 75
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 11260101
+|image               = 11260101_original.png
+|name_en             = Lynx Impact
+|name_jp             = リンクスインパクト
+|character_en        = Yuma Chitose
+|character_jp        = 千歳ゆま
+|characterid         = 1126
+|rarity              = 4
+|element             = Forest
+|role                = Healer
+|date                = 2024-03-26
+}}
+'''Lynx Impact''' is a [[Kioku]] for [[Yuma Chitose] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 365
+|atk = 60
+|def = 93
+|spd = 104
+|ep = 90
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

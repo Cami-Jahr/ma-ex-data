@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1090
+|image                = 1090_original.png
+|name_en              = Riko Chiaki
+|name_jp              = 千秋理子
+|voice_actor_en       = Hikaru Akao
+|voice_actor_jp       = 赤尾ひかる
+|voice_link           = 
+|team1_en             = No Affiliation
+|team1_jp             = 無所属
+|team2_en             = 
+|team2_jp             = 
+|color                = #39ADE1
+|description_en       = Riko is like a little sister to the other Magical Girls.<br>She often can be found working at her parents' bento shop and is a warming presence for the customers.<br>Though still quite young, she is considerate to her elders and shows a bravery beyond her age.
+|description_jp       = お姉さん魔法少女たち全員の、妹的存在の魔法少女。<br>普段は、家のお弁当屋さんの看板娘として、お客さんの心を和ませている。<br>小学生らしい無邪気さを持ちながらも、周りの大人たちへの気遣いも忘れない、健気な頑張り屋さん。
+|school_en            = Kosho Academy
+|school_jp            = 工匠学舎
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Riko Chiaki''' is a [[character]] in ''[[Magia Exedra]]''.
+

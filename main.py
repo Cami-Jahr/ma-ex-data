@@ -6,7 +6,7 @@ import madoka_decrypt
 cwd = "com.aniplex.magia.exedra.en/files/CYU6"
 
 print("DOWNLOADING NEW MANIFESTS")
-get_all_manifests.download_manifests()
+get_all_manifests.run(False)
 
 print("RENAMING FILES AND DECRYPTING UNITY FILES")
 madoka_decrypt.copy_files("processed", cwd)

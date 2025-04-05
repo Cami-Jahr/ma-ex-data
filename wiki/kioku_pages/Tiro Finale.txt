@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10030101
+|image               = 10030101_original.png
+|name_en             = Tiro Finale
+|name_jp             = ティロ・フィナーレ
+|character_en        = Mami Tomoe
+|character_jp        = 巴マミ
+|characterid         = 1003
+|rarity              = 5
+|element             = Forest
+|role                = Buffer
+|date                = 2025-03-30
+}}
+'''Tiro Finale''' is a [[Kioku]] for [[Mami Tomoe] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 310
+|atk = 100
+|def = 103
+|spd = 120
+|ep = 75
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

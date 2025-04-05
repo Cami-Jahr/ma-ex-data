@@ -1,0 +1,42 @@
+{{Kioku Infobox
+|id                  = 10860101
+|image               = 10860101_original.png
+|name_en             = Brilliant Beam
+|name_jp             = キラ盛りビーム
+|character_en        = Rika Ayano
+|character_jp        = 綾野梨花
+|characterid         = 1086
+|rarity              = 4
+|element             = Flame
+|role                = Buffer
+|date                = 2024-03-26
+}}
+'''Brilliant Beam''' is a [[Kioku]] for [[Rika Ayano] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp  = 279
+|atk = 89
+|def = 94
+|spd = 119
+|ep = 75
+|crit rate = 50
+|crit damage = 100
+}}
+====Max====
+{{Kioku Stats
+|hp  = PLACEHOLDER
+|atk = PLACEHOLDER
+|def = PLACEHOLDER
+|spd = PLACEHOLDER
+|ep = PLACEHOLDER
+|crit rate = PLACEHOLDER
+|crit damage = PLACEHOLDER
+}}
+

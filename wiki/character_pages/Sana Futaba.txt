@@ -1,0 +1,22 @@
+{{Character Infobox
+|id                   = 1011
+|image                = 1011_original.png
+|name_en              = Sana Futaba
+|name_jp              = 二葉さな
+|voice_actor_en       = Yui Ogura
+|voice_actor_jp       = 小倉唯
+|voice_link           = 
+|team1_en             = Mikazuki Villa
+|team1_jp             = みかづき荘
+|team2_en             = 
+|team2_jp             = 
+|color                = #6dd1b5
+|description_en       = An overly pessimistic Magical Girl. She was rejected by her family and those around her, so she has hardly any self-confidence. However, she'll stand by the people who need her, quietly staying by their side, ready to help them when the time comes.
+|description_jp       = 常にネガティブ思考の魔法少女。<br>家族や周囲から拒絶され、まったく自分に自信が持てなくなっているが、他者に対しては優しく、そして自分を必要としてくれる人には従順で、気に入るといつもヒッソリとそばに付き添っている。
+|school_en            = Mizuna Girls' Academy
+|school_jp            = 水名女学園
+|group                = Puella Magi Madoka Magica Side Story Magia Record
+|region               = PLACEHOLDER FOR REGION-1
+}}
+'''Sana Futaba''' is a [[character]] in ''[[Magia Exedra]]''.
+
