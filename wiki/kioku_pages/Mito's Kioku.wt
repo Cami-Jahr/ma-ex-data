@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10710102
+|image               = 10710102_original.png
+|name_en             = Mito's Kioku
+|name_jp             = みとのキオク
+|character_en        = Mito Aino
+|character_jp        = 相野みと
+|character_id        = 1071
+|rarity              = 3
+|element             = Forest
+|role                = Debuffer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Mito's Kioku''' is a [[Kioku]] for [[Mito Aino]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 275
+|atk          = 91
+|def          = 93
+|spd          = 116
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6962
+|atk          = 2275
+|def          = 2293
+|spd          = 116
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = 
+|special_name_jp             = 
+|special_effect              = 
+|special_image               = 
+|special_progression         = []
+|special_mp_cost             = 0
+|skill_name_en               = Admonishing Arrow
+|skill_name_jp               = イマシメノヤ
+|skill_effect                = Deals 160% forest DMG to a single enemy and 120% forest DMG to enemies in proximity.<br>Increases targets' DMG taken by 6% (2 turns).
+|skill_image                 = DMG Taken UP
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('75', '78', '82', '87', '92', '97', '102', '108', '113', '120'), ('3', '3', '3', '4', '4', '4', '5', '5', '6', '6'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% forest DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Haste
+|ability_name_jp             = ヘイスト
+|ability_effect              = Increases SPD by 15, and on DMG dealt by self, increases SPD by 5% (2 turns / Stacks 5 times).
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('5', '6', '7', '8', '9', '10', '11', '12', '13', '15'), ('2', '2', '2', '3', '3', '3', '4', '4', '5', '5'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5')]
+|support_name_en             = Toughness
+|support_name_jp             = タフネス
+|support_effect              = Equipped to Debuffer:<br>Increases max HP by 5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('2', '2', '3', '3', '3', '3', '4', '4', '4', '5')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, advances action order by 10%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases SPD by 5.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases debuff hit rate by 25%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = Increases SPD by 10.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases debuff hit rate by 25%.
+}}
+
+

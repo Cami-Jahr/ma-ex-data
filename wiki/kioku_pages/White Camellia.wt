@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10610101
+|image               = 10610101_original.png
+|name_en             = White Camellia
+|name_jp             = 白椿
+|character_en        = Nanaka Tokiwa
+|character_jp        = 常盤ななか
+|character_id        = 1061
+|rarity              = 4
+|element             = Forest
+|role                = Attacker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''White Camellia''' is a [[Kioku]] for [[Nanaka Tokiwa]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 235
+|atk          = 121
+|def          = 76
+|spd          = 97
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6297
+|atk          = 2754
+|def          = 2030
+|spd          = 97
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = White Camellia
+|special_name_jp             = 白椿
+|special_effect              = Deals 400% forest DMG to a single enemy.<br>If target's break bonus is 200% or higher, increases DMG dealt by 20%.
+|special_image               = Single-Target Attack
+|special_progression         = [('270', '274', '280', '288', '299', '309', '322', '342', '368', '400'), ('200', '200', '200', '200', '200', '200', '200', '200', '200', '200'), ('20', '20', '20', '20', '20', '20', '20', '20', '20', '20')]
+|special_mp_cost             = 90
+|skill_name_en               = Tiger Lily
+|skill_name_jp               = 鬼百合
+|skill_effect                = Deals 200% forest DMG to a single enemy.<br>Increases own critical rate by 20% (2 turns).
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% forest DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Edge Strike
+|ability_name_jp             = シャープストライク
+|ability_effect              = Increases critical rate by 20%, and on special attack, increases critical DMG by 20%.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('20', '20', '20', '20', '20', '20', '20', '20', '20', '20')]
+|support_name_en             = Edge
+|support_name_jp             = シャープ
+|support_effect              = Equipped to Attacker:<br>Increases critical rate by 5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('2', '2', '2', '3', '3', '3', '4', '4', '4', '5')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases MP by 25%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = On critical hit, grants 5 MP.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

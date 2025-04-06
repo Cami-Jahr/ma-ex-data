@@ -1,0 +1,92 @@
+<includeonly><!--
+-->{{#set:special_name_en   = {{{special_name_en|}}}}}<!--
+-->{{#set:special_effect = {{{special_effect|}}}}}<!--
+-->{{#set:attack_effect  = {{{attack_effect|}}}}}<!--
+-->{{#set:skill_name_en     = {{{skill_name_en|}}}}}<!--
+-->{{#set:skill_effect   = {{{skill_effect|}}}}}<!--
+-->{{#set:ability_name_en   = {{{ability_name_en|}}}}}<!--
+-->{{#set:ability_effect = {{{ability_effect|}}}}}<!--
+-->{{#set:support_name_en   = {{{support_name_en|}}}}}<!--
+-->{{#set:support_effect = {{{support_effect|}}}}}<!--
+--><table class="wikitable"><!--
+--><tr><!--
+--><!--<th>Icon</th>--><!--
+--><th>Type</th><!--
+--><th>Effect</th><!--
+--></tr><!--
+-->{{#if:{{{special_effect|}}}|<!--
+--><tr><!--
+--><!--<td>{{#if:{{{special_name_en|}}}|{{#ifexist:File:{{{special_name_en}}} Icon.png|[[File:{{{special_name_en}}} Icon.png|30px]]}}}}</td>--><!--
+--><td>'''Special Attack'''<br />{{#if:{{{special_name_en|}}}|{{{special_name_en}}}|''TBA''}}</td><!--
+--><td>{{#if:{{{special_effect|}}}|{{{special_effect}}}|''TBA''}}</td><!--
+--></tr><!--
+-->}}<!--
+-->{{#if:{{{skill_effect|}}}|<!--
+--><tr><!--
+--><!--<td>{{#if:{{{skill_name_en|}}}|{{#ifexist:File:{{{skill_name_en}}} Icon.png|[[File:{{{skill_name_en}}} Icon.png|30px]]}}}}</td>--><!--
+--><td>'''Battle Skill'''<br />{{#if:{{{skill_name_en|}}}|{{{skill_name_en}}}|''TBA''}}</td><!--
+--><td>{{#if:{{{skill_effect|}}}|{{{skill_effect}}}|''TBA''}}</td><!--
+--></tr><!--
+-->}}<!--
+-->{{#if:{{{attack_effect|}}}|<!--
+--><tr><!--
+--><!--<td>{{#ifexist:File:Basic Attack Icon.png|[[File:Basic Attack Icon.png|30px]]}}</td>--><!--
+--><td>'''Basic Attack'''</td><!--
+--><td>{{#if:{{{attack_effect|}}}|{{{attack_effect}}}|''TBA''}}</td><!--
+--></tr><!--
+-->}}<!--
+-->{{#if:{{{ability_effect|}}}|<!--
+--><tr><!--
+--><!--<td>{{#if:{{{ability_name_en|}}}|{{#ifexist:File:{{{ability_name_en}}} Icon.png|[[File:{{{ability_name_en}}} Icon.png|30px]]}}}}</td>--><!--
+--><td>'''Ability'''<br />{{#if:{{{ability_name_en|}}}|{{{ability_name_en}}}|''TBA''}}</td><!--
+--><td>{{#if:{{{ability_effect|}}}|{{{ability_effect}}}|''TBA''}}</td><!--
+--></tr><!--
+-->}}<!--
+-->{{#if:{{{support_effect|}}}|<!--
+--><tr><!--
+--><!--<td>{{#if:{{{support_name_en|}}}|{{#ifexist:File:{{{support_name_en}}} Icon.png|[[File:{{{support_name_en}}} Icon.png|30px]]}}}}</td>--><!--
+--><td>'''Support Ability'''<br />{{#if:{{{support_name_en|}}}|{{{support_name_en}}}|''TBA''}}</td><!--
+--><td>{{#if:{{{support_effect|}}}|{{{support_effect}}}|''TBA''}}</td><!--
+--></tr><!--
+-->}}<!--
+--></table><!--
+--></includeonly><noinclude>
+{{#template_params:
+|special_name_en   (label = Special Name;   property = special_name_en)
+|special_effect (label = Special Effect; property = special_effect)
+|skill_name_en     (label = Skill Name;     property = skill_name_en)
+|skill_effect   (label = Skill Effect;   property = skill_effect)
+|attack_effect  (label = Attack Effect;  property = attack_effect)
+|ability_name_en   (label = Ability Name;   property = ability_name_en)
+|ability_effect (label = Ability Effect; property = ability_effect)
+|support_name_en   (label = Support Name;   property = support_name_en)
+|support_effect (label = Support Effect; property = support_effect)
+}}
+
+==Examples==
+<pre>{{Kioku Skills}}</pre>
+{{Kioku Skills}}
+
+<pre>{{Kioku Skills
+|special_name_en   = Concentrated Missile Fire
+|special_effect = Deals 420% dark DMG to a single enemy and 315% dark DMG to enemies in proximity.<br />Advances own action order by 100%.
+|skill_name_en     = Grenade Toss
+|skill_effect   = Deals 270% dark DMG to a single enemy.<br />Increases own DMG dealt by 25% (1 turn).
+|attack_effect  = Deals 100% dark DMG to a single enemy.
+|ability_name_en   = Accele Chase
+|ability_effect = On enemy break or maxed break bonus, triggers a follow-up attack.<br /><br />Follow-Up Attack:<br />Deals 135% dark DMG to a single enemy.<br />Grants 10 MP to user.
+|support_name_en   = Blast
+|support_effect = Equipped to Dark:<br />Increases DMG dealt by 15%, and increases follow-up attack and counterattack DMG dealt by 32%.
+}}</pre>
+{{Kioku Skills
+|special_name_en   = Concentrated Missile Fire
+|special_effect = Deals 420% dark DMG to a single enemy and 315% dark DMG to enemies in proximity.<br />Advances own action order by 100%.
+|skill_name_en     = Grenade Toss
+|skill_effect   = Deals 270% dark DMG to a single enemy.<br />Increases own DMG dealt by 25% (1 turn).
+|attack_effect  = Deals 100% dark DMG to a single enemy.
+|ability_name_en   = Accele Chase
+|ability_effect = On enemy break or maxed break bonus, triggers a follow-up attack.<br /><br />Follow-Up Attack:<br />Deals 135% dark DMG to a single enemy.<br />Grants 10 MP to user.
+|support_name_en   = Blast
+|support_effect = Equipped to Dark:<br />Increases DMG dealt by 15%, and increases follow-up attack and counterattack DMG dealt by 32%.
+}}
+</noinclude>

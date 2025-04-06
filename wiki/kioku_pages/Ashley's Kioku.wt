@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 11070102
+|image               = 11070102_original.png
+|name_en             = Ashley's Kioku
+|name_jp             = アシュリーのキオク
+|character_en        = Ashley Taylor
+|character_jp        = アシュリー・テイラー
+|character_id        = 1107
+|rarity              = 3
+|element             = Dark
+|role                = Attacker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Ashley's Kioku''' is a [[Kioku]] for [[Ashley Taylor]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 232
+|atk          = 120
+|def          = 78
+|spd          = 95
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6253
+|atk          = 2733
+|def          = 2065
+|spd          = 95
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = 
+|special_name_jp             = 
+|special_effect              = 
+|special_image               = 
+|special_progression         = []
+|special_mp_cost             = 0
+|skill_name_en               = Bombing Bear
+|skill_name_jp               = ボミングベア
+|skill_effect                = Deals 120% dark DMG to all enemies.<br>Increases own DMG dealt by 18% (1 turn).
+|skill_image                 = All-Target Attack
+|skill_progression           = [('70', '74', '78', '83', '88', '94', '100', '106', '112', '120'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
+|attack_effect               = Deals 100% dark DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Chase
+|ability_name_jp             = チェイス
+|ability_effect              = On enemy break, triggers a follow-up attack.<br><br>Follow-Up Attack:<br>Deals 60% dark DMG to all enemies.
+|ability_image               = battle_icon_passive_additional_attack
+|ability_progression         = [('35', '37', '39', '42', '44', '47', '50', '53', '56', '60')]
+|support_name_en             = Assault
+|support_name_jp             = アサルト
+|support_effect              = Equipped to Dark:<br>Increases ATK by 7.5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('5', '5', '5', '5', '6', '6', '6', '6', '7', '7')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases SPD by 10 (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases follow-up attack DMG dealt by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases DMG dealt by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases DMG dealt by 5%.
+}}
+
+

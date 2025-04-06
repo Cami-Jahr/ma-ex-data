@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10010701
+|image               = 10010701_original.png
+|name_en             = Pluvia☆Magica
+|name_jp             = プルウィア☆マギカ
+|character_en        = Madoka Kaname
+|character_jp        = 鹿目まどか
+|character_id        = 1001
+|rarity              = 5
+|element             = Light
+|role                = Breaker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Pluvia☆Magica''' is a [[Kioku]] for [[Madoka Kaname]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 326
+|atk          = 91
+|def          = 107
+|spd          = 114
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 8126
+|atk          = 2407
+|def          = 2677
+|spd          = 114
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Pluvia☆Magica
+|special_name_jp             = プルウィア☆マギカ
+|special_effect              = Deals 280% light DMG to all enemies.<br>Grants 20 MP to all allies.
+|special_image               = All-Target Attack
+|special_progression         = [('160', '164', '170', '177', '186', '196', '208', '226', '250', '280'), ('20', '20', '20', '20', '20', '20', '20', '20', '20', '20')]
+|special_mp_cost             = 75
+|skill_name_en               = Diffusio Sagitta
+|skill_name_jp               = ディフュージオサジッタ
+|skill_effect                = Deals 135% light DMG to all enemies.<br>Increases break gauge depletion if own HP 80% or higher. If an enemy in break is attacked, increases own SPD by 30% (2 turns).
+|skill_image                 = All-Target Attack
+|skill_progression           = [('90', '93', '97', '102', '107', '112', '117', '123', '128', '135'), ('80', '80', '80', '80', '80', '80', '80', '80', '80', '80'), ('20', '21', '22', '23', '24', '25', '26', '27', '28', '30'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% light DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Accele Piercing
+|ability_name_jp             = アクセルペネトレイト
+|ability_effect              = Increases break bonus by 120%, and on enemy break, grants 10 MP.<br>Restores all allies' HP by 5% of user's HP +200.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('60', '64', '70', '76', '82', '89', '96', '103', '111', '120'), ('10', '10', '10', '10', '10', '10', '10', '10', '10', '10'), ('2', '2', '2', '3', '3', '3', '4', '4', '5', '5'), ('20', '33', '49', '67', '87', '107', '128', '150', '173', '200')]
+|support_name_en             = Accele Piercing
+|support_name_jp             = アクセルペネトレイト
+|support_effect              = Equipped to Light:<br>Increases break bonus by 20%, and on enemy break, grants 5 MP.
+|support_image               = battle_icon_supportpassive_mp_heal
+|support_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('5', '1', '2', '3', '4', '6', '7', '8', '9', '5')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases break gauge depletion, and on enemy break, increases SPD by 20% (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases break gauge depletion and increases break bonus by 25%, based on how few enemies there are (Max 100%).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances all allies' action order by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

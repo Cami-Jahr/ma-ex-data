@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10860101
+|image               = 10860101_original.png
+|name_en             = Brilliant Beam
+|name_jp             = キラ盛りビーム
+|character_en        = Rika Ayano
+|character_jp        = 綾野梨花
+|character_id        = 1086
+|rarity              = 4
+|element             = Flame
+|role                = Buffer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Brilliant Beam''' is a [[Kioku]] for [[Rika Ayano]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 279
+|atk          = 89
+|def          = 94
+|spd          = 119
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 7028
+|atk          = 2231
+|def          = 2312
+|spd          = 119
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Brilliant Beam
+|special_name_jp             = キラ盛りビーム
+|special_effect              = Deals 330% flame DMG to all enemies.<br>Increases all allies' SPD by 25 (2 turns).<br>Grants 3 Magic to self.
+|special_image               = SPD UP
+|special_progression         = [('220', '223', '229', '235', '244', '253', '264', '281', '303', '330'), ('10', '11', '12', '14', '16', '17', '19', '21', '23', '25'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3')]
+|special_mp_cost             = 75
+|skill_name_en               = Soul Acceleration
+|skill_name_jp               = 魂アゲアクセラレーション
+|skill_effect                = Increases a single ally's MP by 25% and ATK by 40% (1 turn).<br>Grants 2 Magic to self.
+|skill_image                 = MP Recovery
+|skill_progression           = [('20', '20', '21', '21', '22', '22', '23', '24', '24', '25'), ('30', '31', '32', '33', '34', '35', '36', '37', '38', '40'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% flame DMG to a single enemy.<br>Grants 1 Magic to self.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
+|ability_name_en             = Blast Haste
+|ability_name_jp             = ブラストヘイスト
+|ability_effect              = On basic attack, increases SPD by 25% (1 turn), and at battle start, grants 1 Magic.<br>At 5 or higher Magic, consumes 5 Magic and adds "Increases DMG dealt on special attack by 20% (2 turns)" to battle skill.<br>Max 5 Magic.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('12', '13', '14', '15', '17', '18', '20', '21', '23', '25'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5'), ('20', '20', '20', '20', '20', '20', '20', '20', '20', '20'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2'), ('5', '5', '5', '5', '5', '5', '5', '5', '5', '5')]
+|support_name_en             = Defense
+|support_name_jp             = ディフェンド
+|support_effect              = Equipped to Flame:<br>Decreases DMG taken by 5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('3', '3', '3', '3', '3', '4', '4', '4', '4', '5')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, advances action order by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases MP recovery rate by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, increases all allies' ATK by 12% (2 turns).
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

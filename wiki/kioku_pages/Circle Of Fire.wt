@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10690101
+|image               = 10690101_original.png
+|name_en             = Circle Of Fire
+|name_jp             = サークル・オブ・ファイア
+|character_en        = Reira Ibuki
+|character_jp        = 伊吹れいら
+|character_id        = 1069
+|rarity              = 4
+|element             = Flame
+|role                = Healer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Circle Of Fire''' is a [[Kioku]] for [[Reira Ibuki]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 364
+|atk          = 61
+|def          = 93
+|spd          = 109
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 8430
+|atk          = 1779
+|def          = 2308
+|spd          = 109
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Circle Of Fire
+|special_name_jp             = サークル・オブ・ファイア
+|special_effect              = Deals 270% flame DMG to a single enemy.<br>Restores all allies' HP by 15% of user's HP +600.
+|special_image               = Restore HP
+|special_progression         = [('180', '183', '187', '193', '200', '207', '216', '230', '248', '270'), ('9', '9', '10', '11', '11', '12', '13', '13', '14', '15'), ('54', '81', '121', '158', '205', '267', '320', '384', '461', '600')]
+|special_mp_cost             = 90
+|skill_name_en               = Flame Slash
+|skill_name_jp               = フレイムスラッシュ
+|skill_effect                = Deals 160% flame DMG to a single enemy.<br>Restores all allies' HP by 9% of user's HP +578.
+|skill_image                 = Restore HP
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('6', '6', '6', '7', '7', '7', '8', '8', '8', '9'), ('15', '22', '33', '50', '76', '114', '171', '257', '385', '578')]
+|attack_effect               = Deals 100% flame DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Healing
+|ability_name_jp             = ヒール
+|ability_effect              = When an enemy is defeated, restores all allies' HP by 10% of user's HP +120.
+|ability_image               = battle_icon_passive_heal
+|ability_progression         = [('5', '6', '7', '7', '7', '7', '8', '8', '9', '10'), ('15', '31', '47', '52', '57', '62', '68', '73', '94', '120')]
+|support_name_en             = Rising
+|support_name_jp             = ライズ
+|support_effect              = Equipped to Healer:<br>Increases MP recovery rate by 5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('2', '2', '2', '3', '3', '3', '4', '4', '4', '5')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases HP recovery amount by 12%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases HP recovery amount by 20%, and on special attack, removes all allies' ailments.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = Increases MP recovery rate by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

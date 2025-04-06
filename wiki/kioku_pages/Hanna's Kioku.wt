@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10740102
+|image               = 10740102_original.png
+|name_en             = Hanna's Kioku
+|name_jp             = 帆奈のキオク
+|character_en        = Hanna Sarasa
+|character_jp        = 更紗帆奈
+|character_id        = 1074
+|rarity              = 3
+|element             = Dark
+|role                = Breaker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Hanna's Kioku''' is a [[Kioku]] for [[Hanna Sarasa]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 288
+|atk          = 84
+|def          = 96
+|spd          = 113
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 7178
+|atk          = 2148
+|def          = 2348
+|spd          = 113
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = 
+|special_name_jp             = 
+|special_effect              = 
+|special_image               = 
+|special_progression         = []
+|special_mp_cost             = 0
+|skill_name_en               = Accursed Sphere
+|skill_name_jp               = カーススフィア
+|skill_effect                = Deals 160% dark DMG to a single enemy.<br>Increases own SPD by 18% (2 turns).
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% dark DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Haste Piercing
+|ability_name_jp             = ヘイストペネトレイト
+|ability_effect              = Increases break bonus by 40%, and on enemy break, increases SPD by 18 (2 turns).
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('20', '21', '23', '25', '27', '30', '32', '34', '37', '40'), ('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en             = Haste
+|support_name_jp             = ヘイスト
+|support_effect              = Equipped to Breaker:<br>Increases SPD by 8%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('3', '3', '4', '4', '5', '5', '6', '6', '7', '8')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = Increases break effect by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = On enemy break, advances action order by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = At battle start, increases SPD by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On maxed enemy break bonus, advances all allies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = At battle start, increases SPD by 5%.
+}}
+
+

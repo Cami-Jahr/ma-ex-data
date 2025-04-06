@@ -2,3 +2,6 @@ acb-py
 msgpack
 requests
 pycryptodome
+mwparserfromhell
+packaging
+pywikibot

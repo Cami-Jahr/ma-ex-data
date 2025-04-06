@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10670101
+|image               = 10670101_original.png
+|name_en             = Kako's Kioku
+|name_jp             = かこのキオク
+|character_en        = Kako Natsume
+|character_jp        = 夏目かこ
+|character_id        = 1067
+|rarity              = 3
+|element             = Forest
+|role                = Attacker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Kako's Kioku''' is a [[Kioku]] for [[Kako Natsume]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 231
+|atk          = 121
+|def          = 78
+|spd          = 93
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6236
+|atk          = 2750
+|def          = 2051
+|spd          = 93
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = 
+|special_name_jp             = 
+|special_effect              = 
+|special_image               = 
+|special_progression         = []
+|special_mp_cost             = 0
+|skill_name_en               = Guiding Mark
+|skill_name_jp               = 道標の栞
+|skill_effect                = Deals 170% forest DMG to a single enemy, and if own HP 50% or higher, also deals 30% forest DMG.
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('120', '124', '128', '133', '138', '144', '150', '156', '162', '170'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('30', '30', '30', '30', '30', '30', '30', '30', '30', '30')]
+|attack_effect               = Deals 100% forest DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Blast
+|ability_name_jp             = ブラスト
+|ability_effect              = On enemy break, increases DMG dealt by 18% (2 turns).
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('8', '9', '10', '11', '12', '13', '14', '15', '16', '18'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|support_name_en             = Guard
+|support_name_jp             = ガード
+|support_effect              = Equipped to Attacker:<br>Increases DEF by 7.5%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('5', '5', '5', '5', '6', '6', '6', '6', '7', '7')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases SPD by 10 (2 turns).
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = On enemy break, increases ATK by 8% (2 turns).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases DMG dealt by 5%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases DMG dealt by 5%.
+}}
+
+

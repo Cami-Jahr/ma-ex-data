@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10180101
+|image               = 10180101_original.png
+|name_en             = Ryushin Spiral Fury
+|name_jp             = 竜真螺旋咆撃
+|character_en        = Asuka Tatsuki
+|character_jp        = 竜城明日香
+|character_id        = 1018
+|rarity              = 4
+|element             = Aqua
+|role                = Attacker
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Ryushin Spiral Fury''' is a [[Kioku]] for [[Asuka Tatsuki]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 232
+|atk          = 120
+|def          = 79
+|spd          = 99
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6249
+|atk          = 2729
+|def          = 2069
+|spd          = 99
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Ryushin Spiral Fury
+|special_name_jp             = 竜真螺旋咆撃
+|special_effect              = Deals 400% aqua DMG to a single enemy.<br>Advances own action order by 50%.
+|special_image               = Single-Target Attack
+|special_progression         = [('270', '274', '280', '288', '299', '309', '322', '342', '368', '400'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50')]
+|special_mp_cost             = 90
+|skill_name_en               = Ryushin Torrent Slash
+|skill_name_jp               = 竜真瀑水斬
+|skill_effect                = Deals 200% aqua DMG to a single enemy.<br>Increases own DMG dealt by 20% (1 turn).
+|skill_image                 = Single-Target Attack
+|skill_progression           = [('150', '154', '158', '163', '168', '174', '180', '186', '192', '200'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('1', '1', '1', '1', '1', '1', '1', '1', '1', '1')]
+|attack_effect               = Deals 100% aqua DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Assault Guard
+|ability_name_jp             = アサルトガード
+|ability_effect              = At turn end, increases ATK by 5% (Stacks 3 times), and if under 50% HP, increases DEF by 40%.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('3', '3', '3', '4', '4', '4', '4', '4', '5', '5'), ('3', '3', '3', '3', '3', '3', '3', '3', '3', '3'), ('50', '50', '50', '50', '50', '50', '50', '50', '50', '50'), ('20', '21', '23', '25', '27', '30', '32', '34', '37', '40')]
+|support_name_en             = Assault
+|support_name_jp             = アサルト
+|support_effect              = Equipped to Aqua:<br>Increases ATK by 10%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('6', '6', '6', '7', '7', '8', '8', '9', '9', '10')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, increases MP by 25%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases ATK by 10%.<br>At turn end, increases SPD by 10% (Stacks 3 times).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On enemy break, advances action order by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

@@ -25,3 +25,8 @@ main.py will create:
 * /mini - Where minimized ogg and webm files reside. Can also be found here
 
 Unity data can be found in ``processed/gallery/library``. Throw the entire folder into AssetStudioMod, and extract from there. 
+
+## Uploading to wiki
+wiki pages can be created by running the main.py file in ``/wiki``
+To bulk upload or do other edits you have to Rename *user-password-TEMPLATE.py* to *user-password.py* and input your wiki credentials.
+Then run ``uploader.py`` to upload pages, or write custom scripts following that pattern.

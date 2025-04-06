@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10810101
+|image               = 10810101_original.png
+|name_en             = Konoha's Kioku
+|name_jp             = このはのキオク
+|character_en        = Konoha Shizumi
+|character_jp        = 静海このは
+|character_id        = 1081
+|rarity              = 3
+|element             = Aqua
+|role                = Healer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Konoha's Kioku''' is a [[Kioku]] for [[Konoha Shizumi]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 366
+|atk          = 62
+|def          = 92
+|spd          = 109
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 8465
+|atk          = 1794
+|def          = 2278
+|spd          = 109
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = 
+|special_name_jp             = 
+|special_effect              = 
+|special_image               = 
+|special_progression         = []
+|special_mp_cost             = 0
+|skill_name_en               = Healing Butterflies
+|skill_name_jp               = ヒーリングバタフライ
+|skill_effect                = Restores all allies' HP by 8% of user's HP +73.
+|skill_image                 = Recovery
+|skill_progression           = [('5', '6', '6', '6', '7', '7', '7', '8', '8', '8'), ('38', '40', '44', '47', '51', '55', '59', '63', '68', '73')]
+|attack_effect               = Deals 100% aqua DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Benefit
+|ability_name_jp             = ベネフィット
+|ability_effect              = Increases HP recovery amount by 20%.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20')]
+|support_name_en             = Benefit
+|support_name_jp             = ベネフィット
+|support_effect              = Equipped to Healer:<br>Increases HP recovery amount by 8%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('4', '4', '4', '5', '5', '6', '6', '7', '7', '8')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = If under 50% HP, increases HP recovery amount by 20%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases HP recovery amount by 10%.
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = At battle start, increases max HP by 2%.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = Increases max HP by 20%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = At battle start, increases max HP by 2%.
+}}
+
+

@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10740101
+|image               = 10740101_original.png
+|name_en             = Nightmare Stinger
+|name_jp             = ナイトメア・スティンガー
+|character_en        = Hanna Sarasa
+|character_jp        = 更紗帆奈
+|character_id        = 1074
+|rarity              = 4
+|element             = Dark
+|role                = Debuffer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Nightmare Stinger''' is a [[Kioku]] for [[Hanna Sarasa]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 274
+|atk          = 93
+|def          = 92
+|spd          = 118
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 6947
+|atk          = 2293
+|def          = 2278
+|spd          = 118
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Nightmare Stinger
+|special_name_jp             = ナイトメア・スティンガー
+|special_effect              = Deals 220% dark DMG to a single enemy.<br>Consumes all remaining turns of ongoing DMG effects on target and immediately deals their total DMG.
+|special_image               = Single-Target Attack
+|special_progression         = [('160', '162', '165', '168', '173', '178', '184', '193', '205', '220')]
+|special_mp_cost             = 75
+|skill_name_en               = Thorn Swing
+|skill_name_jp               = ソーンスウィング
+|skill_effect                = Deals 160% dark DMG to a single enemy and 120% dark DMG to enemies in proximity.<br>100% chance to curse (40% / 2 turns) targets.
+|skill_image                 = Curse
+|skill_progression           = [('100', '104', '110', '116', '122', '129', '136', '143', '151', '160'), ('75', '78', '82', '87', '92', '97', '102', '108', '113', '120'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100'), ('25', '26', '27', '29', '31', '32', '34', '36', '38', '40'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% dark DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Assault Blast
+|ability_name_jp             = アサルトブラスト
+|ability_effect              = Increases ATK by 20% and DMG dealt to cursed enemies by 40%.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('30', '31', '32', '33', '34', '35', '36', '37', '38', '40')]
+|support_name_en             = Injection
+|support_name_jp             = インジェクト
+|support_effect              = Equipped to Debuffer:<br>Increases ailment hit rate by 10%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('4', '4', '5', '6', '6', '7', '8', '8', '9', '10')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, advances action order by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Adds 1 turn to the duration of ailment and debuff effects applied (* excluding ailments that block actions).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On special attack, delays all enemies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

@@ -1,0 +1,85 @@
+{{Kioku Infobox
+|id                  = 10760101
+|image               = 10760101_original.png
+|name_en             = Meteor Punch
+|name_jp             = メテオ・フィスト
+|character_en        = Himika Mao
+|character_jp        = 眞尾ひみか
+|character_id        = 1076
+|rarity              = 4
+|element             = Flame
+|role                = Debuffer
+|date                = 2025-03-26
+|group               = 
+|obtain              = 
+}}
+'''Meteor Punch''' is a [[Kioku]] for [[Himika Mao]] obtained from [[Fate Weaves]].
+
+==Kioku Details==
+The maxed enhancement values shown reflect the stats and skill effects at max ascension, max level, and max Magic level.
+
+Additional stats from [[Heartphial]]s are not reflected.
+
+===Stats===
+====Base====
+{{Kioku Stats
+|hp           = 279
+|atk          = 88
+|def          = 94
+|spd          = 120
+|crit rate    = 50
+|crit damage  = 100
+}}
+====Max====
+{{Kioku Stats
+|hp           = 7023
+|atk          = 2226
+|def          = 2319
+|spd          = 120
+|crit rate    = 
+|crit damage  = 
+}}
+
+===Skills===
+{{Kioku Skills
+|special_name_en             = Meteor Punch
+|special_name_jp             = メテオ・フィスト
+|special_effect              = Deals 330% flame DMG to all enemies, and deals 60% flame DMG to burning enemies.<br>Increases targets' DMG taken by 15% (2 turns).
+|special_image               = DMG Taken UP
+|special_progression         = [('220', '223', '229', '235', '244', '253', '264', '281', '303', '330'), ('30', '32', '35', '38', '41', '44', '48', '52', '55', '60'), ('12', '12', '12', '13', '13', '13', '14', '14', '15', '15'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|special_mp_cost             = 75
+|skill_name_en               = Knuckle Surprise
+|skill_name_jp               = サプライズハンド
+|skill_effect                = Delays a single enemy's action order by 20% and 100% chance to burn (30% / 2 turns) target.
+|skill_image                 = Burn
+|skill_progression           = [('12', '13', '13', '14', '15', '16', '17', '18', '19', '20'), ('100', '100', '100', '100', '100', '100', '100', '100', '100', '100'), ('25', '25', '26', '26', '27', '27', '28', '29', '29', '30'), ('2', '2', '2', '2', '2', '2', '2', '2', '2', '2')]
+|attack_effect               = Deals 100% flame DMG to a single enemy.
+|attack_image                = Single-Target Attack
+|attack_progression          = [('50', '54', '58', '63', '68', '74', '80', '86', '92', '100')]
+|ability_name_en             = Defense Blast
+|ability_name_jp             = ディフェンドブラスト
+|ability_effect              = Increases DMG dealt by attacks to burning enemies by 20% and decreases DMG taken from burning enemies by 20%.
+|ability_image               = battle_icon_passive_buff
+|ability_progression         = [('10', '11', '12', '13', '14', '15', '16', '17', '18', '20'), ('10', '11', '12', '13', '14', '15', '16', '17', '18', '20')]
+|support_name_en             = Injection
+|support_name_jp             = インジェクト
+|support_effect              = Equipped to Flame:<br>Increases ailment hit rate by 10%.
+|support_image               = battle_icon_supportpassive_buff
+|support_progression         = [('4', '4', '5', '6', '6', '7', '8', '8', '9', '10')]
+}}
+
+===Ascensions===
+{{Kioku Ascensions
+|ascension_1_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_1_effect_2 = At battle start, advances action order by 30%.
+|ascension_2_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_2_effect_2 = Increases ailment and debuff effects applied by 20% (* excluding action order delay effects).
+|ascension_3_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_3_effect_2 = Increases Special Attack Lvl. Cap by 3.
+|ascension_4_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_4_effect_2 = On special attack, delays all enemies' action order by 10%.
+|ascension_5_effect_1 = Increases HP/ATK/DEF by 2%.
+|ascension_5_effect_2 = Increases Special Attack Lvl. Cap by 3.
+}}
+
+

@@ -2,7 +2,7 @@ import helpers
 
 text = """{{{{Character Infobox
 |id                   = {id}
-|image                = {id}_original.png
+|image                = {id}0101_original.png
 |name_en              = {name_en}
 |name_jp              = {name_jp}
 |voice_actor_en       = {voice_actor_en}
@@ -20,10 +20,15 @@ text = """{{{{Character Infobox
 |school_en            = {school_en}
 |school_jp            = {school_jp}
 |group                = {series}
-|region               = {region}
+|region               = 
+|release_date         = {release_date}
 }}}}
 '''{name_en}''' is a [[character]] in ''[[Magia Exedra]]''.
-"""
+
+==Kiokus==
+	
+{{{{Kiokus Table|{name_en} Kiokus|hide_character=1}}}}
+"""  # TODO Release date = first kioku
 
 series_map = {
     1: "Puella Magi Madoka Magica",
@@ -39,29 +44,36 @@ def create_character_pages():
     characters = helpers.get_both("getCharacterMstList", "characterMstId")
     stories = helpers.get_both("getAdvMstList", "advMstId")
     story_titles = helpers.get_both("getAdvTitleMstList", "advTitleMstId")
+    kiokus = helpers.get_files(helpers.SOURCE_EN, "getStyleMstList", "styleMstId")
 
-    for character_en in characters["en"].values():
-        profile_en = profiles["en"][character_en["characterMstId"]]
-        profile_jp = profiles["jp"][character_en["characterMstId"]]
-        character_jp = characters["jp"][character_en["characterMstId"]]
+    for char_id, character_en in characters["en"].items():
+        profile_en = profiles["en"][char_id]
+        profile_jp = profiles["jp"][char_id]
+        character_jp = characters["jp"][char_id]
+        release_dates = [
+            v["releaseTime"] for k, v in kiokus.items() if k // 10000 == char_id
+        ]
 
-        if character_en["characterMstId"] == 1000:  # Namae
+        if char_id == 1000:  # Namae
             story_title_id = None
         else:
-            story_title_id = stories["en"][
-                int(f"30{character_en["characterMstId"]}00")
-            ]["advTitleMstId"]
+            story_title_id = stories["en"][int(f"30{char_id}00")]["advTitleMstId"]
         with open(
-            f"wiki/character_pages/{character_en["name"]}.txt",
+            f"wiki/character_pages/{character_en["name"]}.wt",
             "w",
             encoding="utf-8",
         ) as g:
             print(
                 text.format(
-                    id=character_en["characterMstId"],
+                    id=char_id,
+                    release_date=(
+                        helpers.fix_date(min(release_dates))
+                        if len(release_dates)
+                        else ""
+                    ),
                     name_en=character_en["name"],
                     name_jp=character_jp["name"],
-                    color=character_en["colorCode"],
+                    color=character_en["colorCode"][1:],  # Remove the hash
                     description_en=profile_en["description"],
                     description_jp=profile_jp["description"],
                     voice_actor_en=profile_en["characterVoice"],
@@ -69,10 +81,10 @@ def create_character_pages():
                     school_en=profile_en["schoolName"],
                     school_jp=profile_jp["schoolName"],
                     series=series_map.get(profile_en["seriesId"], ""),
-                    region=region_map.get(profile_en["seriesId"], {}).get(
-                        profile_en["regionId"],
-                        f"PLACEHOLDER FOR REGION-{profile_en["regionId"]}",  # TODO
-                    ),
+                    # region=region_map.get(profile_en["seriesId"], {}).get(
+                    #    profile_en["regionId"],
+                    #    f"PLACEHOLDER FOR REGION-{profile_en["regionId"]}",  # TODO Figure out names for these
+                    # ),
                     team1_en=teams["en"].get(profile_en["teamId1"], {}).get("name", ""),
                     team1_jp=teams["jp"].get(profile_jp["teamId1"], {}).get("name", ""),
                     team2_en=teams["en"].get(profile_en["teamId2"], {}).get("name", ""),
