@@ -1,5 +1,6 @@
 import helpers
 import re
+import json
 
 text = """{{{{Kioku Infobox
 |id                  = {id}
@@ -38,9 +39,9 @@ Additional stats from [[Heartphial]]s are not reflected.
 |atk          = {maxAtk}
 |def          = {maxDef}
 |spd          = {maxSpd}
-|ep           = {maxEp}
-|crit rate    = {maxCritRate}
-|crit damage  = {maxCritDmg}
+|ep           = 
+|crit rate    = 
+|crit damage  = 
 }}}}
 
 ===Skills===
@@ -155,6 +156,8 @@ def create_kioku_pages():
         "getStyleLimitBreakEffectMstList",
         "styleLimitBreakEffectMstId",
     )
+    with open("wiki/max_stats.json", "r", encoding="utf-8") as f:
+        max_stats = json.load(f)
 
     for kioku_en in kiokus["en"].values():
         if not kioku_en["isCollectionDisp"]:
@@ -162,6 +165,7 @@ def create_kioku_pages():
             continue
         characterId = int(str(kioku_en["styleMstId"])[:4])
         kioku_jp = kiokus["jp"][kioku_en["styleMstId"]]
+        char_max_stats = max_stats.get(kioku_en["name"], ["", "", "", ""])
 
         normal_attack_en = read_skill(skills, "en", kioku_en["normalAttack"])
 
@@ -227,13 +231,10 @@ def create_kioku_pages():
                     minSpd=kioku_en["speed"],
                     minCritRate=kioku_en["criticalRate"],
                     minCritDmg=kioku_en["criticalDamageRate"],
-                    maxHp=kioku_en["PLACEHOLDER"],
-                    maxAtk=kioku_en["PLACEHOLDER"],
-                    maxDef=kioku_en["PLACEHOLDER"],
-                    maxEp=kioku_en["PLACEHOLDER"],
-                    maxSpd=kioku_en["PLACEHOLDER"],
-                    maxCritRate=kioku_en["PLACEHOLDER"],
-                    maxCritDmg=kioku_en["PLACEHOLDER"],
+                    maxHp=char_max_stats[0],
+                    maxAtk=char_max_stats[1],
+                    maxDef=char_max_stats[2],
+                    maxSpd=char_max_stats[3],
                     skill_name_en=skill_en["name"],
                     skill_name_jp=skill_jp_name,
                     skill_effect=skill_en["description"],

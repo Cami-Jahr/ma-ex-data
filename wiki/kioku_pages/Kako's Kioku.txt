@@ -31,13 +31,13 @@ Additional stats from [[Heartphial]]s are not reflected.
 }}
 ====Max====
 {{Kioku Stats
-|hp           = PLACEHOLDER
-|atk          = PLACEHOLDER
-|def          = PLACEHOLDER
-|spd          = PLACEHOLDER
-|ep           = PLACEHOLDER
-|crit rate    = PLACEHOLDER
-|crit damage  = PLACEHOLDER
+|hp           = 6236
+|atk          = 2750
+|def          = 2051
+|spd          = 93
+|ep           = 
+|crit rate    = 
+|crit damage  = 
 }}
 
 ===Skills===
