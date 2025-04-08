@@ -1,7 +1,7 @@
 acb-py
 msgpack
 requests
-pycryptodome
+pycryptodomex
 mwparserfromhell
 packaging
 pywikibot

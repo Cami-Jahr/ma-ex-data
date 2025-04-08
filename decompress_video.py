@@ -61,7 +61,7 @@ def convert(src_dir, mini_dst_dir, full_dst_dir):
 
 if __name__ == "__main__":
     convert(
-        r"D:\madoka-exedra\processed\gallery\kfOi\CriMovie",
-        r"D:\madoka-exedra\mini\gallery\kfOi\CriMovie",
-        r"D:\madoka-exedra\full\gallery\kfOi\CriMovie",
+        r"processed\gallery\kfOi\CriMovie",
+        r"mini\gallery\kfOi\CriMovie",
+        r"full\gallery\kfOi\CriMovie",
     )

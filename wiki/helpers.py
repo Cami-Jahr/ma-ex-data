@@ -8,7 +8,7 @@ SOURCE_JP = "manifests/resjp"
 def fix_date(date: str) -> str:
     date = date[:10]
     if date == "2024-01-01":
-        return "2025-03-26"
+        return "2025-03-27"
     return date
 
 

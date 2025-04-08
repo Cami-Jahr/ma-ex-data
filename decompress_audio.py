@@ -97,10 +97,10 @@ def convert(src_dir, dst_dir):
 
 if __name__ == "__main__":
     convert(
-        r"D:\madoka-exedra\processed\gallery\kfOi\Sound",
-        r"D:\madoka-exedra\full\gallery\kfOi\Sound",
+        r"processed\gallery\kfOi\Sound",
+        r"full\gallery\kfOi\Sound",
     )
     minimize(
-        r"D:\madoka-exedra\full\gallery\kfOi\Sound",
-        r"D:\madoka-exedra\mini\gallery\kfOi\Sound",
+        r"full\gallery\kfOi\Sound",
+        r"mini\gallery\kfOi\Sound",
     )

@@ -25,19 +25,18 @@ file_locations = {}
 known_mappings = {}
 
 for manifest in (
-    r"D:\madoka-exedra\manifests\resen\get_resource_asset_bundle_mst_list.json",
-    r"D:\madoka-exedra\manifests\resjp\get_resource_file_mst_list.json",
+    r"manifests\resen\get_resource_asset_bundle_mst_list.json",
+    r"manifests\resjp\get_resource_file_mst_list.json",
 ):
-    dump = json.load(open(manifest, "r"))
+    with open(manifest, "r", encoding="utf-8") as f:
+        dump = json.load(f)
 
     path_dict = {
         item["pathId"]: item["path"] for item in dump["payload"]["pathMappingMstList"]
     }
     mstlist = dump["payload"]["mstList"]
 
-    for key in range(len(mstlist)):
-        mon = mstlist[key]
-
+    for key, mon in enumerate(mstlist):
         salt = "1c7f"
         name = path_dict.get(mon["pathId"], "Path not found") + mon["name"]
         input_str = name.split("/")[-1] + salt
@@ -72,19 +71,18 @@ def copy_files(target_folder: str, cwd: str):
 
             try:
                 key, name = file_locations[filename]
-                # XOR each byte with the key
-                if ".usm" not in name and ".awb" not in name and ".acb" not in name:
-                    # audio and video files are not encrypted, just the name is obfuscated,
-                    #  it's very possible more things should be excluded but I don't know what yet
+                if data[:4] in (b"CRID", b"AFS2", b"@UTF"):
+                    # usm, acb and awb files are only common patterns I've found which are not encrypted, just the name is obfuscated
+                    # XOR each byte with the key for the encrypted ones
                     for i in range(len(data)):
                         data[i] ^= key[i % len(key)]
-            except:
+            except KeyError:
                 print("INFO: Using obfuscated name for", os.path.join(root, filename))
 
             target_list = os.path.join(root, filename).lstrip(cwd).split(os.path.sep)
 
-            for i in range(len(target_list)):
-                target_list[i] = known_mappings.get(target_list[i], target_list[i])
+            for i, val in enumerate(target_list):
+                target_list[i] = known_mappings.get(val, val)
 
             os.makedirs(os.path.join(target_folder, *target_list[:-1]), exist_ok=True)
             with open(os.path.join(target_folder, *target_list), "wb") as f:
