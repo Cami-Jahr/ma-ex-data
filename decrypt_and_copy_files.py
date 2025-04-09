@@ -2,6 +2,7 @@ import base64
 import hashlib
 import json
 import os
+from collections import defaultdict
 
 
 def generate_bytes_key(key, salt=""):
@@ -21,7 +22,8 @@ def generate_bytes_key(key, salt=""):
     return result
 
 
-file_locations = {}
+file_keys = {}
+file_names = {}
 known_mappings = {}
 
 for manifest in (
@@ -50,14 +52,17 @@ for manifest in (
             .rstrip("=")
         )
         byte_key = generate_bytes_key(name + mon["cryptoKey"], "")
-        file_locations[base64_str] = (byte_key, name)
+        file_keys[base64_str] = byte_key
+        file_names[base64_str] = name
 
 
 def copy_files(target_folder: str, cwd: str):
+    occurrences: dict[str, int] = defaultdict(int)
+    known_types = (b"CRID", b"AFS2", b"@UTF")
     for root, _, files in os.walk(cwd):
         lroot = root.replace("/", "\\").split("\\")
         for filename in files:
-            target_path = file_locations.get(filename, (None, None))[1]
+            target_path = file_names.get(filename)
             if target_path:
                 folders = target_path.split("/")
                 known_mappings[filename] = folders[-1]
@@ -70,12 +75,14 @@ def copy_files(target_folder: str, cwd: str):
                 data = bytearray(f.read())
 
             try:
-                key, name = file_locations[filename]
-                if data[:4] in (b"CRID", b"AFS2", b"@UTF"):
+                file_key = file_keys.get(filename)
+                data_type = bytes(data[:4])
+                occurrences[str(data_type)] += 1
+                if file_key and data_type not in known_types:
                     # usm, acb and awb files are only common patterns I've found which are not encrypted, just the name is obfuscated
                     # XOR each byte with the key for the encrypted ones
                     for i in range(len(data)):
-                        data[i] ^= key[i % len(key)]
+                        data[i] ^= file_key[i % len(file_key)]
             except KeyError:
                 print("INFO: Using obfuscated name for", os.path.join(root, filename))
 
@@ -87,6 +94,10 @@ def copy_files(target_folder: str, cwd: str):
             os.makedirs(os.path.join(target_folder, *target_list[:-1]), exist_ok=True)
             with open(os.path.join(target_folder, *target_list), "wb") as f:
                 f.write(data)
+
+    for k, v in occurrences.items():
+        if v > 1 and k not in (str(s) for s in known_types):
+            print(f"MISSING KNOWN TYPE? {v} occurrences of {k} were spotted")
 
 
 if __name__ == "__main__":

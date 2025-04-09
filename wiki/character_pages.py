@@ -28,7 +28,13 @@ text = """{{{{Character Infobox
 ==Kiokus==
 	
 {{{{Kiokus Table|{name_en} Kiokus|hide_character=1}}}}
-"""  # TODO Release date = first kioku
+
+==Gallery==
+	
+===Videos===
+	
+{{Videos Gallery|{name_en} Videos}}
+"""
 
 series_map = {
     1: "Puella Magi Madoka Magica",

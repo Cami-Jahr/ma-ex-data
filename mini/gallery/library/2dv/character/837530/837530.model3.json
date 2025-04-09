@@ -1,0 +1,90 @@
+{
+  "Version": 3,
+  "Name": "837530",
+  "FileReferences": {
+    "Moc": "837530.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": "837530.physics3.json",
+    "Motions": {
+      "motion_000": [
+        {
+          "File": "motions/motion_000.motion3.json"
+        }
+      ],
+      "motion_001": [
+        {
+          "File": "motions/motion_001.motion3.json"
+        }
+      ],
+      "motion_002": [
+        {
+          "File": "motions/motion_002.motion3.json"
+        }
+      ],
+      "motion_003": [
+        {
+          "File": "motions/motion_003.motion3.json"
+        }
+      ],
+      "motion_100": [
+        {
+          "File": "motions/motion_100.motion3.json"
+        }
+      ],
+      "motion_200": [
+        {
+          "File": "motions/motion_200.motion3.json"
+        }
+      ],
+      "motion_300": [
+        {
+          "File": "motions/motion_300.motion3.json"
+        }
+      ],
+      "motion_400": [
+        {
+          "File": "motions/motion_400.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "mtn_ex_010",
+        "File": "expressions/mtn_ex_010.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_030",
+        "File": "expressions/mtn_ex_030.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_050",
+        "File": "expressions/mtn_ex_050.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_011",
+        "File": "expressions/mtn_ex_011.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

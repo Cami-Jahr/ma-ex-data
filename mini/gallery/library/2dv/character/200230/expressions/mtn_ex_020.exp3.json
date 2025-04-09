@@ -1,0 +1,127 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0.5,
+  "FadeOutTime": 0.5,
+  "Parameters": [
+    {
+      "Id": "ParamEyeLOpen",
+      "Value": 0.8,
+      "Blend": 2
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "Value": 0.8,
+      "Blend": 2
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeRForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeballForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyelash",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLY",
+      "Value": -0.9,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRY",
+      "Value": -0.9,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLX",
+      "Value": -0.9,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRX",
+      "Value": -0.9,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRForm2",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm2",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm3",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm02",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamTear",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamCheek",
+      "Value": -1.0,
+      "Blend": 1
+    }
+  ]
+}
