@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1894602438278863332
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8785507773248498313
+  },
+  "m_Name": "",
+  "sequenceContainer": {
+    "m_FileID": 0,
+    "m_PathID": 1638214308144807248
+  },
+  "logicContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7813334573807350513
+  },
+  "battleProgressManager": {
+    "m_FileID": 0,
+    "m_PathID": -4808169296341783869
+  }
+}

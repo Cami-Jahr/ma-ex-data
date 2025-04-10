@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 815442512311363512
+  },
+  "m_Name": "2200",
+  "collectionIllustTexture": {
+    "m_FileID": 0,
+    "m_PathID": 6423944910028204811
+  },
+  "collectionIllustSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2267315682135661136
+  },
+  "maskTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4097460202973323226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7518470282733641943
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 29553624311385323
+    }
+  ],
+  "editPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -6867756214332333106
+  }
+}

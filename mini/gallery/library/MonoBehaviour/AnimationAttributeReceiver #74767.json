@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2388712908815958184
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1928372465969091776
+  },
+  "m_Name": "",
+  "targetRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3793157760436108352
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1581891486861471063
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8317915764751217309
+    }
+  ],
+  "emissionColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  }
+}

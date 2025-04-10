@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5151489900510094095
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4020978972331630859
+  },
+  "m_Name": "",
+  "mainModel": {
+    "m_FileID": 0,
+    "m_PathID": -2798886647381871654
+  },
+  "weaponAModel": {
+    "m_FileID": 0,
+    "m_PathID": 6954370583898054136
+  },
+  "weaponBModel": {
+    "m_FileID": 0,
+    "m_PathID": -6254757869620923495
+  },
+  "effectObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

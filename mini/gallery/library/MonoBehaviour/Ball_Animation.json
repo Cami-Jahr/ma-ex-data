@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5833018095569713451
+  },
+  "m_Name": "Ball_Animation",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": -1774260557077164137
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2166029699299455733
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 736956181756602328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6024065774382578941
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7248066215754442339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4633526999433207417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1467741493087284420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8124884403241845790
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8617576600303942178
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5744858861093710782
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8345726313302642676
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4853814618245208378
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6523463768441210075
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2453350733566869004
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7360788458666402032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5934638377082117141
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

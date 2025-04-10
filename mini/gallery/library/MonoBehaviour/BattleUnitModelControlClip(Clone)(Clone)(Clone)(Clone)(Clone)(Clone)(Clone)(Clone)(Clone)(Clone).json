@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1892840912670344983
+  },
+  "m_Name": "BattleUnitModelControlClip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+  "behaviour": {
+    "isParticleActive": 0,
+    "isParticleControl": 0,
+    "emissionRateOverTime": 0.0,
+    "isMagicaCloth": 1,
+    "blendWeight": 1.0,
+    "isReset": 1,
+    "isActive": 0
+  }
+}

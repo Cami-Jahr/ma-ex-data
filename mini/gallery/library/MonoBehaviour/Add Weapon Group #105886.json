@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5833018095569713451
+  },
+  "m_Name": "Add Weapon Group",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 1459466370219778344
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8244152109291331659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 220984073110600257
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8046382841067956580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8224334123527820199
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2795060948950866925
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6754957047478464852
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4554676352285796699
+  },
+  "m_Name": "AutoDirectionVolume",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 795386230480298187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1325373233528384847
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7862794799336893849
+    }
+  ]
+}

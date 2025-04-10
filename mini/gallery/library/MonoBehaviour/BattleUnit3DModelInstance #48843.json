@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7628167463893993523
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3112852340399830847
+  },
+  "m_Name": "",
+  "renderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2283874677644708581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6277340262127245781
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -936153234913622958
+  },
+  "magicaCloths": []
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8148477870155728349
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1928372465969091776
+  },
+  "m_Name": "",
+  "targetRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1783779523458148901
+    }
+  ],
+  "emissionColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  }
+}

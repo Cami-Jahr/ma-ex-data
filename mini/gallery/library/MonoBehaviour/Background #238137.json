@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5833018095569713451
+  },
+  "m_Name": "Background",
+  "m_Version": 3,
+  "m_AnimClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Locked": 0,
+  "m_Muted": 0,
+  "m_CustomPlayableFullTypename": "",
+  "m_Curves": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Parent": {
+    "m_FileID": 0,
+    "m_PathID": 4658017702473306672
+  },
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3675357437345793010
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5679642252929488907
+    }
+  ],
+  "m_Clips": [],
+  "m_Markers": {
+    "m_Objects": []
+  }
+}

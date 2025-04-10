@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3443042693527868562
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1493019093246806593
+  },
+  "m_Name": "",
+  "defaultCamera": {
+    "m_FileID": 0,
+    "m_PathID": -5270729454865399090
+  },
+  "nonIpRiskAngleDefaultCamera": {
+    "m_FileID": 0,
+    "m_PathID": -4148837227951945313
+  },
+  "decideSpecialAttackCamera": {
+    "m_FileID": 0,
+    "m_PathID": 5007242170423283069
+  }
+}

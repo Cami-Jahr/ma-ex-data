@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7220873590671283262
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3112852340399830847
+  },
+  "m_Name": "",
+  "renderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6115456650037803125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5725681066323944666
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3106239636976862304
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7383195635620090501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4179382840727482551
+    }
+  ],
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -3131925295376137184
+  },
+  "magicaCloths": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -983005818925130913
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -856236118485617353
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4107178997195529830
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9209339115167544065
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2367861949878823520
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1022198763580118640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7822824268062351772
+    }
+  ]
+}

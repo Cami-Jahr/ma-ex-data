@@ -1,0 +1,666 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2822961112142749794
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 71731956385971934
+  },
+  "m_Name": "",
+  "_GraphName": "Quest Battle Progress",
+  "playOnStart": 1,
+  "updateSettings": {
+    "type": 0,
+    "timeType": 0,
+    "seconds": 0.1
+  },
+  "debugInfiniteLoopSettings": {
+    "maxLoopCount": 10000,
+    "enableLogging": 1,
+    "enableBreak": 0
+  },
+  "_OwnerBehaviour": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_ParameterContainer": {
+    "m_FileID": 0,
+    "m_PathID": 6931509999046192714
+  },
+  "_Calculators": [],
+  "_Comments": [],
+  "_Groups": [
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 2044040513,
+      "position": {
+        "x": 840.0,
+        "y": -468.0,
+        "width": 456.0,
+        "height": 552.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "行動選択 (ターン行動、必殺技)",
+      "_IsSettedName": 1,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "autoAlignment": 0,
+      "_SerializeVersion": {
+        "_Version": 1,
+        "_IsInitialized": 1,
+        "_IsVersioning": 1
+      },
+      "_SerializeVersionOld": 0,
+      "_IsInitializedOld": 1
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1304539646,
+      "position": {
+        "x": 1344.0,
+        "y": -252.0,
+        "width": 384.0,
+        "height": 336.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "行動スキル演出",
+      "_IsSettedName": 1,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "autoAlignment": 0,
+      "_SerializeVersion": {
+        "_Version": 1,
+        "_IsInitialized": 1,
+        "_IsVersioning": 1
+      },
+      "_SerializeVersionOld": 0,
+      "_IsInitializedOld": 1
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1400855637,
+      "position": {
+        "x": 1764.0,
+        "y": -252.0,
+        "width": 324.0,
+        "height": 216.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "敵追加",
+      "_IsSettedName": 1,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "autoAlignment": 0,
+      "_SerializeVersion": {
+        "_Version": 1,
+        "_IsInitialized": 1,
+        "_IsVersioning": 1
+      },
+      "_SerializeVersionOld": 0,
+      "_IsInitializedOld": 1
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 375271809,
+      "position": {
+        "x": 468.0,
+        "y": -252.0,
+        "width": 348.0,
+        "height": 240.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "その他行動の実行 (共通)",
+      "_IsSettedName": 1,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "autoAlignment": 0,
+      "_SerializeVersion": {
+        "_Version": 1,
+        "_IsInitialized": 1,
+        "_IsVersioning": 1
+      },
+      "_SerializeVersionOld": 0,
+      "_IsInitializedOld": 1
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 104785409,
+      "position": {
+        "x": 468.0,
+        "y": -492.0,
+        "width": 348.0,
+        "height": 216.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "ターン開始",
+      "_IsSettedName": 1,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "autoAlignment": 0,
+      "_SerializeVersion": {
+        "_Version": 1,
+        "_IsInitialized": 1,
+        "_IsVersioning": 1
+      },
+      "_SerializeVersionOld": 0,
+      "_IsInitializedOld": 1
+    }
+  ],
+  "_DataBranchRerouteNodes": {
+    "_Nodes": []
+  },
+  "_DataBranchies": [],
+  "_StartStateID": 1559595546,
+  "_States": [
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1559595546,
+      "position": {
+        "x": -840.0,
+        "y": -144.0,
+        "width": 300.0,
+        "height": 201.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Start",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -587426461586328691
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 534011718,
+      "position": {
+        "x": -24.0,
+        "y": -156.0,
+        "width": 300.0,
+        "height": 308.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Initialize",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8741267335714476296
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7367471188637795814
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1655911537,
+      "position": {
+        "x": 420.0,
+        "y": 252.0,
+        "width": 300.0,
+        "height": 153.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "StartDirectionSequence",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7611141336688253273
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4258882264036185896
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 630327709,
+      "position": {
+        "x": -432.0,
+        "y": -144.0,
+        "width": 300.0,
+        "height": 308.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Client Ready Request",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4857282123438476447
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1562879683206877298
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1752227528,
+      "position": {
+        "x": 1044.0,
+        "y": -744.0,
+        "width": 300.0,
+        "height": 308.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Restore",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4773660234918799078
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2643698604694850781
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 726643700,
+      "position": {
+        "x": 924.0,
+        "y": 192.0,
+        "width": 300.0,
+        "height": 138.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "TurnWaitState",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -551135206707930335
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 919275682,
+      "position": {
+        "x": 1764.0,
+        "y": 516.0,
+        "width": 300.0,
+        "height": 153.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Lose End Direction",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 5812506007783880097
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8216536599651199856
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1015591673,
+      "position": {
+        "x": 3000.0,
+        "y": 396.0,
+        "width": 300.0,
+        "height": 345.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "End",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2850466202332997556
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1111907664,
+      "position": {
+        "x": 1392.0,
+        "y": -192.0,
+        "width": 300.0,
+        "height": 308.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Execute Skill",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4115452673994053323
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6754994195620035219
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1208223655,
+      "position": {
+        "x": 924.0,
+        "y": -432.0,
+        "width": 300.0,
+        "height": 100.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "DecideTurnUnitSkill",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7386230697391852664
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 9100602127076355905
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1611042304211917183
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 182639827,
+      "position": {
+        "x": 924.0,
+        "y": -168.0,
+        "width": 300.0,
+        "height": 100.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "DecideUnitSpecialAttack",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8026629352041986273
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7347383525724011676
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5823036997852386649
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 278955818,
+      "position": {
+        "x": 1776.0,
+        "y": -216.0,
+        "width": 300.0,
+        "height": 153.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Add Enemy",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7521170391425430439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6760623095720207304
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 842412939,
+      "position": {
+        "x": 492.0,
+        "y": -204.0,
+        "width": 300.0,
+        "height": 100.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Execute Common Act",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7484659780436568685
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8089311332307537237
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1497171628,
+      "position": {
+        "x": 2220.0,
+        "y": -264.0,
+        "width": 300.0,
+        "height": 100.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "ExecuteUnitHpGaugeRevive",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3949307401259045759
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5417004646491484010
+        }
+      ],
+      "_BreakPoint": 0
+    },
+    {
+      "_NodeGraph": {
+        "m_FileID": 0,
+        "m_PathID": -2254999245917208131
+      },
+      "_NodeID": 1472524622,
+      "position": {
+        "x": 492.0,
+        "y": -456.0,
+        "width": 300.0,
+        "height": 100.0
+      },
+      "showComment": 0,
+      "nodeComment": "",
+      "_Name": "Execute Common Act",
+      "_IsSettedName": 1,
+      "_Resident": 0,
+      "_Behaviours": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 5030679207933113019
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4788131518909964309
+        }
+      ],
+      "_BreakPoint": 0
+    }
+  ],
+  "_StateLinkRerouteNodes": {
+    "_Nodes": [
+      {
+        "_NodeGraph": {
+          "m_FileID": 0,
+          "m_PathID": -2254999245917208131
+        },
+        "_NodeID": 1099561537,
+        "position": {
+          "x": 300.0,
+          "y": -708.0,
+          "width": 32.0,
+          "height": 32.0
+        },
+        "showComment": 0,
+        "nodeComment": "",
+        "_Name": "StateLinkRerouteNode",
+        "_IsSettedName": 1,
+        "link": {
+          "name": "",
+          "_StateID": 1752227528,
+          "transitionTiming": 2,
+          "_LineColorChanged": 1,
+          "_LineColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        "direction": {
+          "x": 0.29000738,
+          "y": -0.9570244
+        }
+      }
+    ]
+  }
+}

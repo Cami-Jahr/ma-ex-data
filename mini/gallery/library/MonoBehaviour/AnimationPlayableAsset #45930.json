@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -292883777034718514
+  },
+  "m_Name": "AnimationPlayableAsset",
+  "m_Clip": {
+    "m_FileID": 0,
+    "m_PathID": 9221664444675976866
+  },
+  "m_Position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "m_EulerAngles": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "m_UseTrackMatchFields": 1,
+  "m_MatchTargetFields": 63,
+  "m_RemoveStartOffset": 1,
+  "m_ApplyFootIK": 1,
+  "m_Loop": 0,
+  "m_Version": 1,
+  "m_Rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 1.0
+  }
+}

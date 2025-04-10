@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4858879141415990723
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3537734927686565686
+  },
+  "m_Name": "",
+  "modelAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -1948054397162381956
+  },
+  "pointContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2356991973708744106
+  },
+  "unit3DModelView": {
+    "m_FileID": 0,
+    "m_PathID": -6865411303638799653
+  },
+  "motionView": {
+    "m_FileID": 0,
+    "m_PathID": 6680557366639572830
+  },
+  "orientationView": {
+    "m_FileID": 0,
+    "m_PathID": -7689407071206178894
+  },
+  "colliders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1871646699432660390
+    }
+  ],
+  "eventTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 8090990148699562054
+  },
+  "radius": 1.0
+}

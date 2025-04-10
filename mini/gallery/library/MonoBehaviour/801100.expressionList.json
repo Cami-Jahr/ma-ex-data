@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1876712833501918601
+  },
+  "m_Name": "801100.expressionList",
+  "CubismExpressionObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3692660105492343678
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3295031900457393128
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -958503907536635075
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3357369366913972053
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3228251524111704411
+    }
+  ]
+}

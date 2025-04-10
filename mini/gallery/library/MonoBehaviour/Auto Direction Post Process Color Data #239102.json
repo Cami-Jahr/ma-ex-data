@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2368093371387513654
+  },
+  "m_Name": "Auto Direction Post Process Color Data",
+  "positiveColors": {
+    "screenColor": {
+      "r": 0.15,
+      "g": 0.12692308,
+      "b": 0.086538464,
+      "a": 0.0
+    },
+    "multiplyColor": {
+      "r": 0.5019608,
+      "g": 0.41411766,
+      "b": 0.3011765,
+      "a": 0.0
+    }
+  },
+  "negativeColors": {
+    "screenColor": {
+      "r": 0.072,
+      "g": 0.092999995,
+      "b": 0.12,
+      "a": 0.0
+    },
+    "multiplyColor": {
+      "r": 0.3984314,
+      "g": 0.35137257,
+      "b": 0.5019608,
+      "a": 0.0
+    }
+  }
+}

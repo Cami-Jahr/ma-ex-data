@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -336124661684179107
+  },
+  "m_Name": "810531.fadeMotionList",
+  "MotionInstanceIds": [
+    -73758,
+    -104944,
+    -168786,
+    -356100,
+    -540070,
+    -666042,
+    -889168,
+    -970480
+  ],
+  "CubismFadeMotionObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2808497472604423599
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4196027328497824787
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -794880949068784052
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7483578601576797924
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2640302777740661562
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 855873855047228461
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1814208322828757180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3961699269192285517
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1849566830412006186
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9173310845148347670
+  },
+  "m_Name": "",
+  "advIntroEffect": {
+    "m_FileID": 0,
+    "m_PathID": -5461606925202290380
+  },
+  "waitDuration": 1.5
+}

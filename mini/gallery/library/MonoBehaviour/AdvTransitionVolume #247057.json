@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4554676352285796699
+  },
+  "m_Name": "AdvTransitionVolume",
+  "components": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7304795546732663228
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5545271535176677690
+    }
+  ]
+}

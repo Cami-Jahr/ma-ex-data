@@ -1,0 +1,13 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7512821706797370241
+  },
+  "m_Name": "Battle Unit Wait Marker",
+  "m_Time": 0.75
+}

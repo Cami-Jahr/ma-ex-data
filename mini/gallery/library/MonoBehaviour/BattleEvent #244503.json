@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6135316648668893956
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -646650079640120408
+  },
+  "m_Name": "",
+  "pointId": 0,
+  "pointTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2044629485943954168
+  },
+  "pointCollider": {
+    "m_FileID": 0,
+    "m_PathID": -4196402743031350087
+  },
+  "encounterAlertDirector": {
+    "m_FileID": 0,
+    "m_PathID": 6004396738767056266
+  },
+  "encounterBlurDirector": {
+    "m_FileID": 0,
+    "m_PathID": 3057477940590221357
+  },
+  "normalEnemyObject": {
+    "m_FileID": 0,
+    "m_PathID": -6005158731515351804
+  },
+  "strongEnemyObject": {
+    "m_FileID": 0,
+    "m_PathID": 9076667959517945854
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7490204821229372979
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7820309613209271026
+  },
+  "m_Name": "",
+  "isOverrideFollow": 1,
+  "overrideFollowPoint": 3,
+  "isOverrideLookAt": 1,
+  "overrideLookAtPoint": 3
+}

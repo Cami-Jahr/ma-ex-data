@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3433101143715396003
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1404807668106576424
+  },
+  "m_Name": "",
+  "largeSizeEnemyTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4957361835128633616
+  },
+  "allyBackUpDistance": 0.0,
+  "isLargeSizeEnemy": 0,
+  "footholdPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

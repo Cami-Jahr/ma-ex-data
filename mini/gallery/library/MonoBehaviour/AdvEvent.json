@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2142729002994725298
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4099323333931368116
+  },
+  "m_Name": "",
+  "pointId": 0,
+  "pointTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6134088251304115688
+  },
+  "pointCollider": {
+    "m_FileID": 0,
+    "m_PathID": 4522785782367852589
+  },
+  "onAdvTransitionDirector": {
+    "m_FileID": 0,
+    "m_PathID": 2150222513310686173
+  }
+}
