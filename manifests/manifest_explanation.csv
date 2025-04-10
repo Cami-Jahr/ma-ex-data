@@ -91,7 +91,7 @@ passive ingame effects,getPassiveSkillMstList.json,
 ,getShopMstList.json,
 ,getShopSeriesMstList.json,
 ,getSkillDetailMstList.json,
-,getSkillLevelUpConditionMstList.json,
+Level up cost of Portraits and Specials,getSkillLevelUpConditionMstList.json,Done
 ,getSkillMstList.json,
 voiceline info,getSoundMstList.json,
 ,getStoryEventBonusRateMstList.json,
@@ -105,7 +105,7 @@ voiceline info,getSoundMstList.json,
 ,getStyleLimitBreakEffectMstList.json,
 ,getStyleLimitBreakMstList.json,
 "kioku information (actual, lvl1 and lvlmax for each?)",getStyleMstList.json,Done except some unused fields
-,getStyleParamUpCostMstList.json,
+"Cost of level for each char. Same for all chars except 3,4/5 star diff",getStyleParamUpCostMstList.json,Done
 ,getStyleParamUpEffectMstList.json,
 ,getStyleParamUpMstList.json,
 ,getStyleParamUpTreeMstList.json,

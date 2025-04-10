@@ -93,20 +93,28 @@
         "File": "expressions/mtn_ex_010.exp3.json"
       },
       {
+        "Name": "mtn_ex_063",
+        "File": "expressions/mtn_ex_063.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_040",
+        "File": "expressions/mtn_ex_040.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_050",
+        "File": "expressions/mtn_ex_050.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_060",
+        "File": "expressions/mtn_ex_060.exp3.json"
+      },
+      {
         "Name": "mtn_ex_001",
         "File": "expressions/mtn_ex_001.exp3.json"
       },
       {
         "Name": "mtn_ex_030",
         "File": "expressions/mtn_ex_030.exp3.json"
-      },
-      {
-        "Name": "mtn_ex_031",
-        "File": "expressions/mtn_ex_031.exp3.json"
-      },
-      {
-        "Name": "mtn_ex_040",
-        "File": "expressions/mtn_ex_040.exp3.json"
       },
       {
         "Name": "mtn_ex_041",
@@ -121,16 +129,8 @@
         "File": "expressions/mtn_ex_011.exp3.json"
       },
       {
-        "Name": "mtn_ex_063",
-        "File": "expressions/mtn_ex_063.exp3.json"
-      },
-      {
-        "Name": "mtn_ex_050",
-        "File": "expressions/mtn_ex_050.exp3.json"
-      },
-      {
-        "Name": "mtn_ex_060",
-        "File": "expressions/mtn_ex_060.exp3.json"
+        "Name": "mtn_ex_031",
+        "File": "expressions/mtn_ex_031.exp3.json"
       }
     ]
   },
@@ -139,8 +139,8 @@
       "Target": "Parameter",
       "Name": "EyeBlink",
       "Ids": [
-        "ParamEyeROpen",
-        "ParamEyeLOpen"
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
       ]
     },
     {

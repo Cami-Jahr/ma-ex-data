@@ -1,0 +1,57 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0.5,
+  "FadeOutTime": 0.5,
+  "Parameters": [
+    {
+      "Id": "ParamBrowLY",
+      "Value": -0.18,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRY",
+      "Value": -0.18,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "Value": 0.06,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "Value": 0.06,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "Value": -0.16,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "Value": -0.16,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "Value": 0.0,
+      "Blend": 1
+    }
+  ]
+}

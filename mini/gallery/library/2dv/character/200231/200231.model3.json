@@ -98,20 +98,12 @@
         "File": "expressions/mtn_ex_051.exp3.json"
       },
       {
-        "Name": "mtn_ex_020",
-        "File": "expressions/mtn_ex_020.exp3.json"
-      },
-      {
         "Name": "mtn_ex_014",
         "File": "expressions/mtn_ex_014.exp3.json"
       },
       {
         "Name": "mtn_ex_030",
         "File": "expressions/mtn_ex_030.exp3.json"
-      },
-      {
-        "Name": "mtn_ex_060",
-        "File": "expressions/mtn_ex_060.exp3.json"
       },
       {
         "Name": "mtn_ex_011",
@@ -128,6 +120,14 @@
       {
         "Name": "mtn_ex_063",
         "File": "expressions/mtn_ex_063.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_020",
+        "File": "expressions/mtn_ex_020.exp3.json"
+      },
+      {
+        "Name": "mtn_ex_060",
+        "File": "expressions/mtn_ex_060.exp3.json"
       }
     ]
   },

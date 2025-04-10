@@ -27,7 +27,7 @@ def create(dst_root, file_name_root, run_config, is_mini):
             print(f"ERROR: Creating {dst_file} failed because of {e}")
 
 
-def convert(src_dir, mini_dst_dir, full_dst_dir):
+def convert(src_dir, dst_dir, is_mini: bool = False):
     """
     Drag the video folder into VGMTOOLBOX before running this,
     haven't done the usm -> adx + m2v conversion in CLI yet
@@ -46,22 +46,17 @@ def convert(src_dir, mini_dst_dir, full_dst_dir):
                 run_config += ["-i", abs_path]
 
             create(
-                root.replace(src_dir, mini_dst_dir),
+                root.replace(src_dir, dst_dir),
                 file_name,
                 run_config.copy(),
-                True,
+                is_mini,
             )
-            create(
-                root.replace(src_dir, full_dst_dir),
-                file_name,
-                run_config.copy(),
-                False,
-            )
+
+
+def minimize(src_dir, dst_dir):
+    convert(src_dir, dst_dir, True)
 
 
 if __name__ == "__main__":
-    convert(
-        r"processed\gallery\kfOi\CriMovie",
-        r"mini\gallery\kfOi\CriMovie",
-        r"full\gallery\kfOi\CriMovie",
-    )
+    convert(r"processed\gallery\kfOi\CriMovie", r"full\gallery\kfOi\CriMovie")
+    minimize(r"processed\gallery\kfOi\CriMovie", r"mini\gallery\kfOi\CriMovie")

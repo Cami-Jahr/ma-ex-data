@@ -1,0 +1,67 @@
+{
+  "Version": 3,
+  "Name": "837830",
+  "FileReferences": {
+    "Moc": "837830.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "motion_000": [
+        {
+          "File": "motions/motion_000.motion3.json"
+        }
+      ],
+      "motion_001": [
+        {
+          "File": "motions/motion_001.motion3.json"
+        }
+      ],
+      "motion_100": [
+        {
+          "File": "motions/motion_100.motion3.json"
+        }
+      ],
+      "motion_200": [
+        {
+          "File": "motions/motion_200.motion3.json"
+        }
+      ],
+      "motion_300": [
+        {
+          "File": "motions/motion_300.motion3.json"
+        }
+      ],
+      "motion_400": [
+        {
+          "File": "motions/motion_400.motion3.json"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "mtn_ex_010",
+        "File": "expressions/mtn_ex_010.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpen"
+      ]
+    }
+  ]
+}
